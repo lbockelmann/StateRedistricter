@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc2579d-8717-46b5-8ade-322040891d99" name="Default Changelist" comment="Fixed the year select, reset map, and show party switch interop">
+      <change afterPath="$PROJECT_DIR$/js/Maps/cleanup_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/population_data/process_population_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/1997/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/1997/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/1999/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/1999/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/2001/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/2001/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/2003/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/2003/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/2005/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/2005/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/2007/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/2007/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/2009/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/2009/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/NM/2017/NM_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/NM/2017/NM_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/1997/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/1997/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/1999/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/1999/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/2001/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/2001/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/2003/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/2003/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/2005/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/2005/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/2007/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/2007/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/2009/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/2009/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/SC/2017/SC_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/SC/2017/SC_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/1997/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/1997/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/1999/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/1999/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/2001/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/2001/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/2003/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/2003/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/2005/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/2005/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/2007/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/2007/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/2009/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/2009/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Maps/UT/2017/UT_zoom7_0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/js/Maps/UT/2017/UT_zoom7_0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/district.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/district.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/precinct.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/precinct.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CSE308$edproc.coverage" NAME="edproc Coverage Results" MODIFIED="1544761414708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/election_data" />
+    <SUITE FILE_PATH="coverage/CSE308$cleanup_pop.coverage" NAME="cleanup_pop Coverage Results" MODIFIED="1544866926075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js/Maps" />
+    <SUITE FILE_PATH="coverage/CSE308$consolidate_district_files.coverage" NAME="consolidate_district_files Coverage Results" MODIFIED="1544821682488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js/Maps" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="district.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/district.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.es5.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="1243" column="4" selection-start-line="1243" selection-start-column="4" selection-end-line="1243" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process_population_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/population_data/process_population_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UT_zoom7_0.geojson" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/Maps/UT/2009/UT_zoom7_0.geojson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SCPopulation.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/population_data/SC/SCPopulation.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-9" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_container_districts_for_precincts.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Maps/find_container_districts_for_precincts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="precinct.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/precinct.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preprocess_neighbors_with_border.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Maps/preprocess_neighbors_with_border.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="80" selection-start-line="80" selection-end-line="86" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UT_counties.geojson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/population_data/UT/UT_counties.geojson">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="2" column="38636" selection-start-line="2" selection-start-column="38626" selection-end-line="2" selection-end-column="38636" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>precinctfil</find>
+      <find>histor</find>
+      <find />
+      <find>loadStateElec</find>
+      <find>addpre</find>
+      <find>mouseov</find>
+      <find>adddis</find>
+      <find>within</find>
+      <find>here</find>
+      <find>awol</find>
+      <find />
+      <find />
+      <find>stat</find>
+      <find>sidebar-info</find>
+      <find>rep-</find>
+      <find>resetma</find>
+      <find>render</find>
+      <find />
+      <find />
+      <find>show-part</find>
+      <find>this.sideb</find>
+      <find>start</find>
+      <find>startAl</find>
+      <find>unrender</find>
+      <find>unren</find>
+      <find>saveCurrent</find>
+      <find>color</find>
+      <find>head</find>
+      <find>======</find>
+      <find>population</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>State.get</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/measures/results/MetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/measures/results/CountryMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/measures/results/StateMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/measures/results/DistrictMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/measures/metrics/RepresentationDiscrepancy.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/ObjectiveFunction.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/EfficiencyGap.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/StateMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/Metric.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/MetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/DataNotFoundException.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/DistrictMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/StateMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/MetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/DistrictMetricResult.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/http/AllStatesResponse.java" />
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/js/sliders.js" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/http/StartAlgorithmServlet.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/util/IOUtil.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/test/GeoJsonReadTest.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/Party.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/CongressionalElection.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/SimulatedAnnealingNoLA.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/RegionGrowing.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/messaging/UserParameters.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/Precinct.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/EfficiencyGap.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/Move.java" />
+        <option value="$PROJECT_DIR$/election_data/edproc.py" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/State.java" />
+        <option value="$PROJECT_DIR$/js/Maps/consolidate_district_files.py" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/http/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/js/Maps/find_container_districts_for_precincts.py" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/District.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/ObjectiveFunction.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/properties.csv" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/util/Properties.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/Redistricter.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/RegionGrowingPopulation.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/RegionGrowingUniform.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/SimulatedAnnealingLA.java" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/demo_style.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/js/state.js" />
+        <option value="$PROJECT_DIR$/js/map.js" />
+        <option value="$PROJECT_DIR$/population_data/process_population_data.py" />
+        <option value="$PROJECT_DIR$/js/Maps/cleanup_pop.py" />
+        <option value="$PROJECT_DIR$/js/district.js" />
+        <option value="$PROJECT_DIR$/js/precinct.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="population_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="population_data" type="462c0819:PsiDirectoryNode" />
+              <item name="NM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="population_data" type="462c0819:PsiDirectoryNode" />
+              <item name="SC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="population_data" type="462c0819:PsiDirectoryNode" />
+              <item name="UT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="locationtech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="metrics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="messaging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redistr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE308" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Java 8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Java 8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Java 8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Java 8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE308" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Java 8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="precinct.js&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/js/precinct.js&#10;index.ht&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/index.html&#10;index.html&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/index.html&#10;getnextmove&#9;PSI&#9;JAVA://redistr.app.algorithm.Redistricter#getNextMove&#10;getnextmo&#9;PSI&#9;JAVA://TestAlgorithm#getNextMove&#10;indexs&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/WEB-INF/src/redistr/app/http/IndexServlet.java&#10;index.js&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/js/index.js&#10;index&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/WEB-INF/src/redistr/app/http/IndexServlet.java&#10;stepAlgorithm&#9;PSI&#9;JAVA://redistr.app.algorithm.Redistricter#stepAlgorithm&#10;getDistricts&#9;PSI&#9;JAVA://redistr.app.algorithm.Redistricter#getWorkingDistricts&#10;parseexception&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/WEB-INF/src/org/locationtech/jts/io/ParseException.java&#10;unpause&#9;null&#9;null&#10;turnstarton&#9;null&#9;null&#10;map.js&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/js/map.js&#10;index.&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/index.html&#10;objective&#9;FILE&#9;file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/CSE308/WEB-INF/src/redistr/app/algorithm/metrics/ObjectiveFunction.java&#10;displayMove&#9;null&#9;null&#10;.log&#9;PSI&#9;JAVA://redistr.util.RDLogger&#10;region&#9;PSI&#9;JAVA://redistr.app.algorithm.RegionGrowingUniform&#10;simula&#9;PSI&#9;JAVA://redistr.app.algorithm.SimulatedAnnealingLA" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../../local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="redistr.app.http.StartAlgorithmServlet" />
+      <recent name="redistr.util.Properties" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="redistr.util.MasterDatabaseLoad" />
+      <recent name="redistr.util.IOUtil" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308" />
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308\WEB-INF\lib" />
+      <recent name="$PROJECT_DIR$/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308\js\Maps\NM\2017" />
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308\js\Maps\SC\2017" />
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308\js\Maps\UT\2017" />
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308\js\Maps\NM" />
+      <recent name="C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\CSE308\js\Maps\SC" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="redistr.app.algorithm.metrics" />
+      <recent name="redistr.app.algorithm" />
+      <recent name="redistr.app" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="redistr.app.http" />
+      <recent name="redistr.app.algorithm" />
+      <recent name="redistr.app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.cleanup_pop">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cleanup_pop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSE308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/js/Maps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/js/Maps/cleanup_pop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="consolidate_district_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSE308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/js/Maps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/js/Maps/consolidate_district_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="edproc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSE308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/election_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/election_data/edproc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Python.edproc" />
+      <item itemvalue="Python.consolidate_district_files" />
+      <item itemvalue="Python.cleanup_pop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cleanup_pop" />
+        <item itemvalue="Python.consolidate_district_files" />
+        <item itemvalue="Python.edproc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1544030780315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540172384406</updated>
+      <workItem from="1540172389926" duration="473000" />
+      <workItem from="1540172951720" duration="45000" />
+      <workItem from="1540330839066" duration="1004000" />
+      <workItem from="1540356776606" duration="4898000" />
+      <workItem from="1540363683119" duration="1771000" />
+      <workItem from="1540396045742" duration="630000" />
+      <workItem from="1540396696204" duration="3262000" />
+      <workItem from="1540406743689" duration="3181000" />
+      <workItem from="1540413181345" duration="477000" />
+      <workItem from="1540417162300" duration="8996000" />
+      <workItem from="1540437240158" duration="344000" />
+      <workItem from="1540451858061" duration="613000" />
+      <workItem from="1540497358694" duration="8292000" />
+      <workItem from="1540584802771" duration="2984000" />
+      <workItem from="1540597190099" duration="4015000" />
+      <workItem from="1540613142866" duration="4959000" />
+      <workItem from="1540667898507" duration="6189000" />
+      <workItem from="1540679548084" duration="699000" />
+      <workItem from="1540709221358" duration="3154000" />
+      <workItem from="1540842274594" duration="936000" />
+      <workItem from="1541000026326" duration="1093000" />
+      <workItem from="1541021418530" duration="857000" />
+      <workItem from="1541028462107" duration="599000" />
+      <workItem from="1541035753051" duration="593000" />
+      <workItem from="1541129248484" duration="6000" />
+      <workItem from="1541155736566" duration="1147000" />
+      <workItem from="1541193564356" duration="2250000" />
+      <workItem from="1541210980374" duration="596000" />
+      <workItem from="1541551638779" duration="9717000" />
+      <workItem from="1541712698380" duration="2525000" />
+      <workItem from="1541725912170" duration="1811000" />
+      <workItem from="1542069163569" duration="2391000" />
+      <workItem from="1542226710722" duration="2505000" />
+      <workItem from="1542230487170" duration="11437000" />
+      <workItem from="1542371466044" duration="596000" />
+      <workItem from="1542416380086" duration="598000" />
+      <workItem from="1542457523948" duration="1242000" />
+      <workItem from="1542463365610" duration="1807000" />
+      <workItem from="1543347573450" duration="5534000" />
+      <workItem from="1543447212372" duration="1450000" />
+      <workItem from="1543465362655" duration="1005000" />
+      <workItem from="1543506683569" duration="12143000" />
+      <workItem from="1543560925156" duration="12956000" />
+      <workItem from="1543697713274" duration="2792000" />
+      <workItem from="1543700705004" duration="9000" />
+      <workItem from="1543788416652" duration="921000" />
+      <workItem from="1543959593378" duration="1134000" />
+      <workItem from="1543973497056" duration="1206000" />
+      <workItem from="1544354250154" duration="4755000" />
+      <workItem from="1544414121479" duration="696000" />
+      <workItem from="1544500265125" duration="4012000" />
+      <workItem from="1544582515475" duration="4435000" />
+      <workItem from="1544655040473" duration="11564000" />
+      <workItem from="1544686711687" duration="1781000" />
+      <workItem from="1544731018000" duration="6519000" />
+      <workItem from="1544752224177" duration="9939000" />
+      <workItem from="1544780063056" duration="1771000" />
+      <workItem from="1544813998307" duration="15942000" />
+      <workItem from="1544832584870" duration="18452000" />
+      <workItem from="1544853309586" duration="7031000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added database stuff for loading states">
+      <created>1543514920058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543514920058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added more algorithm stuff">
+      <created>1543518749547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543518749547</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed the year select, reset map, and show party switch interop">
+      <created>1543523486053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543523486053</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed the year select, reset map, and show party switch interop">
+      <created>1544781315169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544781315170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Attempting preprocessing and incremental load">
+      <created>1540373324259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540373324259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245728000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="18" sideWeight="0.50053364" side_tool="true" weight="0.32873562" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info auto_hide="true" x="1213" y="30" width="321" height="793" id="Structure" order="1" sideWeight="0.50057536" side_tool="true" type="WINDOWED" weight="0.21679688" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24958494" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39930955" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32911393" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.4994664" visible="true" weight="0.32831737" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3269494" />
+      <window_info active="true" content_ui="combo" x="1" y="30" width="333" height="793" id="Project" order="0" sideWeight="0.49942464" side_tool="true" visible="true" weight="0.21223958" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info anchor="bottom" id="JProfiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3269494" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3269494" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Added database stuff for loading states" />
+    <MESSAGE value="Added more algorithm stuff" />
+    <MESSAGE value="Fixed the year select, reset map, and show party switch interop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the year select, reset map, and show party switch interop" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>319</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2009/02.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2009/03.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2009/UT_2009_D.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="127405" selection-start-column="127405" selection-end-column="127405" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/SC/2009/SC_zoom7_0.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82104" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/consolidate_district_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="482" column="4" selection-start-line="482" selection-start-column="4" selection-end-line="482" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830">
+          <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/http/IndexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1613">
+          <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/org/locationtech/jts/geom/Envelope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="521" column="17" selection-start-line="521" selection-start-column="17" selection-end-line="521" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/org/locationtech/jts/geom/Geometry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="1845" column="30" selection-start-line="1845" selection-start-column="30" selection-end-line="1845" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/org/locationtech/jts/geom/GeometryCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="117" column="16" lean-forward="true" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/org/locationtech/jts/io/geojson/GeoJsonReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="86" column="24" lean-forward="true" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/metrics/ObjectiveFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="795" column="13" selection-start-line="795" selection-start-column="13" selection-end-line="795" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/District.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="126" column="14" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/test/TestAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="224" column="14" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/util/PropertyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/properties.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/Redistricter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/RegionGrowingPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/RegionGrowingUniform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/SimulatedAnnealingLA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/redistr/app/algorithm/SimulatedAnnealingNoLA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/demo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="109" column="2" selection-start-line="109" selection-start-column="2" selection-end-line="109" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sliders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="132" column="35" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="441" column="1" selection-start-line="441" selection-start-column="1" selection-end-line="441" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/population_data/UT/UT_pop.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/population_data/UT/UT_counties.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="2" column="38636" selection-start-line="2" selection-start-column="38626" selection-end-line="2" selection-end-column="38636" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/preprocess_neighbors_with_border.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="80" selection-start-line="80" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/population_data/UT/UTPopulation.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/1999/UT_zoom7_0_pop.geojson">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/population_data/SC/SCPopulation.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2003/UT_zoom7_0_pop.geojson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/find_container_districts_for_precincts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2017/UT_zoom7_0_pop.geojson">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="42">
+          <caret column="307" selection-start-column="307" selection-end-column="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2005/UT_zoom7_0_pop.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret column="4265" selection-start-column="4265" selection-end-column="4265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2009/UT_zoom7_0_pop.geojson">
+      <provider editor-type-id="LargeFileEditor" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2017/UT_zoom7_0.geojson">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="252">
+          <caret column="1592" lean-forward="true" selection-start-column="1592" selection-end-column="1592" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/thomaspovinelli/Anaconda3/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="277" column="4" selection-start-line="277" selection-start-column="4" selection-end-line="277" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/cleanup_pop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/population_data/process_population_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1243" column="4" selection-start-line="1243" selection-start-column="4" selection-end-line="1243" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/district.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/precinct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Maps/UT/2009/UT_zoom7_0.geojson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>3.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Java 8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CSE308</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

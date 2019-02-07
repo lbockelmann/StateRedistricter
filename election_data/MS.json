@@ -1,0 +1,1443 @@
+{
+  "2009": {
+    "4": {
+      "candidates": [
+        [
+          "Gene Taylor",
+          216542,
+          "democrat"
+        ],
+        [
+          "John McCay III",
+          73977,
+          "republican"
+        ]
+      ],
+      "totalVotes": 290519,
+      "winner": [
+        "Gene Taylor",
+        216542,
+        "democrat"
+      ],
+      "totalRepVotes": 73977,
+      "totalDemVotes": 216542
+    },
+    "1": {
+      "candidates": [
+        [
+          "Travis Childers",
+          185959,
+          "democrat"
+        ],
+        [
+          "Wally Pang",
+          3736,
+          "independent"
+        ],
+        [
+          "John M. Wages Jr.",
+          1876,
+          "green"
+        ],
+        [
+          "Greg Davis",
+          149818,
+          "republican"
+        ]
+      ],
+      "totalVotes": 341389,
+      "winner": [
+        "Travis Childers",
+        185959,
+        "democrat"
+      ],
+      "totalRepVotes": 149818,
+      "totalDemVotes": 185959
+    },
+    "2": {
+      "candidates": [
+        [
+          "Richard Cook",
+          90364,
+          "republican"
+        ],
+        [
+          "Bennie G. Thompson",
+          201606,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 291970,
+      "winner": [
+        "Bennie G. Thompson",
+        201606,
+        "democrat"
+      ],
+      "totalRepVotes": 90364,
+      "totalDemVotes": 201606
+    },
+    "3": {
+      "candidates": [
+        [
+          "Joel Gill",
+          127698,
+          "democrat"
+        ],
+        [
+          "Gregg Harper",
+          213171,
+          "republican"
+        ]
+      ],
+      "totalVotes": 340869,
+      "winner": [
+        "Gregg Harper",
+        213171,
+        "republican"
+      ],
+      "totalRepVotes": 213171,
+      "totalDemVotes": 127698
+    }
+  },
+  "1997": {
+    "5": {
+      "candidates": [
+        [
+          "Philip Mayeux",
+          172,
+          "natural law"
+        ],
+        [
+          "Gene Taylor",
+          103415,
+          "democrat"
+        ],
+        [
+          "Dan E. Rogers",
+          483,
+          "libertarian"
+        ],
+        [
+          "Jordan N. Gollub",
+          429,
+          "independence"
+        ],
+        [
+          "Dennis Dollar",
+          71114,
+          "republican"
+        ],
+        [
+          "Le'Roy C. Carney",
+          1832,
+          "independent"
+        ]
+      ],
+      "totalVotes": 177445,
+      "winner": [
+        "Gene Taylor",
+        103415,
+        "democrat"
+      ],
+      "totalRepVotes": 71114,
+      "totalDemVotes": 103415
+    },
+    "2": {
+      "candidates": [
+        [
+          "Danny Covington",
+          65263,
+          "republican"
+        ],
+        [
+          "William G. (Will) Chipman",
+          4167,
+          "libertarian"
+        ],
+        [
+          "Bennie G. Thompson",
+          102503,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 171933,
+      "winner": [
+        "Bennie G. Thompson",
+        102503,
+        "democrat"
+      ],
+      "totalRepVotes": 65263,
+      "totalDemVotes": 102503
+    },
+    "4": {
+      "candidates": [
+        [
+          "Kenneth W. Welch",
+          2262,
+          "independence"
+        ],
+        [
+          "Eileen Mahoney",
+          1164,
+          "natural law"
+        ],
+        [
+          "Mike Parker",
+          112444,
+          "republican"
+        ],
+        [
+          "Kevin Antoine",
+          66836,
+          "democrat"
+        ],
+        [
+          "William (Bill) Fausek",
+          957,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 183663,
+      "winner": [
+        "Mike Parker",
+        112444,
+        "republican"
+      ],
+      "totalRepVotes": 112444,
+      "totalDemVotes": 66836
+    },
+    "1": {
+      "candidates": [
+        [
+          "Roger F. Wicker",
+          123724,
+          "republican"
+        ],
+        [
+          "Henry Boyd Jr.",
+          55998,
+          "democrat"
+        ],
+        [
+          "John A. (Andy) Rouse",
+          2281,
+          "libertarian"
+        ],
+        [
+          "Luke Lundemo",
+          963,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 182966,
+      "winner": [
+        "Roger F. Wicker",
+        123724,
+        "republican"
+      ],
+      "totalRepVotes": 123724,
+      "totalDemVotes": 55998
+    },
+    "3": {
+      "candidates": [
+        [
+          "John Arthur Eaves Jr.",
+          68658,
+          "democrat"
+        ],
+        [
+          "Charles W. \"Chip\" Pickering Jr.",
+          115443,
+          "republican"
+        ],
+        [
+          "Charles T. Scarborough Jr.",
+          1541,
+          "libertarian"
+        ],
+        [
+          "Lamen Clemons",
+          2502,
+          "independent"
+        ]
+      ],
+      "totalVotes": 188144,
+      "winner": [
+        "Charles W. \"Chip\" Pickering Jr.",
+        115443,
+        "republican"
+      ],
+      "totalRepVotes": 115443,
+      "totalDemVotes": 68658
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Bennie G. Thompson",
+          214978,
+          "none"
+        ],
+        [
+          "Bill Marcy",
+          99160,
+          "none"
+        ],
+        [
+          "Cobby Mondale Williams",
+          4605,
+          "none"
+        ],
+        [
+          "Lajena Williams",
+          1501,
+          "none"
+        ]
+      ],
+      "totalVotes": 320244,
+      "winner": [
+        "Bennie G. Thompson",
+        214978,
+        "none"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Gregg Harper",
+          234717,
+          "none"
+        ],
+        [
+          "John ??Luke?? Pannell",
+          58605,
+          "none"
+        ]
+      ],
+      "totalVotes": 293322,
+      "winner": [
+        "Gregg Harper",
+        234717,
+        "none"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ron Williams",
+          17982,
+          "none"
+        ],
+        [
+          "Matt Moore",
+          82344,
+          "none"
+        ],
+        [
+          "Robert W. Claunch",
+          2108,
+          "none"
+        ],
+        [
+          "Steven M. Palazzo",
+          182998,
+          "none"
+        ]
+      ],
+      "totalVotes": 285432,
+      "winner": [
+        "Steven M. Palazzo",
+        182998,
+        "none"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Danny Bedwell",
+          3584,
+          "none"
+        ],
+        [
+          "Alan Nunnelee",
+          186760,
+          "none"
+        ],
+        [
+          "Jim R. Bourland",
+          2390,
+          "none"
+        ],
+        [
+          "Brad Morris",
+          114076,
+          "none"
+        ],
+        [
+          "Chris Potts",
+          2367,
+          "none"
+        ]
+      ],
+      "totalVotes": 309177,
+      "winner": [
+        "Alan Nunnelee",
+        186760,
+        "none"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 0
+    }
+  },
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "Clinton B. LeSueur",
+          69711,
+          "republican"
+        ],
+        [
+          "Lee Dilworth",
+          3426,
+          "reform"
+        ],
+        [
+          "Bennie G. Thompson",
+          89913,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 163050,
+      "winner": [
+        "Bennie G. Thompson",
+        89913,
+        "democrat"
+      ],
+      "totalRepVotes": 69711,
+      "totalDemVotes": 89913
+    },
+    "3": {
+      "candidates": [
+        [
+          "Harvey L. Darden",
+          949,
+          "independent"
+        ],
+        [
+          "Brad A. McDonald",
+          760,
+          "libertarian"
+        ],
+        [
+          "Carroll Grantham",
+          498,
+          "reform"
+        ],
+        [
+          "Charles W. \"Chip\" Pickering",
+          139329,
+          "republican"
+        ],
+        [
+          "Ronnie Shows",
+          76184,
+          "democrat"
+        ],
+        [
+          "Jim Giles",
+          1431,
+          "independent"
+        ]
+      ],
+      "totalVotes": 219151,
+      "winner": [
+        "Charles W. \"Chip\" Pickering",
+        139329,
+        "republican"
+      ],
+      "totalRepVotes": 139329,
+      "totalDemVotes": 76184
+    },
+    "1": {
+      "candidates": [
+        [
+          "Roger F. Wicker",
+          95404,
+          "republican"
+        ],
+        [
+          "Brenda Blackburn",
+          3477,
+          "reform"
+        ],
+        [
+          "Rex N. Weathers",
+          32318,
+          "democrat"
+        ],
+        [
+          "Harold M. Taylor",
+          2368,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 133567,
+      "winner": [
+        "Roger F. Wicker",
+        95404,
+        "republican"
+      ],
+      "totalRepVotes": 95404,
+      "totalDemVotes": 32318
+    },
+    "4": {
+      "candidates": [
+        [
+          "Karl Cleveland Mertz",
+          34373,
+          "republican"
+        ],
+        [
+          "Wayne L. Parker",
+          3311,
+          "libertarian"
+        ],
+        [
+          "Thomas Huffmaster",
+          2442,
+          "reform"
+        ],
+        [
+          "Gene Taylor",
+          121742,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 161868,
+      "winner": [
+        "Gene Taylor",
+        121742,
+        "democrat"
+      ],
+      "totalRepVotes": 34373,
+      "totalDemVotes": 121742
+    }
+  },
+  "2011": {
+    "4": {
+      "candidates": [
+        [
+          "Kenneth \"Tim\" Hampton",
+          1741,
+          "libertarian"
+        ],
+        [
+          "Steven Palazzo",
+          105613,
+          "republican"
+        ],
+        [
+          "Gene Taylor",
+          95243,
+          "democrat"
+        ],
+        [
+          "Anna Jewel Revies",
+          787,
+          "reform"
+        ]
+      ],
+      "totalVotes": 203384,
+      "winner": [
+        "Steven Palazzo",
+        105613,
+        "republican"
+      ],
+      "totalRepVotes": 105613,
+      "totalDemVotes": 95243
+    },
+    "1": {
+      "candidates": [
+        [
+          "Rick \"Rico\" Hoskins",
+          478,
+          "independent"
+        ],
+        [
+          "Alan Nunelee",
+          121074,
+          "republican"
+        ],
+        [
+          "Les Green",
+          2020,
+          "independent"
+        ],
+        [
+          "Gail Giaramita",
+          1235,
+          "constitution"
+        ],
+        [
+          "Wally Pang",
+          2180,
+          "independent"
+        ],
+        [
+          "Barbara Dale Washer",
+          389,
+          "reform"
+        ],
+        [
+          "Harold M. Taylor",
+          447,
+          "libertarian"
+        ],
+        [
+          "Travis W. Childers",
+          89388,
+          "democrat"
+        ],
+        [
+          "A. G. Baddley",
+          1882,
+          "independent"
+        ]
+      ],
+      "totalVotes": 219093,
+      "winner": [
+        "Alan Nunelee",
+        121074,
+        "republican"
+      ],
+      "totalRepVotes": 121074,
+      "totalDemVotes": 89388
+    },
+    "3": {
+      "candidates": [
+        [
+          "Tracella Lou O'Hara Hill",
+          1586,
+          "reform"
+        ],
+        [
+          "Gregg Harper",
+          132393,
+          "republican"
+        ],
+        [
+          "Jeol L. Gill",
+          60737,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 194716,
+      "winner": [
+        "Gregg Harper",
+        132393,
+        "republican"
+      ],
+      "totalRepVotes": 132393,
+      "totalDemVotes": 60737
+    },
+    "2": {
+      "candidates": [
+        [
+          "Bennie G. Thompson",
+          105327,
+          "democrat"
+        ],
+        [
+          "Ashley Norwood",
+          1530,
+          "reform"
+        ],
+        [
+          "Bill Marcy",
+          64499,
+          "republican"
+        ]
+      ],
+      "totalVotes": 171356,
+      "winner": [
+        "Bennie G. Thompson",
+        105327,
+        "democrat"
+      ],
+      "totalRepVotes": 64499,
+      "totalDemVotes": 105327
+    }
+  },
+  "2001": {
+    "1": {
+      "candidates": [
+        [
+          "Chris Lawrence",
+          3310,
+          "libertarian"
+        ],
+        [
+          "Joe T. (Joey) Grist, Jr.",
+          59763,
+          "democrat"
+        ],
+        [
+          "Roger F. Wicker",
+          145967,
+          "republican"
+        ]
+      ],
+      "totalVotes": 209040,
+      "winner": [
+        "Roger F. Wicker",
+        145967,
+        "republican"
+      ],
+      "totalRepVotes": 145967,
+      "totalDemVotes": 59763
+    },
+    "3": {
+      "candidates": [
+        [
+          "Charles W. \u00c2\u0091\u00c2\u0091Chip\u00c2\u0092\u00c2\u0092 Pickering",
+          153899,
+          "republican"
+        ],
+        [
+          "Jonathan Golden",
+          2313,
+          "libertarian"
+        ],
+        [
+          "William Clay Thrash",
+          54151,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 210363,
+      "winner": [
+        "Charles W. \u00c2\u0091\u00c2\u0091Chip\u00c2\u0092\u00c2\u0092 Pickering",
+        153899,
+        "republican"
+      ],
+      "totalRepVotes": 153899,
+      "totalDemVotes": 54151
+    },
+    "5": {
+      "candidates": [
+        [
+          "Gene Taylor",
+          153264,
+          "democrat"
+        ],
+        [
+          "Randy McDonnell",
+          35309,
+          "republican"
+        ],
+        [
+          "Wayne L. Parker",
+          3002,
+          "libertarian"
+        ],
+        [
+          "Katie Perrone",
+          2820,
+          "reform"
+        ]
+      ],
+      "totalVotes": 194395,
+      "winner": [
+        "Gene Taylor",
+        153264,
+        "democrat"
+      ],
+      "totalRepVotes": 35309,
+      "totalDemVotes": 153264
+    },
+    "4": {
+      "candidates": [
+        [
+          "Dunn Lampton",
+          79218,
+          "republican"
+        ],
+        [
+          "Ernie John Hopkins",
+          2580,
+          "libertarian"
+        ],
+        [
+          "Betty Pharr",
+          1504,
+          "reform"
+        ],
+        [
+          "Ronnie Shows",
+          115732,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 199034,
+      "winner": [
+        "Ronnie Shows",
+        115732,
+        "democrat"
+      ],
+      "totalRepVotes": 79218,
+      "totalDemVotes": 115732
+    },
+    "2": {
+      "candidates": [
+        [
+          "Bennie G. Thompson",
+          112777,
+          "democrat"
+        ],
+        [
+          "William G. Chipman",
+          4305,
+          "libertarian"
+        ],
+        [
+          "Hardy Caraway",
+          54090,
+          "republican"
+        ],
+        [
+          "Lee F. Dilworth",
+          2135,
+          "reform"
+        ]
+      ],
+      "totalVotes": 173307,
+      "winner": [
+        "Bennie G. Thompson",
+        112777,
+        "democrat"
+      ],
+      "totalRepVotes": 54090,
+      "totalDemVotes": 112777
+    }
+  },
+  "1999": {
+    "5": {
+      "candidates": [
+        [
+          "Gene Taylor",
+          78661,
+          "democrat"
+        ],
+        [
+          "Robert Claunch",
+          1065,
+          "reform"
+        ],
+        [
+          "Philip Mayeux",
+          498,
+          "natural law"
+        ],
+        [
+          "Ray Coffey",
+          1530,
+          "libertarian"
+        ],
+        [
+          "Randy McDonnell",
+          19341,
+          "republican"
+        ]
+      ],
+      "totalVotes": 101095,
+      "winner": [
+        "Gene Taylor",
+        78661,
+        "democrat"
+      ],
+      "totalRepVotes": 19341,
+      "totalDemVotes": 78661
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ronnie Shows",
+          73252,
+          "democrat"
+        ],
+        [
+          "Bill Fausek",
+          898,
+          "libertarian"
+        ],
+        [
+          "Delbert Hosemann",
+          61551,
+          "republican"
+        ],
+        [
+          "Vince Thornton",
+          801,
+          "taxpayers"
+        ],
+        [
+          "Kenneth Welch",
+          697,
+          "reform"
+        ]
+      ],
+      "totalVotes": 137199,
+      "winner": [
+        "Ronnie Shows",
+        73252,
+        "democrat"
+      ],
+      "totalRepVotes": 61551,
+      "totalDemVotes": 73252
+    },
+    "3": {
+      "candidates": [
+        [
+          "Charles T. Scarborough",
+          15465,
+          "libertarian"
+        ],
+        [
+          "Charles W. \"Chip\" Pickering",
+          84785,
+          "republican"
+        ]
+      ],
+      "totalVotes": 100250,
+      "winner": [
+        "Charles W. \"Chip\" Pickering",
+        84785,
+        "republican"
+      ],
+      "totalRepVotes": 84785,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Will Chipman",
+          32533,
+          "libertarian"
+        ],
+        [
+          "Bennie G. Thompson",
+          80284,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 112817,
+      "winner": [
+        "Bennie G. Thompson",
+        80284,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 80284
+    },
+    "1": {
+      "candidates": [
+        [
+          "John \"Andy\" Rouse",
+          2157,
+          "libertarian"
+        ],
+        [
+          "Roger F. Wicker",
+          66738,
+          "republican"
+        ],
+        [
+          "Rex Weathers",
+          30438,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 99333,
+      "winner": [
+        "Roger F. Wicker",
+        66738,
+        "republican"
+      ],
+      "totalRepVotes": 66738,
+      "totalDemVotes": 30438
+    }
+  },
+  "2005": {
+    "3": {
+      "candidates": [
+        [
+          "Charles W. \"Chip\" Pickering",
+          234874,
+          "republican"
+        ],
+        [
+          "Jim Giles",
+          40426,
+          "independent"
+        ],
+        [
+          "Lamonica L. Magee",
+          18068,
+          "reform"
+        ]
+      ],
+      "totalVotes": 293368,
+      "winner": [
+        "Charles W. \"Chip\" Pickering",
+        234874,
+        "republican"
+      ],
+      "totalRepVotes": 234874,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Roger F. Wicker",
+          219328,
+          "republican"
+        ],
+        [
+          "Barbara Dale Washer",
+          58256,
+          "reform"
+        ]
+      ],
+      "totalVotes": 277584,
+      "winner": [
+        "Roger F. Wicker",
+        219328,
+        "republican"
+      ],
+      "totalRepVotes": 219328,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Gene Taylor",
+          179979,
+          "democrat"
+        ],
+        [
+          "Michael Lott",
+          96740,
+          "republican"
+        ],
+        [
+          "Tracella Lou O'Hara Hill",
+          3663,
+          "reform"
+        ]
+      ],
+      "totalVotes": 280382,
+      "winner": [
+        "Gene Taylor",
+        179979,
+        "democrat"
+      ],
+      "totalRepVotes": 96740,
+      "totalDemVotes": 179979
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shawn O'Hara",
+          2596,
+          "reform"
+        ],
+        [
+          "Clinton B. LeSueur",
+          107647,
+          "republican"
+        ],
+        [
+          "Bennie G. Thompson",
+          154626,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 264869,
+      "winner": [
+        "Bennie G. Thompson",
+        154626,
+        "democrat"
+      ],
+      "totalRepVotes": 107647,
+      "totalDemVotes": 154626
+    }
+  },
+  "2015": {
+    "3": {
+      "candidates": [
+        [
+          "Barbara Dale Washer",
+          1541,
+          "reform"
+        ],
+        [
+          "Gregg Harper",
+          117771,
+          "republican"
+        ],
+        [
+          "Douglas MacArthur \"Doug\" Magee",
+          47744,
+          "democrat"
+        ],
+        [
+          "Roger Gerrard",
+          3890,
+          "independent"
+        ]
+      ],
+      "totalVotes": 170946,
+      "winner": [
+        "Gregg Harper",
+        117771,
+        "republican"
+      ],
+      "totalRepVotes": 117771,
+      "totalDemVotes": 47744
+    },
+    "4": {
+      "candidates": [
+        [
+          "Matt Moore",
+          37869,
+          "democrat"
+        ],
+        [
+          "Steven M. Palazzo",
+          108776,
+          "republican"
+        ],
+        [
+          "Cindy Burleson",
+          3684,
+          "independent"
+        ],
+        [
+          "Ed Reich",
+          857,
+          "independent"
+        ],
+        [
+          "Eli \"Sarge\" Jackson",
+          917,
+          "reform"
+        ],
+        [
+          "Joey Robinson",
+          3473,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 155576,
+      "winner": [
+        "Steven M. Palazzo",
+        108776,
+        "republican"
+      ],
+      "totalRepVotes": 108776,
+      "totalDemVotes": 37869
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shelley Shoemake",
+          11493,
+          "reform"
+        ],
+        [
+          "Bennie G. Thompson",
+          100688,
+          "democrat"
+        ],
+        [
+          "Troy Ray",
+          36465,
+          "independent"
+        ]
+      ],
+      "totalVotes": 148646,
+      "winner": [
+        "Bennie G. Thompson",
+        100688,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 100688
+    },
+    "1": {
+      "candidates": [
+        [
+          "Alan Nunnelee",
+          102622,
+          "republican"
+        ],
+        [
+          "Lajena Walley",
+          946,
+          "reform"
+        ],
+        [
+          "Danny Bedwell",
+          3830,
+          "libertarian"
+        ],
+        [
+          "Ron E. Dickey",
+          43713,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 151111,
+      "winner": [
+        "Alan Nunnelee",
+        102622,
+        "republican"
+      ],
+      "totalRepVotes": 102622,
+      "totalDemVotes": 43713
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "John Bouie II",
+          83542,
+          "republican"
+        ],
+        [
+          "Troy Ray",
+          6918,
+          "independent"
+        ],
+        [
+          "Johnny McLeod",
+          3823,
+          "reform"
+        ],
+        [
+          "Bennie G. Thompson",
+          192343,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 286626,
+      "winner": [
+        "Bennie G. Thompson",
+        192343,
+        "democrat"
+      ],
+      "totalRepVotes": 83542,
+      "totalDemVotes": 192343
+    },
+    "1": {
+      "candidates": [
+        [
+          "Chase Wilson",
+          6181,
+          "libertarian"
+        ],
+        [
+          "Cathy L. Toole",
+          3840,
+          "reform"
+        ],
+        [
+          "Jacob Owens",
+          83947,
+          "democrat"
+        ],
+        [
+          "Trent Kelly",
+          206455,
+          "republican"
+        ]
+      ],
+      "totalVotes": 300423,
+      "winner": [
+        "Trent Kelly",
+        206455,
+        "republican"
+      ],
+      "totalRepVotes": 206455,
+      "totalDemVotes": 83947
+    },
+    "3": {
+      "candidates": [
+        [
+          "Gregg Harper",
+          209490,
+          "republican"
+        ],
+        [
+          "Roger I. Gerrard",
+          8696,
+          "veterans party of america"
+        ],
+        [
+          "Lajena Sheets",
+          2158,
+          "reform"
+        ],
+        [
+          "Dennis Quinn",
+          96101,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 316445,
+      "winner": [
+        "Gregg Harper",
+        209490,
+        "republican"
+      ],
+      "totalRepVotes": 209490,
+      "totalDemVotes": 96101
+    },
+    "4": {
+      "candidates": [
+        [
+          "Mark Gladney",
+          77505,
+          "democrat"
+        ],
+        [
+          "Shawn O'Hara",
+          5264,
+          "reform"
+        ],
+        [
+          "Richard Blake McCluskey",
+          14687,
+          "libertarian"
+        ],
+        [
+          "Steven M. Palazzo",
+          181323,
+          "republican"
+        ]
+      ],
+      "totalVotes": 278779,
+      "winner": [
+        "Steven M. Palazzo",
+        181323,
+        "republican"
+      ],
+      "totalRepVotes": 181323,
+      "totalDemVotes": 77505
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "James K. (Ken) Hurt",
+          49174,
+          "democrat"
+        ],
+        [
+          "Roger F. Wicker",
+          95098,
+          "republican"
+        ]
+      ],
+      "totalVotes": 144272,
+      "winner": [
+        "Roger F. Wicker",
+        95098,
+        "republican"
+      ],
+      "totalRepVotes": 95098,
+      "totalDemVotes": 49174
+    },
+    "2": {
+      "candidates": [
+        [
+          "Yvonne R. Brown",
+          55672,
+          "republican"
+        ],
+        [
+          "Bennie G. Thompson",
+          100160,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 155832,
+      "winner": [
+        "Bennie G. Thompson",
+        100160,
+        "democrat"
+      ],
+      "totalRepVotes": 55672,
+      "totalDemVotes": 100160
+    },
+    "4": {
+      "candidates": [
+        [
+          "Randy McDonnell",
+          28117,
+          "republican"
+        ],
+        [
+          "Gene Taylor",
+          110996,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 139113,
+      "winner": [
+        "Gene Taylor",
+        110996,
+        "democrat"
+      ],
+      "totalRepVotes": 28117,
+      "totalDemVotes": 110996
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jim Giles",
+          25999,
+          "independent"
+        ],
+        [
+          "Charles W. \u00c2\u0091\u00c2\u0091Chip\u00c2\u0092\u00c2\u0092 Pickering",
+          125421,
+          "republican"
+        ],
+        [
+          "Lamonica L. Magee",
+          10060,
+          "reform"
+        ]
+      ],
+      "totalVotes": 161480,
+      "winner": [
+        "Charles W. \u00c2\u0091\u00c2\u0091Chip\u00c2\u0092\u00c2\u0092 Pickering",
+        125421,
+        "republican"
+      ],
+      "totalRepVotes": 125421,
+      "totalDemVotes": 0
+    }
+  }
+}

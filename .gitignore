@@ -1,0 +1,9 @@
+build/
+out/
+node_modules/
+/js/Maps/UT/UT.geojson
+js/Maps/allCongressionalDistrictData
+js/Maps/SC/Statewide*
+js/Maps/NM/GeoJSON
+js/Maps/NM/Shapefile
+venv/

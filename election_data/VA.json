@@ -1,0 +1,3581 @@
+{
+  "2005": {
+    "3": {
+      "candidates": [
+        [
+          "Robert C. Scott",
+          159373,
+          "democrat"
+        ],
+        [
+          "Winsome E. Sears",
+          70194,
+          "republican"
+        ],
+        [
+          "<write in>",
+          325,
+          "none"
+        ]
+      ],
+      "totalVotes": 229892,
+      "winner": [
+        "Robert C. Scott",
+        159373,
+        "democrat"
+      ],
+      "totalRepVotes": 70194,
+      "totalDemVotes": 159373
+    },
+    "10": {
+      "candidates": [
+        [
+          "Frank R. Wolf",
+          205982,
+          "republican"
+        ],
+        [
+          "<write in>",
+          375,
+          "none"
+        ],
+        [
+          "James R. Socas",
+          116654,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 323011,
+      "winner": [
+        "Frank R. Wolf",
+        205982,
+        "republican"
+      ],
+      "totalRepVotes": 205982,
+      "totalDemVotes": 116654
+    },
+    "7": {
+      "candidates": [
+        [
+          "W. Brad Blanton",
+          74325,
+          "independent"
+        ],
+        [
+          "Eric Cantor",
+          230765,
+          "republican"
+        ],
+        [
+          "<write in>",
+          568,
+          "none"
+        ]
+      ],
+      "totalVotes": 305658,
+      "winner": [
+        "Eric Cantor",
+        230765,
+        "republican"
+      ],
+      "totalRepVotes": 230765,
+      "totalDemVotes": 0
+    },
+    "11": {
+      "candidates": [
+        [
+          "<write in>",
+          291,
+          "none"
+        ],
+        [
+          "Joesph P. Oddo",
+          4338,
+          "independent"
+        ],
+        [
+          "Tom Davis",
+          186299,
+          "republican"
+        ],
+        [
+          "Ken Longmyer",
+          118305,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 309233,
+      "winner": [
+        "Tom Davis",
+        186299,
+        "republican"
+      ],
+      "totalRepVotes": 186299,
+      "totalDemVotes": 118305
+    },
+    "9": {
+      "candidates": [
+        [
+          "Kevin R. Triplett",
+          98499,
+          "republican"
+        ],
+        [
+          "Seth A. Davis",
+          4341,
+          "independent"
+        ],
+        [
+          "Rick Boucher",
+          150039,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          68,
+          "none"
+        ]
+      ],
+      "totalVotes": 252947,
+      "winner": [
+        "Rick Boucher",
+        150039,
+        "democrat"
+      ],
+      "totalRepVotes": 98499,
+      "totalDemVotes": 150039
+    },
+    "8": {
+      "candidates": [
+        [
+          "Lisa Marie Cheney",
+          106231,
+          "republican"
+        ],
+        [
+          "James P. Moran",
+          171986,
+          "democrat"
+        ],
+        [
+          "James T. Hurysz",
+          9004,
+          "independent"
+        ],
+        [
+          "<write in>",
+          698,
+          "none"
+        ]
+      ],
+      "totalVotes": 287919,
+      "winner": [
+        "James P. Moran",
+        171986,
+        "democrat"
+      ],
+      "totalRepVotes": 106231,
+      "totalDemVotes": 171986
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          170,
+          "none"
+        ],
+        [
+          "Jonathan R. Menefee",
+          100413,
+          "democrat"
+        ],
+        [
+          "J. Randy Forbes",
+          182444,
+          "republican"
+        ]
+      ],
+      "totalVotes": 283027,
+      "winner": [
+        "J. Randy Forbes",
+        182444,
+        "republican"
+      ],
+      "totalRepVotes": 182444,
+      "totalDemVotes": 100413
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          254,
+          "none"
+        ],
+        [
+          "David B. Ashe",
+          108180,
+          "democrat"
+        ],
+        [
+          "Thelma D. Drake",
+          132946,
+          "republican"
+        ]
+      ],
+      "totalVotes": 241380,
+      "winner": [
+        "Thelma D. Drake",
+        132946,
+        "republican"
+      ],
+      "totalRepVotes": 132946,
+      "totalDemVotes": 108180
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jo Ann Davis",
+          225071,
+          "republican"
+        ],
+        [
+          "<write in>",
+          4029,
+          "none"
+        ],
+        [
+          "William A. Lee",
+          57434,
+          "independent"
+        ]
+      ],
+      "totalVotes": 286534,
+      "winner": [
+        "Jo Ann Davis",
+        225071,
+        "republican"
+      ],
+      "totalRepVotes": 225071,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Virgil H. Goode, Jr.",
+          172431,
+          "republican"
+        ],
+        [
+          "<write in>",
+          90,
+          "none"
+        ],
+        [
+          "Al C. Weed II",
+          98237,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 270758,
+      "winner": [
+        "Virgil H. Goode, Jr.",
+        172431,
+        "republican"
+      ],
+      "totalRepVotes": 172431,
+      "totalDemVotes": 98237
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          7088,
+          "none"
+        ],
+        [
+          "Bob Goodlatte",
+          206560,
+          "republican"
+        ]
+      ],
+      "totalVotes": 213648,
+      "winner": [
+        "Bob Goodlatte",
+        206560,
+        "republican"
+      ],
+      "totalRepVotes": 206560,
+      "totalDemVotes": 0
+    }
+  },
+  "1997": {
+    "10": {
+      "candidates": [
+        [
+          "Gary A. Reams",
+          6500,
+          "independent"
+        ],
+        [
+          "Robert L. \"Bob\" Weinberg",
+          59145,
+          "democrat"
+        ],
+        [
+          "Frank R. Wolf",
+          169266,
+          "republican"
+        ],
+        [
+          "<write in>",
+          102,
+          "none"
+        ]
+      ],
+      "totalVotes": 235013,
+      "winner": [
+        "Frank R. Wolf",
+        169266,
+        "republican"
+      ],
+      "totalRepVotes": 169266,
+      "totalDemVotes": 59145
+    },
+    "5": {
+      "candidates": [
+        [
+          "George C. Landrith III",
+          70869,
+          "republican"
+        ],
+        [
+          "<write in>",
+          104,
+          "none"
+        ],
+        [
+          "George R. \"Tex\" Wood",
+          6627,
+          "reform"
+        ],
+        [
+          "Virgil H. Goode Jr.",
+          120323,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 197923,
+      "winner": [
+        "Virgil H. Goode Jr.",
+        120323,
+        "democrat"
+      ],
+      "totalRepVotes": 70869,
+      "totalDemVotes": 120323
+    },
+    "4": {
+      "candidates": [
+        [
+          "Anthony J. \"Tony\" Zevgolis",
+          43516,
+          "republican"
+        ],
+        [
+          "<write in>",
+          50,
+          "none"
+        ],
+        [
+          "Norman Sisisky",
+          160100,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 203666,
+      "winner": [
+        "Norman Sisisky",
+        160100,
+        "democrat"
+      ],
+      "totalRepVotes": 43516,
+      "totalDemVotes": 160100
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          71,
+          "none"
+        ],
+        [
+          "Jeffrey W. Grey",
+          61485,
+          "democrat"
+        ],
+        [
+          "Bob Goodlatte",
+          133576,
+          "republican"
+        ],
+        [
+          "Jay P. Rutledge",
+          4229,
+          "independent"
+        ]
+      ],
+      "totalVotes": 199361,
+      "winner": [
+        "Bob Goodlatte",
+        133576,
+        "republican"
+      ],
+      "totalRepVotes": 133576,
+      "totalDemVotes": 61485
+    },
+    "2": {
+      "candidates": [
+        [
+          "John F. Tate",
+          57586,
+          "republican"
+        ],
+        [
+          "<write in>",
+          195,
+          "none"
+        ],
+        [
+          "Owen B. Pickett",
+          106215,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 163996,
+      "winner": [
+        "Owen B. Pickett",
+        106215,
+        "democrat"
+      ],
+      "totalRepVotes": 57586,
+      "totalDemVotes": 106215
+    },
+    "3": {
+      "candidates": [
+        [
+          "Robert C. Scott",
+          118603,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          34,
+          "none"
+        ],
+        [
+          "Elsie Goodwyn Holland",
+          25781,
+          "republican"
+        ]
+      ],
+      "totalVotes": 144418,
+      "winner": [
+        "Robert C. Scott",
+        118603,
+        "democrat"
+      ],
+      "totalRepVotes": 25781,
+      "totalDemVotes": 118603
+    },
+    "9": {
+      "candidates": [
+        [
+          "Rick Boucher",
+          122908,
+          "democrat"
+        ],
+        [
+          "Thomas I. \"Tom\" Roberts",
+          8080,
+          "reform"
+        ],
+        [
+          "<write in>",
+          34,
+          "none"
+        ],
+        [
+          "Patrick C. Muldoon",
+          58055,
+          "republican"
+        ]
+      ],
+      "totalVotes": 189077,
+      "winner": [
+        "Rick Boucher",
+        122908,
+        "democrat"
+      ],
+      "totalRepVotes": 58055,
+      "totalDemVotes": 122908
+    },
+    "7": {
+      "candidates": [
+        [
+          "Roderic H. Slayton",
+          51206,
+          "democrat"
+        ],
+        [
+          "Bradley E. Evans",
+          11527,
+          "independent"
+        ],
+        [
+          "<write in>",
+          128,
+          "none"
+        ],
+        [
+          "Tom Bliley",
+          189644,
+          "republican"
+        ]
+      ],
+      "totalVotes": 252505,
+      "winner": [
+        "Tom Bliley",
+        189644,
+        "republican"
+      ],
+      "totalRepVotes": 189644,
+      "totalDemVotes": 51206
+    },
+    "8": {
+      "candidates": [
+        [
+          "R. Ward Edmonds",
+          6243,
+          "reform"
+        ],
+        [
+          "<write in>",
+          303,
+          "none"
+        ],
+        [
+          "James P. Moran",
+          152334,
+          "democrat"
+        ],
+        [
+          "John E. Otey",
+          64562,
+          "republican"
+        ],
+        [
+          "Charles Stenard Severance",
+          740,
+          "independent"
+        ],
+        [
+          "Sarina J. Grosswald",
+          5239,
+          "independent"
+        ]
+      ],
+      "totalVotes": 229421,
+      "winner": [
+        "James P. Moran",
+        152334,
+        "democrat"
+      ],
+      "totalRepVotes": 64562,
+      "totalDemVotes": 152334
+    },
+    "11": {
+      "candidates": [
+        [
+          "C. W. \"Levi\" Levy",
+          2842,
+          "independent"
+        ],
+        [
+          "Thomas M. Davis",
+          138758,
+          "republican"
+        ],
+        [
+          "<write in>",
+          181,
+          "none"
+        ],
+        [
+          "Thomas J. \"Tom\" Horton",
+          74701,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 216482,
+      "winner": [
+        "Thomas M. Davis",
+        138758,
+        "republican"
+      ],
+      "totalRepVotes": 138758,
+      "totalDemVotes": 74701
+    },
+    "1": {
+      "candidates": [
+        [
+          "Herbert H. Bateman",
+          165574,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1661,
+          "none"
+        ]
+      ],
+      "totalVotes": 167235,
+      "winner": [
+        "Herbert H. Bateman",
+        165574,
+        "republican"
+      ],
+      "totalRepVotes": 165574,
+      "totalDemVotes": 0
+    }
+  },
+  "1999": {
+    "7": {
+      "candidates": [
+        [
+          "Bradley E. Evans",
+          20293,
+          "independent"
+        ],
+        [
+          "<write in>",
+          552,
+          "none"
+        ],
+        [
+          "Tom Bliley",
+          77044,
+          "republican"
+        ]
+      ],
+      "totalVotes": 97889,
+      "winner": [
+        "Tom Bliley",
+        77044,
+        "republican"
+      ],
+      "totalRepVotes": 77044,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          4116,
+          "none"
+        ],
+        [
+          "Owen B. Pickett",
+          67975,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 72091,
+      "winner": [
+        "Owen B. Pickett",
+        67975,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 67975
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          66,
+          "none"
+        ],
+        [
+          "Bob Goodlatte",
+          89177,
+          "republican"
+        ],
+        [
+          "David A. Bowers",
+          39487,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 128730,
+      "winner": [
+        "Bob Goodlatte",
+        89177,
+        "republican"
+      ],
+      "totalRepVotes": 89177,
+      "totalDemVotes": 39487
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          785,
+          "none"
+        ],
+        [
+          "Virgil H. Goode, Jr.",
+          73097,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 73882,
+      "winner": [
+        "Virgil H. Goode, Jr.",
+        73097,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 73097
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          390,
+          "none"
+        ],
+        [
+          "Demaris H. Miller",
+          48352,
+          "republican"
+        ],
+        [
+          "James P. Moran",
+          97545,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 146287,
+      "winner": [
+        "James P. Moran",
+        97545,
+        "democrat"
+      ],
+      "totalRepVotes": 48352,
+      "totalDemVotes": 97545
+    },
+    "10": {
+      "candidates": [
+        [
+          "Robert A. Buchanan",
+          4506,
+          "independent"
+        ],
+        [
+          "Cornell W. Brooks",
+          36476,
+          "democrat"
+        ],
+        [
+          "Frank R. Wolf",
+          103648,
+          "republican"
+        ],
+        [
+          "<write in>",
+          125,
+          "none"
+        ]
+      ],
+      "totalVotes": 144755,
+      "winner": [
+        "Frank R. Wolf",
+        103648,
+        "republican"
+      ],
+      "totalRepVotes": 103648,
+      "totalDemVotes": 36476
+    },
+    "9": {
+      "candidates": [
+        [
+          "<write in>",
+          45,
+          "none"
+        ],
+        [
+          "J. A. \"Joe\" Barta",
+          55918,
+          "republican"
+        ],
+        [
+          "Rick Boucher",
+          87163,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 143126,
+      "winner": [
+        "Rick Boucher",
+        87163,
+        "democrat"
+      ],
+      "totalRepVotes": 55918,
+      "totalDemVotes": 87163
+    },
+    "3": {
+      "candidates": [
+        [
+          "Robert C. Scott",
+          48129,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          772,
+          "none"
+        ],
+        [
+          "Robert S. \"Bob\" Barnett",
+          14453,
+          "independent"
+        ]
+      ],
+      "totalVotes": 63354,
+      "winner": [
+        "Robert C. Scott",
+        48129,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 48129
+    },
+    "11": {
+      "candidates": [
+        [
+          "Thomas M. Davis",
+          91603,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1701,
+          "none"
+        ],
+        [
+          "C. W. \"Levi\" Levy",
+          18807,
+          "independent"
+        ]
+      ],
+      "totalVotes": 112111,
+      "winner": [
+        "Thomas M. Davis",
+        91603,
+        "republican"
+      ],
+      "totalRepVotes": 91603,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          2016,
+          "none"
+        ],
+        [
+          "Norman Sisisky",
+          64563,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 66579,
+      "winner": [
+        "Norman Sisisky",
+        64563,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 64563
+    },
+    "1": {
+      "candidates": [
+        [
+          "Josh Billings",
+          9492,
+          "independent"
+        ],
+        [
+          "Bradford L. Philips",
+          13235,
+          "independent"
+        ],
+        [
+          "Herbert H. Bateman",
+          76474,
+          "republican"
+        ],
+        [
+          "<write in>",
+          856,
+          "none"
+        ]
+      ],
+      "totalVotes": 100057,
+      "winner": [
+        "Herbert H. Bateman",
+        76474,
+        "republican"
+      ],
+      "totalRepVotes": 76474,
+      "totalDemVotes": 0
+    }
+  },
+  "2011": {
+    "9": {
+      "candidates": [
+        [
+          "H. Morgan Griffith",
+          95726,
+          "republican"
+        ],
+        [
+          "<write in>",
+          166,
+          "none"
+        ],
+        [
+          "Rick Boucher",
+          86743,
+          "democrat"
+        ],
+        [
+          "Jeremiah D. Heaton",
+          4282,
+          "independent"
+        ]
+      ],
+      "totalVotes": 186917,
+      "winner": [
+        "H. Morgan Griffith",
+        95726,
+        "republican"
+      ],
+      "totalRepVotes": 95726,
+      "totalDemVotes": 86743
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          185,
+          "none"
+        ],
+        [
+          "Thomas S. P. Perriello",
+          110562,
+          "democrat"
+        ],
+        [
+          "Jeffrey A. Clark",
+          4992,
+          "independent"
+        ],
+        [
+          "Robert Hurt",
+          119560,
+          "republican"
+        ]
+      ],
+      "totalVotes": 235299,
+      "winner": [
+        "Robert Hurt",
+        119560,
+        "republican"
+      ],
+      "totalRepVotes": 119560,
+      "totalDemVotes": 110562
+    },
+    "10": {
+      "candidates": [
+        [
+          "<write in>",
+          229,
+          "none"
+        ],
+        [
+          "Jeffery R. Barnett",
+          72604,
+          "democrat"
+        ],
+        [
+          "William B. Redpath",
+          4607,
+          "libertarian"
+        ],
+        [
+          "Frank R. Wolf",
+          131116,
+          "republican"
+        ]
+      ],
+      "totalVotes": 208556,
+      "winner": [
+        "Frank R. Wolf",
+        131116,
+        "republican"
+      ],
+      "totalRepVotes": 131116,
+      "totalDemVotes": 72604
+    },
+    "1": {
+      "candidates": [
+        [
+          "Robert J. Wittman",
+          135564,
+          "republican"
+        ],
+        [
+          "G. Gail \"for Rail\" Parker",
+          2544,
+          "independent green"
+        ],
+        [
+          "Krystal M. Ball",
+          73824,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          304,
+          "none"
+        ]
+      ],
+      "totalVotes": 212236,
+      "winner": [
+        "Robert J. Wittman",
+        135564,
+        "republican"
+      ],
+      "totalRepVotes": 135564,
+      "totalDemVotes": 73824
+    },
+    "2": {
+      "candidates": [
+        [
+          "E. Scott Rigell",
+          88340,
+          "republican"
+        ],
+        [
+          "Kenny E. Golden",
+          7194,
+          "independent"
+        ],
+        [
+          "<write in>",
+          164,
+          "none"
+        ],
+        [
+          "Glenn C. Nye",
+          70591,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 166289,
+      "winner": [
+        "E. Scott Rigell",
+        88340,
+        "republican"
+      ],
+      "totalRepVotes": 88340,
+      "totalDemVotes": 70591
+    },
+    "8": {
+      "candidates": [
+        [
+          "James P. Moran",
+          116404,
+          "democrat"
+        ],
+        [
+          "J. Patrick Murray",
+          71145,
+          "republican"
+        ],
+        [
+          "J. Ron Fisher",
+          2707,
+          "independent green"
+        ],
+        [
+          "<write in>",
+          492,
+          "none"
+        ]
+      ],
+      "totalVotes": 190748,
+      "winner": [
+        "James P. Moran",
+        116404,
+        "democrat"
+      ],
+      "totalRepVotes": 71145,
+      "totalDemVotes": 116404
+    },
+    "4": {
+      "candidates": [
+        [
+          "Wynne V. E. LeGrow",
+          74298,
+          "democrat"
+        ],
+        [
+          "J. Randy Forbes",
+          123659,
+          "republican"
+        ],
+        [
+          "<write in>",
+          432,
+          "none"
+        ]
+      ],
+      "totalVotes": 198389,
+      "winner": [
+        "J. Randy Forbes",
+        123659,
+        "republican"
+      ],
+      "totalRepVotes": 123659,
+      "totalDemVotes": 74298
+    },
+    "11": {
+      "candidates": [
+        [
+          "Christopher F. DeCarlo",
+          1846,
+          "independent"
+        ],
+        [
+          "David William Gillis, Jr.",
+          959,
+          "independent green"
+        ],
+        [
+          "Gerald E. Connolly",
+          111720,
+          "democrat"
+        ],
+        [
+          "David L. Dotson",
+          1382,
+          "libertarian"
+        ],
+        [
+          "Keith S. Fimian",
+          110739,
+          "republican"
+        ],
+        [
+          "<write in>",
+          305,
+          "none"
+        ]
+      ],
+      "totalVotes": 226951,
+      "winner": [
+        "Gerald E. Connolly",
+        111720,
+        "democrat"
+      ],
+      "totalRepVotes": 110739,
+      "totalDemVotes": 111720
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          171,
+          "none"
+        ],
+        [
+          "James J. Quigley",
+          2383,
+          "libertarian"
+        ],
+        [
+          "C. L. \"Chuck\" Smith, Jr.",
+          44553,
+          "republican"
+        ],
+        [
+          "Robert C. \"Bobby\" Scott",
+          114754,
+          "democrat"
+        ],
+        [
+          "John D. Kelly",
+          2039,
+          "independent"
+        ]
+      ],
+      "totalVotes": 163900,
+      "winner": [
+        "Robert C. \"Bobby\" Scott",
+        114754,
+        "democrat"
+      ],
+      "totalRepVotes": 44553,
+      "totalDemVotes": 114754
+    },
+    "6": {
+      "candidates": [
+        [
+          "Stuart M. Bain",
+          15309,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          2709,
+          "none"
+        ],
+        [
+          "Jeffrey W. Vanke",
+          21649,
+          "independent"
+        ],
+        [
+          "Bob Goodlatte",
+          127487,
+          "republican"
+        ]
+      ],
+      "totalVotes": 167154,
+      "winner": [
+        "Bob Goodlatte",
+        127487,
+        "republican"
+      ],
+      "totalRepVotes": 127487,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Eric Cantor",
+          138209,
+          "republican"
+        ],
+        [
+          "Rick E. Waugh",
+          79616,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          413,
+          "none"
+        ],
+        [
+          "Floyd C. Bayne",
+          15164,
+          "independent green"
+        ]
+      ],
+      "totalVotes": 233402,
+      "winner": [
+        "Eric Cantor",
+        138209,
+        "republican"
+      ],
+      "totalRepVotes": 138209,
+      "totalDemVotes": 79616
+    }
+  },
+  "2017": {
+    "1": {
+      "candidates": [
+        [
+          "Glenda Gail Parker",
+          12866,
+          "independent"
+        ],
+        [
+          "<write in>",
+          737,
+          "none"
+        ],
+        [
+          "Robert J. Wittman",
+          230213,
+          "republican"
+        ],
+        [
+          "M. D. \"Matt\" Rowe",
+          140785,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 384601,
+      "winner": [
+        "Robert J. Wittman",
+        230213,
+        "republican"
+      ],
+      "totalRepVotes": 230213,
+      "totalDemVotes": 140785
+    },
+    "3": {
+      "candidates": [
+        [
+          "Robert C. \"Bobby\" Scott",
+          208337,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          714,
+          "none"
+        ],
+        [
+          "M. L. \"Marty\" Williams",
+          103289,
+          "republican"
+        ]
+      ],
+      "totalVotes": 312340,
+      "winner": [
+        "Robert C. \"Bobby\" Scott",
+        208337,
+        "democrat"
+      ],
+      "totalRepVotes": 103289,
+      "totalDemVotes": 208337
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          789,
+          "none"
+        ],
+        [
+          "Michael L. \"Mike\" Wade",
+          145731,
+          "republican"
+        ],
+        [
+          "A. Donald McEachin",
+          200136,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 346656,
+      "winner": [
+        "A. Donald McEachin",
+        200136,
+        "democrat"
+      ],
+      "totalRepVotes": 145731,
+      "totalDemVotes": 200136
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jane D. Dittmar",
+          148339,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          659,
+          "none"
+        ],
+        [
+          "Tom A. Garrett Jr.",
+          207758,
+          "republican"
+        ]
+      ],
+      "totalVotes": 356756,
+      "winner": [
+        "Tom A. Garrett Jr.",
+        207758,
+        "republican"
+      ],
+      "totalRepVotes": 207758,
+      "totalDemVotes": 148339
+    },
+    "2": {
+      "candidates": [
+        [
+          "Scott W. Taylor",
+          190475,
+          "republican"
+        ],
+        [
+          "Shaun D. Brown",
+          119440,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          652,
+          "none"
+        ]
+      ],
+      "totalVotes": 310567,
+      "winner": [
+        "Scott W. Taylor",
+        190475,
+        "republican"
+      ],
+      "totalRepVotes": 190475,
+      "totalDemVotes": 119440
+    },
+    "9": {
+      "candidates": [
+        [
+          "Janice Allen Boyd",
+          9050,
+          "independent"
+        ],
+        [
+          "H. Morgan Griffith",
+          212838,
+          "republican"
+        ],
+        [
+          "Derek W. Kitts",
+          87877,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          549,
+          "none"
+        ]
+      ],
+      "totalVotes": 310314,
+      "winner": [
+        "H. Morgan Griffith",
+        212838,
+        "republican"
+      ],
+      "totalRepVotes": 212838,
+      "totalDemVotes": 87877
+    },
+    "7": {
+      "candidates": [
+        [
+          "Eileen M. Bedell",
+          160159,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          947,
+          "none"
+        ],
+        [
+          "Dave Brat",
+          218057,
+          "republican"
+        ]
+      ],
+      "totalVotes": 379163,
+      "winner": [
+        "Dave Brat",
+        218057,
+        "republican"
+      ],
+      "totalRepVotes": 218057,
+      "totalDemVotes": 160159
+    },
+    "10": {
+      "candidates": [
+        [
+          "Barbara Comstock",
+          210791,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1580,
+          "none"
+        ],
+        [
+          "LuAnn L. Bennett",
+          187712,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 400083,
+      "winner": [
+        "Barbara Comstock",
+        210791,
+        "republican"
+      ],
+      "totalRepVotes": 210791,
+      "totalDemVotes": 187712
+    },
+    "8": {
+      "candidates": [
+        [
+          "Julio Gracia",
+          14664,
+          "independent"
+        ],
+        [
+          "Charles A. Hernick",
+          98387,
+          "republican"
+        ],
+        [
+          "<write in>",
+          972,
+          "none"
+        ],
+        [
+          "Donald S. Beyer Jr.",
+          246653,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 360676,
+      "winner": [
+        "Donald S. Beyer Jr.",
+        246653,
+        "democrat"
+      ],
+      "totalRepVotes": 98387,
+      "totalDemVotes": 246653
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          768,
+          "none"
+        ],
+        [
+          "Kai E. Degner",
+          112170,
+          "democrat"
+        ],
+        [
+          "Bob Goodlatte",
+          225471,
+          "republican"
+        ]
+      ],
+      "totalVotes": 338409,
+      "winner": [
+        "Bob Goodlatte",
+        225471,
+        "republican"
+      ],
+      "totalRepVotes": 225471,
+      "totalDemVotes": 112170
+    },
+    "11": {
+      "candidates": [
+        [
+          "Gerald E. Connolly",
+          247818,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          34185,
+          "none"
+        ]
+      ],
+      "totalVotes": 282003,
+      "winner": [
+        "Gerald E. Connolly",
+        247818,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 247818
+    }
+  },
+  "2007": {
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          99,
+          "none"
+        ],
+        [
+          "Virgil H. Goode, Jr.",
+          125370,
+          "republican"
+        ],
+        [
+          "Al C. Weed II",
+          84682,
+          "democrat"
+        ],
+        [
+          "Joseph P. Oddo",
+          1928,
+          "independent green"
+        ]
+      ],
+      "totalVotes": 212079,
+      "winner": [
+        "Virgil H. Goode, Jr.",
+        125370,
+        "republican"
+      ],
+      "totalRepVotes": 125370,
+      "totalDemVotes": 84682
+    },
+    "6": {
+      "candidates": [
+        [
+          "Bob Goodlatte",
+          153187,
+          "republican"
+        ],
+        [
+          "<write in>",
+          948,
+          "none"
+        ],
+        [
+          "Barbara Jean Pryor",
+          25129,
+          "independent"
+        ],
+        [
+          "Andre D. Peery",
+          24731,
+          "independent"
+        ]
+      ],
+      "totalVotes": 203995,
+      "winner": [
+        "Bob Goodlatte",
+        153187,
+        "republican"
+      ],
+      "totalRepVotes": 153187,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Philip J. Kellam",
+          83901,
+          "democrat"
+        ],
+        [
+          "Thelma D. Drake",
+          88777,
+          "republican"
+        ],
+        [
+          "<write in>",
+          481,
+          "none"
+        ]
+      ],
+      "totalVotes": 173159,
+      "winner": [
+        "Thelma D. Drake",
+        88777,
+        "republican"
+      ],
+      "totalRepVotes": 88777,
+      "totalDemVotes": 83901
+    },
+    "7": {
+      "candidates": [
+        [
+          "W. Brad Blanton",
+          4213,
+          "independent"
+        ],
+        [
+          "<write in>",
+          272,
+          "none"
+        ],
+        [
+          "Eric Cantor",
+          163706,
+          "republican"
+        ],
+        [
+          "James M. Nachman",
+          88206,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 256397,
+      "winner": [
+        "Eric Cantor",
+        163706,
+        "republican"
+      ],
+      "totalRepVotes": 163706,
+      "totalDemVotes": 88206
+    },
+    "10": {
+      "candidates": [
+        [
+          "Wilbur N. Wood III",
+          2107,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          194,
+          "none"
+        ],
+        [
+          "Neeraj C. Nigam",
+          1851,
+          "independent"
+        ],
+        [
+          "Judy M. Feder",
+          98769,
+          "democrat"
+        ],
+        [
+          "Frank R. Wolf",
+          138213,
+          "republican"
+        ]
+      ],
+      "totalVotes": 241134,
+      "winner": [
+        "Frank R. Wolf",
+        138213,
+        "republican"
+      ],
+      "totalRepVotes": 138213,
+      "totalDemVotes": 98769
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jo Ann Davis",
+          143889,
+          "republican"
+        ],
+        [
+          "Shawn M. O\u00c2\u0092Donnell",
+          81083,
+          "democrat"
+        ],
+        [
+          "Marvin F. Pixton III",
+          3236,
+          "independent"
+        ],
+        [
+          "<write in>",
+          326,
+          "none"
+        ]
+      ],
+      "totalVotes": 228534,
+      "winner": [
+        "Jo Ann Davis",
+        143889,
+        "republican"
+      ],
+      "totalRepVotes": 143889,
+      "totalDemVotes": 81083
+    },
+    "4": {
+      "candidates": [
+        [
+          "J. Randy Forbes",
+          150967,
+          "republican"
+        ],
+        [
+          "<write in>",
+          886,
+          "none"
+        ],
+        [
+          "Albert P. Burckard, Jr.",
+          46487,
+          "independent green"
+        ]
+      ],
+      "totalVotes": 198340,
+      "winner": [
+        "J. Randy Forbes",
+        150967,
+        "republican"
+      ],
+      "totalRepVotes": 150967,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          5448,
+          "none"
+        ],
+        [
+          "Robert C. Scott",
+          133546,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 138994,
+      "winner": [
+        "Robert C. Scott",
+        133546,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 133546
+    },
+    "9": {
+      "candidates": [
+        [
+          "C. W. \u00c2\u0091\u00c2\u0091Bill\u00c2\u0092\u00c2\u0092 Carrico",
+          61574,
+          "republican"
+        ],
+        [
+          "<write in>",
+          136,
+          "none"
+        ],
+        [
+          "Rick Boucher",
+          129705,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 191415,
+      "winner": [
+        "Rick Boucher",
+        129705,
+        "democrat"
+      ],
+      "totalRepVotes": 61574,
+      "totalDemVotes": 129705
+    },
+    "11": {
+      "candidates": [
+        [
+          "<write in>",
+          259,
+          "none"
+        ],
+        [
+          "Ferdinando C. Greco",
+          2042,
+          "independent green"
+        ],
+        [
+          "Tom Davis",
+          130468,
+          "republican"
+        ],
+        [
+          "Andrew L. Hurst",
+          102511,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 235280,
+      "winner": [
+        "Tom Davis",
+        130468,
+        "republican"
+      ],
+      "totalRepVotes": 130468,
+      "totalDemVotes": 102511
+    },
+    "8": {
+      "candidates": [
+        [
+          "James T. \u00c2\u0091\u00c2\u0091Jim\u00c2\u0092\u00c2\u0092 Hurysz",
+          6094,
+          "independent"
+        ],
+        [
+          "<write in>",
+          476,
+          "none"
+        ],
+        [
+          "James P. Moran",
+          144700,
+          "democrat"
+        ],
+        [
+          "Tom M. O\u00c2\u0092Donoghue",
+          66639,
+          "republican"
+        ]
+      ],
+      "totalVotes": 217909,
+      "winner": [
+        "James P. Moran",
+        144700,
+        "democrat"
+      ],
+      "totalRepVotes": 66639,
+      "totalDemVotes": 144700
+    }
+  },
+  "2003": {
+    "6": {
+      "candidates": [
+        [
+          "Bob Goodlatte",
+          105530,
+          "republican"
+        ],
+        [
+          "<write in>",
+          3202,
+          "none"
+        ]
+      ],
+      "totalVotes": 108732,
+      "winner": [
+        "Bob Goodlatte",
+        105530,
+        "republican"
+      ],
+      "totalRepVotes": 105530,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Robert C. Scott",
+          87521,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          3552,
+          "none"
+        ]
+      ],
+      "totalVotes": 91073,
+      "winner": [
+        "Robert C. Scott",
+        87521,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 87521
+    },
+    "7": {
+      "candidates": [
+        [
+          "Ben L. \"Cooter\" Jones",
+          49854,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          153,
+          "none"
+        ],
+        [
+          "Eric Cantor",
+          113658,
+          "republican"
+        ]
+      ],
+      "totalVotes": 163665,
+      "winner": [
+        "Eric Cantor",
+        113658,
+        "republican"
+      ],
+      "totalRepVotes": 113658,
+      "totalDemVotes": 49854
+    },
+    "9": {
+      "candidates": [
+        [
+          "J. Katzen",
+          52076,
+          "none"
+        ],
+        [
+          "<write in>",
+          32,
+          "none"
+        ],
+        [
+          "Rick Boucher",
+          100075,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 152183,
+      "winner": [
+        "Rick Boucher",
+        100075,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 100075
+    },
+    "4": {
+      "candidates": [
+        [
+          "J. Randy Forbes",
+          108733,
+          "republican"
+        ],
+        [
+          "<write in>",
+          2308,
+          "none"
+        ]
+      ],
+      "totalVotes": 111041,
+      "winner": [
+        "J. Randy Forbes",
+        108733,
+        "republican"
+      ],
+      "totalRepVotes": 108733,
+      "totalDemVotes": 0
+    },
+    "11": {
+      "candidates": [
+        [
+          "<write in>",
+          1027,
+          "none"
+        ],
+        [
+          "Tom Davis",
+          135379,
+          "republican"
+        ],
+        [
+          "Frank W. Creel",
+          26892,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 163298,
+      "winner": [
+        "Tom Davis",
+        135379,
+        "republican"
+      ],
+      "totalRepVotes": 135379,
+      "totalDemVotes": 0
+    },
+    "10": {
+      "candidates": [
+        [
+          "John B. Stevens Jr.",
+          45464,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          234,
+          "none"
+        ],
+        [
+          "Frank R. Wolf",
+          115917,
+          "republican"
+        ]
+      ],
+      "totalVotes": 161615,
+      "winner": [
+        "Frank R. Wolf",
+        115917,
+        "republican"
+      ],
+      "totalRepVotes": 115917,
+      "totalDemVotes": 45464
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          361,
+          "none"
+        ],
+        [
+          "James P. Morgan",
+          102759,
+          "democrat"
+        ],
+        [
+          "Ronald V. Crickenberger",
+          4558,
+          "independent"
+        ],
+        [
+          "Scott C. Tate",
+          64121,
+          "republican"
+        ]
+      ],
+      "totalVotes": 171799,
+      "winner": [
+        "James P. Morgan",
+        102759,
+        "democrat"
+      ],
+      "totalRepVotes": 64121,
+      "totalDemVotes": 102759
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          68,
+          "none"
+        ],
+        [
+          "Meredith M. Richards",
+          54805,
+          "democrat"
+        ],
+        [
+          "Virgil H. Goode Jr.",
+          95360,
+          "republican"
+        ]
+      ],
+      "totalVotes": 150233,
+      "winner": [
+        "Virgil H. Goode Jr.",
+        95360,
+        "republican"
+      ],
+      "totalRepVotes": 95360,
+      "totalDemVotes": 54805
+    },
+    "2": {
+      "candidates": [
+        [
+          "Edward L. Schrock",
+          103807,
+          "republican"
+        ],
+        [
+          "D. C. Amarasinghe",
+          20589,
+          "green"
+        ],
+        [
+          "<write in>",
+          450,
+          "none"
+        ]
+      ],
+      "totalVotes": 124846,
+      "winner": [
+        "Edward L. Schrock",
+        103807,
+        "republican"
+      ],
+      "totalRepVotes": 103807,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jo Ann Davis",
+          113168,
+          "republican"
+        ],
+        [
+          "<write in>",
+          4829,
+          "none"
+        ]
+      ],
+      "totalVotes": 117997,
+      "winner": [
+        "Jo Ann Davis",
+        113168,
+        "republican"
+      ],
+      "totalRepVotes": 113168,
+      "totalDemVotes": 0
+    }
+  },
+  "2009": {
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          7377,
+          "none"
+        ],
+        [
+          "Robert C. \"Bobby\" Scott",
+          239911,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 247288,
+      "winner": [
+        "Robert C. \"Bobby\" Scott",
+        239911,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 239911
+    },
+    "8": {
+      "candidates": [
+        [
+          "Mark W. Ellmore",
+          97425,
+          "republican"
+        ],
+        [
+          "James P. Moran",
+          222986,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          957,
+          "none"
+        ],
+        [
+          "J. Ron Fisher",
+          6829,
+          "independent green"
+        ]
+      ],
+      "totalVotes": 328197,
+      "winner": [
+        "James P. Moran",
+        222986,
+        "democrat"
+      ],
+      "totalRepVotes": 97425,
+      "totalDemVotes": 222986
+    },
+    "11": {
+      "candidates": [
+        [
+          "Gerald E. \"Gerry\" Connolly",
+          196598,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          864,
+          "none"
+        ],
+        [
+          "Joseph P. Oddo",
+          7271,
+          "independent green"
+        ],
+        [
+          "Keith S. Fimian",
+          154758,
+          "republican"
+        ]
+      ],
+      "totalVotes": 359491,
+      "winner": [
+        "Gerald E. \"Gerry\" Connolly",
+        196598,
+        "democrat"
+      ],
+      "totalRepVotes": 154758,
+      "totalDemVotes": 196598
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          405,
+          "none"
+        ],
+        [
+          "J. Randy Forbes",
+          199075,
+          "republican"
+        ],
+        [
+          "Andrea R. Miller",
+          135041,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 334521,
+      "winner": [
+        "J. Randy Forbes",
+        199075,
+        "republican"
+      ],
+      "totalRepVotes": 199075,
+      "totalDemVotes": 135041
+    },
+    "5": {
+      "candidates": [
+        [
+          "Virgil H. Goode Jr.",
+          158083,
+          "republican"
+        ],
+        [
+          "<write in>",
+          183,
+          "none"
+        ],
+        [
+          "Tom S. P. Perriello",
+          158810,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 317076,
+      "winner": [
+        "Tom S. P. Perriello",
+        158810,
+        "democrat"
+      ],
+      "totalRepVotes": 158083,
+      "totalDemVotes": 158810
+    },
+    "10": {
+      "candidates": [
+        [
+          "Neeraj C. Nigam",
+          8457,
+          "independent"
+        ],
+        [
+          "Judy M. Feder",
+          147357,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          526,
+          "none"
+        ],
+        [
+          "Frank R. Wolf",
+          223140,
+          "republican"
+        ]
+      ],
+      "totalVotes": 379480,
+      "winner": [
+        "Frank R. Wolf",
+        223140,
+        "republican"
+      ],
+      "totalRepVotes": 223140,
+      "totalDemVotes": 147357
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          262,
+          "none"
+        ],
+        [
+          "Bob Goodlatte",
+          192350,
+          "republican"
+        ],
+        [
+          "S. \"Sam\" Rasoul",
+          114367,
+          "democrat"
+        ],
+        [
+          "Janice Lee Allen",
+          5413,
+          "independent"
+        ]
+      ],
+      "totalVotes": 312392,
+      "winner": [
+        "Bob Goodlatte",
+        192350,
+        "republican"
+      ],
+      "totalRepVotes": 192350,
+      "totalDemVotes": 114367
+    },
+    "1": {
+      "candidates": [
+        [
+          "Nathan D. Larson",
+          5265,
+          "libertarian"
+        ],
+        [
+          "Bill S. Day Jr.",
+          150432,
+          "democrat"
+        ],
+        [
+          "Robert J. Wittman",
+          203839,
+          "republican"
+        ],
+        [
+          "<write in>",
+          756,
+          "none"
+        ]
+      ],
+      "totalVotes": 360292,
+      "winner": [
+        "Robert J. Wittman",
+        203839,
+        "republican"
+      ],
+      "totalRepVotes": 203839,
+      "totalDemVotes": 150432
+    },
+    "9": {
+      "candidates": [
+        [
+          "Rick Boucher",
+          207306,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          6264,
+          "none"
+        ]
+      ],
+      "totalVotes": 213570,
+      "winner": [
+        "Rick Boucher",
+        207306,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 207306
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          683,
+          "none"
+        ],
+        [
+          "Eric Cantor",
+          233531,
+          "republican"
+        ],
+        [
+          "Anita Hartke",
+          138123,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 372337,
+      "winner": [
+        "Eric Cantor",
+        233531,
+        "republican"
+      ],
+      "totalRepVotes": 233531,
+      "totalDemVotes": 138123
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          368,
+          "none"
+        ],
+        [
+          "Glenn C. Nye III",
+          141857,
+          "democrat"
+        ],
+        [
+          "Thelma Drake",
+          128486,
+          "republican"
+        ]
+      ],
+      "totalVotes": 270711,
+      "winner": [
+        "Glenn C. Nye III",
+        141857,
+        "democrat"
+      ],
+      "totalRepVotes": 128486,
+      "totalDemVotes": 141857
+    }
+  },
+  "2013": {
+    "5": {
+      "candidates": [
+        [
+          "John Wade Douglass",
+          149214,
+          "democrat"
+        ],
+        [
+          "Robert Hurt",
+          193009,
+          "republican"
+        ],
+        [
+          "Kenneth J. Hildebrandt",
+          5500,
+          "independent green"
+        ],
+        [
+          "<write in>",
+          388,
+          "none"
+        ]
+      ],
+      "totalVotes": 348111,
+      "winner": [
+        "Robert Hurt",
+        193009,
+        "republican"
+      ],
+      "totalRepVotes": 193009,
+      "totalDemVotes": 149214
+    },
+    "7": {
+      "candidates": [
+        [
+          "E. Wayne Powell",
+          158012,
+          "democrat"
+        ],
+        [
+          "Eric Cantor",
+          222983,
+          "republican"
+        ],
+        [
+          "<write in>",
+          914,
+          "none"
+        ]
+      ],
+      "totalVotes": 381909,
+      "winner": [
+        "Eric Cantor",
+        222983,
+        "republican"
+      ],
+      "totalRepVotes": 222983,
+      "totalDemVotes": 158012
+    },
+    "1": {
+      "candidates": [
+        [
+          "Robert J. Wittman",
+          200845,
+          "republican"
+        ],
+        [
+          "<write in>",
+          617,
+          "none"
+        ],
+        [
+          "G. Gail Parker",
+          8308,
+          "independent green"
+        ],
+        [
+          "Adam M. Cook",
+          147036,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 356806,
+      "winner": [
+        "Robert J. Wittman",
+        200845,
+        "republican"
+      ],
+      "totalRepVotes": 200845,
+      "totalDemVotes": 147036
+    },
+    "8": {
+      "candidates": [
+        [
+          "Janet Murphy",
+          5985,
+          "independent green"
+        ],
+        [
+          "James P. Moran",
+          226847,
+          "democrat"
+        ],
+        [
+          "Jason J. Howell",
+          10180,
+          "independent"
+        ],
+        [
+          "<write in>",
+          805,
+          "none"
+        ],
+        [
+          "J. Patrick Murray",
+          107370,
+          "republican"
+        ]
+      ],
+      "totalVotes": 351187,
+      "winner": [
+        "James P. Moran",
+        226847,
+        "democrat"
+      ],
+      "totalRepVotes": 107370,
+      "totalDemVotes": 226847
+    },
+    "9": {
+      "candidates": [
+        [
+          "H. Morgan Griffith",
+          184882,
+          "republican"
+        ],
+        [
+          "<write in>",
+          376,
+          "none"
+        ],
+        [
+          "Anthony J. Flaccavento",
+          116400,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 301658,
+      "winner": [
+        "H. Morgan Griffith",
+        184882,
+        "republican"
+      ],
+      "totalRepVotes": 184882,
+      "totalDemVotes": 116400
+    },
+    "11": {
+      "candidates": [
+        [
+          "Gerald E. Connolly",
+          202606,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          788,
+          "none"
+        ],
+        [
+          "Christopher F. DeCarlo",
+          3027,
+          "independent"
+        ],
+        [
+          "Mark T. Gibson",
+          3806,
+          "independent"
+        ],
+        [
+          "Chris S. Perkins",
+          117902,
+          "republican"
+        ],
+        [
+          "Peter M. Marchetti",
+          1919,
+          "independent green"
+        ],
+        [
+          "Joe F. Galdo, Jr.",
+          2195,
+          "green"
+        ]
+      ],
+      "totalVotes": 332243,
+      "winner": [
+        "Gerald E. Connolly",
+        202606,
+        "democrat"
+      ],
+      "totalRepVotes": 117902,
+      "totalDemVotes": 202606
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          564,
+          "none"
+        ],
+        [
+          "J. Randy Forbes",
+          199292,
+          "republican"
+        ],
+        [
+          "Ella P. Ward",
+          150190,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 350046,
+      "winner": [
+        "J. Randy Forbes",
+        199292,
+        "republican"
+      ],
+      "totalRepVotes": 199292,
+      "totalDemVotes": 150190
+    },
+    "10": {
+      "candidates": [
+        [
+          "Frank R. Wolf",
+          214038,
+          "republican"
+        ],
+        [
+          "J. Kevin Chisholm",
+          9855,
+          "independent"
+        ],
+        [
+          "<write in>",
+          527,
+          "none"
+        ],
+        [
+          "Kristin A. Cabral",
+          142024,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 366444,
+      "winner": [
+        "Frank R. Wolf",
+        214038,
+        "republican"
+      ],
+      "totalRepVotes": 214038,
+      "totalDemVotes": 142024
+    },
+    "2": {
+      "candidates": [
+        [
+          "E. Scott Rigell",
+          166231,
+          "republican"
+        ],
+        [
+          "<write in>",
+          443,
+          "none"
+        ],
+        [
+          "Paul O. Hirschbiel, Jr.",
+          142548,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 309222,
+      "winner": [
+        "E. Scott Rigell",
+        166231,
+        "republican"
+      ],
+      "totalRepVotes": 166231,
+      "totalDemVotes": 142548
+    },
+    "6": {
+      "candidates": [
+        [
+          "Andy B. Schmookler",
+          111949,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          666,
+          "none"
+        ],
+        [
+          "Bob Goodlatte",
+          211278,
+          "republican"
+        ]
+      ],
+      "totalVotes": 323893,
+      "winner": [
+        "Bob Goodlatte",
+        211278,
+        "republican"
+      ],
+      "totalRepVotes": 211278,
+      "totalDemVotes": 111949
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          806,
+          "none"
+        ],
+        [
+          "Dean J. Longo",
+          58931,
+          "republican"
+        ],
+        [
+          "Robert C. ??Bobby?? Scott",
+          259199,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 318936,
+      "winner": [
+        "Robert C. ??Bobby?? Scott",
+        259199,
+        "democrat"
+      ],
+      "totalRepVotes": 58931,
+      "totalDemVotes": 259199
+    }
+  },
+  "2015": {
+    "9": {
+      "candidates": [
+        [
+          "H. Morgan Griffith",
+          117465,
+          "republican"
+        ],
+        [
+          "<write in>",
+          5938,
+          "none"
+        ],
+        [
+          "William R. Carr Jr.",
+          39412,
+          "independent"
+        ]
+      ],
+      "totalVotes": 162815,
+      "winner": [
+        "H. Morgan Griffith",
+        117465,
+        "republican"
+      ],
+      "totalRepVotes": 117465,
+      "totalDemVotes": 0
+    },
+    "10": {
+      "candidates": [
+        [
+          "<write in>",
+          258,
+          "none"
+        ],
+        [
+          "William B. Redpath",
+          3393,
+          "libertarian"
+        ],
+        [
+          "Barbara J. Comstock",
+          125914,
+          "republican"
+        ],
+        [
+          "Dianne L. Blais",
+          946,
+          "green"
+        ],
+        [
+          "John W. Foust",
+          89957,
+          "democrat"
+        ],
+        [
+          "Brad A. Eickholt",
+          2442,
+          "independent"
+        ]
+      ],
+      "totalVotes": 222910,
+      "winner": [
+        "Barbara J. Comstock",
+        125914,
+        "republican"
+      ],
+      "totalRepVotes": 125914,
+      "totalDemVotes": 89957
+    },
+    "8": {
+      "candidates": [
+        [
+          "Donald S. Beyer Jr.",
+          128102,
+          "democrat"
+        ],
+        [
+          "Gwendolyn J. Beck",
+          5420,
+          "independent"
+        ],
+        [
+          "Jeffrey S. Carson",
+          4409,
+          "libertarian"
+        ],
+        [
+          "Micah K. Edmond",
+          63810,
+          "republican"
+        ],
+        [
+          "<write in>",
+          372,
+          "none"
+        ],
+        [
+          "Gerard C. \"Gerry\" Blais III",
+          963,
+          "green"
+        ]
+      ],
+      "totalVotes": 203076,
+      "winner": [
+        "Donald S. Beyer Jr.",
+        128102,
+        "democrat"
+      ],
+      "totalRepVotes": 63810,
+      "totalDemVotes": 128102
+    },
+    "11": {
+      "candidates": [
+        [
+          "<write in>",
+          226,
+          "none"
+        ],
+        [
+          "Gerald E. Connolly ",
+          106780,
+          "democrat"
+        ],
+        [
+          "Joe R. Galdo",
+          1739,
+          "green"
+        ],
+        [
+          "Suzanne K. Scholte",
+          75796,
+          "republican"
+        ],
+        [
+          "Marc M. Harrold",
+          3264,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 187805,
+      "winner": [
+        "Gerald E. Connolly ",
+        106780,
+        "democrat"
+      ],
+      "totalRepVotes": 75796,
+      "totalDemVotes": 106780
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          8205,
+          "none"
+        ],
+        [
+          "Robert C. \"Bobby\" Scott",
+          139197,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 147402,
+      "winner": [
+        "Robert C. \"Bobby\" Scott",
+        139197,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 139197
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          257,
+          "none"
+        ],
+        [
+          "Bo C. Brown",
+          4427,
+          "libertarian"
+        ],
+        [
+          "Elliott G. Fausz",
+          75270,
+          "democrat"
+        ],
+        [
+          "J. Randy Forbes",
+          120684,
+          "republican"
+        ]
+      ],
+      "totalVotes": 200638,
+      "winner": [
+        "J. Randy Forbes",
+        120684,
+        "republican"
+      ],
+      "totalRepVotes": 120684,
+      "totalDemVotes": 75270
+    },
+    "5": {
+      "candidates": [
+        [
+          "W. Lawrence Gaughan",
+          73482,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          221,
+          "none"
+        ],
+        [
+          "Kenneth J. Hildebrandt",
+          2209,
+          "green"
+        ],
+        [
+          "Paul F. Jones",
+          4298,
+          "libertarian"
+        ],
+        [
+          "Robert Hurt",
+          124735,
+          "republican"
+        ]
+      ],
+      "totalVotes": 204945,
+      "winner": [
+        "Robert Hurt",
+        124735,
+        "republican"
+      ],
+      "totalRepVotes": 124735,
+      "totalDemVotes": 73482
+    },
+    "1": {
+      "candidates": [
+        [
+          "Robert J. Wittman",
+          131861,
+          "republican"
+        ],
+        [
+          "Glenda Gail Parker",
+          5097,
+          "green"
+        ],
+        [
+          "<write in>",
+          604,
+          "none"
+        ],
+        [
+          "Norman G. \"Norm\" Mosher",
+          72059,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 209621,
+      "winner": [
+        "Robert J. Wittman",
+        131861,
+        "republican"
+      ],
+      "totalRepVotes": 131861,
+      "totalDemVotes": 72059
+    },
+    "2": {
+      "candidates": [
+        [
+          "Suzanne D. Patrick",
+          71178,
+          "democrat"
+        ],
+        [
+          "E. Scott Rigell",
+          101558,
+          "republican"
+        ],
+        [
+          "<write in>",
+          324,
+          "none"
+        ]
+      ],
+      "totalVotes": 173060,
+      "winner": [
+        "E. Scott Rigell",
+        101558,
+        "republican"
+      ],
+      "totalRepVotes": 101558,
+      "totalDemVotes": 71178
+    },
+    "7": {
+      "candidates": [
+        [
+          "David A. Brat",
+          148026,
+          "republican"
+        ],
+        [
+          "John K. \"Jack\" Trammell",
+          89914,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          325,
+          "none"
+        ],
+        [
+          "James A. Carr Jr.",
+          5086,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 243351,
+      "winner": [
+        "David A. Brat",
+        148026,
+        "republican"
+      ],
+      "totalRepVotes": 148026,
+      "totalDemVotes": 89914
+    },
+    "6": {
+      "candidates": [
+        [
+          "William M. \"Will\" Hammer",
+          22161,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          2202,
+          "none"
+        ],
+        [
+          "Elaine B. Hildebrandt",
+          21447,
+          "green"
+        ],
+        [
+          "Bob Goodlatte",
+          133898,
+          "republican"
+        ]
+      ],
+      "totalVotes": 179708,
+      "winner": [
+        "Bob Goodlatte",
+        133898,
+        "republican"
+      ],
+      "totalRepVotes": 133898,
+      "totalDemVotes": 0
+    }
+  },
+  "2001": {
+    "11": {
+      "candidates": [
+        [
+          "Robert K. McBride",
+          4774,
+          "independent"
+        ],
+        [
+          "<write in>",
+          285,
+          "none"
+        ],
+        [
+          "Thomas M. Davis",
+          150395,
+          "republican"
+        ],
+        [
+          "M. L. \u00c2\u0091\u00c2\u0091Mike\u00c2\u0092\u00c2\u0092 Corrigan",
+          83455,
+          "democrat"
+        ],
+        [
+          "C. W. \u00c2\u0091\u00c2\u0091Levi\u00c2\u0092\u00c2\u0092 Levy",
+          4059,
+          "independent"
+        ]
+      ],
+      "totalVotes": 242968,
+      "winner": [
+        "Thomas M. Davis",
+        150395,
+        "republican"
+      ],
+      "totalRepVotes": 150395,
+      "totalDemVotes": 83455
+    },
+    "4": {
+      "candidates": [
+        [
+          "Norman Sisisky",
+          189787,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          2108,
+          "none"
+        ]
+      ],
+      "totalVotes": 191895,
+      "winner": [
+        "Norman Sisisky",
+        189787,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 189787
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          3226,
+          "none"
+        ],
+        [
+          "Robert C. Scott",
+          137527,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 140753,
+      "winner": [
+        "Robert C. Scott",
+        137527,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 137527
+    },
+    "10": {
+      "candidates": [
+        [
+          "Marc A. Rossi",
+          16031,
+          "independent"
+        ],
+        [
+          "Frank R. Wolf",
+          238817,
+          "republican"
+        ],
+        [
+          "<write in>",
+          682,
+          "none"
+        ],
+        [
+          "Brian M. Brown",
+          28107,
+          "independent"
+        ]
+      ],
+      "totalVotes": 283637,
+      "winner": [
+        "Frank R. Wolf",
+        238817,
+        "republican"
+      ],
+      "totalRepVotes": 238817,
+      "totalDemVotes": 0
+    },
+    "9": {
+      "candidates": [
+        [
+          "Michael D. \u00c2\u0091\u00c2\u0091Oz\u00c2\u0092\u00c2\u0092 Osborne",
+          59335,
+          "republican"
+        ],
+        [
+          "<write in>",
+          32,
+          "none"
+        ],
+        [
+          "Rick Boucher",
+          137488,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 196855,
+      "winner": [
+        "Rick Boucher",
+        137488,
+        "democrat"
+      ],
+      "totalRepVotes": 59335,
+      "totalDemVotes": 137488
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          304,
+          "none"
+        ],
+        [
+          "Eric I. Cantor",
+          192652,
+          "republican"
+        ],
+        [
+          "Warren A. Stewart",
+          94935,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 287891,
+      "winner": [
+        "Eric I. Cantor",
+        192652,
+        "republican"
+      ],
+      "totalRepVotes": 192652,
+      "totalDemVotes": 94935
+    },
+    "1": {
+      "candidates": [
+        [
+          "Sharon A. Wood",
+          9652,
+          "independent"
+        ],
+        [
+          "Josh Billings",
+          4082,
+          "independent"
+        ],
+        [
+          "Lawrence A. Davies",
+          97399,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          537,
+          "none"
+        ],
+        [
+          "Jo Ann S. Davis",
+          151344,
+          "republican"
+        ]
+      ],
+      "totalVotes": 263014,
+      "winner": [
+        "Jo Ann S. Davis",
+        151344,
+        "republican"
+      ],
+      "totalRepVotes": 151344,
+      "totalDemVotes": 97399
+    },
+    "8": {
+      "candidates": [
+        [
+          "Ronald V. Crickenberger",
+          3483,
+          "independent"
+        ],
+        [
+          "Demaris H. Miller",
+          88262,
+          "republican"
+        ],
+        [
+          "Richard Lee \u00c2\u0091\u00c2\u0091Rick\u00c2\u0092\u00c2\u0092 Herron",
+          2805,
+          "independent"
+        ],
+        [
+          "James P. Moran",
+          164178,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          471,
+          "none"
+        ]
+      ],
+      "totalVotes": 259199,
+      "winner": [
+        "James P. Moran",
+        164178,
+        "democrat"
+      ],
+      "totalRepVotes": 88262,
+      "totalDemVotes": 164178
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          70,
+          "none"
+        ],
+        [
+          "John W. Boyd, Jr.",
+          65387,
+          "democrat"
+        ],
+        [
+          "Virgil H. Goode, Jr.",
+          143312,
+          "independent"
+        ],
+        [
+          "Joseph S. Spence",
+          3936,
+          "independent"
+        ]
+      ],
+      "totalVotes": 212705,
+      "winner": [
+        "Virgil H. Goode, Jr.",
+        143312,
+        "independent"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 65387
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          1145,
+          "none"
+        ],
+        [
+          "Bob Goodlatte",
+          153338,
+          "republican"
+        ]
+      ],
+      "totalVotes": 154483,
+      "winner": [
+        "Bob Goodlatte",
+        153338,
+        "republican"
+      ],
+      "totalRepVotes": 153338,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Edward L. \u00c2\u0091\u00c2\u0091Ed\u00c2\u0092\u00c2\u0092 Schrock",
+          97856,
+          "republican"
+        ],
+        [
+          "Jody M. Wagner",
+          90328,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          145,
+          "none"
+        ]
+      ],
+      "totalVotes": 188329,
+      "winner": [
+        "Edward L. \u00c2\u0091\u00c2\u0091Ed\u00c2\u0092\u00c2\u0092 Schrock",
+        97856,
+        "republican"
+      ],
+      "totalRepVotes": 97856,
+      "totalDemVotes": 90328
+    }
+  }
+}

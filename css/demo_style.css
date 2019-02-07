@@ -1,0 +1,343 @@
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i');*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i|Fira+Mono:600,700');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family:  Montserrat, sans-serif !important;
+}
+
+h1, h2, h3, h4, .h1, .h2, .h3, .h4, .h5, h5, .sidebar-header, .sidebar-title {
+    font-family: Montserrat, sans-serif !important;
+    font-weight: 700;
+}
+
+p {
+    font-size: 12pt;
+    line-height: 140%;
+}
+
+span {
+    font-size: 10pt;
+}
+
+button {
+    font-family: Montserrat, sans-serif !important;
+}
+
+html,
+body,
+#mapid {
+    height: 100%;
+    font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.lorem {
+    font-style: italic;
+    color: #AAA;
+}
+
+.box-pop {
+display: inline-block;
+    min-width: 65px;
+    text-align: right;
+}
+
+#accountsList {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.undisplay {
+    font-family: "Fira Mono", monospace;
+    font-size: 1.2em;
+    line-height: 120%;
+}
+
+#box-dem-votes {
+    display: inline-block;
+    min-width: 65px;
+    text-align: right;
+    color: rgb(191, 213, 255);
+}
+#box-rep-votes {
+    display: inline-block;
+    min-width: 65px;
+    text-align: right;
+    color: rgb(255, 146, 151);
+}
+.box-ids {
+    display: inline-block;
+    min-width: 45px;
+    text-align: right;
+}
+
+
+#popup-info {
+    border: 5px solid;
+    position: fixed;
+    top: 20px;
+    bottom: 0px;
+    right: 20px;
+    text-align: center;
+    width: 15%;
+    min-width: 240px;
+    height: 17%;
+    color: white;
+    background-color: rgb(51,51,51);
+    font-weight: 600;
+    font-family: Fira Mono, monospace;
+    z-index: 2000;
+    padding: 5px;
+}
+
+#dem-vote-count-before, #rep-vote-count-before {
+    display: inline-block;
+    min-width: 80px;
+    text-align: right;
+}
+
+
+.sidebar-info-desc {
+    font-size: 12pt;
+    color: rgb(81, 81, 81);
+
+}
+.sidebar-info-val {
+    font-family: Fira Mono, monospace;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #000;
+
+}
+
+.undisplay {
+    font-family: "Fira Mono", sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+}
+.title-header{
+    font-weight: bold;
+    /*text-align: center;*/
+    font-size: 18pt ;
+}
+
+
+.userLoginHeader{
+    /*font-weight: bold;*/
+    text-align: center;
+    font-size: 18pt ;
+}
+
+#usernameDisplay {
+    font-size: 18pt !important;
+    font-weight: bold;
+}
+
+.save-choice-title {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.stat-info, .indented-text {
+    margin-left: 2.5em
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.userLoginHeader {
+    font-weight: 700;
+
+}
+
+#userLoginUsername {
+    margin-bottom: 10px
+}
+
+#userLoginPassword {
+    margin-top: 10px
+}
+
+#userLoginSubmit {
+    margin-top: 5px
+}
+
+#userCreateButton {
+    margin-top: 5px
+}
+
+.invalid-input {
+    font-weight: 700;
+    font-family: "FreeSans", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13pt;
+    color: crimson;
+}
+
+.material-switch > input[type="checkbox"] {
+    display: none;
+}
+
+.material-switch > label {
+    cursor: pointer;
+    height: 0px;
+    position: relative;
+    width: 40px;
+}
+
+.material-switch > label::before {
+    background: rgb(0, 0, 0);
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    content: '';
+    height: 16px;
+    margin-top: -8px;
+    position: absolute;
+    opacity: 0.3;
+    transition: all 0.4s ease-in-out;
+    width: 40px;
+}
+
+.material-switch > label::after {
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    content: '';
+    height: 24px;
+    left: -4px;
+    margin-top: -8px;
+    position: absolute;
+    top: -4px;
+    transition: all 0.3s ease-in-out;
+    width: 24px;
+}
+
+.material-switch > input[type="checkbox"]:checked + label::before {
+    background: inherit;
+    opacity: 0.5;
+}
+
+.material-switch > input[type="checkbox"]:checked + label::after {
+    background: #aaaa55;
+    left: 20px;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 95%;
+    height: 8px;
+    border-radius: 5px;
+    background: black;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #aaaa55;
+    cursor: pointer;
+}
+
+.btn:not(.dropdown-toggle) {
+
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 95%;
+}
+
+/*#function-button, #randomize-button, #halt-button, */
+/*#search-submit-button, #adminAddButton, #adminDeleteButton, */
+/*#show-other-accounts-button, #weightLoadButton,*/
+/*#weightDeleteButton, #saveweights-button{*/
+    /*margin-top: 10px;*/
+    /*border-radius: 5px;*/
+    /*width: 95%;*/
+/*}*/
+
+.sidebar-info-val {
+    min-width: 70px;
+    display: inline-block;
+}
+
+#search-field, #nDistricts, #adminUsername{
+    width: 95%;
+}
+
+#accordion, #accordion2{
+    width: 98%;
+}
+
+.card-header{
+    background-color: white;
+}
+.btn-link{
+    text-decoration: none !important
+}
+
+#map-load{
+    margin-top: 20px;
+}
+
+#UserResponse{
+    width: 95%;
+    color: white;
+    background: red;
+    margin-top: 5px;
+    text-align: right;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+#WeightResponse{
+    color: white;
+    background: red;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: right;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+#user-message, #weight-message{
+    text-align: center;
+}
+
+#userLogoutButton{
+    margin-top: 30px;
+    border-radius: 5px;
+    width: 95%;
+}
+
+#accordion2{
+    margin-bottom: 10px;
+}
+
+#user-information{
+    margin-top: 20px;
+}
+
+.slider-title {
+    font-weight: 800;
+    font-size: 1.3em;
+}
+
+.slider-param {
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.slider-value {
+    font-weight: bold;
+    font-size: 1.25em;
+    font-family: "Fira Code", sans-serif;
+    margin-right: 10%;
+}
+
+

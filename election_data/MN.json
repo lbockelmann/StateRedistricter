@@ -1,0 +1,2785 @@
+{
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Mike Obermueller",
+          164338,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          521,
+          "none"
+        ],
+        [
+          "John Kline",
+          193587,
+          "republican"
+        ]
+      ],
+      "totalVotes": 358446,
+      "winner": [
+        "John Kline",
+        193587,
+        "republican"
+      ],
+      "totalRepVotes": 193587,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          512,
+          "none"
+        ],
+        [
+          "Steve Carlson",
+          21135,
+          "independence"
+        ],
+        [
+          "Tony Hernandez",
+          109659,
+          "republican"
+        ],
+        [
+          "Betty McCollum",
+          216685,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 347991,
+      "winner": [
+        "Betty McCollum",
+        216685,
+        "democrat"
+      ],
+      "totalRepVotes": 109659,
+      "totalDemVotes": 216685
+    },
+    "3": {
+      "candidates": [
+        [
+          "Erik Paulsen",
+          222335,
+          "republican"
+        ],
+        [
+          "Brian Barnes",
+          159937,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          433,
+          "none"
+        ]
+      ],
+      "totalVotes": 382705,
+      "winner": [
+        "Erik Paulsen",
+        222335,
+        "republican"
+      ],
+      "totalRepVotes": 222335,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          336,
+          "none"
+        ],
+        [
+          "Adam Steele",
+          15298,
+          "independence"
+        ],
+        [
+          "Lee Byberg",
+          114151,
+          "republican"
+        ],
+        [
+          "Collin C. Peterson",
+          197791,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 327576,
+      "winner": [
+        "Collin C. Peterson",
+        197791,
+        "democrat"
+      ],
+      "totalRepVotes": 114151,
+      "totalDemVotes": 197791
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          1114,
+          "none"
+        ],
+        [
+          "Chris Fields",
+          88753,
+          "republican"
+        ],
+        [
+          "Keith Ellison",
+          262102,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 351969,
+      "winner": [
+        "Keith Ellison",
+        262102,
+        "democrat"
+      ],
+      "totalRepVotes": 88753,
+      "totalDemVotes": 262102
+    },
+    "6": {
+      "candidates": [
+        [
+          "Michele Bachmann",
+          179240,
+          "republican"
+        ],
+        [
+          "Jim Graves",
+          174944,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          969,
+          "none"
+        ]
+      ],
+      "totalVotes": 355153,
+      "winner": [
+        "Michele Bachmann",
+        179240,
+        "republican"
+      ],
+      "totalRepVotes": 179240,
+      "totalDemVotes": 0
+    },
+    "8": {
+      "candidates": [
+        [
+          "Chip Cravaack",
+          160520,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1167,
+          "none"
+        ],
+        [
+          "Richard Nolan",
+          191976,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 353663,
+      "winner": [
+        "Richard Nolan",
+        191976,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 160520,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Timothy J. Walz",
+          193211,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          505,
+          "none"
+        ],
+        [
+          "Allen Quist",
+          142164,
+          "republican"
+        ]
+      ],
+      "totalVotes": 335880,
+      "winner": [
+        "Timothy J. Walz",
+        193211,
+        "democrat"
+      ],
+      "totalRepVotes": 142164,
+      "totalDemVotes": 193211
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          379,
+          "none"
+        ],
+        [
+          "Gil Gutknecht",
+          126486,
+          "republican"
+        ],
+        [
+          "Tim Walz",
+          141556,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 268421,
+      "winner": [
+        "Tim Walz",
+        141556,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 126486,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jim Ramstad",
+          184333,
+          "republican"
+        ],
+        [
+          "<write in>",
+          323,
+          "none"
+        ],
+        [
+          "Wendy Wilde",
+          99588,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 284244,
+      "winner": [
+        "Jim Ramstad",
+        184333,
+        "republican"
+      ],
+      "totalRepVotes": 184333,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          170,
+          "none"
+        ],
+        [
+          "Michael J. Barrett",
+          74557,
+          "republican"
+        ],
+        [
+          "Ken Lucier",
+          3303,
+          "constitution"
+        ],
+        [
+          "Collin C. Peterson",
+          179164,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 257194,
+      "winner": [
+        "Collin C. Peterson",
+        179164,
+        "democrat"
+      ],
+      "totalRepVotes": 74557,
+      "totalDemVotes": 179164
+    },
+    "5": {
+      "candidates": [
+        [
+          "Alan Fine",
+          52263,
+          "republican"
+        ],
+        [
+          "Jay Pond",
+          4792,
+          "green"
+        ],
+        [
+          "<write in>",
+          334,
+          "none"
+        ],
+        [
+          "Keith Ellison",
+          136060,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Tammy Lee",
+          51456,
+          "independence"
+        ]
+      ],
+      "totalVotes": 244905,
+      "winner": [
+        "Keith Ellison",
+        136060,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 52263,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Douglas Williams",
+          10802,
+          "independence"
+        ],
+        [
+          "Coleen Rowley",
+          116343,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          126,
+          "none"
+        ],
+        [
+          "John Kline",
+          163269,
+          "republican"
+        ]
+      ],
+      "totalVotes": 290540,
+      "winner": [
+        "John Kline",
+        163269,
+        "republican"
+      ],
+      "totalRepVotes": 163269,
+      "totalDemVotes": 0
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          155,
+          "none"
+        ],
+        [
+          "James L. Oberstar",
+          180670,
+          "democrat"
+        ],
+        [
+          "Harry Welty",
+          5508,
+          "unity"
+        ],
+        [
+          "Rod Grams",
+          97683,
+          "republican"
+        ]
+      ],
+      "totalVotes": 284016,
+      "winner": [
+        "James L. Oberstar",
+        180670,
+        "democrat"
+      ],
+      "totalRepVotes": 97683,
+      "totalDemVotes": 180670
+    },
+    "6": {
+      "candidates": [
+        [
+          "Patty Wetterling",
+          127144,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Michele Bachmann",
+          151248,
+          "republican"
+        ],
+        [
+          "John Paul Binkowski",
+          23557,
+          "independence"
+        ],
+        [
+          "<write in>",
+          239,
+          "none"
+        ]
+      ],
+      "totalVotes": 302188,
+      "winner": [
+        "Michele Bachmann",
+        151248,
+        "republican"
+      ],
+      "totalRepVotes": 151248,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          573,
+          "none"
+        ],
+        [
+          "Betty McCollum",
+          172096,
+          "democrat"
+        ],
+        [
+          "Obi Sium",
+          74797,
+          "republican"
+        ]
+      ],
+      "totalVotes": 247466,
+      "winner": [
+        "Betty McCollum",
+        172096,
+        "democrat"
+      ],
+      "totalRepVotes": 74797,
+      "totalDemVotes": 172096
+    }
+  },
+  "2017": {
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          535,
+          "none"
+        ],
+        [
+          "David Snyder",
+          123010,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Tom Emmer",
+          235385,
+          "republican"
+        ]
+      ],
+      "totalVotes": 358930,
+      "winner": [
+        "Tom Emmer",
+        235385,
+        "republican"
+      ],
+      "totalRepVotes": 235385,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          307,
+          "none"
+        ],
+        [
+          "Dave Hughes",
+          156944,
+          "republican"
+        ],
+        [
+          "Collin C. Peterson",
+          173572,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 330823,
+      "winner": [
+        "Collin C. Peterson",
+        173572,
+        "democrat"
+      ],
+      "totalRepVotes": 156944,
+      "totalDemVotes": 173572
+    },
+    "4": {
+      "candidates": [
+        [
+          "Greg Ryan",
+          121033,
+          "republican"
+        ],
+        [
+          "<write in>",
+          461,
+          "none"
+        ],
+        [
+          "Betty McCollum",
+          203299,
+          "democrat"
+        ],
+        [
+          "Susan Pendergast Sindt",
+          27152,
+          "legal marijuana now"
+        ]
+      ],
+      "totalVotes": 351945,
+      "winner": [
+        "Betty McCollum",
+        203299,
+        "democrat"
+      ],
+      "totalRepVotes": 121033,
+      "totalDemVotes": 203299
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          786,
+          "none"
+        ],
+        [
+          "Richard M. Nolan",
+          179097,
+          "democrat"
+        ],
+        [
+          "Stewart Mills",
+          177088,
+          "republican"
+        ]
+      ],
+      "totalVotes": 356971,
+      "winner": [
+        "Richard M. Nolan",
+        179097,
+        "democrat"
+      ],
+      "totalRepVotes": 177088,
+      "totalDemVotes": 179097
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jim Hagedorn",
+          166524,
+          "republican"
+        ],
+        [
+          "Timothy J. Walz",
+          169071,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          278,
+          "none"
+        ]
+      ],
+      "totalVotes": 335873,
+      "winner": [
+        "Timothy J. Walz",
+        169071,
+        "democrat"
+      ],
+      "totalRepVotes": 166524,
+      "totalDemVotes": 169071
+    },
+    "3": {
+      "candidates": [
+        [
+          "Erik Paulsen",
+          223075,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1144,
+          "none"
+        ],
+        [
+          "Terri E. Bonoff",
+          169238,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 393457,
+      "winner": [
+        "Erik Paulsen",
+        223075,
+        "republican"
+      ],
+      "totalRepVotes": 223075,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          360,
+          "none"
+        ],
+        [
+          "Jason Lewis",
+          173970,
+          "republican"
+        ],
+        [
+          "Paula Overby",
+          28870,
+          "independence"
+        ],
+        [
+          "Angie Craig",
+          167315,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 370515,
+      "winner": [
+        "Jason Lewis",
+        173970,
+        "republican"
+      ],
+      "totalRepVotes": 173970,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Dennis Schuller",
+          30759,
+          "legal marijuana now"
+        ],
+        [
+          "Frank Nelson Drake",
+          80660,
+          "republican"
+        ],
+        [
+          "Keith Ellison",
+          249957,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          499,
+          "none"
+        ]
+      ],
+      "totalVotes": 361875,
+      "winner": [
+        "Keith Ellison",
+        249957,
+        "democrat"
+      ],
+      "totalRepVotes": 80660,
+      "totalDemVotes": 249957
+    }
+  },
+  "1997": {
+    "5": {
+      "candidates": [
+        [
+          "Erika Anderson",
+          13102,
+          "grassroots"
+        ],
+        [
+          "<write in>",
+          285,
+          "none"
+        ],
+        [
+          "Jack Uldrich",
+          70109,
+          "republican"
+        ],
+        [
+          "Jennifer Benton",
+          4284,
+          "socialist workers"
+        ],
+        [
+          "Martin Olav Sabo",
+          158261,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 246041,
+      "winner": [
+        "Martin Olav Sabo",
+        158261,
+        "democrat"
+      ],
+      "totalRepVotes": 70109,
+      "totalDemVotes": 158261
+    },
+    "6": {
+      "candidates": [
+        [
+          "Tad Jude",
+          129988,
+          "republican"
+        ],
+        [
+          "<write in>",
+          572,
+          "none"
+        ],
+        [
+          "Bill Luther",
+          164921,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 295481,
+      "winner": [
+        "Bill Luther",
+        164921,
+        "democrat"
+      ],
+      "totalRepVotes": 129988,
+      "totalDemVotes": 164921
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          218,
+          "none"
+        ],
+        [
+          "Andy Larson",
+          69460,
+          "republican"
+        ],
+        [
+          "Stan (The Man) Estes",
+          16639,
+          "reform"
+        ],
+        [
+          "James L. Oberstar",
+          185333,
+          "democrat"
+        ],
+        [
+          "Larry Fuhol",
+          3688,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 275338,
+      "winner": [
+        "James L. Oberstar",
+        185333,
+        "democrat"
+      ],
+      "totalRepVotes": 69460,
+      "totalDemVotes": 185333
+    },
+    "7": {
+      "candidates": [
+        [
+          "Darrell McKigney",
+          80132,
+          "republican"
+        ],
+        [
+          "<write in>",
+          531,
+          "none"
+        ],
+        [
+          "Collin C. Peterson",
+          170936,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 251599,
+      "winner": [
+        "Collin C. Peterson",
+        170936,
+        "democrat"
+      ],
+      "totalRepVotes": 80132,
+      "totalDemVotes": 170936
+    },
+    "2": {
+      "candidates": [
+        [
+          "Stan Bentz",
+          10283,
+          "reform"
+        ],
+        [
+          "Gary B. Revier",
+          107807,
+          "republican"
+        ],
+        [
+          "<write in>",
+          180,
+          "none"
+        ],
+        [
+          "David Minge",
+          144083,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 262353,
+      "winner": [
+        "David Minge",
+        144083,
+        "democrat"
+      ],
+      "totalRepVotes": 107807,
+      "totalDemVotes": 144083
+    },
+    "4": {
+      "candidates": [
+        [
+          "Dan R. Vacek",
+          2696,
+          "independent grass roots"
+        ],
+        [
+          "Richard J. Gibbons",
+          9323,
+          "reform"
+        ],
+        [
+          "Phil Willkie",
+          3615,
+          "grassroots"
+        ],
+        [
+          "Dennis Newinski",
+          94110,
+          "republican"
+        ],
+        [
+          "Bruce F. Vento",
+          145831,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          184,
+          "none"
+        ]
+      ],
+      "totalVotes": 255759,
+      "winner": [
+        "Bruce F. Vento",
+        145831,
+        "democrat"
+      ],
+      "totalRepVotes": 94110,
+      "totalDemVotes": 145831
+    },
+    "1": {
+      "candidates": [
+        [
+          "Gil Gutknecht",
+          137486,
+          "republican"
+        ],
+        [
+          "Mary Rieder",
+          123147,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          429,
+          "none"
+        ]
+      ],
+      "totalVotes": 261062,
+      "winner": [
+        "Gil Gutknecht",
+        137486,
+        "republican"
+      ],
+      "totalRepVotes": 137486,
+      "totalDemVotes": 123147
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jim Ramstad",
+          205816,
+          "republican"
+        ],
+        [
+          "Stanley J. Leino",
+          87350,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          417,
+          "none"
+        ]
+      ],
+      "totalVotes": 293583,
+      "winner": [
+        "Jim Ramstad",
+        205816,
+        "republican"
+      ],
+      "totalRepVotes": 205816,
+      "totalDemVotes": 87350
+    }
+  },
+  "2001": {
+    "5": {
+      "candidates": [
+        [
+          "Frank Taylor",
+          58191,
+          "republican"
+        ],
+        [
+          "Rob Tomich",
+          11323,
+          "independence"
+        ],
+        [
+          "Renee Lavoi",
+          4522,
+          "constitution"
+        ],
+        [
+          "Martin Olav Sabo",
+          176629,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Chuck P. Charnstrom",
+          4480,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 255145,
+      "winner": [
+        "Martin Olav Sabo",
+        176629,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 58191,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Mary Rieder",
+          117946,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Gil Gutknecht",
+          159835,
+          "republican"
+        ],
+        [
+          "Rich Osness",
+          5440,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 283221,
+      "winner": [
+        "Gil Gutknecht",
+        159835,
+        "republican"
+      ],
+      "totalRepVotes": 159835,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "John Kline",
+          170900,
+          "republican"
+        ],
+        [
+          "Bill Luther",
+          176340,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Ralph A. Hubbard",
+          8584,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 355824,
+      "winner": [
+        "Bill Luther",
+        176340,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 170900,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Foley",
+          55899,
+          "independence"
+        ],
+        [
+          "Nicholas Skrivanek",
+          1285,
+          "constitution"
+        ],
+        [
+          "Betty McCollum",
+          130403,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Linda Runbeck",
+          83852,
+          "republican"
+        ]
+      ],
+      "totalVotes": 271439,
+      "winner": [
+        "Betty McCollum",
+        130403,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 83852,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Owen Sivertson",
+          5550,
+          "constitution"
+        ],
+        [
+          "Glen Menze",
+          79175,
+          "republican"
+        ],
+        [
+          "Collin C. Peterson",
+          185771,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 270496,
+      "winner": [
+        "Collin C. Peterson",
+        185771,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 79175,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jim Ramstad",
+          222571,
+          "republican"
+        ],
+        [
+          "Bob Odden",
+          5302,
+          "libertarian"
+        ],
+        [
+          "Sue Shuff",
+          98219,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Arne Niska",
+          2970,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 329062,
+      "winner": [
+        "Jim Ramstad",
+        222571,
+        "republican"
+      ],
+      "totalRepVotes": 222571,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Gerald W. Brekke",
+          7875,
+          "independence"
+        ],
+        [
+          "Dennis A. Burda",
+          1337,
+          "constitution"
+        ],
+        [
+          "David Minge",
+          138802,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Ron Helwig",
+          1929,
+          "libertarian"
+        ],
+        [
+          "Mark Kennedy",
+          138957,
+          "republican"
+        ]
+      ],
+      "totalVotes": 288900,
+      "winner": [
+        "Mark Kennedy",
+        138957,
+        "republican"
+      ],
+      "totalRepVotes": 138957,
+      "totalDemVotes": 0
+    },
+    "8": {
+      "candidates": [
+        [
+          "Mike Darling",
+          19667,
+          "independent"
+        ],
+        [
+          "James L. Oberstar",
+          210094,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Bob Lemen",
+          79890,
+          "republican"
+        ]
+      ],
+      "totalVotes": 309651,
+      "winner": [
+        "James L. Oberstar",
+        210094,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 79890,
+      "totalDemVotes": 0
+    }
+  },
+  "2015": {
+    "6": {
+      "candidates": [
+        [
+          "Tom Emmer",
+          133328,
+          "republican"
+        ],
+        [
+          "<write in>",
+          135,
+          "none"
+        ],
+        [
+          "Joe Perske",
+          90926,
+          "democrat"
+        ],
+        [
+          "John Denney",
+          12457,
+          "independence"
+        ]
+      ],
+      "totalVotes": 236846,
+      "winner": [
+        "Tom Emmer",
+        133328,
+        "republican"
+      ],
+      "totalRepVotes": 133328,
+      "totalDemVotes": 90926
+    },
+    "8": {
+      "candidates": [
+        [
+          "Stewart Mills",
+          125358,
+          "republican"
+        ],
+        [
+          "Richard M. Nolan",
+          129090,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          185,
+          "none"
+        ],
+        [
+          "Ray Skip Sandman",
+          11450,
+          "green"
+        ]
+      ],
+      "totalVotes": 266083,
+      "winner": [
+        "Richard M. Nolan",
+        129090,
+        "democrat"
+      ],
+      "totalRepVotes": 125358,
+      "totalDemVotes": 129090
+    },
+    "7": {
+      "candidates": [
+        [
+          "Torrey Westrom",
+          109955,
+          "republican"
+        ],
+        [
+          "<write in>",
+          334,
+          "none"
+        ],
+        [
+          "Collin C. Peterson",
+          130546,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 240835,
+      "winner": [
+        "Collin C. Peterson",
+        130546,
+        "democrat"
+      ],
+      "totalRepVotes": 109955,
+      "totalDemVotes": 130546
+    },
+    "5": {
+      "candidates": [
+        [
+          "Keith Ellison",
+          167079,
+          "democrat"
+        ],
+        [
+          "Lee Bauer",
+          12001,
+          "independence"
+        ],
+        [
+          "Doug Daggett",
+          56577,
+          "republican"
+        ],
+        [
+          "<write in>",
+          353,
+          "none"
+        ]
+      ],
+      "totalVotes": 236010,
+      "winner": [
+        "Keith Ellison",
+        167079,
+        "democrat"
+      ],
+      "totalRepVotes": 56577,
+      "totalDemVotes": 167079
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          308,
+          "none"
+        ],
+        [
+          "Timothy J. Walz",
+          122851,
+          "democrat"
+        ],
+        [
+          "Jim Hagedorn",
+          103536,
+          "republican"
+        ]
+      ],
+      "totalVotes": 226695,
+      "winner": [
+        "Timothy J. Walz",
+        122851,
+        "democrat"
+      ],
+      "totalRepVotes": 103536,
+      "totalDemVotes": 122851
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          229,
+          "none"
+        ],
+        [
+          "Dave Thomas",
+          14059,
+          "independence"
+        ],
+        [
+          "Betty McCollum",
+          147857,
+          "democrat"
+        ],
+        [
+          "Sharna Wahlgren",
+          79492,
+          "republican"
+        ]
+      ],
+      "totalVotes": 241637,
+      "winner": [
+        "Betty McCollum",
+        147857,
+        "democrat"
+      ],
+      "totalRepVotes": 79492,
+      "totalDemVotes": 147857
+    },
+    "3": {
+      "candidates": [
+        [
+          "Erik Paulsen",
+          167515,
+          "republican"
+        ],
+        [
+          "Sharon Sund",
+          101846,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          224,
+          "none"
+        ]
+      ],
+      "totalVotes": 269585,
+      "winner": [
+        "Erik Paulsen",
+        167515,
+        "republican"
+      ],
+      "totalRepVotes": 167515,
+      "totalDemVotes": 101846
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          186,
+          "none"
+        ],
+        [
+          "Mike Obermueller",
+          95565,
+          "democrat"
+        ],
+        [
+          "Paula Oberby",
+          12319,
+          "independence"
+        ],
+        [
+          "John Kline",
+          137778,
+          "republican"
+        ]
+      ],
+      "totalVotes": 245848,
+      "winner": [
+        "John Kline",
+        137778,
+        "republican"
+      ],
+      "totalRepVotes": 137778,
+      "totalDemVotes": 95565
+    }
+  },
+  "2011": {
+    "5": {
+      "candidates": [
+        [
+          "Joel Demos",
+          55222,
+          "republican"
+        ],
+        [
+          "Tom Schrunk",
+          7556,
+          "independence"
+        ],
+        [
+          "Keith Ellison",
+          154833,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          229,
+          "none"
+        ],
+        [
+          "Lynne Torgerson",
+          8548,
+          "independent"
+        ],
+        [
+          "Michael James Cavlan",
+          2468,
+          "independent progressive"
+        ]
+      ],
+      "totalVotes": 228856,
+      "winner": [
+        "Keith Ellison",
+        154833,
+        "democrat"
+      ],
+      "totalRepVotes": 55222,
+      "totalDemVotes": 154833
+    },
+    "1": {
+      "candidates": [
+        [
+          "Timothy J. Walz",
+          122365,
+          "democrat"
+        ],
+        [
+          "Randy Demmer",
+          109242,
+          "republican"
+        ],
+        [
+          "<write in>",
+          102,
+          "none"
+        ],
+        [
+          "Steven Wilson",
+          13242,
+          "independence"
+        ],
+        [
+          "Lars Johnson",
+          3054,
+          "party free"
+        ]
+      ],
+      "totalVotes": 248005,
+      "winner": [
+        "Timothy J. Walz",
+        122365,
+        "democrat"
+      ],
+      "totalRepVotes": 109242,
+      "totalDemVotes": 122365
+    },
+    "6": {
+      "candidates": [
+        [
+          "Bob Anderson",
+          17698,
+          "independence"
+        ],
+        [
+          "Aubrey Immelman",
+          5490,
+          "independent"
+        ],
+        [
+          "Michele Bachmann",
+          159476,
+          "republican"
+        ],
+        [
+          "Tarryl Clark",
+          120846,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          178,
+          "none"
+        ],
+        [
+          "Dennis S. Ferche",
+          3,
+          "none"
+        ]
+      ],
+      "totalVotes": 303691,
+      "winner": [
+        "Michele Bachmann",
+        159476,
+        "republican"
+      ],
+      "totalRepVotes": 159476,
+      "totalDemVotes": 0
+    },
+    "8": {
+      "candidates": [
+        [
+          "Chip Cravaack",
+          133490,
+          "republican"
+        ],
+        [
+          "Timothy Olson",
+          11876,
+          "independence"
+        ],
+        [
+          "<write in>",
+          132,
+          "none"
+        ],
+        [
+          "Richard \"George\" Burton",
+          2492,
+          "constitution"
+        ],
+        [
+          "James L. Oberstar",
+          129091,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 277081,
+      "winner": [
+        "Chip Cravaack",
+        133490,
+        "republican"
+      ],
+      "totalRepVotes": 133490,
+      "totalDemVotes": 129091
+    },
+    "4": {
+      "candidates": [
+        [
+          "Teresa Collett",
+          80141,
+          "republican"
+        ],
+        [
+          "Betty McCollum",
+          136746,
+          "democrat"
+        ],
+        [
+          "Jack Shepard",
+          10,
+          "none"
+        ],
+        [
+          "Amber Garlan",
+          39,
+          "none"
+        ],
+        [
+          "Steve Carlson",
+          14207,
+          "independence"
+        ],
+        [
+          "<write in>",
+          283,
+          "none"
+        ]
+      ],
+      "totalVotes": 231426,
+      "winner": [
+        "Betty McCollum",
+        136746,
+        "democrat"
+      ],
+      "totalRepVotes": 80141,
+      "totalDemVotes": 136746
+    },
+    "7": {
+      "candidates": [
+        [
+          "Lee Byberg",
+          90652,
+          "republican"
+        ],
+        [
+          "Collin C. Peterson",
+          133096,
+          "democrat"
+        ],
+        [
+          "Gene Waldorf",
+          9317,
+          "independent"
+        ],
+        [
+          "<write in>",
+          193,
+          "none"
+        ],
+        [
+          "Glen R. Menze",
+          7839,
+          "independence"
+        ]
+      ],
+      "totalVotes": 241097,
+      "winner": [
+        "Collin C. Peterson",
+        133096,
+        "democrat"
+      ],
+      "totalRepVotes": 90652,
+      "totalDemVotes": 133096
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shelley Madore",
+          104809,
+          "democratic-farmer-labor"
+        ],
+        [
+          "John Kline",
+          181341,
+          "republican"
+        ],
+        [
+          "<write in>",
+          303,
+          "none"
+        ]
+      ],
+      "totalVotes": 286453,
+      "winner": [
+        "John Kline",
+        181341,
+        "republican"
+      ],
+      "totalRepVotes": 181341,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Erik Paulsen",
+          161177,
+          "republican"
+        ],
+        [
+          "Jim Meffert",
+          100240,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          167,
+          "none"
+        ],
+        [
+          "Jon Oleson",
+          12508,
+          "independence"
+        ]
+      ],
+      "totalVotes": 274092,
+      "winner": [
+        "Erik Paulsen",
+        161177,
+        "republican"
+      ],
+      "totalRepVotes": 161177,
+      "totalDemVotes": 0
+    }
+  },
+  "1999": {
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          167,
+          "none"
+        ],
+        [
+          "James L. Oberstar",
+          173734,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Stan (The Man) Estes",
+          15137,
+          "reform"
+        ],
+        [
+          "Jerry Shuster",
+          69667,
+          "republican"
+        ],
+        [
+          "Larry Fuhol",
+          4558,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 263263,
+      "winner": [
+        "James L. Oberstar",
+        173734,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 69667,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "David Minge",
+          148933,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Stan Bentz",
+          12319,
+          "reform"
+        ],
+        [
+          "<write in>",
+          385,
+          "none"
+        ],
+        [
+          "Craig Duehring",
+          99490,
+          "republican"
+        ]
+      ],
+      "totalVotes": 261127,
+      "winner": [
+        "David Minge",
+        148933,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 99490,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "Bill Luther",
+          148728,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          302,
+          "none"
+        ],
+        [
+          "John Kline",
+          136866,
+          "republican"
+        ],
+        [
+          "Eric M. Johnson",
+          11805,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 297701,
+      "winner": [
+        "Bill Luther",
+        148728,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 136866,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Frank Taylor",
+          60035,
+          "republican"
+        ],
+        [
+          "Martin Olav Sabo",
+          145535,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Kevin Houston",
+          7378,
+          "libertarian"
+        ],
+        [
+          "Michael Pennock",
+          2842,
+          "socialist workers"
+        ],
+        [
+          "Jason Kassel",
+          1561,
+          "anti-federalist"
+        ],
+        [
+          "<write in>",
+          261,
+          "none"
+        ]
+      ],
+      "totalVotes": 217612,
+      "winner": [
+        "Martin Olav Sabo",
+        145535,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 60035,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Dennis R. Newinksi",
+          95388,
+          "republican"
+        ],
+        [
+          "Dan R. Vacek",
+          5839,
+          "legal marijuana now"
+        ],
+        [
+          "Heather Wood",
+          2264,
+          "socialist workers"
+        ],
+        [
+          "Michael A. Neitzel",
+          2866,
+          "libertarian"
+        ],
+        [
+          "Carol Simmons Schulstad",
+          4524,
+          "minnesota taxpayers"
+        ],
+        [
+          "Bruce F. Vento",
+          128726,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          139,
+          "none"
+        ]
+      ],
+      "totalVotes": 239746,
+      "winner": [
+        "Bruce F. Vento",
+        128726,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 95388,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          250,
+          "none"
+        ],
+        [
+          "Tracy L. Beckman",
+          108420,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Gil Gutknecht",
+          131233,
+          "republican"
+        ]
+      ],
+      "totalVotes": 239903,
+      "winner": [
+        "Gil Gutknecht",
+        131233,
+        "republican"
+      ],
+      "totalRepVotes": 131233,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Derek W. Schramm",
+          12823,
+          "minnesota taxpayers"
+        ],
+        [
+          "<write in>",
+          250,
+          "none"
+        ],
+        [
+          "Jim Ramstad",
+          203731,
+          "republican"
+        ],
+        [
+          "Stan J. Leino",
+          66505,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 283309,
+      "winner": [
+        "Jim Ramstad",
+        203731,
+        "republican"
+      ],
+      "totalRepVotes": 203731,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Aleta Edin",
+          66562,
+          "republican"
+        ],
+        [
+          "Collin C. Peterson",
+          169907,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          473,
+          "none"
+        ]
+      ],
+      "totalVotes": 236942,
+      "winner": [
+        "Collin C. Peterson",
+        169907,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 66562,
+      "totalDemVotes": 0
+    }
+  },
+  "2003": {
+    "6": {
+      "candidates": [
+        [
+          "Janet Robert",
+          100738,
+          "democrat"
+        ],
+        [
+          "Dan Becker",
+          21484,
+          "independence"
+        ],
+        [
+          "<write in>",
+          343,
+          "none"
+        ],
+        [
+          "Mark R. Kennedy",
+          164747,
+          "republican"
+        ]
+      ],
+      "totalVotes": 287312,
+      "winner": [
+        "Mark R. Kennedy",
+        164747,
+        "republican"
+      ],
+      "totalRepVotes": 164747,
+      "totalDemVotes": 100738
+    },
+    "1": {
+      "candidates": [
+        [
+          "Gil Gutknecht",
+          163570,
+          "republican"
+        ],
+        [
+          "Steve Andreasen",
+          92165,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          283,
+          "none"
+        ],
+        [
+          "Greg Mikkelson",
+          9964,
+          "green"
+        ]
+      ],
+      "totalVotes": 265982,
+      "winner": [
+        "Gil Gutknecht",
+        163570,
+        "republican"
+      ],
+      "totalRepVotes": 163570,
+      "totalDemVotes": 92165
+    },
+    "3": {
+      "candidates": [
+        [
+          "Darryl Stanton",
+          82575,
+          "democrat"
+        ],
+        [
+          "Jim Ramstad",
+          213334,
+          "republican"
+        ],
+        [
+          "<write in>",
+          309,
+          "none"
+        ]
+      ],
+      "totalVotes": 296218,
+      "winner": [
+        "Jim Ramstad",
+        213334,
+        "republican"
+      ],
+      "totalRepVotes": 213334,
+      "totalDemVotes": 82575
+    },
+    "7": {
+      "candidates": [
+        [
+          "Collin C. Peterson",
+          170234,
+          "democrat"
+        ],
+        [
+          "Dan Stevens",
+          90342,
+          "republican"
+        ],
+        [
+          "<write in>",
+          237,
+          "none"
+        ]
+      ],
+      "totalVotes": 260813,
+      "winner": [
+        "Collin C. Peterson",
+        170234,
+        "democrat"
+      ],
+      "totalRepVotes": 90342,
+      "totalDemVotes": 170234
+    },
+    "4": {
+      "candidates": [
+        [
+          "Clyde Billington",
+          89705,
+          "republican"
+        ],
+        [
+          "Betty McCollum",
+          164597,
+          "democrat"
+        ],
+        [
+          "Scott J. Raskiewicz",
+          9919,
+          "green"
+        ],
+        [
+          "<write in>",
+          319,
+          "none"
+        ]
+      ],
+      "totalVotes": 264540,
+      "winner": [
+        "Betty McCollum",
+        164597,
+        "democrat"
+      ],
+      "totalRepVotes": 89705,
+      "totalDemVotes": 164597
+    },
+    "5": {
+      "candidates": [
+        [
+          "Martin Olav Sabo",
+          171572,
+          "democrat"
+        ],
+        [
+          "Daniel Nielsen Mathias",
+          66271,
+          "republican"
+        ],
+        [
+          "Tim Davis",
+          17825,
+          "green"
+        ],
+        [
+          "<write in>",
+          314,
+          "none"
+        ]
+      ],
+      "totalVotes": 255982,
+      "winner": [
+        "Martin Olav Sabo",
+        171572,
+        "democrat"
+      ],
+      "totalRepVotes": 66271,
+      "totalDemVotes": 171572
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          339,
+          "none"
+        ],
+        [
+          "John Kline",
+          152970,
+          "republican"
+        ],
+        [
+          "Samuel D. Garst",
+          12430,
+          "no new taxes"
+        ],
+        [
+          "Bill Luther",
+          121121,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 286860,
+      "winner": [
+        "John Kline",
+        152970,
+        "republican"
+      ],
+      "totalRepVotes": 152970,
+      "totalDemVotes": 121121
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          349,
+          "none"
+        ],
+        [
+          "James L. Oberstar",
+          194909,
+          "democrat"
+        ],
+        [
+          "Bob Lemen",
+          88673,
+          "republican"
+        ]
+      ],
+      "totalVotes": 283931,
+      "winner": [
+        "James L. Oberstar",
+        194909,
+        "democrat"
+      ],
+      "totalRepVotes": 88673,
+      "totalDemVotes": 194909
+    }
+  },
+  "2009": {
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          633,
+          "none"
+        ],
+        [
+          "Barb Davis White",
+          71020,
+          "republican"
+        ],
+        [
+          "Bill McGaughey",
+          22318,
+          "independence"
+        ],
+        [
+          "Keith Ellison",
+          228776,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 322747,
+      "winner": [
+        "Keith Ellison",
+        228776,
+        "democrat"
+      ],
+      "totalRepVotes": 71020,
+      "totalDemVotes": 228776
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          597,
+          "none"
+        ],
+        [
+          "John Kline",
+          220924,
+          "republican"
+        ],
+        [
+          "Steve Sarvi",
+          164093,
+          "democrat"
+        ],
+        [
+          "Kevin Masrud",
+          41,
+          "none"
+        ],
+        [
+          "Curt Walor",
+          1,
+          "none"
+        ]
+      ],
+      "totalVotes": 385656,
+      "winner": [
+        "John Kline",
+        220924,
+        "republican"
+      ],
+      "totalRepVotes": 220924,
+      "totalDemVotes": 164093
+    },
+    "4": {
+      "candidates": [
+        [
+          "Betty McCollum",
+          216267,
+          "democrat"
+        ],
+        [
+          "Amber Garlan",
+          1,
+          "none"
+        ],
+        [
+          "Ed Matthews",
+          98936,
+          "republican"
+        ],
+        [
+          "<write in>",
+          814,
+          "none"
+        ]
+      ],
+      "totalVotes": 316018,
+      "winner": [
+        "Betty McCollum",
+        216267,
+        "democrat"
+      ],
+      "totalRepVotes": 98936,
+      "totalDemVotes": 216267
+    },
+    "7": {
+      "candidates": [
+        [
+          "Glen Menze",
+          87062,
+          "republican"
+        ],
+        [
+          "Collin C. Peterson",
+          227187,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          431,
+          "none"
+        ]
+      ],
+      "totalVotes": 314680,
+      "winner": [
+        "Collin C. Peterson",
+        227187,
+        "democrat"
+      ],
+      "totalRepVotes": 87062,
+      "totalDemVotes": 227187
+    },
+    "6": {
+      "candidates": [
+        [
+          "El Tinklenberg",
+          175786,
+          "democrat"
+        ],
+        [
+          "Michele Bachmann",
+          187817,
+          "republican"
+        ],
+        [
+          "Aubrey Immelman",
+          20,
+          "none"
+        ],
+        [
+          "Bob Anderson",
+          40643,
+          "independence"
+        ],
+        [
+          "<write in>",
+          459,
+          "none"
+        ]
+      ],
+      "totalVotes": 404725,
+      "winner": [
+        "Michele Bachmann",
+        187817,
+        "republican"
+      ],
+      "totalRepVotes": 187817,
+      "totalDemVotes": 175786
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          406,
+          "none"
+        ],
+        [
+          "David Dillon",
+          38970,
+          "independence"
+        ],
+        [
+          "Erik Paulsen",
+          178932,
+          "republican"
+        ],
+        [
+          "Ashwin Madia",
+          150787,
+          "democrat"
+        ],
+        [
+          "Harley Swarm Jr.",
+          9,
+          "none"
+        ]
+      ],
+      "totalVotes": 369104,
+      "winner": [
+        "Erik Paulsen",
+        178932,
+        "republican"
+      ],
+      "totalRepVotes": 178932,
+      "totalDemVotes": 150787
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          582,
+          "none"
+        ],
+        [
+          "James L. Oberstar",
+          241831,
+          "democrat"
+        ],
+        [
+          "Michael Cummins",
+          114871,
+          "republican"
+        ]
+      ],
+      "totalVotes": 357284,
+      "winner": [
+        "James L. Oberstar",
+        241831,
+        "democrat"
+      ],
+      "totalRepVotes": 114871,
+      "totalDemVotes": 241831
+    },
+    "1": {
+      "candidates": [
+        [
+          "Timothy J. Walz",
+          207753,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          290,
+          "none"
+        ],
+        [
+          "Gregory Mikkelson",
+          14904,
+          "independence"
+        ],
+        [
+          "Brian J. Davis",
+          109453,
+          "republican"
+        ]
+      ],
+      "totalVotes": 332400,
+      "winner": [
+        "Timothy J. Walz",
+        207753,
+        "democrat"
+      ],
+      "totalRepVotes": 109453,
+      "totalDemVotes": 207753
+    }
+  },
+  "2005": {
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          356,
+          "none"
+        ],
+        [
+          "Jim Ramstad",
+          231871,
+          "republican"
+        ],
+        [
+          "Deborah Watts",
+          126665,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 358892,
+      "winner": [
+        "Jim Ramstad",
+        231871,
+        "republican"
+      ],
+      "totalRepVotes": 231871,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Teresa Daly",
+          147527,
+          "democratic-farmer-labor"
+        ],
+        [
+          "<write in>",
+          283,
+          "none"
+        ],
+        [
+          "John Kline",
+          206313,
+          "republican"
+        ],
+        [
+          "Doug Williams",
+          11822,
+          "independence"
+        ]
+      ],
+      "totalVotes": 365945,
+      "winner": [
+        "John Kline",
+        206313,
+        "republican"
+      ],
+      "totalRepVotes": 206313,
+      "totalDemVotes": 0
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          271,
+          "none"
+        ],
+        [
+          "Van Presley",
+          8933,
+          "green"
+        ],
+        [
+          "James L. Oberstar",
+          228586,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Mark Groettum",
+          112693,
+          "republican"
+        ]
+      ],
+      "totalVotes": 350483,
+      "winner": [
+        "James L. Oberstar",
+        228586,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 112693,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Gregory Mikkelson",
+          15569,
+          "independence"
+        ],
+        [
+          "Leigh Pomeroy",
+          115088,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Gil Gutknecht",
+          193132,
+          "republican"
+        ],
+        [
+          "<write in>",
+          266,
+          "none"
+        ]
+      ],
+      "totalVotes": 324055,
+      "winner": [
+        "Gil Gutknecht",
+        193132,
+        "republican"
+      ],
+      "totalRepVotes": 193132,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Martin Olav Sabo",
+          218434,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Jay Pond",
+          17984,
+          "green"
+        ],
+        [
+          "Daniel Mathias",
+          76600,
+          "republican"
+        ],
+        [
+          "<write in>",
+          508,
+          "none"
+        ]
+      ],
+      "totalVotes": 313526,
+      "winner": [
+        "Martin Olav Sabo",
+        218434,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 76600,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter F. Vento",
+          29099,
+          "independence"
+        ],
+        [
+          "<write in>",
+          346,
+          "none"
+        ],
+        [
+          "Patrice Bataglia",
+          105467,
+          "republican"
+        ],
+        [
+          "Betty McCollum",
+          182387,
+          "democratic-farmer-labor"
+        ]
+      ],
+      "totalVotes": 317299,
+      "winner": [
+        "Betty McCollum",
+        182387,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 105467,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          246,
+          "none"
+        ],
+        [
+          "Patty Wetterling",
+          173309,
+          "democratic-farmer-labor"
+        ],
+        [
+          "Mark R. Kennedy",
+          203669,
+          "republican"
+        ]
+      ],
+      "totalVotes": 377224,
+      "winner": [
+        "Mark R. Kennedy",
+        203669,
+        "republican"
+      ],
+      "totalRepVotes": 203669,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          280,
+          "none"
+        ],
+        [
+          "Collin C. Peterson",
+          207628,
+          "democratic-farmer-labor"
+        ],
+        [
+          "David E. Sturrock",
+          106349,
+          "republican"
+        ]
+      ],
+      "totalVotes": 314257,
+      "winner": [
+        "Collin C. Peterson",
+        207628,
+        "democratic-farmer-labor"
+      ],
+      "totalRepVotes": 106349,
+      "totalDemVotes": 0
+    }
+  }
+}

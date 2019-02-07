@@ -1,0 +1,1155 @@
+{
+  "2003": {
+    "3": {
+      "candidates": [
+        [
+          "Richard Wayne Odell",
+          1694,
+          "independent american"
+        ],
+        [
+          "Pete O'Neil",
+          6842,
+          "independent"
+        ],
+        [
+          "Jon C. Porter",
+          100378,
+          "republican"
+        ],
+        [
+          "Neil Scott",
+          3421,
+          "libertarian"
+        ],
+        [
+          "Dario Herrera",
+          66659,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 178994,
+      "winner": [
+        "Jon C. Porter",
+        100378,
+        "republican"
+      ],
+      "totalRepVotes": 100378,
+      "totalDemVotes": 66659
+    },
+    "2": {
+      "candidates": [
+        [
+          "Janine Hansen",
+          7240,
+          "independent american"
+        ],
+        [
+          "Jim Gibbons",
+          149574,
+          "republican"
+        ],
+        [
+          "Travis O. Souza",
+          40189,
+          "democrat"
+        ],
+        [
+          "Over Vote",
+          143,
+          "none"
+        ],
+        [
+          "Robert Winquist",
+          784,
+          "natural law"
+        ],
+        [
+          "Brendan Trainor",
+          3413,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 201343,
+      "winner": [
+        "Jim Gibbons",
+        149574,
+        "republican"
+      ],
+      "totalRepVotes": 149574,
+      "totalDemVotes": 40189
+    },
+    "1": {
+      "candidates": [
+        [
+          "Steven Dempsey",
+          2861,
+          "independent american"
+        ],
+        [
+          "Blank Vote",
+          1659,
+          "none"
+        ],
+        [
+          "W. Lane Startin",
+          1393,
+          "green"
+        ],
+        [
+          "Over Vote",
+          143,
+          "none"
+        ],
+        [
+          "Shelley Berkley",
+          64312,
+          "democrat"
+        ],
+        [
+          "Lynette Maria Boggs-McDonald",
+          51148,
+          "republican"
+        ]
+      ],
+      "totalVotes": 121516,
+      "winner": [
+        "Shelley Berkley",
+        64312,
+        "democrat"
+      ],
+      "totalRepVotes": 51148,
+      "totalDemVotes": 64312
+    }
+  },
+  "2011": {
+    "1": {
+      "candidates": [
+        [
+          "Edward George Klapproth",
+          2118,
+          "libertarian"
+        ],
+        [
+          "Kenneth A. Wegner",
+          58995,
+          "republican"
+        ],
+        [
+          "Shelley Berkley",
+          103246,
+          "democrat"
+        ],
+        [
+          "Jonathan J. Hansen",
+          2847,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 167206,
+      "winner": [
+        "Shelley Berkley",
+        103246,
+        "democrat"
+      ],
+      "totalRepVotes": 58995,
+      "totalDemVotes": 103246
+    },
+    "2": {
+      "candidates": [
+        [
+          "Dean Heller",
+          169458,
+          "republican"
+        ],
+        [
+          "Nancy Price",
+          87421,
+          "democrat"
+        ],
+        [
+          "Russel Best",
+          10829,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 267708,
+      "winner": [
+        "Dean Heller",
+        169458,
+        "republican"
+      ],
+      "totalRepVotes": 169458,
+      "totalDemVotes": 87421
+    },
+    "3": {
+      "candidates": [
+        [
+          "Joseph John Heck",
+          128916,
+          "republican"
+        ],
+        [
+          "Barry Michaels",
+          6473,
+          "independent"
+        ],
+        [
+          "Dina Titus",
+          127168,
+          "democrat"
+        ],
+        [
+          "Joseph P. Silvestri",
+          4026,
+          "libertarian"
+        ],
+        [
+          "Scott David Narter",
+          1291,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 267874,
+      "winner": [
+        "Joseph John Heck",
+        128916,
+        "republican"
+      ],
+      "totalRepVotes": 128916,
+      "totalDemVotes": 127168
+    }
+  },
+  "2015": {
+    "2": {
+      "candidates": [
+        [
+          "Kristen Spees",
+          52016,
+          "democrat"
+        ],
+        [
+          "Mark E. Amodei",
+          122402,
+          "republican"
+        ],
+        [
+          "Janine Hansen",
+          11792,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 186210,
+      "winner": [
+        "Mark E. Amodei",
+        122402,
+        "republican"
+      ],
+      "totalRepVotes": 122402,
+      "totalDemVotes": 52016
+    },
+    "4": {
+      "candidates": [
+        [
+          "Steven A. Horsford",
+          59844,
+          "democrat"
+        ],
+        [
+          "Russell Best",
+          3352,
+          "independent american"
+        ],
+        [
+          "Cresent Hardy",
+          63466,
+          "republican"
+        ],
+        [
+          "Steve Brown",
+          4119,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 130781,
+      "winner": [
+        "Cresent Hardy",
+        63466,
+        "republican"
+      ],
+      "totalRepVotes": 63466,
+      "totalDemVotes": 59844
+    },
+    "3": {
+      "candidates": [
+        [
+          "Erin Bilbray",
+          52644,
+          "democrat"
+        ],
+        [
+          "Steven St. John",
+          1344,
+          "independent"
+        ],
+        [
+          "David Goossen",
+          1637,
+          "independent"
+        ],
+        [
+          "Randy Kimmick",
+          1566,
+          "libertarian"
+        ],
+        [
+          "Joseph J. Heck",
+          88528,
+          "republican"
+        ]
+      ],
+      "totalVotes": 145719,
+      "winner": [
+        "Joseph J. Heck",
+        88528,
+        "republican"
+      ],
+      "totalRepVotes": 88528,
+      "totalDemVotes": 52644
+    },
+    "1": {
+      "candidates": [
+        [
+          "Kamau Bakari",
+          1626,
+          "independent american"
+        ],
+        [
+          "Dina Titus",
+          45643,
+          "democrat"
+        ],
+        [
+          "Richard \"Ricardo Carlos\" Charles",
+          2617,
+          "libertarian"
+        ],
+        [
+          "Annette Teijeiro",
+          30413,
+          "republican"
+        ]
+      ],
+      "totalVotes": 80299,
+      "winner": [
+        "Dina Titus",
+        45643,
+        "democrat"
+      ],
+      "totalRepVotes": 30413,
+      "totalDemVotes": 45643
+    }
+  },
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "Kenneth Wegner",
+          64837,
+          "republican"
+        ],
+        [
+          "Caren Alexander",
+          4697,
+          "independent american"
+        ],
+        [
+          "Shelley Berkley",
+          154860,
+          "democrat"
+        ],
+        [
+          "Raymond James Duensing Jr.",
+          4528,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 228922,
+      "winner": [
+        "Shelley Berkley",
+        154860,
+        "democrat"
+      ],
+      "totalRepVotes": 64837,
+      "totalDemVotes": 154860
+    },
+    "3": {
+      "candidates": [
+        [
+          "Floyd Fitzgibbons",
+          6937,
+          "independent american"
+        ],
+        [
+          "Jeffrey C. Reeves",
+          14922,
+          "independent"
+        ],
+        [
+          "Joseph P. Silvestri",
+          10164,
+          "libertarian"
+        ],
+        [
+          "Dina Titus",
+          165912,
+          "democrat"
+        ],
+        [
+          "Bob Gianquinta",
+          3937,
+          "green"
+        ],
+        [
+          "Jon C. Porter",
+          147940,
+          "republican"
+        ]
+      ],
+      "totalVotes": 349812,
+      "winner": [
+        "Dina Titus",
+        165912,
+        "democrat"
+      ],
+      "totalRepVotes": 147940,
+      "totalDemVotes": 165912
+    },
+    "2": {
+      "candidates": [
+        [
+          "John Everhart",
+          11179,
+          "independent american"
+        ],
+        [
+          "Jill Derby",
+          136548,
+          "democrat"
+        ],
+        [
+          "Craig Bergland",
+          5282,
+          "green"
+        ],
+        [
+          "Dean Heller",
+          170771,
+          "republican"
+        ],
+        [
+          "Sean Patrick Morse",
+          5740,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 329520,
+      "winner": [
+        "Dean Heller",
+        170771,
+        "republican"
+      ],
+      "totalRepVotes": 170771,
+      "totalDemVotes": 136548
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "Kenneth Wegner",
+          40917,
+          "republican"
+        ],
+        [
+          "Jim Duensing",
+          2843,
+          "libertarian"
+        ],
+        [
+          "Darnell Roberts",
+          2339,
+          "independent"
+        ],
+        [
+          "Shelley Berkley",
+          85025,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 131124,
+      "winner": [
+        "Shelley Berkley",
+        85025,
+        "democrat"
+      ],
+      "totalRepVotes": 40917,
+      "totalDemVotes": 85025
+    },
+    "3": {
+      "candidates": [
+        [
+          "Joseph P. Silvestri",
+          5157,
+          "libertarian"
+        ],
+        [
+          "Joshua Hansen",
+          5329,
+          "independent"
+        ],
+        [
+          "Tessa M. Hafen",
+          98261,
+          "democrat"
+        ],
+        [
+          "Jon C. Porter",
+          102232,
+          "republican"
+        ]
+      ],
+      "totalVotes": 210979,
+      "winner": [
+        "Jon C. Porter",
+        102232,
+        "republican"
+      ],
+      "totalRepVotes": 102232,
+      "totalDemVotes": 98261
+    },
+    "2": {
+      "candidates": [
+        [
+          "Daniel Rosen",
+          5524,
+          "independent"
+        ],
+        [
+          "Jill Derby",
+          104593,
+          "democrat"
+        ],
+        [
+          "James C. Kroshus",
+          5439,
+          "independent"
+        ],
+        [
+          "Dean Heller",
+          117168,
+          "republican"
+        ]
+      ],
+      "totalVotes": 232724,
+      "winner": [
+        "Dean Heller",
+        117168,
+        "republican"
+      ],
+      "totalRepVotes": 117168,
+      "totalDemVotes": 104593
+    }
+  },
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "Jim Gibbons",
+          195466,
+          "republican"
+        ],
+        [
+          "Angie G. Cochran",
+          79978,
+          "democrat"
+        ],
+        [
+          "Brendan J. Trainor",
+          4997,
+          "libertarian"
+        ],
+        [
+          "Janine Hansen",
+          10638,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 291079,
+      "winner": [
+        "Jim Gibbons",
+        195466,
+        "republican"
+      ],
+      "totalRepVotes": 195466,
+      "totalDemVotes": 79978
+    },
+    "3": {
+      "candidates": [
+        [
+          "Richard Wayne O'Dell",
+          6053,
+          "independent american"
+        ],
+        [
+          "Joseph P. Silvestri",
+          9260,
+          "libertarian"
+        ],
+        [
+          "Tom Gallagher",
+          120365,
+          "democrat"
+        ],
+        [
+          "Jon Porter",
+          162240,
+          "republican"
+        ]
+      ],
+      "totalVotes": 297918,
+      "winner": [
+        "Jon Porter",
+        162240,
+        "republican"
+      ],
+      "totalRepVotes": 162240,
+      "totalDemVotes": 120365
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jim Duensing",
+          5862,
+          "libertarian"
+        ],
+        [
+          "Russ Mickelson",
+          63005,
+          "republican"
+        ],
+        [
+          "Shelley Berkley",
+          133569,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 202436,
+      "winner": [
+        "Shelley Berkley",
+        133569,
+        "democrat"
+      ],
+      "totalRepVotes": 63005,
+      "totalDemVotes": 133569
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Thomas \"Spike\" Wilson",
+          97742,
+          "democrat"
+        ],
+        [
+          "Lois Avery",
+          4628,
+          "natural law"
+        ],
+        [
+          "Dan Hansen",
+          8780,
+          "independent american"
+        ],
+        [
+          "Louis R. Tomburello",
+          3732,
+          "libertarian"
+        ],
+        [
+          "Jim Gibbons",
+          162310,
+          "republican"
+        ]
+      ],
+      "totalVotes": 277192,
+      "winner": [
+        "Jim Gibbons",
+        162310,
+        "republican"
+      ],
+      "totalRepVotes": 162310,
+      "totalDemVotes": 97742
+    },
+    "1": {
+      "candidates": [
+        [
+          "Bob Coffin",
+          75081,
+          "democrat"
+        ],
+        [
+          "John E. Ensign",
+          86472,
+          "republican"
+        ],
+        [
+          "James Dan",
+          3341,
+          "libertarian"
+        ],
+        [
+          "Richard Eidson",
+          3127,
+          "natural law"
+        ],
+        [
+          "Ted Gunderson",
+          4572,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 172593,
+      "winner": [
+        "John E. Ensign",
+        86472,
+        "republican"
+      ],
+      "totalRepVotes": 86472,
+      "totalDemVotes": 75081
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Russell Best",
+          6051,
+          "independent american"
+        ],
+        [
+          "Michael L. Haines",
+          11166,
+          "independent"
+        ],
+        [
+          "Mark E. Amodei",
+          162213,
+          "republican"
+        ],
+        [
+          "Samuel Koepnick",
+          102019,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 281449,
+      "winner": [
+        "Mark E. Amodei",
+        162213,
+        "republican"
+      ],
+      "totalRepVotes": 162213,
+      "totalDemVotes": 102019
+    },
+    "3": {
+      "candidates": [
+        [
+          "John Oceguera",
+          116823,
+          "democrat"
+        ],
+        [
+          "Tom Jones",
+          5600,
+          "independent american"
+        ],
+        [
+          "Joseph J. Heck",
+          137244,
+          "republican"
+        ],
+        [
+          "Jim Murphy",
+          12856,
+          "independent"
+        ]
+      ],
+      "totalVotes": 272523,
+      "winner": [
+        "Joseph J. Heck",
+        137244,
+        "republican"
+      ],
+      "totalRepVotes": 137244,
+      "totalDemVotes": 116823
+    },
+    "1": {
+      "candidates": [
+        [
+          "Chris Edwards",
+          56521,
+          "republican"
+        ],
+        [
+          "Stan Vaughan",
+          4145,
+          "independent american"
+        ],
+        [
+          "William ??Bill?? Pojunis",
+          4645,
+          "libertarian"
+        ],
+        [
+          "Dina Titus",
+          113967,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 179278,
+      "winner": [
+        "Dina Titus",
+        113967,
+        "democrat"
+      ],
+      "totalRepVotes": 56521,
+      "totalDemVotes": 113967
+    },
+    "4": {
+      "candidates": [
+        [
+          "Steven A. Horsford",
+          120501,
+          "democrat"
+        ],
+        [
+          "Floyd Fitzgibbons",
+          9389,
+          "independent american"
+        ],
+        [
+          "Joseph P. Silvestri",
+          9341,
+          "libertarian"
+        ],
+        [
+          "Danny Tarkanian",
+          101261,
+          "republican"
+        ]
+      ],
+      "totalVotes": 240492,
+      "winner": [
+        "Steven A. Horsford",
+        120501,
+        "democrat"
+      ],
+      "totalRepVotes": 101261,
+      "totalDemVotes": 120501
+    }
+  },
+  "2017": {
+    "1": {
+      "candidates": [
+        [
+          "Dina Titus",
+          116537,
+          "democrat"
+        ],
+        [
+          "Kamau A. Bakari",
+          3744,
+          "independent american"
+        ],
+        [
+          "Reuben D'Silva",
+          13897,
+          "none"
+        ],
+        [
+          "Mary Perry",
+          54174,
+          "republican"
+        ]
+      ],
+      "totalVotes": 188352,
+      "winner": [
+        "Dina Titus",
+        116537,
+        "democrat"
+      ],
+      "totalRepVotes": 54174,
+      "totalDemVotes": 116537
+    },
+    "3": {
+      "candidates": [
+        [
+          "David Goossen",
+          9566,
+          "none"
+        ],
+        [
+          "Danny Tarkanian",
+          142926,
+          "republican"
+        ],
+        [
+          "Warren Markowitz",
+          11602,
+          "independent american"
+        ],
+        [
+          "Jacky Rosen",
+          146869,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 310963,
+      "winner": [
+        "Jacky Rosen",
+        146869,
+        "democrat"
+      ],
+      "totalRepVotes": 142926,
+      "totalDemVotes": 146869
+    },
+    "2": {
+      "candidates": [
+        [
+          "Drew Knight",
+          6245,
+          "none"
+        ],
+        [
+          "John H. Everhart",
+          8693,
+          "independent american"
+        ],
+        [
+          "H. D. \"Chip\" Evans",
+          115722,
+          "democrat"
+        ],
+        [
+          "Mark E. Amodei",
+          182676,
+          "republican"
+        ]
+      ],
+      "totalVotes": 313336,
+      "winner": [
+        "Mark E. Amodei",
+        182676,
+        "republican"
+      ],
+      "totalRepVotes": 182676,
+      "totalDemVotes": 115722
+    },
+    "4": {
+      "candidates": [
+        [
+          "Cresent Hardy",
+          118328,
+          "republican"
+        ],
+        [
+          "Mike Little",
+          8327,
+          "independent american"
+        ],
+        [
+          "Steve Brown",
+          10206,
+          "libertarian"
+        ],
+        [
+          "Ruben Kihuen",
+          128985,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 265846,
+      "winner": [
+        "Ruben Kihuen",
+        128985,
+        "democrat"
+      ],
+      "totalRepVotes": 118328,
+      "totalDemVotes": 128985
+    }
+  },
+  "1999": {
+    "1": {
+      "candidates": [
+        [
+          "Shelley Berkley",
+          79315,
+          "democrat"
+        ],
+        [
+          "Don Chairez",
+          73540,
+          "republican"
+        ],
+        [
+          "Jim Burns",
+          5292,
+          "libertarian"
+        ],
+        [
+          "Jess Howe",
+          2935,
+          "independent american"
+        ]
+      ],
+      "totalVotes": 161082,
+      "winner": [
+        "Shelley Berkley",
+        79315,
+        "democrat"
+      ],
+      "totalRepVotes": 73540,
+      "totalDemVotes": 79315
+    },
+    "2": {
+      "candidates": [
+        [
+          "Cristopher Horne",
+          20738,
+          "independent american"
+        ],
+        [
+          "Robert W. Winquist",
+          7841,
+          "natural law"
+        ],
+        [
+          "Louis R. Tomburello",
+          18561,
+          "libertarian"
+        ],
+        [
+          "Jim Gibbons",
+          201623,
+          "republican"
+        ]
+      ],
+      "totalVotes": 248763,
+      "winner": [
+        "Jim Gibbons",
+        201623,
+        "republican"
+      ],
+      "totalRepVotes": 201623,
+      "totalDemVotes": 0
+    }
+  },
+  "2001": {
+    "2": {
+      "candidates": [
+        [
+          "Jim Gibbons",
+          229608,
+          "republican"
+        ],
+        [
+          "Terry Savage",
+          5343,
+          "libertarian"
+        ],
+        [
+          "Tierney Cahill",
+          106379,
+          "democrat"
+        ],
+        [
+          "Ken Brenneman",
+          2367,
+          "citizens first"
+        ],
+        [
+          "A. Charles Laws",
+          5547,
+          "green"
+        ],
+        [
+          "Daniel Hansen",
+          5582,
+          "independent american"
+        ],
+        [
+          "Blank Vote",
+          1318,
+          "none"
+        ],
+        [
+          "Robert W. Winquist",
+          1143,
+          "natural law"
+        ],
+        [
+          "Over Vote",
+          131,
+          "none"
+        ]
+      ],
+      "totalVotes": 357418,
+      "winner": [
+        "Jim Gibbons",
+        229608,
+        "republican"
+      ],
+      "totalRepVotes": 229608,
+      "totalDemVotes": 106379
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jon Porter",
+          101276,
+          "republican"
+        ],
+        [
+          "Charles Schneider",
+          4011,
+          "libertarian"
+        ],
+        [
+          "Shelley Berkley",
+          118469,
+          "democrat"
+        ],
+        [
+          "Christopher H. Hansen",
+          3933,
+          "independent american"
+        ],
+        [
+          "W. G. Swenson",
+          1546,
+          "citizens first"
+        ]
+      ],
+      "totalVotes": 229235,
+      "winner": [
+        "Shelley Berkley",
+        118469,
+        "democrat"
+      ],
+      "totalRepVotes": 101276,
+      "totalDemVotes": 118469
+    }
+  }
+}

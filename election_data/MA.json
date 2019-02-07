@@ -1,0 +1,3283 @@
+{
+  "2001": {
+    "3": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          63009,
+          "none"
+        ],
+        [
+          "Other",
+          2496,
+          "none"
+        ],
+        [
+          "James P. McGovern",
+          213065,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 278570,
+      "winner": [
+        "James P. McGovern",
+        213065,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 213065
+    },
+    "10": {
+      "candidates": [
+        [
+          "William D. Delahunt",
+          234675,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          16227,
+          "none"
+        ],
+        [
+          "Eric V. Bleicken",
+          81192,
+          "republican"
+        ],
+        [
+          "Other",
+          697,
+          "none"
+        ]
+      ],
+      "totalVotes": 332791,
+      "winner": [
+        "William D. Delahunt",
+        234675,
+        "democrat"
+      ],
+      "totalRepVotes": 81192,
+      "totalDemVotes": 234675
+    },
+    "9": {
+      "candidates": [
+        [
+          "Janet E. Jeghelian",
+          48672,
+          "republican"
+        ],
+        [
+          "John Joseph Moakley",
+          193020,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          22313,
+          "none"
+        ],
+        [
+          "David A. Rosa",
+          6998,
+          "unenrolled"
+        ],
+        [
+          "Other",
+          66,
+          "none"
+        ]
+      ],
+      "totalVotes": 271069,
+      "winner": [
+        "John Joseph Moakley",
+        193020,
+        "democrat"
+      ],
+      "totalRepVotes": 48672,
+      "totalDemVotes": 193020
+    },
+    "1": {
+      "candidates": [
+        [
+          "John W. Olver",
+          169375,
+          "democrat"
+        ],
+        [
+          "Peter J. Abair",
+          73580,
+          "republican"
+        ],
+        [
+          "Blank Vote/Scattering",
+          11099,
+          "none"
+        ],
+        [
+          "Other",
+          89,
+          "none"
+        ],
+        [
+          "Robert L. Potvin",
+          5157,
+          "unenrolled"
+        ]
+      ],
+      "totalVotes": 259300,
+      "winner": [
+        "John W. Olver",
+        169375,
+        "democrat"
+      ],
+      "totalRepVotes": 73580,
+      "totalDemVotes": 169375
+    },
+    "5": {
+      "candidates": [
+        [
+          "Other",
+          4040,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          64820,
+          "none"
+        ],
+        [
+          "Martin T. Meehan",
+          199601,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 268461,
+      "winner": [
+        "Martin T. Meehan",
+        199601,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 199601
+    },
+    "7": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          66154,
+          "none"
+        ],
+        [
+          "Edward J. Markey",
+          211543,
+          "democrat"
+        ],
+        [
+          "Other",
+          2268,
+          "none"
+        ]
+      ],
+      "totalVotes": 279965,
+      "winner": [
+        "Edward J. Markey",
+        211543,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 211543
+    },
+    "4": {
+      "candidates": [
+        [
+          "David J. Euchner",
+          10553,
+          "libertarian"
+        ],
+        [
+          "Other",
+          136,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          15501,
+          "none"
+        ],
+        [
+          "Barney Frank",
+          200638,
+          "democrat"
+        ],
+        [
+          "Martin D. Travis",
+          56553,
+          "republican"
+        ]
+      ],
+      "totalVotes": 283381,
+      "winner": [
+        "Barney Frank",
+        200638,
+        "democrat"
+      ],
+      "totalRepVotes": 56553,
+      "totalDemVotes": 200638
+    },
+    "2": {
+      "candidates": [
+        [
+          "Other",
+          2176,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          55021,
+          "none"
+        ],
+        [
+          "Richard E. Neal",
+          196670,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 253867,
+      "winner": [
+        "Richard E. Neal",
+        196670,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 196670
+    },
+    "8": {
+      "candidates": [
+        [
+          "Other",
+          1041,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          57651,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          144031,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 202723,
+      "winner": [
+        "Michael E. Capuano",
+        144031,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 144031
+    },
+    "6": {
+      "candidates": [
+        [
+          "John F. Tierney",
+          205324,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          14802,
+          "none"
+        ],
+        [
+          "Paul McCarthy",
+          83501,
+          "republican"
+        ],
+        [
+          "Other",
+          218,
+          "none"
+        ]
+      ],
+      "totalVotes": 303845,
+      "winner": [
+        "John F. Tierney",
+        205324,
+        "democrat"
+      ],
+      "totalRepVotes": 83501,
+      "totalDemVotes": 205324
+    }
+  },
+  "2005": {
+    "10": {
+      "candidates": [
+        [
+          "William D. Delahunt",
+          222013,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          13668,
+          "none"
+        ],
+        [
+          "Other",
+          178,
+          "none"
+        ],
+        [
+          "Michael J. Jones",
+          114879,
+          "republican"
+        ]
+      ],
+      "totalVotes": 350738,
+      "winner": [
+        "William D. Delahunt",
+        222013,
+        "democrat"
+      ],
+      "totalRepVotes": 114879,
+      "totalDemVotes": 222013
+    },
+    "1": {
+      "candidates": [
+        [
+          "John W. Olver",
+          229465,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          63461,
+          "none"
+        ],
+        [
+          "Other",
+          2282,
+          "none"
+        ]
+      ],
+      "totalVotes": 295208,
+      "winner": [
+        "John W. Olver",
+        229465,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 229465
+    },
+    "5": {
+      "candidates": [
+        [
+          "Martin T. Meehan",
+          179652,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          12121,
+          "none"
+        ],
+        [
+          "Thomas P. Tierney",
+          88232,
+          "republican"
+        ],
+        [
+          "Other",
+          305,
+          "none"
+        ]
+      ],
+      "totalVotes": 280310,
+      "winner": [
+        "Martin T. Meehan",
+        179652,
+        "democrat"
+      ],
+      "totalRepVotes": 88232,
+      "totalDemVotes": 179652
+    },
+    "7": {
+      "candidates": [
+        [
+          "Edward J. Markey",
+          202399,
+          "democrat"
+        ],
+        [
+          "Other",
+          227,
+          "none"
+        ],
+        [
+          "James O. Hall",
+          12139,
+          "independent"
+        ],
+        [
+          "Kenneth G. Chase",
+          60334,
+          "republican"
+        ],
+        [
+          "Blank Vote/Scattering",
+          17088,
+          "none"
+        ]
+      ],
+      "totalVotes": 292187,
+      "winner": [
+        "Edward J. Markey",
+        202399,
+        "democrat"
+      ],
+      "totalRepVotes": 60334,
+      "totalDemVotes": 202399
+    },
+    "6": {
+      "candidates": [
+        [
+          "Stephen P. O'Malley, Jr.",
+          91597,
+          "republican"
+        ],
+        [
+          "John F. Tierney",
+          213458,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          16214,
+          "none"
+        ],
+        [
+          "Other",
+          467,
+          "none"
+        ]
+      ],
+      "totalVotes": 321736,
+      "winner": [
+        "John F. Tierney",
+        213458,
+        "democrat"
+      ],
+      "totalRepVotes": 91597,
+      "totalDemVotes": 213458
+    },
+    "4": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          17744,
+          "none"
+        ],
+        [
+          "Charles A. Morse",
+          62293,
+          "independent"
+        ],
+        [
+          "Barney Frank",
+          219260,
+          "democrat"
+        ],
+        [
+          "Other",
+          486,
+          "none"
+        ]
+      ],
+      "totalVotes": 299783,
+      "winner": [
+        "Barney Frank",
+        219260,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 219260
+    },
+    "2": {
+      "candidates": [
+        [
+          "Richard E. Neal",
+          217682,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          67387,
+          "none"
+        ],
+        [
+          "Other",
+          2802,
+          "none"
+        ]
+      ],
+      "totalVotes": 287871,
+      "winner": [
+        "Richard E. Neal",
+        217682,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 217682
+    },
+    "8": {
+      "candidates": [
+        [
+          "Other",
+          2229,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          47719,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          165852,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 215800,
+      "winner": [
+        "Michael E. Capuano",
+        165852,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 165852
+    },
+    "3": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          13584,
+          "none"
+        ],
+        [
+          "Ronald A. Crews",
+          80197,
+          "republican"
+        ],
+        [
+          "Other",
+          179,
+          "none"
+        ],
+        [
+          "James P. McGovern",
+          192036,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 285996,
+      "winner": [
+        "James P. McGovern",
+        192036,
+        "democrat"
+      ],
+      "totalRepVotes": 80197,
+      "totalDemVotes": 192036
+    },
+    "9": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          77514,
+          "none"
+        ],
+        [
+          "Stephen F. Lynch",
+          218167,
+          "democrat"
+        ],
+        [
+          "Other",
+          2145,
+          "none"
+        ]
+      ],
+      "totalVotes": 297826,
+      "winner": [
+        "Stephen F. Lynch",
+        218167,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 218167
+    }
+  },
+  "2017": {
+    "5": {
+      "candidates": [
+        [
+          "Katherine M. Clark",
+          285606,
+          "democrat"
+        ],
+        [
+          "Blank Vote",
+          95648,
+          "none"
+        ],
+        [
+          "Other",
+          4201,
+          "none"
+        ]
+      ],
+      "totalVotes": 385455,
+      "winner": [
+        "Katherine M. Clark",
+        285606,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 285606
+    },
+    "3": {
+      "candidates": [
+        [
+          "Other",
+          360,
+          "none"
+        ],
+        [
+          "Ann Wofford",
+          107519,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          15532,
+          "none"
+        ],
+        [
+          "Niki Tsongas",
+          236713,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 360124,
+      "winner": [
+        "Niki Tsongas",
+        236713,
+        "democrat"
+      ],
+      "totalRepVotes": 107519,
+      "totalDemVotes": 236713
+    },
+    "6": {
+      "candidates": [
+        [
+          "Seth Moulton",
+          308923,
+          "democrat"
+        ],
+        [
+          "Other",
+          5132,
+          "none"
+        ],
+        [
+          "Blank Vote",
+          101694,
+          "none"
+        ]
+      ],
+      "totalVotes": 415749,
+      "winner": [
+        "Seth Moulton",
+        308923,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 308923
+    },
+    "8": {
+      "candidates": [
+        [
+          "William Burke",
+          102744,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          21744,
+          "none"
+        ],
+        [
+          "Stephen F. Lynch",
+          271019,
+          "democrat"
+        ],
+        [
+          "Other",
+          502,
+          "none"
+        ]
+      ],
+      "totalVotes": 396009,
+      "winner": [
+        "Stephen F. Lynch",
+        271019,
+        "democrat"
+      ],
+      "totalRepVotes": 102744,
+      "totalDemVotes": 271019
+    },
+    "1": {
+      "candidates": [
+        [
+          "Other",
+          721,
+          "none"
+        ],
+        [
+          "Richard E. Neal",
+          235803,
+          "democrat"
+        ],
+        [
+          "Blank Vote",
+          28137,
+          "none"
+        ],
+        [
+          "Thomas T. Simmons",
+          27511,
+          "libertarian"
+        ],
+        [
+          "Frederick O. Mayock",
+          57504,
+          "independent"
+        ]
+      ],
+      "totalVotes": 349676,
+      "winner": [
+        "Richard E. Neal",
+        235803,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 235803
+    },
+    "9": {
+      "candidates": [
+        [
+          "Mark C. Alliegro",
+          127803,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          23747,
+          "none"
+        ],
+        [
+          "Other",
+          411,
+          "none"
+        ],
+        [
+          "Anna Grace Raduc",
+          5320,
+          "unenrolled"
+        ],
+        [
+          "William R. Keating",
+          211790,
+          "democrat"
+        ],
+        [
+          "Paul J. Harrington",
+          26233,
+          "independent"
+        ],
+        [
+          "Christopher D. Cataldo",
+          8338,
+          "unenrolled"
+        ]
+      ],
+      "totalVotes": 403642,
+      "winner": [
+        "William R. Keating",
+        211790,
+        "democrat"
+      ],
+      "totalRepVotes": 127803,
+      "totalDemVotes": 211790
+    },
+    "4": {
+      "candidates": [
+        [
+          "David A. Rosa",
+          113055,
+          "republican"
+        ],
+        [
+          "Joseph P. Kennedy III",
+          265823,
+          "democrat"
+        ],
+        [
+          "Other",
+          335,
+          "none"
+        ],
+        [
+          "Blank Vote",
+          16091,
+          "none"
+        ]
+      ],
+      "totalVotes": 395304,
+      "winner": [
+        "Joseph P. Kennedy III",
+        265823,
+        "democrat"
+      ],
+      "totalRepVotes": 113055,
+      "totalDemVotes": 265823
+    },
+    "7": {
+      "candidates": [
+        [
+          "Blank Vote",
+          52734,
+          "none"
+        ],
+        [
+          "Other",
+          3557,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          253354,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 309645,
+      "winner": [
+        "Michael E. Capuano",
+        253354,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 253354
+    },
+    "2": {
+      "candidates": [
+        [
+          "James P. McGovern",
+          275487,
+          "democrat"
+        ],
+        [
+          "Other",
+          4924,
+          "none"
+        ],
+        [
+          "Blank Vote",
+          82786,
+          "none"
+        ]
+      ],
+      "totalVotes": 363197,
+      "winner": [
+        "James P. McGovern",
+        275487,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 275487
+    }
+  },
+  "2009": {
+    "7": {
+      "candidates": [
+        [
+          "Other",
+          400,
+          "none"
+        ],
+        [
+          "John Cunningham",
+          67978,
+          "republican"
+        ],
+        [
+          "Blank Vote/Scattering",
+          20528,
+          "none"
+        ],
+        [
+          "Edward J. Markey",
+          212304,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 301210,
+      "winner": [
+        "Edward J. Markey",
+        212304,
+        "democrat"
+      ],
+      "totalRepVotes": 67978,
+      "totalDemVotes": 212304
+    },
+    "10": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          87078,
+          "none"
+        ],
+        [
+          "William D. Delahunt",
+          272899,
+          "democrat"
+        ],
+        [
+          "Other",
+          3774,
+          "none"
+        ]
+      ],
+      "totalVotes": 363751,
+      "winner": [
+        "William D. Delahunt",
+        272899,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 272899
+    },
+    "6": {
+      "candidates": [
+        [
+          "John F. Tierney",
+          226216,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          17406,
+          "none"
+        ],
+        [
+          "Other",
+          251,
+          "none"
+        ],
+        [
+          "Richard A. Baker",
+          94845,
+          "republican"
+        ]
+      ],
+      "totalVotes": 338718,
+      "winner": [
+        "John F. Tierney",
+        226216,
+        "democrat"
+      ],
+      "totalRepVotes": 94845,
+      "totalDemVotes": 226216
+    },
+    "4": {
+      "candidates": [
+        [
+          "Susan Allen",
+          19848,
+          "independent"
+        ],
+        [
+          "Earl Henry Sholley",
+          75571,
+          "republican"
+        ],
+        [
+          "Blank Vote/Scattering",
+          16946,
+          "none"
+        ],
+        [
+          "Other",
+          337,
+          "none"
+        ],
+        [
+          "Barney Frank",
+          203032,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 315734,
+      "winner": [
+        "Barney Frank",
+        203032,
+        "democrat"
+      ],
+      "totalRepVotes": 75571,
+      "totalDemVotes": 203032
+    },
+    "1": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          13518,
+          "none"
+        ],
+        [
+          "Other",
+          336,
+          "none"
+        ],
+        [
+          "Nathan A. Bech",
+          80067,
+          "republican"
+        ],
+        [
+          "John W. Olver",
+          215696,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 309617,
+      "winner": [
+        "John W. Olver",
+        215696,
+        "democrat"
+      ],
+      "totalRepVotes": 80067,
+      "totalDemVotes": 215696
+    },
+    "9": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          72126,
+          "none"
+        ],
+        [
+          "Stephen F. Lynch",
+          242166,
+          "democrat"
+        ],
+        [
+          "Other",
+          3128,
+          "none"
+        ]
+      ],
+      "totalVotes": 317420,
+      "winner": [
+        "Stephen F. Lynch",
+        242166,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 242166
+    },
+    "2": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          68820,
+          "none"
+        ],
+        [
+          "Richard E. Neal",
+          234369,
+          "democrat"
+        ],
+        [
+          "Other",
+          3631,
+          "none"
+        ]
+      ],
+      "totalVotes": 306820,
+      "winner": [
+        "Richard E. Neal",
+        234369,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 234369
+    },
+    "5": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          73490,
+          "none"
+        ],
+        [
+          "Other",
+          2960,
+          "none"
+        ],
+        [
+          "Niki Tsongas",
+          225947,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 302397,
+      "winner": [
+        "Niki Tsongas",
+        225947,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 225947
+    },
+    "3": {
+      "candidates": [
+        [
+          "James P. McGovern",
+          227619,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          72208,
+          "none"
+        ],
+        [
+          "Other",
+          3488,
+          "none"
+        ]
+      ],
+      "totalVotes": 303315,
+      "winner": [
+        "James P. McGovern",
+        227619,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 227619
+    },
+    "8": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          55761,
+          "none"
+        ],
+        [
+          "Other",
+          2722,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          185530,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 244013,
+      "winner": [
+        "Michael E. Capuano",
+        185530,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 185530
+    }
+  },
+  "2015": {
+    "8": {
+      "candidates": [
+        [
+          "Blank Vote",
+          58430,
+          "none"
+        ],
+        [
+          "Other",
+          2707,
+          "none"
+        ],
+        [
+          "Stephen F. Lynch",
+          200644,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 261781,
+      "winner": [
+        "Stephen F. Lynch",
+        200644,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 200644
+    },
+    "3": {
+      "candidates": [
+        [
+          "Niki Tsongas",
+          139104,
+          "democrat"
+        ],
+        [
+          "Other",
+          204,
+          "none"
+        ],
+        [
+          "Blank Vote",
+          9843,
+          "none"
+        ],
+        [
+          "Roseann L. Ehrhard Wofford",
+          81638,
+          "republican"
+        ]
+      ],
+      "totalVotes": 230789,
+      "winner": [
+        "Niki Tsongas",
+        139104,
+        "democrat"
+      ],
+      "totalRepVotes": 81638,
+      "totalDemVotes": 139104
+    },
+    "7": {
+      "candidates": [
+        [
+          "Blank Vote",
+          31531,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          142133,
+          "democrat"
+        ],
+        [
+          "Other",
+          2413,
+          "none"
+        ]
+      ],
+      "totalVotes": 176077,
+      "winner": [
+        "Michael E. Capuano",
+        142133,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 142133
+    },
+    "9": {
+      "candidates": [
+        [
+          "Blank Vote",
+          9011,
+          "none"
+        ],
+        [
+          "John C. Chapman",
+          114971,
+          "republican"
+        ],
+        [
+          "William R. Keating",
+          140413,
+          "democrat"
+        ],
+        [
+          "Other",
+          157,
+          "none"
+        ]
+      ],
+      "totalVotes": 264552,
+      "winner": [
+        "William R. Keating",
+        140413,
+        "democrat"
+      ],
+      "totalRepVotes": 114971,
+      "totalDemVotes": 140413
+    },
+    "2": {
+      "candidates": [
+        [
+          "Blank Vote",
+          63068,
+          "none"
+        ],
+        [
+          "James P. McGovern",
+          169640,
+          "democrat"
+        ],
+        [
+          "Other",
+          3105,
+          "none"
+        ]
+      ],
+      "totalVotes": 235813,
+      "winner": [
+        "James P. McGovern",
+        169640,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 169640
+    },
+    "5": {
+      "candidates": [
+        [
+          "Blank Vote",
+          71226,
+          "none"
+        ],
+        [
+          "Other",
+          3159,
+          "none"
+        ],
+        [
+          "Katherine M. Clark",
+          182100,
+          "democrat"
+        ],
+        [
+          "William F. Wilt",
+          1,
+          "none"
+        ]
+      ],
+      "totalVotes": 256486,
+      "winner": [
+        "Katherine M. Clark",
+        182100,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 182100
+    },
+    "4": {
+      "candidates": [
+        [
+          "Blank Vote",
+          67199,
+          "none"
+        ],
+        [
+          "Joseph P. Kennedy III",
+          184158,
+          "democrat"
+        ],
+        [
+          "Other",
+          3940,
+          "none"
+        ]
+      ],
+      "totalVotes": 255297,
+      "winner": [
+        "Joseph P. Kennedy III",
+        184158,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 184158
+    },
+    "6": {
+      "candidates": [
+        [
+          "Christopher J. Stockwell",
+          10373,
+          "independent"
+        ],
+        [
+          "Seth W. Moulton",
+          149638,
+          "democrat"
+        ],
+        [
+          "Richard R. Tisei",
+          111989,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          6700,
+          "none"
+        ],
+        [
+          "Other",
+          219,
+          "none"
+        ]
+      ],
+      "totalVotes": 278919,
+      "winner": [
+        "Seth W. Moulton",
+        149638,
+        "democrat"
+      ],
+      "totalRepVotes": 111989,
+      "totalDemVotes": 149638
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard E. Neal",
+          167612,
+          "democrat"
+        ],
+        [
+          "Other",
+          3498,
+          "none"
+        ],
+        [
+          "Blank Vote",
+          55965,
+          "none"
+        ]
+      ],
+      "totalVotes": 227075,
+      "winner": [
+        "Richard E. Neal",
+        167612,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 167612
+    }
+  },
+  "2007": {
+    "9": {
+      "candidates": [
+        [
+          "Jack E. Robinson",
+          47114,
+          "republican"
+        ],
+        [
+          "Stephen F. Lynch",
+          169420,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          17469,
+          "none"
+        ],
+        [
+          "Other",
+          502,
+          "none"
+        ]
+      ],
+      "totalVotes": 234505,
+      "winner": [
+        "Stephen F. Lynch",
+        169420,
+        "democrat"
+      ],
+      "totalRepVotes": 47114,
+      "totalDemVotes": 169420
+    },
+    "8": {
+      "candidates": [
+        [
+          "Other",
+          491,
+          "none"
+        ],
+        [
+          "Laura Garza",
+          12449,
+          "socialist workers"
+        ],
+        [
+          "Michael E. Capuano",
+          125515,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          20970,
+          "none"
+        ]
+      ],
+      "totalVotes": 159425,
+      "winner": [
+        "Michael E. Capuano",
+        125515,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 125515
+    },
+    "7": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          51339,
+          "none"
+        ],
+        [
+          "Edward J. Markey",
+          171902,
+          "democrat"
+        ],
+        [
+          "Other",
+          2889,
+          "none"
+        ]
+      ],
+      "totalVotes": 226130,
+      "winner": [
+        "Edward J. Markey",
+        171902,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 171902
+    },
+    "6": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          11659,
+          "none"
+        ],
+        [
+          "Other",
+          572,
+          "none"
+        ],
+        [
+          "Richard W. Barton",
+          72997,
+          "republican"
+        ],
+        [
+          "John F. Tierney",
+          168056,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 253284,
+      "winner": [
+        "John F. Tierney",
+        168056,
+        "democrat"
+      ],
+      "totalRepVotes": 72997,
+      "totalDemVotes": 168056
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          2730,
+          "none"
+        ],
+        [
+          "Barney Frank",
+          176513,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          47671,
+          "none"
+        ]
+      ],
+      "totalVotes": 226914,
+      "winner": [
+        "Barney Frank",
+        176513,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 176513
+    },
+    "2": {
+      "candidates": [
+        [
+          "Other",
+          2254,
+          "none"
+        ],
+        [
+          "Richard E. Neal",
+          164939,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          47746,
+          "none"
+        ]
+      ],
+      "totalVotes": 214939,
+      "winner": [
+        "Richard E. Neal",
+        164939,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 164939
+    },
+    "10": {
+      "candidates": [
+        [
+          "William D. Delahunt",
+          171812,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          9571,
+          "none"
+        ],
+        [
+          "Jeffrey K. Beatty",
+          78439,
+          "republican"
+        ],
+        [
+          "Peter A. White",
+          16808,
+          "independent"
+        ],
+        [
+          "Other",
+          143,
+          "none"
+        ]
+      ],
+      "totalVotes": 276773,
+      "winner": [
+        "William D. Delahunt",
+        171812,
+        "democrat"
+      ],
+      "totalRepVotes": 78439,
+      "totalDemVotes": 171812
+    },
+    "1": {
+      "candidates": [
+        [
+          "William H. Szych",
+          48574,
+          "unenrolled"
+        ],
+        [
+          "Other",
+          253,
+          "none"
+        ],
+        [
+          "John W. Olver",
+          158057,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          13048,
+          "none"
+        ]
+      ],
+      "totalVotes": 219932,
+      "winner": [
+        "John W. Olver",
+        158057,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 158057
+    },
+    "3": {
+      "candidates": [
+        [
+          "Other",
+          1983,
+          "none"
+        ],
+        [
+          "James P. McGovern",
+          166973,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          46145,
+          "none"
+        ]
+      ],
+      "totalVotes": 215101,
+      "winner": [
+        "James P. McGovern",
+        166973,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 166973
+    },
+    "5": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          54560,
+          "none"
+        ],
+        [
+          "Other",
+          3152,
+          "none"
+        ],
+        [
+          "Martin T. Meehan",
+          159120,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 216832,
+      "winner": [
+        "Martin T. Meehan",
+        159120,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 159120
+    }
+  },
+  "2013": {
+    "4": {
+      "candidates": [
+        [
+          "David A. Rosa",
+          10741,
+          "independent"
+        ],
+        [
+          "Sean Bielat",
+          129936,
+          "republican"
+        ],
+        [
+          "Joseph P. Kennedy III",
+          221303,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          10869,
+          "none"
+        ],
+        [
+          "Other",
+          265,
+          "none"
+        ]
+      ],
+      "totalVotes": 373114,
+      "winner": [
+        "Joseph P. Kennedy III",
+        221303,
+        "democrat"
+      ],
+      "totalRepVotes": 129936,
+      "totalDemVotes": 221303
+    },
+    "7": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          32298,
+          "none"
+        ],
+        [
+          "Other",
+          843,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          210794,
+          "democrat"
+        ],
+        [
+          "Karla Romero",
+          41199,
+          "independent"
+        ]
+      ],
+      "totalVotes": 285134,
+      "winner": [
+        "Michael E. Capuano",
+        210794,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 210794
+    },
+    "5": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          23092,
+          "none"
+        ],
+        [
+          "Tom Tierney",
+          82944,
+          "republican"
+        ],
+        [
+          "Edward J. Markey",
+          257490,
+          "democrat"
+        ],
+        [
+          "Other",
+          675,
+          "none"
+        ]
+      ],
+      "totalVotes": 364201,
+      "winner": [
+        "Edward J. Markey",
+        257490,
+        "democrat"
+      ],
+      "totalRepVotes": 82944,
+      "totalDemVotes": 257490
+    },
+    "9": {
+      "candidates": [
+        [
+          "Daniel S. Botelho",
+          32655,
+          "independent"
+        ],
+        [
+          "Christopher Sheldon",
+          116531,
+          "republican"
+        ],
+        [
+          "Other",
+          465,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          23394,
+          "none"
+        ],
+        [
+          "William R. Keating",
+          212754,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 385799,
+      "winner": [
+        "William R. Keating",
+        212754,
+        "democrat"
+      ],
+      "totalRepVotes": 116531,
+      "totalDemVotes": 212754
+    },
+    "6": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          15045,
+          "none"
+        ],
+        [
+          "John F. Tierney",
+          180942,
+          "democrat"
+        ],
+        [
+          "Daniel Fishman",
+          16739,
+          "libertarian"
+        ],
+        [
+          "Richard R. Tisei",
+          176612,
+          "republican"
+        ],
+        [
+          "Other",
+          514,
+          "none"
+        ]
+      ],
+      "totalVotes": 389852,
+      "winner": [
+        "John F. Tierney",
+        180942,
+        "democrat"
+      ],
+      "totalRepVotes": 176612,
+      "totalDemVotes": 180942
+    },
+    "3": {
+      "candidates": [
+        [
+          "Niki Tsongas",
+          212119,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          13358,
+          "none"
+        ],
+        [
+          "Other",
+          262,
+          "none"
+        ],
+        [
+          "Jonathan A. Golnik",
+          109372,
+          "republican"
+        ]
+      ],
+      "totalVotes": 335111,
+      "winner": [
+        "Niki Tsongas",
+        212119,
+        "democrat"
+      ],
+      "totalRepVotes": 109372,
+      "totalDemVotes": 212119
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard E. Neal",
+          261936,
+          "democrat"
+        ],
+        [
+          "Other",
+          4197,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          70422,
+          "none"
+        ]
+      ],
+      "totalVotes": 336555,
+      "winner": [
+        "Richard E. Neal",
+        261936,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 261936
+    },
+    "8": {
+      "candidates": [
+        [
+          "Stephen F. Lynch",
+          263999,
+          "democrat"
+        ],
+        [
+          "Joe Selvaggi",
+          82242,
+          "republican"
+        ],
+        [
+          "Other",
+          570,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          24883,
+          "none"
+        ]
+      ],
+      "totalVotes": 371694,
+      "winner": [
+        "Stephen F. Lynch",
+        263999,
+        "democrat"
+      ],
+      "totalRepVotes": 82242,
+      "totalDemVotes": 263999
+    },
+    "2": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          79401,
+          "none"
+        ],
+        [
+          "Other",
+          4078,
+          "none"
+        ],
+        [
+          "James P. McGovern",
+          259257,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 342736,
+      "winner": [
+        "James P. McGovern",
+        259257,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 259257
+    }
+  },
+  "2011": {
+    "6": {
+      "candidates": [
+        [
+          "Other",
+          419,
+          "none"
+        ],
+        [
+          "Bill Hudak",
+          107930,
+          "republican"
+        ],
+        [
+          "John F. Tierney",
+          142732,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 251081,
+      "winner": [
+        "John F. Tierney",
+        142732,
+        "democrat"
+      ],
+      "totalRepVotes": 107930,
+      "totalDemVotes": 142732
+    },
+    "4": {
+      "candidates": [
+        [
+          "Sean D. M. Mielat",
+          101517,
+          "republican"
+        ],
+        [
+          "Barney Frank",
+          126194,
+          "democrat"
+        ],
+        [
+          "Susan F. Allen",
+          3445,
+          "independent"
+        ],
+        [
+          "Donald M. Jordan",
+          2873,
+          "tax revolt independent"
+        ],
+        [
+          "Other",
+          98,
+          "none"
+        ]
+      ],
+      "totalVotes": 234127,
+      "winner": [
+        "Barney Frank",
+        126194,
+        "democrat"
+      ],
+      "totalRepVotes": 101517,
+      "totalDemVotes": 126194
+    },
+    "10": {
+      "candidates": [
+        [
+          "Joe van Nes",
+          3084,
+          "bring home troops"
+        ],
+        [
+          "Maryanne Lewis",
+          16705,
+          "independent"
+        ],
+        [
+          "Jeffrey Davis Perry",
+          120029,
+          "republican"
+        ],
+        [
+          "William R. Keating",
+          132743,
+          "democrat"
+        ],
+        [
+          "James A. Sheets",
+          10445,
+          "independent"
+        ],
+        [
+          "Other",
+          191,
+          "none"
+        ]
+      ],
+      "totalVotes": 283197,
+      "winner": [
+        "William R. Keating",
+        132743,
+        "democrat"
+      ],
+      "totalRepVotes": 120029,
+      "totalDemVotes": 132743
+    },
+    "3": {
+      "candidates": [
+        [
+          "Patrick J. Barron",
+          9388,
+          "independent"
+        ],
+        [
+          "James P. McGovern",
+          122708,
+          "democrat"
+        ],
+        [
+          "Martin A. Lamb",
+          85124,
+          "republican"
+        ],
+        [
+          "Other",
+          132,
+          "none"
+        ]
+      ],
+      "totalVotes": 217352,
+      "winner": [
+        "James P. McGovern",
+        122708,
+        "democrat"
+      ],
+      "totalRepVotes": 85124,
+      "totalDemVotes": 122708
+    },
+    "8": {
+      "candidates": [
+        [
+          "Other",
+          2686,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          134974,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 137660,
+      "winner": [
+        "Michael E. Capuano",
+        134974,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 134974
+    },
+    "9": {
+      "candidates": [
+        [
+          "Vernon M. Harrison",
+          59965,
+          "republican"
+        ],
+        [
+          "Philip Dunkelbarger",
+          12572,
+          "independent"
+        ],
+        [
+          "Stephen F. Lynch",
+          157071,
+          "democrat"
+        ],
+        [
+          "Other",
+          356,
+          "none"
+        ]
+      ],
+      "totalVotes": 229964,
+      "winner": [
+        "Stephen F. Lynch",
+        157071,
+        "democrat"
+      ],
+      "totalRepVotes": 59965,
+      "totalDemVotes": 157071
+    },
+    "1": {
+      "candidates": [
+        [
+          "John W. Olver",
+          128011,
+          "democrat"
+        ],
+        [
+          "Michael Engel",
+          10880,
+          "independent"
+        ],
+        [
+          "William L. Gunn, Jr.",
+          74418,
+          "republican"
+        ],
+        [
+          "Other",
+          55,
+          "none"
+        ]
+      ],
+      "totalVotes": 213364,
+      "winner": [
+        "John W. Olver",
+        128011,
+        "democrat"
+      ],
+      "totalRepVotes": 74418,
+      "totalDemVotes": 128011
+    },
+    "5": {
+      "candidates": [
+        [
+          "Dale E. Brown",
+          4387,
+          "liberty"
+        ],
+        [
+          "Jonathan A. Golnik",
+          94646,
+          "republican"
+        ],
+        [
+          "Niki Tsongas",
+          122858,
+          "democrat"
+        ],
+        [
+          "Robert M. Clark",
+          1991,
+          "citizen legislator"
+        ],
+        [
+          "Other",
+          147,
+          "none"
+        ]
+      ],
+      "totalVotes": 224029,
+      "winner": [
+        "Niki Tsongas",
+        122858,
+        "democrat"
+      ],
+      "totalRepVotes": 94646,
+      "totalDemVotes": 122858
+    },
+    "7": {
+      "candidates": [
+        [
+          "Gerry Dembrowski",
+          73467,
+          "republican"
+        ],
+        [
+          "Other",
+          194,
+          "none"
+        ],
+        [
+          "Edward J. Markey",
+          145696,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 219357,
+      "winner": [
+        "Edward J. Markey",
+        145696,
+        "democrat"
+      ],
+      "totalRepVotes": 73467,
+      "totalDemVotes": 145696
+    },
+    "2": {
+      "candidates": [
+        [
+          "Richard E. Neal",
+          122751,
+          "democrat"
+        ],
+        [
+          "Thomas A. Wesley",
+          91209,
+          "republican"
+        ],
+        [
+          "Other",
+          164,
+          "none"
+        ]
+      ],
+      "totalVotes": 214124,
+      "winner": [
+        "Richard E. Neal",
+        122751,
+        "democrat"
+      ],
+      "totalRepVotes": 91209,
+      "totalDemVotes": 122751
+    }
+  },
+  "2003": {
+    "4": {
+      "candidates": [
+        [
+          "Barney Frank",
+          166125,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          53393,
+          "none"
+        ],
+        [
+          "Other",
+          1691,
+          "none"
+        ]
+      ],
+      "totalVotes": 221209,
+      "winner": [
+        "Barney Frank",
+        166125,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 166125
+    },
+    "3": {
+      "candidates": [
+        [
+          "James P. McGovern",
+          155697,
+          "democrat"
+        ],
+        [
+          "Other",
+          1848,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          54759,
+          "none"
+        ]
+      ],
+      "totalVotes": 212304,
+      "winner": [
+        "James P. McGovern",
+        155697,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 155697
+    },
+    "2": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          53770,
+          "none"
+        ],
+        [
+          "Other",
+          1341,
+          "none"
+        ],
+        [
+          "Richard E. Neal",
+          153387,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 208498,
+      "winner": [
+        "Richard E. Neal",
+        153387,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 153387
+    },
+    "8": {
+      "candidates": [
+        [
+          "<write in>",
+          25,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          111861,
+          "democrat"
+        ],
+        [
+          "Other",
+          495,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          42923,
+          "none"
+        ]
+      ],
+      "totalVotes": 155304,
+      "winner": [
+        "Michael E. Capuano",
+        111861,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 111861
+    },
+    "9": {
+      "candidates": [
+        [
+          "Other",
+          921,
+          "none"
+        ],
+        [
+          "Stephen F. Lynch",
+          168055,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          66890,
+          "none"
+        ]
+      ],
+      "totalVotes": 235866,
+      "winner": [
+        "Stephen F. Lynch",
+        168055,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 168055
+    },
+    "6": {
+      "candidates": [
+        [
+          "Mark C. Smith",
+          75462,
+          "republican"
+        ],
+        [
+          "Other",
+          253,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          14252,
+          "none"
+        ],
+        [
+          "John F. Tierney",
+          162900,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 252867,
+      "winner": [
+        "John F. Tierney",
+        162900,
+        "democrat"
+      ],
+      "totalRepVotes": 75462,
+      "totalDemVotes": 162900
+    },
+    "5": {
+      "candidates": [
+        [
+          "Martin T. Meehan",
+          122562,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          10245,
+          "none"
+        ],
+        [
+          "Ilana Freedman",
+          11729,
+          "libertarian"
+        ],
+        [
+          "Charles McCarthy",
+          69337,
+          "republican"
+        ],
+        [
+          "Other",
+          149,
+          "none"
+        ]
+      ],
+      "totalVotes": 214022,
+      "winner": [
+        "Martin T. Meehan",
+        122562,
+        "democrat"
+      ],
+      "totalRepVotes": 69337,
+      "totalDemVotes": 122562
+    },
+    "1": {
+      "candidates": [
+        [
+          "Matthew W. Kinnaman",
+          66061,
+          "republican"
+        ],
+        [
+          "Other",
+          117,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          8197,
+          "none"
+        ],
+        [
+          "John W. Olver",
+          137841,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 212216,
+      "winner": [
+        "John W. Olver",
+        137841,
+        "democrat"
+      ],
+      "totalRepVotes": 66061,
+      "totalDemVotes": 137841
+    },
+    "10": {
+      "candidates": [
+        [
+          "William D. Delahunt",
+          179238,
+          "democrat"
+        ],
+        [
+          "Luis Gonzaga",
+          79624,
+          "republican"
+        ],
+        [
+          "Blank Vote/Scattering",
+          13025,
+          "none"
+        ],
+        [
+          "Other",
+          140,
+          "none"
+        ]
+      ],
+      "totalVotes": 272027,
+      "winner": [
+        "William D. Delahunt",
+        179238,
+        "democrat"
+      ],
+      "totalRepVotes": 79624,
+      "totalDemVotes": 179238
+    },
+    "7": {
+      "candidates": [
+        [
+          "Other",
+          2206,
+          "none"
+        ],
+        [
+          "Daniel Melnechuk",
+          863,
+          "none"
+        ],
+        [
+          "Blank Vote/Scattering",
+          61976,
+          "none"
+        ],
+        [
+          "Edward J. Markey",
+          170968,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 236013,
+      "winner": [
+        "Edward J. Markey",
+        170968,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 170968
+    }
+  },
+  "1999": {
+    "6": {
+      "candidates": [
+        [
+          "Peter G. Torkildsen",
+          90986,
+          "republican"
+        ],
+        [
+          "Other",
+          44,
+          "none"
+        ],
+        [
+          "Randal C. Fritz",
+          6544,
+          "independent"
+        ],
+        [
+          "John F. Tierney",
+          117132,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 214706,
+      "winner": [
+        "John F. Tierney",
+        117132,
+        "democrat"
+      ],
+      "totalRepVotes": 90986,
+      "totalDemVotes": 117132
+    },
+    "7": {
+      "candidates": [
+        [
+          "Other",
+          150,
+          "none"
+        ],
+        [
+          "Patricia H. Long",
+          56977,
+          "republican"
+        ],
+        [
+          "Edward J. Markey",
+          137178,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 194305,
+      "winner": [
+        "Edward J. Markey",
+        137178,
+        "democrat"
+      ],
+      "totalRepVotes": 56977,
+      "totalDemVotes": 137178
+    },
+    "5": {
+      "candidates": [
+        [
+          "Martin T. Meehan",
+          127418,
+          "democrat"
+        ],
+        [
+          "David E. Coleman",
+          52725,
+          "republican"
+        ],
+        [
+          "Other",
+          87,
+          "none"
+        ]
+      ],
+      "totalVotes": 180230,
+      "winner": [
+        "Martin T. Meehan",
+        127418,
+        "democrat"
+      ],
+      "totalRepVotes": 52725,
+      "totalDemVotes": 127418
+    },
+    "3": {
+      "candidates": [
+        [
+          "Other",
+          204,
+          "none"
+        ],
+        [
+          "George Phillies",
+          2887,
+          "libertarian"
+        ],
+        [
+          "James P. McGovern",
+          108613,
+          "democrat"
+        ],
+        [
+          "Matthew J. Amorello",
+          79174,
+          "republican"
+        ]
+      ],
+      "totalVotes": 190878,
+      "winner": [
+        "James P. McGovern",
+        108613,
+        "democrat"
+      ],
+      "totalRepVotes": 79174,
+      "totalDemVotes": 108613
+    },
+    "8": {
+      "candidates": [
+        [
+          "Other",
+          176,
+          "none"
+        ],
+        [
+          "Michael E. Capuano",
+          99603,
+          "democrat"
+        ],
+        [
+          "Andrea Morell",
+          4854,
+          "socialist workers"
+        ],
+        [
+          "Anthony A. Schinella",
+          3129,
+          "unenrolled"
+        ],
+        [
+          "Philip Hyde III",
+          14125,
+          "republican"
+        ]
+      ],
+      "totalVotes": 121887,
+      "winner": [
+        "Michael E. Capuano",
+        99603,
+        "democrat"
+      ],
+      "totalRepVotes": 14125,
+      "totalDemVotes": 99603
+    },
+    "10": {
+      "candidates": [
+        [
+          "Eric V. Bleicken",
+          70466,
+          "republican"
+        ],
+        [
+          "Other",
+          180,
+          "none"
+        ],
+        [
+          "William D. Delahunt",
+          164917,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 235563,
+      "winner": [
+        "William D. Delahunt",
+        164917,
+        "democrat"
+      ],
+      "totalRepVotes": 70466,
+      "totalDemVotes": 164917
+    },
+    "1": {
+      "candidates": [
+        [
+          "Gregory L. Morgan",
+          48055,
+          "republican"
+        ],
+        [
+          "Other",
+          58,
+          "none"
+        ],
+        [
+          "John W. Olver",
+          121863,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 169976,
+      "winner": [
+        "John W. Olver",
+        121863,
+        "democrat"
+      ],
+      "totalRepVotes": 48055,
+      "totalDemVotes": 121863
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          2380,
+          "none"
+        ],
+        [
+          "Barney Frank",
+          148340,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 150720,
+      "winner": [
+        "Barney Frank",
+        148340,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 148340
+    },
+    "2": {
+      "candidates": [
+        [
+          "Richard E. Neal",
+          130550,
+          "democrat"
+        ],
+        [
+          "Other",
+          1383,
+          "none"
+        ]
+      ],
+      "totalVotes": 131933,
+      "winner": [
+        "Richard E. Neal",
+        130550,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 130550
+    },
+    "9": {
+      "candidates": [
+        [
+          "John Joseph Moakley",
+          150667,
+          "democrat"
+        ],
+        [
+          "Other",
+          888,
+          "none"
+        ]
+      ],
+      "totalVotes": 151555,
+      "winner": [
+        "John Joseph Moakley",
+        150667,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 150667
+    }
+  },
+  "1997": {
+    "8": {
+      "candidates": [
+        [
+          "Other",
+          191,
+          "none"
+        ],
+        [
+          "Joseph P. Kennedy II",
+          147126,
+          "democrat"
+        ],
+        [
+          "R. Philip Hyde",
+          27303,
+          "republican"
+        ]
+      ],
+      "totalVotes": 174620,
+      "winner": [
+        "Joseph P. Kennedy II",
+        147126,
+        "democrat"
+      ],
+      "totalRepVotes": 27303,
+      "totalDemVotes": 147126
+    },
+    "6": {
+      "candidates": [
+        [
+          "Randal C. Fritz",
+          2532,
+          "conservative"
+        ],
+        [
+          "Other",
+          594,
+          "none"
+        ],
+        [
+          "Benjamin A. Gatchell",
+          2043,
+          "independent"
+        ],
+        [
+          "John F. Tierney",
+          133002,
+          "democrat"
+        ],
+        [
+          "Peter F. Torkildsen",
+          132642,
+          "republican"
+        ],
+        [
+          "Martin J. McNulty",
+          4195,
+          "independent"
+        ],
+        [
+          "Orrin Smith",
+          1371,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 276379,
+      "winner": [
+        "John F. Tierney",
+        133002,
+        "democrat"
+      ],
+      "totalRepVotes": 132642,
+      "totalDemVotes": 133002
+    },
+    "7": {
+      "candidates": [
+        [
+          "Other",
+          110,
+          "none"
+        ],
+        [
+          "Patricia H. Long",
+          76407,
+          "republican"
+        ],
+        [
+          "Edward J. Markey",
+          177053,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 253570,
+      "winner": [
+        "Edward J. Markey",
+        177053,
+        "democrat"
+      ],
+      "totalRepVotes": 76407,
+      "totalDemVotes": 177053
+    },
+    "9": {
+      "candidates": [
+        [
+          "Paul V. Gryska",
+          66079,
+          "republican"
+        ],
+        [
+          "Other",
+          64,
+          "none"
+        ],
+        [
+          "John Joseph Moakley",
+          172009,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 238152,
+      "winner": [
+        "John Joseph Moakley",
+        172009,
+        "democrat"
+      ],
+      "totalRepVotes": 66079,
+      "totalDemVotes": 172009
+    },
+    "5": {
+      "candidates": [
+        [
+          "Other",
+          1708,
+          "none"
+        ],
+        [
+          "Martin T. Meehan",
+          183429,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 185137,
+      "winner": [
+        "Martin T. Meehan",
+        183429,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 183429
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          92,
+          "none"
+        ],
+        [
+          "Jonathan P. Raymond",
+          72701,
+          "republican"
+        ],
+        [
+          "Barney Frank",
+          183844,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 256637,
+      "winner": [
+        "Barney Frank",
+        183844,
+        "democrat"
+      ],
+      "totalRepVotes": 72701,
+      "totalDemVotes": 183844
+    },
+    "3": {
+      "candidates": [
+        [
+          "Peter Blute",
+          115694,
+          "republican"
+        ],
+        [
+          "Dale E. Friedgen",
+          3362,
+          "natural law"
+        ],
+        [
+          "Other",
+          997,
+          "none"
+        ],
+        [
+          "James P. McGovern",
+          135044,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 255097,
+      "winner": [
+        "James P. McGovern",
+        135044,
+        "democrat"
+      ],
+      "totalRepVotes": 115694,
+      "totalDemVotes": 135044
+    },
+    "10": {
+      "candidates": [
+        [
+          "Other",
+          745,
+          "none"
+        ],
+        [
+          "Edward B. Teague III",
+          123520,
+          "republican"
+        ],
+        [
+          "A. Charles Laws",
+          10913,
+          "green"
+        ],
+        [
+          "William D. Delahunt",
+          160745,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 295923,
+      "winner": [
+        "William D. Delahunt",
+        160745,
+        "democrat"
+      ],
+      "totalRepVotes": 123520,
+      "totalDemVotes": 160745
+    },
+    "2": {
+      "candidates": [
+        [
+          "Richard E. Neal",
+          162995,
+          "democrat"
+        ],
+        [
+          "Richard Kaynor",
+          5124,
+          "natural law"
+        ],
+        [
+          "Mark Steele",
+          49885,
+          "republican"
+        ],
+        [
+          "Other",
+          226,
+          "none"
+        ],
+        [
+          "Scott Andrichak",
+          9181,
+          "independent"
+        ]
+      ],
+      "totalVotes": 227411,
+      "winner": [
+        "Richard E. Neal",
+        162995,
+        "democrat"
+      ],
+      "totalRepVotes": 49885,
+      "totalDemVotes": 162995
+    },
+    "1": {
+      "candidates": [
+        [
+          "John W. Olver",
+          129232,
+          "democrat"
+        ],
+        [
+          "Jane Maria Swift",
+          115801,
+          "republican"
+        ],
+        [
+          "Other",
+          78,
+          "none"
+        ]
+      ],
+      "totalVotes": 245111,
+      "winner": [
+        "John W. Olver",
+        129232,
+        "democrat"
+      ],
+      "totalRepVotes": 115801,
+      "totalDemVotes": 129232
+    }
+  }
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         metadata-complete="false"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         id="WebApp_ID" version="3.1">
+    <display-name>Jersey Demo</display-name>
+
+    <!--<servlet>-->
+    <!--<servlet-name>IndexServlet</servlet-name>-->
+    <!--<servlet-class>redistr.app.http.IndexServlet</servlet-class>-->
+    <!--<load-on-startup>1</load-on-startup>-->
+    <!--</servlet>-->
+
+    <!--<servlet-mapping>-->
+    <!--<servlet-name>IndexServlet</servlet-name>-->
+    <!--<url-pattern>/CSE308/*</url-pattern>-->
+    <!--</servlet-mapping>-->
+   <!---->
+
+
+    <!--<servlet>-->
+    <!--<servlet-name>StartAlgorithmServlet</servlet-name>-->
+    <!--<servlet-class>redistr.app.http.StartAlgorithmServlet</servlet-class>-->
+
+    <!--</servlet>-->
+
+    <!--<servlet-mapping>-->
+    <!--<servlet-name>StartAlgorithmServlet</servlet-name>-->
+    <!--<url-pattern>/CSE308/start_algo</url-pattern>-->
+    <!--</servlet-mapping>-->
+
+</web-app>

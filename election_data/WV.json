@@ -1,0 +1,805 @@
+{
+  "2009": {
+    "2": {
+      "candidates": [
+        [
+          "Aaron Mills",
+          16,
+          "none"
+        ],
+        [
+          "Shelley Moore Capito",
+          147334,
+          "republican"
+        ],
+        [
+          "Anne Barth",
+          110819,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 258169,
+      "winner": [
+        "Shelley Moore Capito",
+        147334,
+        "republican"
+      ],
+      "totalRepVotes": 147334,
+      "totalDemVotes": 110819
+    },
+    "3": {
+      "candidates": [
+        [
+          "Marty Gearheart",
+          66005,
+          "republican"
+        ],
+        [
+          "Nick J. Rahall II",
+          133522,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 199527,
+      "winner": [
+        "Nick J. Rahall II",
+        133522,
+        "democrat"
+      ],
+      "totalRepVotes": 66005,
+      "totalDemVotes": 133522
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ted Osgood",
+          69,
+          "none"
+        ],
+        [
+          "R. J. Smith",
+          61,
+          "none"
+        ],
+        [
+          "Alan B. Mollohan",
+          187734,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 187864,
+      "winner": [
+        "Alan B. Mollohan",
+        187734,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 187734
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          98,
+          "none"
+        ],
+        [
+          "Chris Wakim",
+          55963,
+          "republican"
+        ],
+        [
+          "Alan B. Mollohan",
+          100939,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 157000,
+      "winner": [
+        "Alan B. Mollohan",
+        100939,
+        "democrat"
+      ],
+      "totalRepVotes": 55963,
+      "totalDemVotes": 100939
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shelley Moore Capito",
+          94110,
+          "republican"
+        ],
+        [
+          "Mike Callaghan",
+          70470,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 164580,
+      "winner": [
+        "Shelley Moore Capito",
+        94110,
+        "republican"
+      ],
+      "totalRepVotes": 94110,
+      "totalDemVotes": 70470
+    },
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          92413,
+          "democrat"
+        ],
+        [
+          "Kim Wolfe",
+          40820,
+          "republican"
+        ]
+      ],
+      "totalVotes": 133233,
+      "winner": [
+        "Nick J. Rahall II",
+        92413,
+        "democrat"
+      ],
+      "totalRepVotes": 40820,
+      "totalDemVotes": 92413
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "Mark Hunt",
+          101207,
+          "democrat"
+        ],
+        [
+          "Alexander X. Mooney",
+          140807,
+          "republican"
+        ]
+      ],
+      "totalVotes": 242014,
+      "winner": [
+        "Alexander X. Mooney",
+        140807,
+        "republican"
+      ],
+      "totalRepVotes": 140807,
+      "totalDemVotes": 101207
+    },
+    "1": {
+      "candidates": [
+        [
+          "Mike Manypenny",
+          73534,
+          "democrat"
+        ],
+        [
+          "David B. McKinley",
+          163469,
+          "republican"
+        ]
+      ],
+      "totalVotes": 237003,
+      "winner": [
+        "David B. McKinley",
+        163469,
+        "republican"
+      ],
+      "totalRepVotes": 163469,
+      "totalDemVotes": 73534
+    },
+    "3": {
+      "candidates": [
+        [
+          "Zane Lawhorn",
+          16883,
+          "libertarian"
+        ],
+        [
+          "Evan H. Jenkins",
+          140741,
+          "republican"
+        ],
+        [
+          "Matt Detch",
+          49708,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207332,
+      "winner": [
+        "Evan H. Jenkins",
+        140741,
+        "republican"
+      ],
+      "totalRepVotes": 140741,
+      "totalDemVotes": 49708
+    }
+  },
+  "2005": {
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          142682,
+          "democrat"
+        ],
+        [
+          "Rick Snuffer",
+          76170,
+          "republican"
+        ]
+      ],
+      "totalVotes": 218852,
+      "winner": [
+        "Nick J. Rahall II",
+        142682,
+        "democrat"
+      ],
+      "totalRepVotes": 76170,
+      "totalDemVotes": 142682
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shelley Moore Capito",
+          147676,
+          "republican"
+        ],
+        [
+          "Julian Martin",
+          3218,
+          "mountain"
+        ],
+        [
+          "Erik Wells",
+          106131,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 257025,
+      "winner": [
+        "Shelley Moore Capito",
+        147676,
+        "republican"
+      ],
+      "totalRepVotes": 147676,
+      "totalDemVotes": 106131
+    },
+    "1": {
+      "candidates": [
+        [
+          "Alan Lee Parks",
+          79196,
+          "republican"
+        ],
+        [
+          "Alan B. Mollohan",
+          166583,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 245779,
+      "winner": [
+        "Alan B. Mollohan",
+        166583,
+        "democrat"
+      ],
+      "totalRepVotes": 79196,
+      "totalDemVotes": 166583
+    }
+  },
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "Shelley Moore Capito",
+          98276,
+          "republican"
+        ],
+        [
+          "Jim Humphreys",
+          65400,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 163676,
+      "winner": [
+        "Shelley Moore Capito",
+        98276,
+        "republican"
+      ],
+      "totalRepVotes": 98276,
+      "totalDemVotes": 65400
+    },
+    "3": {
+      "candidates": [
+        [
+          "Paul E. Chapman",
+          37229,
+          "republican"
+        ],
+        [
+          "Nick J. Rahall II",
+          87783,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 125012,
+      "winner": [
+        "Nick J. Rahall II",
+        87783,
+        "democrat"
+      ],
+      "totalRepVotes": 37229,
+      "totalDemVotes": 87783
+    },
+    "1": {
+      "candidates": [
+        [
+          "Louis (Lou) Davis",
+          320,
+          "none"
+        ],
+        [
+          "Alan B. Mollohan",
+          110941,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 111261,
+      "winner": [
+        "Alan B. Mollohan",
+        110941,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 110941
+    }
+  },
+  "2001": {
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          146807,
+          "democrat"
+        ],
+        [
+          "Jeff Robinson",
+          13979,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 160786,
+      "winner": [
+        "Nick J. Rahall II",
+        146807,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 146807
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shelley Moore Capito",
+          108769,
+          "republican"
+        ],
+        [
+          "Jim Humphreys",
+          103003,
+          "democrat"
+        ],
+        [
+          "John Brown",
+          12543,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 224315,
+      "winner": [
+        "Shelley Moore Capito",
+        108769,
+        "republican"
+      ],
+      "totalRepVotes": 108769,
+      "totalDemVotes": 103003
+    },
+    "1": {
+      "candidates": [
+        [
+          "Alan B. Mollohan",
+          170974,
+          "democrat"
+        ],
+        [
+          "Richard Kerr",
+          23797,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 194771,
+      "winner": [
+        "Alan B. Mollohan",
+        170974,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 170974
+    }
+  },
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Chuck Wood",
+          137,
+          "none"
+        ],
+        [
+          "Glen B. Gainer III",
+          52109,
+          "democrat"
+        ],
+        [
+          "David B. McKinley",
+          92491,
+          "republican"
+        ]
+      ],
+      "totalVotes": 144737,
+      "winner": [
+        "David B. McKinley",
+        92491,
+        "republican"
+      ],
+      "totalRepVotes": 92491,
+      "totalDemVotes": 52109
+    },
+    "2": {
+      "candidates": [
+        [
+          "Robert Fluharty",
+          9,
+          "none"
+        ],
+        [
+          "Nick Casey",
+          67687,
+          "democrat"
+        ],
+        [
+          "Liz Sullivan",
+          3,
+          "none"
+        ],
+        [
+          "Alex X. Mooney",
+          72619,
+          "republican"
+        ],
+        [
+          "Davy Jones",
+          7682,
+          "libertarian"
+        ],
+        [
+          "Ed Rabel",
+          6250,
+          "independent"
+        ]
+      ],
+      "totalVotes": 154250,
+      "winner": [
+        "Alex X. Mooney",
+        72619,
+        "republican"
+      ],
+      "totalRepVotes": 72619,
+      "totalDemVotes": 67687
+    },
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          62688,
+          "democrat"
+        ],
+        [
+          "Evan Jenkins",
+          77713,
+          "republican"
+        ]
+      ],
+      "totalVotes": 140401,
+      "winner": [
+        "Evan Jenkins",
+        77713,
+        "republican"
+      ],
+      "totalRepVotes": 77713,
+      "totalDemVotes": 62688
+    }
+  },
+  "2011": {
+    "1": {
+      "candidates": [
+        [
+          "Mike Oliverio",
+          89220,
+          "democrat"
+        ],
+        [
+          "David B. McKinley",
+          90660,
+          "republican"
+        ]
+      ],
+      "totalVotes": 179880,
+      "winner": [
+        "David B. McKinley",
+        90660,
+        "republican"
+      ],
+      "totalRepVotes": 90660,
+      "totalDemVotes": 89220
+    },
+    "3": {
+      "candidates": [
+        [
+          "Elliott E. \"Spike\" Maynard",
+          65611,
+          "republican"
+        ],
+        [
+          "Nick J. Rahall II",
+          83636,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 149247,
+      "winner": [
+        "Nick J. Rahall II",
+        83636,
+        "democrat"
+      ],
+      "totalRepVotes": 65611,
+      "totalDemVotes": 83636
+    },
+    "2": {
+      "candidates": [
+        [
+          "Virginia Lynch Graf",
+          55001,
+          "democrat"
+        ],
+        [
+          "Shelley Moore Capito",
+          126814,
+          "republican"
+        ],
+        [
+          "Phil Hudok",
+          3431,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 185246,
+      "winner": [
+        "Shelley Moore Capito",
+        126814,
+        "republican"
+      ],
+      "totalRepVotes": 126814,
+      "totalDemVotes": 55001
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          78814,
+          "democrat"
+        ],
+        [
+          "Joe Whelan",
+          12196,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 91010,
+      "winner": [
+        "Nick J. Rahall II",
+        78814,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 78814
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard Kerr",
+          19013,
+          "libertarian"
+        ],
+        [
+          "Alan B. Mollohan",
+          105101,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 124114,
+      "winner": [
+        "Alan B. Mollohan",
+        105101,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 105101
+    },
+    "2": {
+      "candidates": [
+        [
+          "John Brown",
+          7660,
+          "libertarian"
+        ],
+        [
+          "Robert E. Wise, Jr.",
+          99357,
+          "democrat"
+        ],
+        [
+          "Sally Anne Kay",
+          29136,
+          "republican"
+        ]
+      ],
+      "totalVotes": 136153,
+      "winner": [
+        "Robert E. Wise, Jr.",
+        99357,
+        "democrat"
+      ],
+      "totalRepVotes": 29136,
+      "totalDemVotes": 99357
+    }
+  },
+  "2013": {
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          108199,
+          "democrat"
+        ],
+        [
+          "Rick Snuffer",
+          92238,
+          "republican"
+        ]
+      ],
+      "totalVotes": 200437,
+      "winner": [
+        "Nick J. Rahall II",
+        108199,
+        "democrat"
+      ],
+      "totalRepVotes": 92238,
+      "totalDemVotes": 108199
+    },
+    "1": {
+      "candidates": [
+        [
+          "David B. McKinley",
+          133809,
+          "republican"
+        ],
+        [
+          "Sue Thorn",
+          80342,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 214151,
+      "winner": [
+        "David B. McKinley",
+        133809,
+        "republican"
+      ],
+      "totalRepVotes": 133809,
+      "totalDemVotes": 80342
+    },
+    "2": {
+      "candidates": [
+        [
+          "Shelley Moore Capito",
+          158206,
+          "republican"
+        ],
+        [
+          "Howard Swint",
+          68560,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 226766,
+      "winner": [
+        "Shelley Moore Capito",
+        158206,
+        "republican"
+      ],
+      "totalRepVotes": 158206,
+      "totalDemVotes": 68560
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Robert E. Wise Jr.",
+          141551,
+          "democrat"
+        ],
+        [
+          "Greg Morris",
+          63933,
+          "republican"
+        ]
+      ],
+      "totalVotes": 205484,
+      "winner": [
+        "Robert E. Wise Jr.",
+        141551,
+        "democrat"
+      ],
+      "totalRepVotes": 63933,
+      "totalDemVotes": 141551
+    },
+    "3": {
+      "candidates": [
+        [
+          "Nick J. Rahall II",
+          145550,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 145550,
+      "winner": [
+        "Nick J. Rahall II",
+        145550,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 145550
+    },
+    "1": {
+      "candidates": [
+        [
+          "Alan B. Mollohan",
+          171334,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 171334,
+      "winner": [
+        "Alan B. Mollohan",
+        171334,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 171334
+    }
+  }
+}

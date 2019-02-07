@@ -1,0 +1,2212 @@
+{
+  "1997": {
+    "6": {
+      "candidates": [
+        [
+          "Savitap Joshi",
+          948,
+          "natural law"
+        ],
+        [
+          "James E. Clyburn",
+          120132,
+          "democrat"
+        ],
+        [
+          "Gary McLeod",
+          51974,
+          "republican"
+        ]
+      ],
+      "totalVotes": 173054,
+      "winner": [
+        "James E. Clyburn",
+        120132,
+        "democrat"
+      ],
+      "totalRepVotes": 51974,
+      "totalDemVotes": 120132
+    },
+    "3": {
+      "candidates": [
+        [
+          "Lindsey O. Graham",
+          114273,
+          "republican"
+        ],
+        [
+          "Lindal Pennington",
+          1835,
+          "natural law"
+        ],
+        [
+          "Debbie Dorn",
+          73417,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 189525,
+      "winner": [
+        "Lindsey O. Graham",
+        114273,
+        "republican"
+      ],
+      "totalRepVotes": 114273,
+      "totalDemVotes": 73417
+    },
+    "4": {
+      "candidates": [
+        [
+          "C. Faye Walters",
+          2501,
+          "natural law"
+        ],
+        [
+          "Darrell E. Curry",
+          54126,
+          "democrat"
+        ],
+        [
+          "Bob Inglis",
+          138165,
+          "republican"
+        ]
+      ],
+      "totalVotes": 194792,
+      "winner": [
+        "Bob Inglis",
+        138165,
+        "republican"
+      ],
+      "totalRepVotes": 138165,
+      "totalDemVotes": 54126
+    },
+    "5": {
+      "candidates": [
+        [
+          "P. G. Joshi",
+          1159,
+          "natural law"
+        ],
+        [
+          "Larry L. Bigham",
+          81455,
+          "republican"
+        ],
+        [
+          "John M. Spratt Jr.",
+          97335,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 179949,
+      "winner": [
+        "John M. Spratt Jr.",
+        97335,
+        "democrat"
+      ],
+      "totalRepVotes": 81455,
+      "totalDemVotes": 97335
+    },
+    "1": {
+      "candidates": [
+        [
+          "Marshall \"Mark\" Sanford",
+          138467,
+          "republican"
+        ],
+        [
+          "Joseph F. Innella",
+          5105,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 143572,
+      "winner": [
+        "Marshall \"Mark\" Sanford",
+        138467,
+        "republican"
+      ],
+      "totalRepVotes": 138467,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Floyd Spence",
+          158229,
+          "republican"
+        ],
+        [
+          "Maurice T. Raiford",
+          17713,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 175942,
+      "winner": [
+        "Floyd Spence",
+        158229,
+        "republican"
+      ],
+      "totalRepVotes": 158229,
+      "totalDemVotes": 0
+    }
+  },
+  "2003": {
+    "1": {
+      "candidates": [
+        [
+          "James E. Dunn",
+          9841,
+          "united citizens"
+        ],
+        [
+          "<write in>",
+          57,
+          "none"
+        ],
+        [
+          "Henry E. Brown Jr.",
+          127562,
+          "reform"
+        ],
+        [
+          "Joe Innella",
+          4965,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 142425,
+      "winner": [
+        "Henry E. Brown Jr.",
+        127562,
+        "reform"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Mike Boerste",
+          2785,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          23,
+          "none"
+        ],
+        [
+          "J. Gresham Barrett",
+          119644,
+          "republican"
+        ],
+        [
+          "George L. Brightharp",
+          55743,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 178195,
+      "winner": [
+        "J. Gresham Barrett",
+        119644,
+        "republican"
+      ],
+      "totalRepVotes": 119644,
+      "totalDemVotes": 55743
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          184,
+          "none"
+        ],
+        [
+          "Jim DeMint",
+          122422,
+          "republican"
+        ],
+        [
+          "no name",
+          1173,
+          "united citizens"
+        ],
+        [
+          "Peter J. Ashy",
+          51462,
+          "democrat"
+        ],
+        [
+          "C. Faye Walters",
+          2176,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 177417,
+      "winner": [
+        "Jim DeMint",
+        122422,
+        "republican"
+      ],
+      "totalRepVotes": 122422,
+      "totalDemVotes": 51462
+    },
+    "6": {
+      "candidates": [
+        [
+          "R. Craig Augenstein",
+          1662,
+          "libertarian"
+        ],
+        [
+          "James E. Clyburn",
+          115855,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          40,
+          "none"
+        ],
+        [
+          "Gary McLeod",
+          55490,
+          "republican"
+        ]
+      ],
+      "totalVotes": 173047,
+      "winner": [
+        "James E. Clyburn",
+        115855,
+        "democrat"
+      ],
+      "totalRepVotes": 55490,
+      "totalDemVotes": 115855
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          117,
+          "none"
+        ],
+        [
+          "Steve Lafemine",
+          8930,
+          "constitution"
+        ],
+        [
+          "Doug Kendall",
+          11013,
+          "libertarian"
+        ],
+        [
+          "John M. Spratt Jr.",
+          121912,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 141972,
+      "winner": [
+        "John M. Spratt Jr.",
+        121912,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 121912
+    },
+    "2": {
+      "candidates": [
+        [
+          "Mark Whittington",
+          17189,
+          "united citizens"
+        ],
+        [
+          "James R. \"Jim\" Legg",
+          9650,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          371,
+          "none"
+        ],
+        [
+          "Joe Wilson",
+          144149,
+          "republican"
+        ]
+      ],
+      "totalVotes": 171359,
+      "winner": [
+        "Joe Wilson",
+        144149,
+        "republican"
+      ],
+      "totalRepVotes": 144149,
+      "totalDemVotes": 0
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "James E. Dunn",
+          4287,
+          "green"
+        ],
+        [
+          "Henry E. Brown, Jr.",
+          115766,
+          "republican"
+        ],
+        [
+          "<write in>",
+          104,
+          "none"
+        ],
+        [
+          "Randy Maatta",
+          73218,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 193375,
+      "winner": [
+        "Henry E. Brown, Jr.",
+        115766,
+        "republican"
+      ],
+      "totalRepVotes": 115766,
+      "totalDemVotes": 73218
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joe Wilson",
+          127811,
+          "republican"
+        ],
+        [
+          "Michael Ray Ellisor",
+          76090,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          151,
+          "none"
+        ]
+      ],
+      "totalVotes": 204052,
+      "winner": [
+        "Joe Wilson",
+        127811,
+        "republican"
+      ],
+      "totalRepVotes": 127811,
+      "totalDemVotes": 76090
+    },
+    "4": {
+      "candidates": [
+        [
+          "C. Faye Walters",
+          2336,
+          "green"
+        ],
+        [
+          "John Cobin",
+          4467,
+          "libertarian"
+        ],
+        [
+          "William Griff Griffith",
+          57490,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          85,
+          "none"
+        ],
+        [
+          "Bob Inglis",
+          115553,
+          "republican"
+        ]
+      ],
+      "totalVotes": 179931,
+      "winner": [
+        "Bob Inglis",
+        115553,
+        "republican"
+      ],
+      "totalRepVotes": 115553,
+      "totalDemVotes": 57490
+    },
+    "5": {
+      "candidates": [
+        [
+          "Ralph Norman",
+          75422,
+          "republican"
+        ],
+        [
+          "John M. Spratt, Jr.",
+          99669,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          63,
+          "none"
+        ]
+      ],
+      "totalVotes": 175154,
+      "winner": [
+        "John M. Spratt, Jr.",
+        99669,
+        "democrat"
+      ],
+      "totalRepVotes": 75422,
+      "totalDemVotes": 99669
+    },
+    "6": {
+      "candidates": [
+        [
+          "Antonio Williams",
+          2224,
+          "green"
+        ],
+        [
+          "James E. Clyburn",
+          100213,
+          "democrat"
+        ],
+        [
+          "Gary McLeod",
+          53181,
+          "republican"
+        ],
+        [
+          "<write in>",
+          88,
+          "none"
+        ]
+      ],
+      "totalVotes": 155706,
+      "winner": [
+        "James E. Clyburn",
+        100213,
+        "democrat"
+      ],
+      "totalRepVotes": 53181,
+      "totalDemVotes": 100213
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          67,
+          "none"
+        ],
+        [
+          "J. Gresham Barrett",
+          111882,
+          "republican"
+        ],
+        [
+          "Lee Ballenger",
+          66039,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 177988,
+      "winner": [
+        "J. Gresham Barrett",
+        111882,
+        "republican"
+      ],
+      "totalRepVotes": 111882,
+      "totalDemVotes": 66039
+    }
+  },
+  "2017": {
+    "7": {
+      "candidates": [
+        [
+          "Mal Hyman",
+          6747,
+          "working families"
+        ],
+        [
+          "<write in>",
+          251,
+          "none"
+        ],
+        [
+          "Tom Rice",
+          176468,
+          "republican"
+        ],
+        [
+          "Mal Hyman",
+          103454,
+          "democrat"
+        ],
+        [
+          "Mal Hyman",
+          2543,
+          "green"
+        ]
+      ],
+      "totalVotes": 289463,
+      "winner": [
+        "Tom Rice",
+        176468,
+        "republican"
+      ],
+      "totalRepVotes": 176468,
+      "totalDemVotes": 103454
+    },
+    "4": {
+      "candidates": [
+        [
+          "Michael Chandler",
+          5103,
+          "constitution"
+        ],
+        [
+          "Trey Gowdy",
+          198648,
+          "republican"
+        ],
+        [
+          "<write in>",
+          243,
+          "none"
+        ],
+        [
+          "Chris Fedalei",
+          91676,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 295670,
+      "winner": [
+        "Trey Gowdy",
+        198648,
+        "republican"
+      ],
+      "totalRepVotes": 198648,
+      "totalDemVotes": 91676
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          593,
+          "none"
+        ],
+        [
+          "Dimitri Cherny",
+          5757,
+          "working families"
+        ],
+        [
+          "Dimitri Cherny",
+          3483,
+          "green"
+        ],
+        [
+          "Albert Travison",
+          2774,
+          "american"
+        ],
+        [
+          "Michael Grier Jr.",
+          11614,
+          "libertarian"
+        ],
+        [
+          "Mark Sanford",
+          190410,
+          "republican"
+        ],
+        [
+          "Dimitri Cherny",
+          110539,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 325170,
+      "winner": [
+        "Mark Sanford",
+        190410,
+        "republican"
+      ],
+      "totalRepVotes": 190410,
+      "totalDemVotes": 110539
+    },
+    "6": {
+      "candidates": [
+        [
+          "James E. Clyburn",
+          177947,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          225,
+          "none"
+        ],
+        [
+          "Laura Sterling",
+          70099,
+          "republican"
+        ],
+        [
+          "Prince Charles Mallory",
+          2499,
+          "green"
+        ],
+        [
+          "Rich Piotrowski",
+          3131,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 253901,
+      "winner": [
+        "James E. Clyburn",
+        177947,
+        "democrat"
+      ],
+      "totalRepVotes": 70099,
+      "totalDemVotes": 177947
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          177,
+          "none"
+        ],
+        [
+          "Rudy Barnes Jr.",
+          5388,
+          "american"
+        ],
+        [
+          "Fran Person",
+          105772,
+          "democrat"
+        ],
+        [
+          "Mick Mulvaney",
+          161669,
+          "republican"
+        ]
+      ],
+      "totalVotes": 273006,
+      "winner": [
+        "Mick Mulvaney",
+        161669,
+        "republican"
+      ],
+      "totalRepVotes": 161669,
+      "totalDemVotes": 105772
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          354,
+          "none"
+        ],
+        [
+          "Arik Bjorn",
+          4146,
+          "green"
+        ],
+        [
+          "Arik Bjorn",
+          105306,
+          "democrat"
+        ],
+        [
+          "Joe Wilson",
+          183746,
+          "republican"
+        ],
+        [
+          "Eddie McCain",
+          11444,
+          "american"
+        ]
+      ],
+      "totalVotes": 304996,
+      "winner": [
+        "Joe Wilson",
+        183746,
+        "republican"
+      ],
+      "totalRepVotes": 183746,
+      "totalDemVotes": 105306
+    },
+    "3": {
+      "candidates": [
+        [
+          "Hosea Cleveland",
+          72933,
+          "democrat"
+        ],
+        [
+          "Jeff Duncan",
+          196325,
+          "republican"
+        ],
+        [
+          "<write in>",
+          282,
+          "none"
+        ]
+      ],
+      "totalVotes": 269540,
+      "winner": [
+        "Jeff Duncan",
+        196325,
+        "republican"
+      ],
+      "totalRepVotes": 196325,
+      "totalDemVotes": 72933
+    }
+  },
+  "2005": {
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          242,
+          "none"
+        ],
+        [
+          "Gary McLeod",
+          75443,
+          "republican"
+        ],
+        [
+          "Gary McLeod",
+          4157,
+          "constitution"
+        ],
+        [
+          "James E. Clyburn",
+          161987,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 241829,
+      "winner": [
+        "James E. Clyburn",
+        161987,
+        "democrat"
+      ],
+      "totalRepVotes": 75443,
+      "totalDemVotes": 161987
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          312,
+          "none"
+        ],
+        [
+          "Steve Lefemine",
+          4447,
+          "constitution"
+        ],
+        [
+          "Joe Wilson",
+          181862,
+          "republican"
+        ],
+        [
+          "Michael Ray Ellisor",
+          93249,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 279870,
+      "winner": [
+        "Joe Wilson",
+        181862,
+        "republican"
+      ],
+      "totalRepVotes": 181862,
+      "totalDemVotes": 93249
+    },
+    "3": {
+      "candidates": [
+        [
+          "J. Gresham Barrett",
+          191052,
+          "republican"
+        ],
+        [
+          "<write in>",
+          947,
+          "none"
+        ]
+      ],
+      "totalVotes": 191999,
+      "winner": [
+        "J. Gresham Barrett",
+        191052,
+        "republican"
+      ],
+      "totalRepVotes": 191052,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Brandon P. Brown",
+          78376,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          150,
+          "none"
+        ],
+        [
+          "Bob Inglis",
+          188795,
+          "republican"
+        ],
+        [
+          "C. Faye Walters",
+          3273,
+          "green"
+        ]
+      ],
+      "totalVotes": 270594,
+      "winner": [
+        "Bob Inglis",
+        188795,
+        "republican"
+      ],
+      "totalRepVotes": 188795,
+      "totalDemVotes": 78376
+    },
+    "5": {
+      "candidates": [
+        [
+          "Albert F. Spencer",
+          89568,
+          "republican"
+        ],
+        [
+          "<write in>",
+          83,
+          "none"
+        ],
+        [
+          "John M. Spratt, Jr.",
+          152867,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 242518,
+      "winner": [
+        "John M. Spratt, Jr.",
+        152867,
+        "democrat"
+      ],
+      "totalRepVotes": 89568,
+      "totalDemVotes": 152867
+    },
+    "1": {
+      "candidates": [
+        [
+          "Henry E. Brown",
+          186448,
+          "republican"
+        ],
+        [
+          "James E. Dunn",
+          25674,
+          "green"
+        ],
+        [
+          "<write in>",
+          186,
+          "none"
+        ]
+      ],
+      "totalVotes": 212308,
+      "winner": [
+        "Henry E. Brown",
+        186448,
+        "republican"
+      ],
+      "totalRepVotes": 186448,
+      "totalDemVotes": 0
+    }
+  },
+  "2009": {
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          218,
+          "none"
+        ],
+        [
+          "J. Gresham Barrett",
+          186799,
+          "republican"
+        ],
+        [
+          "Jane Ballard Dyer",
+          101724,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 288741,
+      "winner": [
+        "J. Gresham Barrett",
+        186799,
+        "republican"
+      ],
+      "totalRepVotes": 186799,
+      "totalDemVotes": 101724
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joe Wilson",
+          184583,
+          "republican"
+        ],
+        [
+          "<write in>",
+          276,
+          "none"
+        ],
+        [
+          "Rob Miller",
+          158627,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 343486,
+      "winner": [
+        "Joe Wilson",
+        184583,
+        "republican"
+      ],
+      "totalRepVotes": 184583,
+      "totalDemVotes": 158627
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          125,
+          "none"
+        ],
+        [
+          "Frank Waggoner",
+          4093,
+          "constitution"
+        ],
+        [
+          "John M. Spratt Jr.",
+          188785,
+          "democrat"
+        ],
+        [
+          "Albert F. Spencer",
+          113282,
+          "republican"
+        ]
+      ],
+      "totalVotes": 306285,
+      "winner": [
+        "John M. Spratt Jr.",
+        188785,
+        "democrat"
+      ],
+      "totalRepVotes": 113282,
+      "totalDemVotes": 188785
+    },
+    "1": {
+      "candidates": [
+        [
+          "Linda Ketner",
+          163724,
+          "democrat"
+        ],
+        [
+          "Henry E. Brown Jr.",
+          177540,
+          "republican"
+        ],
+        [
+          "<write in>",
+          615,
+          "none"
+        ]
+      ],
+      "totalVotes": 341879,
+      "winner": [
+        "Henry E. Brown Jr.",
+        177540,
+        "republican"
+      ],
+      "totalRepVotes": 177540,
+      "totalDemVotes": 163724
+    },
+    "6": {
+      "candidates": [
+        [
+          "Nancy Harrelson",
+          93059,
+          "republican"
+        ],
+        [
+          "<write in>",
+          134,
+          "none"
+        ],
+        [
+          "James E. Clyburn",
+          193378,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 286571,
+      "winner": [
+        "James E. Clyburn",
+        193378,
+        "democrat"
+      ],
+      "totalRepVotes": 93059,
+      "totalDemVotes": 193378
+    },
+    "4": {
+      "candidates": [
+        [
+          "Bob Inglis",
+          184440,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1865,
+          "none"
+        ],
+        [
+          "C. Faye Walters",
+          7332,
+          "green"
+        ],
+        [
+          "Paul Corden",
+          113291,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 306928,
+      "winner": [
+        "Bob Inglis",
+        184440,
+        "republican"
+      ],
+      "totalRepVotes": 184440,
+      "totalDemVotes": 113291
+    }
+  },
+  "2001": {
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          71,
+          "none"
+        ],
+        [
+          "George C. Taylor",
+          2273,
+          "natural law"
+        ],
+        [
+          "Floyd Spence",
+          154338,
+          "republican"
+        ],
+        [
+          "Timothy Moultrie",
+          3622,
+          "libertarian"
+        ],
+        [
+          "Jane Frederick",
+          110672,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 270976,
+      "winner": [
+        "Floyd Spence",
+        154338,
+        "republican"
+      ],
+      "totalRepVotes": 154338,
+      "totalDemVotes": 110672
+    },
+    "5": {
+      "candidates": [
+        [
+          "Tom Campbell",
+          3665,
+          "libertarian"
+        ],
+        [
+          "Carl L. Gullick",
+          85247,
+          "republican"
+        ],
+        [
+          "John M. Spratt, Jr.",
+          126877,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          49,
+          "none"
+        ]
+      ],
+      "totalVotes": 215838,
+      "winner": [
+        "John M. Spratt, Jr.",
+        126877,
+        "democrat"
+      ],
+      "totalRepVotes": 85247,
+      "totalDemVotes": 126877
+    },
+    "3": {
+      "candidates": [
+        [
+          "Adrian Banks",
+          3116,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          33,
+          "none"
+        ],
+        [
+          "George Brightharp",
+          2253,
+          "united citizens"
+        ],
+        [
+          "George Brightharp",
+          64917,
+          "democrat"
+        ],
+        [
+          "LeRoy J. Klein",
+          1122,
+          "natural law"
+        ],
+        [
+          "Lindsey O. Graham",
+          150180,
+          "republican"
+        ]
+      ],
+      "totalVotes": 221621,
+      "winner": [
+        "Lindsey O. Graham",
+        150180,
+        "republican"
+      ],
+      "totalRepVotes": 150180,
+      "totalDemVotes": 64917
+    },
+    "6": {
+      "candidates": [
+        [
+          "Lynwood Earl Hines",
+          1934,
+          "libertarian"
+        ],
+        [
+          "Vince Ellison",
+          50005,
+          "republican"
+        ],
+        [
+          "Dianne L. Nevins",
+          2339,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          49,
+          "none"
+        ],
+        [
+          "James E. Clyburn",
+          138053,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 192380,
+      "winner": [
+        "James E. Clyburn",
+        138053,
+        "democrat"
+      ],
+      "totalRepVotes": 50005,
+      "totalDemVotes": 138053
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter J. Ashy",
+          4077,
+          "united citizens"
+        ],
+        [
+          "Jim DeMint",
+          150436,
+          "republican"
+        ],
+        [
+          "C. Faye Walters",
+          2640,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          476,
+          "none"
+        ],
+        [
+          "April Bishop",
+          12757,
+          "libertarian"
+        ],
+        [
+          "Ted Adams",
+          16532,
+          "constitution"
+        ],
+        [
+          "Peter J. Ashy",
+          2133,
+          "reform"
+        ]
+      ],
+      "totalVotes": 189051,
+      "winner": [
+        "Jim DeMint",
+        150436,
+        "republican"
+      ],
+      "totalRepVotes": 150436,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Henry Brown",
+          139597,
+          "republican"
+        ],
+        [
+          "Bill Woolsey",
+          6010,
+          "libertarian"
+        ],
+        [
+          "Bob Batchelder",
+          2067,
+          "reform"
+        ],
+        [
+          "Bob Batchelder",
+          1110,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          40,
+          "none"
+        ],
+        [
+          "Andy Brack",
+          82622,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 231446,
+      "winner": [
+        "Henry Brown",
+        139597,
+        "republican"
+      ],
+      "totalRepVotes": 139597,
+      "totalDemVotes": 82622
+    }
+  },
+  "2011": {
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          163,
+          "none"
+        ],
+        [
+          "Robert Dobbs",
+          3369,
+          "green"
+        ],
+        [
+          "Keith Blandford",
+          2750,
+          "libertarian"
+        ],
+        [
+          "M. E. Mac McCullough",
+          1013,
+          "united citizens"
+        ],
+        [
+          "Tim Scott",
+          152755,
+          "republican"
+        ],
+        [
+          "Rob Groce",
+          4148,
+          "working families"
+        ],
+        [
+          "Ben Frasier",
+          67008,
+          "democrat"
+        ],
+        [
+          "Jimmy Wood",
+          2489,
+          "independence"
+        ]
+      ],
+      "totalVotes": 233695,
+      "winner": [
+        "Tim Scott",
+        152755,
+        "republican"
+      ],
+      "totalRepVotes": 152755,
+      "totalDemVotes": 67008
+    },
+    "2": {
+      "candidates": [
+        [
+          "Marc Beaman",
+          2856,
+          "constitution"
+        ],
+        [
+          "Eddie McCain",
+          4228,
+          "libertarian"
+        ],
+        [
+          "Joe Wilson",
+          138861,
+          "republican"
+        ],
+        [
+          "Rob Miller",
+          113625,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          102,
+          "none"
+        ]
+      ],
+      "totalVotes": 259672,
+      "winner": [
+        "Joe Wilson",
+        138861,
+        "republican"
+      ],
+      "totalRepVotes": 138861,
+      "totalDemVotes": 113625
+    },
+    "4": {
+      "candidates": [
+        [
+          "Dave Edwards",
+          11059,
+          "constitution"
+        ],
+        [
+          "Paul Corden",
+          62438,
+          "democrat"
+        ],
+        [
+          "Rick Mahler",
+          3010,
+          "libertarian"
+        ],
+        [
+          "Trey Gowdy",
+          137586,
+          "republican"
+        ],
+        [
+          "<write in>",
+          181,
+          "none"
+        ],
+        [
+          "C. Faye Walters",
+          2564,
+          "green"
+        ]
+      ],
+      "totalVotes": 216838,
+      "winner": [
+        "Trey Gowdy",
+        137586,
+        "republican"
+      ],
+      "totalRepVotes": 137586,
+      "totalDemVotes": 62438
+    },
+    "6": {
+      "candidates": [
+        [
+          "Jim Pratt",
+          72661,
+          "republican"
+        ],
+        [
+          "Nammu Y. Muhammad",
+          1389,
+          "green"
+        ],
+        [
+          "James E. Clyburn",
+          125459,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          81,
+          "none"
+        ]
+      ],
+      "totalVotes": 199590,
+      "winner": [
+        "James E. Clyburn",
+        125459,
+        "democrat"
+      ],
+      "totalRepVotes": 72661,
+      "totalDemVotes": 125459
+    },
+    "5": {
+      "candidates": [
+        [
+          "John M. Spratt, Jr.",
+          102296,
+          "democrat"
+        ],
+        [
+          "Mick Mulvaney",
+          125834,
+          "republican"
+        ],
+        [
+          "<write in>",
+          156,
+          "none"
+        ]
+      ],
+      "totalVotes": 228286,
+      "winner": [
+        "Mick Mulvaney",
+        125834,
+        "republican"
+      ],
+      "totalRepVotes": 125834,
+      "totalDemVotes": 102296
+    },
+    "3": {
+      "candidates": [
+        [
+          "John Dalen",
+          2682,
+          "constitution"
+        ],
+        [
+          "Jane Ballard Dyer",
+          6598,
+          "working families"
+        ],
+        [
+          "Jane Ballard Dyer",
+          66497,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          96,
+          "none"
+        ],
+        [
+          "Jeff Duncan",
+          126235,
+          "republican"
+        ]
+      ],
+      "totalVotes": 202108,
+      "winner": [
+        "Jeff Duncan",
+        126235,
+        "republican"
+      ],
+      "totalRepVotes": 126235,
+      "totalDemVotes": 66497
+    }
+  },
+  "2015": {
+    "2": {
+      "candidates": [
+        [
+          "Harold Geddings III",
+          4158,
+          "labor"
+        ],
+        [
+          "<write in>",
+          282,
+          "none"
+        ],
+        [
+          "Joe Wilson",
+          121649,
+          "republican"
+        ],
+        [
+          "Phil Black",
+          68719,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 194808,
+      "winner": [
+        "Joe Wilson",
+        121649,
+        "republican"
+      ],
+      "totalRepVotes": 121649,
+      "totalDemVotes": 68719
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          115,
+          "none"
+        ],
+        [
+          "Tom Rice",
+          102833,
+          "republican"
+        ],
+        [
+          "Gloria Bromell-Tinubu",
+          68576,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 171524,
+      "winner": [
+        "Tom Rice",
+        102833,
+        "republican"
+      ],
+      "totalRepVotes": 102833,
+      "totalDemVotes": 68576
+    },
+    "1": {
+      "candidates": [
+        [
+          "Mark Sanford",
+          119392,
+          "republican"
+        ],
+        [
+          "<write in>",
+          8423,
+          "none"
+        ]
+      ],
+      "totalVotes": 127815,
+      "winner": [
+        "Mark Sanford",
+        119392,
+        "republican"
+      ],
+      "totalRepVotes": 119392,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          82,
+          "none"
+        ],
+        [
+          "Mick Mulvaney",
+          103078,
+          "republican"
+        ],
+        [
+          "Tom Adams",
+          5183,
+          "democrat"
+        ],
+        [
+          "Tom Adams",
+          66802,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 175145,
+      "winner": [
+        "Mick Mulvaney",
+        103078,
+        "republican"
+      ],
+      "totalRepVotes": 103078,
+      "totalDemVotes": 71985
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          87,
+          "none"
+        ],
+        [
+          "Barbara Jo Mullis",
+          47181,
+          "democrat"
+        ],
+        [
+          "Jeff Duncan",
+          116741,
+          "republican"
+        ]
+      ],
+      "totalVotes": 164009,
+      "winner": [
+        "Jeff Duncan",
+        116741,
+        "republican"
+      ],
+      "totalRepVotes": 116741,
+      "totalDemVotes": 47181
+    },
+    "6": {
+      "candidates": [
+        [
+          "James E. Clyburn",
+          125747,
+          "democrat"
+        ],
+        [
+          "Kevin R. Umbaugh",
+          3176,
+          "libertarian"
+        ],
+        [
+          "Anthony Culler",
+          44311,
+          "republican"
+        ],
+        [
+          "<write in>",
+          198,
+          "none"
+        ]
+      ],
+      "totalVotes": 173432,
+      "winner": [
+        "James E. Clyburn",
+        125747,
+        "democrat"
+      ],
+      "totalRepVotes": 44311,
+      "totalDemVotes": 125747
+    },
+    "4": {
+      "candidates": [
+        [
+          "Curtis E. McLaughlin",
+          21969,
+          "libertarian"
+        ],
+        [
+          "Trey Gowdy",
+          126452,
+          "republican"
+        ],
+        [
+          "<write in>",
+          628,
+          "none"
+        ]
+      ],
+      "totalVotes": 149049,
+      "winner": [
+        "Trey Gowdy",
+        126452,
+        "republican"
+      ],
+      "totalRepVotes": 126452,
+      "totalDemVotes": 0
+    }
+  },
+  "2013": {
+    "1": {
+      "candidates": [
+        [
+          "Bobbie G. Rose",
+          98154,
+          "democrat"
+        ],
+        [
+          "Keith Blandford",
+          6334,
+          "libertarian"
+        ],
+        [
+          "Bobbie G. Rose",
+          5403,
+          "working families"
+        ],
+        [
+          "Tim Scott",
+          179908,
+          "republican"
+        ],
+        [
+          "<write in>",
+          214,
+          "none"
+        ]
+      ],
+      "totalVotes": 290013,
+      "winner": [
+        "Tim Scott",
+        179908,
+        "republican"
+      ],
+      "totalRepVotes": 179908,
+      "totalDemVotes": 98154
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jeff Sumerel",
+          3390,
+          "green"
+        ],
+        [
+          "<write in>",
+          329,
+          "none"
+        ],
+        [
+          "Deb Morrow",
+          5877,
+          "working families"
+        ],
+        [
+          "Trey Gowdy",
+          173201,
+          "republican"
+        ],
+        [
+          "Deb Morrow",
+          84087,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 266884,
+      "winner": [
+        "Trey Gowdy",
+        173201,
+        "republican"
+      ],
+      "totalRepVotes": 173201,
+      "totalDemVotes": 84087
+    },
+    "6": {
+      "candidates": [
+        [
+          "Nammu Y. Muhammad",
+          12920,
+          "green"
+        ],
+        [
+          "James E. Clyburn",
+          218717,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          1978,
+          "none"
+        ]
+      ],
+      "totalVotes": 233615,
+      "winner": [
+        "James E. Clyburn",
+        218717,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 218717
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jeff Duncan",
+          169512,
+          "republican"
+        ],
+        [
+          "Brian Ryan B. Doyle",
+          84735,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          516,
+          "none"
+        ]
+      ],
+      "totalVotes": 254763,
+      "winner": [
+        "Jeff Duncan",
+        169512,
+        "republican"
+      ],
+      "totalRepVotes": 169512,
+      "totalDemVotes": 84735
+    },
+    "7": {
+      "candidates": [
+        [
+          "Gloria Bromell Tinubu",
+          7795,
+          "working families"
+        ],
+        [
+          "<write in>",
+          281,
+          "none"
+        ],
+        [
+          "Gloria Bromell Tinubu",
+          114594,
+          "democrat"
+        ],
+        [
+          "Tom Rice",
+          153068,
+          "republican"
+        ]
+      ],
+      "totalVotes": 275738,
+      "winner": [
+        "Tom Rice",
+        153068,
+        "republican"
+      ],
+      "totalRepVotes": 153068,
+      "totalDemVotes": 114594
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          7602,
+          "none"
+        ],
+        [
+          "Joe Wilson",
+          196116,
+          "republican"
+        ]
+      ],
+      "totalVotes": 203718,
+      "winner": [
+        "Joe Wilson",
+        196116,
+        "republican"
+      ],
+      "totalRepVotes": 196116,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Mick Mulvaney",
+          154324,
+          "republican"
+        ],
+        [
+          "Joyce Knott",
+          113904,
+          "democrat"
+        ],
+        [
+          "Joyce Knott",
+          9539,
+          "working families"
+        ],
+        [
+          "<write in>",
+          236,
+          "none"
+        ]
+      ],
+      "totalVotes": 278003,
+      "winner": [
+        "Mick Mulvaney",
+        154324,
+        "republican"
+      ],
+      "totalRepVotes": 154324,
+      "totalDemVotes": 113904
+    }
+  },
+  "1999": {
+    "1": {
+      "candidates": [
+        [
+          "Joe Innella",
+          11586,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          71,
+          "none"
+        ],
+        [
+          "Marshall \"Mark\" Sanford",
+          118414,
+          "republican"
+        ]
+      ],
+      "totalVotes": 130071,
+      "winner": [
+        "Marshall \"Mark\" Sanford",
+        118414,
+        "republican"
+      ],
+      "totalRepVotes": 118414,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "James E. Clyburn",
+          116507,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          152,
+          "none"
+        ],
+        [
+          "Gary McLeod",
+          41421,
+          "republican"
+        ],
+        [
+          "George C. Taylor",
+          2496,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 160576,
+      "winner": [
+        "James E. Clyburn",
+        116507,
+        "democrat"
+      ],
+      "totalRepVotes": 41421,
+      "totalDemVotes": 116507
+    },
+    "4": {
+      "candidates": [
+        [
+          "C. Faye Walters",
+          1988,
+          "natural law"
+        ],
+        [
+          "Glenn Reese",
+          73314,
+          "democrat"
+        ],
+        [
+          "Jim DeMint",
+          105264,
+          "republican"
+        ],
+        [
+          "Peter J. Ashy",
+          950,
+          "patriot"
+        ],
+        [
+          "<write in>",
+          230,
+          "none"
+        ],
+        [
+          "Peter J. Ashy",
+          804,
+          "reform"
+        ]
+      ],
+      "totalVotes": 182550,
+      "winner": [
+        "Jim DeMint",
+        105264,
+        "republican"
+      ],
+      "totalRepVotes": 105264,
+      "totalDemVotes": 73314
+    },
+    "5": {
+      "candidates": [
+        [
+          "Dianne Nevins",
+          2765,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          103,
+          "none"
+        ],
+        [
+          "Mike Burkhold",
+          66367,
+          "republican"
+        ],
+        [
+          "John M. Spratt, Jr.",
+          95696,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 164931,
+      "winner": [
+        "John M. Spratt, Jr.",
+        95696,
+        "democrat"
+      ],
+      "totalRepVotes": 66367,
+      "totalDemVotes": 95696
+    },
+    "3": {
+      "candidates": [
+        [
+          "Lindsey O. Graham",
+          129047,
+          "republican"
+        ],
+        [
+          "<write in>",
+          402,
+          "none"
+        ]
+      ],
+      "totalVotes": 129449,
+      "winner": [
+        "Lindsey O. Graham",
+        129047,
+        "republican"
+      ],
+      "totalRepVotes": 129047,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Floyd Spence",
+          119538,
+          "republican"
+        ],
+        [
+          "Jane Srederick",
+          84864,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          40,
+          "none"
+        ],
+        [
+          "Maurice T. Raiford",
+          2276,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 206718,
+      "winner": [
+        "Floyd Spence",
+        119538,
+        "republican"
+      ],
+      "totalRepVotes": 119538,
+      "totalDemVotes": 84864
+    }
+  }
+}

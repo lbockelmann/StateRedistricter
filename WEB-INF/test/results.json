@@ -1,0 +1,23 @@
+{
+    "test-AWOL-utah-compactness": {
+        "highest": 0.091054,
+        "lowest": 0.063714,
+        "average": 0.07332512068965515,
+        "first": 0.065006,
+        "last": 0.091054
+    },
+    "test-AWOL-utah-efficiencyGap": {
+        "highest": 0.185926,
+        "lowest": 0.185923,
+        "average": 0.18592510275229301,
+        "first": 0.185923,
+        "last": 0.185926
+    },
+    "test-AWOL-utah-populationEquality": {
+        "highest": 0.975755,
+        "lowest": 0.948714,
+        "average": 0.9726633899572744,
+        "first": 0.948714,
+        "last": 0.975755
+    }
+}

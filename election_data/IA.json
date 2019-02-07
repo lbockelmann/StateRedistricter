@@ -1,0 +1,1678 @@
+{
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "James A. Leach",
+          108130,
+          "republican"
+        ],
+        [
+          "<write in>",
+          96,
+          "none"
+        ],
+        [
+          "Kevin Litten",
+          4178,
+          "libertarian"
+        ],
+        [
+          "Julie Thomas",
+          94767,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207171,
+      "winner": [
+        "James A. Leach",
+        108130,
+        "republican"
+      ],
+      "totalRepVotes": 108130,
+      "totalDemVotes": 94767
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jim Hennager",
+          1544,
+          "one earth"
+        ],
+        [
+          "Tom Latham",
+          115430,
+          "republican"
+        ],
+        [
+          "<write in>",
+          64,
+          "none"
+        ],
+        [
+          "John Norris",
+          90784,
+          "democrat"
+        ],
+        [
+          "Terry L. Wilson",
+          2952,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 210774,
+      "winner": [
+        "Tom Latham",
+        115430,
+        "republican"
+      ],
+      "totalRepVotes": 115430,
+      "totalDemVotes": 90784
+    },
+    "5": {
+      "candidates": [
+        [
+          "Paul Shomshor",
+          68853,
+          "democrat"
+        ],
+        [
+          "Steve King",
+          113257,
+          "republican"
+        ],
+        [
+          "<write in>",
+          127,
+          "none"
+        ]
+      ],
+      "totalVotes": 182237,
+      "winner": [
+        "Steve King",
+        113257,
+        "republican"
+      ],
+      "totalRepVotes": 113257,
+      "totalDemVotes": 68853
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          75,
+          "none"
+        ],
+        [
+          "Jeffrey J. Smith",
+          2689,
+          "libertarian"
+        ],
+        [
+          "Edwin B. Fruit",
+          569,
+          "socialist workers"
+        ],
+        [
+          "Leonard L. Boswell",
+          115367,
+          "democrat"
+        ],
+        [
+          "Stan Thompson",
+          97285,
+          "republican"
+        ]
+      ],
+      "totalVotes": 215985,
+      "winner": [
+        "Leonard L. Boswell",
+        115367,
+        "democrat"
+      ],
+      "totalRepVotes": 97285,
+      "totalDemVotes": 115367
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jim Nussle",
+          112280,
+          "republican"
+        ],
+        [
+          "Ann Hutchinson",
+          83779,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          396,
+          "none"
+        ]
+      ],
+      "totalVotes": 196455,
+      "winner": [
+        "Jim Nussle",
+        112280,
+        "republican"
+      ],
+      "totalRepVotes": 112280,
+      "totalDemVotes": 83779
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "James F. Hill",
+          2201,
+          "pirate"
+        ],
+        [
+          "Albert W. Schoeman",
+          1226,
+          "nominated by petition"
+        ],
+        [
+          "Mike Whalen",
+          89729,
+          "republican"
+        ],
+        [
+          "Bruce Braley",
+          114322,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207478,
+      "winner": [
+        "Bruce Braley",
+        114322,
+        "democrat"
+      ],
+      "totalRepVotes": 89729,
+      "totalDemVotes": 114322
+    },
+    "5": {
+      "candidates": [
+        [
+          "Roy Nielsen",
+          8159,
+          "nominated by petition"
+        ],
+        [
+          "Cheryl L. Brodersen",
+          2479,
+          "nominated by petition"
+        ],
+        [
+          "Joyce Schulte",
+          64181,
+          "democrat"
+        ],
+        [
+          "Steve King",
+          105580,
+          "republican"
+        ]
+      ],
+      "totalVotes": 180399,
+      "winner": [
+        "Steve King",
+        105580,
+        "republican"
+      ],
+      "totalRepVotes": 105580,
+      "totalDemVotes": 64181
+    },
+    "2": {
+      "candidates": [
+        [
+          "James A. Leach",
+          101707,
+          "republican"
+        ],
+        [
+          "Dave Loebsack",
+          107683,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 209390,
+      "winner": [
+        "Dave Loebsack",
+        107683,
+        "democrat"
+      ],
+      "totalRepVotes": 101707,
+      "totalDemVotes": 107683
+    },
+    "3": {
+      "candidates": [
+        [
+          "Leonard L. Boswell",
+          115769,
+          "democrat"
+        ],
+        [
+          "Jeff Lamberti",
+          103722,
+          "republican"
+        ],
+        [
+          "Helen Meyers",
+          3591,
+          "socialist workers"
+        ]
+      ],
+      "totalVotes": 223082,
+      "winner": [
+        "Leonard L. Boswell",
+        115769,
+        "democrat"
+      ],
+      "totalRepVotes": 103722,
+      "totalDemVotes": 115769
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Latham",
+          121650,
+          "republican"
+        ],
+        [
+          "Selden E. Spencer",
+          90982,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 212632,
+      "winner": [
+        "Tom Latham",
+        121650,
+        "republican"
+      ],
+      "totalRepVotes": 121650,
+      "totalDemVotes": 90982
+    }
+  },
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "Kevin Litten",
+          5586,
+          "libertarian"
+        ],
+        [
+          "Dave Franker",
+          117405,
+          "democrat"
+        ],
+        [
+          "James A. Leach",
+          176684,
+          "republican"
+        ],
+        [
+          "<write in>",
+          206,
+          "none"
+        ]
+      ],
+      "totalVotes": 299881,
+      "winner": [
+        "James A. Leach",
+        176684,
+        "republican"
+      ],
+      "totalRepVotes": 176684,
+      "totalDemVotes": 117405
+    },
+    "5": {
+      "candidates": [
+        [
+          "Steve King",
+          168583,
+          "republican"
+        ],
+        [
+          "<write in>",
+          161,
+          "none"
+        ],
+        [
+          "E. Joyce Schulte",
+          97597,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 266341,
+      "winner": [
+        "Steve King",
+        168583,
+        "republican"
+      ],
+      "totalRepVotes": 168583,
+      "totalDemVotes": 97597
+    },
+    "3": {
+      "candidates": [
+        [
+          "Leonard L. Boswell",
+          168007,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          213,
+          "none"
+        ],
+        [
+          "Stan Thompson",
+          136099,
+          "republican"
+        ]
+      ],
+      "totalVotes": 304319,
+      "winner": [
+        "Leonard L. Boswell",
+        168007,
+        "democrat"
+      ],
+      "totalRepVotes": 136099,
+      "totalDemVotes": 168007
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jim Nussle",
+          159993,
+          "republican"
+        ],
+        [
+          "Bill Gluba",
+          125490,
+          "democrat"
+        ],
+        [
+          "Denny Heath",
+          1756,
+          "nominated by petition"
+        ],
+        [
+          "Mark Nelson",
+          2727,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          88,
+          "none"
+        ]
+      ],
+      "totalVotes": 290054,
+      "winner": [
+        "Jim Nussle",
+        159993,
+        "republican"
+      ],
+      "totalRepVotes": 159993,
+      "totalDemVotes": 125490
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          151,
+          "none"
+        ],
+        [
+          "Paul W. Johnson",
+          116121,
+          "democrat"
+        ],
+        [
+          "Tom Latham",
+          181294,
+          "republican"
+        ]
+      ],
+      "totalVotes": 297566,
+      "winner": [
+        "Tom Latham",
+        181294,
+        "republican"
+      ],
+      "totalRepVotes": 181294,
+      "totalDemVotes": 116121
+    }
+  },
+  "2015": {
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          443,
+          "none"
+        ],
+        [
+          "David Loebsack",
+          143431,
+          "democrat"
+        ],
+        [
+          "Mariannette Miller-Meeks",
+          129455,
+          "republican"
+        ]
+      ],
+      "totalVotes": 273329,
+      "winner": [
+        "David Loebsack",
+        143431,
+        "democrat"
+      ],
+      "totalRepVotes": 129455,
+      "totalDemVotes": 143431
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          295,
+          "none"
+        ],
+        [
+          "Jim Mowrer",
+          105504,
+          "democrat"
+        ],
+        [
+          "Steve King",
+          169834,
+          "republican"
+        ]
+      ],
+      "totalVotes": 275633,
+      "winner": [
+        "Steve King",
+        169834,
+        "republican"
+      ],
+      "totalRepVotes": 169834,
+      "totalDemVotes": 105504
+    },
+    "3": {
+      "candidates": [
+        [
+          "Staci Appel",
+          119109,
+          "democrat"
+        ],
+        [
+          "Edward B. Wright",
+          9054,
+          "libertarian"
+        ],
+        [
+          "David Young",
+          148814,
+          "republican"
+        ],
+        [
+          "Bryan Jack Holder",
+          4360,
+          "none"
+        ],
+        [
+          "<write in>",
+          729,
+          "none"
+        ]
+      ],
+      "totalVotes": 282066,
+      "winner": [
+        "David Young",
+        148814,
+        "republican"
+      ],
+      "totalRepVotes": 148814,
+      "totalDemVotes": 119109
+    },
+    "1": {
+      "candidates": [
+        [
+          "Pat Murphy",
+          141145,
+          "democrat"
+        ],
+        [
+          "Rod Blum",
+          147762,
+          "republican"
+        ],
+        [
+          "<write in>",
+          399,
+          "none"
+        ]
+      ],
+      "totalVotes": 289306,
+      "winner": [
+        "Rod Blum",
+        147762,
+        "republican"
+      ],
+      "totalRepVotes": 147762,
+      "totalDemVotes": 141145
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Larry McKibben",
+          78063,
+          "republican"
+        ],
+        [
+          "Charles P. Connolly",
+          2180,
+          "reform"
+        ],
+        [
+          "Blank Vote/Scattering",
+          68,
+          "none"
+        ],
+        [
+          "Joe Seehusen",
+          1494,
+          "none"
+        ],
+        [
+          "Leonard L. Boswell",
+          107947,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 189752,
+      "winner": [
+        "Leonard L. Boswell",
+        107947,
+        "democrat"
+      ],
+      "totalRepVotes": 78063,
+      "totalDemVotes": 107947
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jeffrey M. Smith",
+          932,
+          "natural law"
+        ],
+        [
+          "Blank Vote/Scattering",
+          76,
+          "none"
+        ],
+        [
+          "Charles Thurston",
+          1252,
+          "reform"
+        ],
+        [
+          "Bob Rush",
+          79529,
+          "democrat"
+        ],
+        [
+          "James A. Leach",
+          106419,
+          "republican"
+        ]
+      ],
+      "totalVotes": 188208,
+      "winner": [
+        "James A. Leach",
+        106419,
+        "republican"
+      ],
+      "totalRepVotes": 106419,
+      "totalDemVotes": 79529
+    },
+    "5": {
+      "candidates": [
+        [
+          "Tom Latham",
+          132730,
+          "republican"
+        ],
+        [
+          "Blank Vote/Scattering",
+          1041,
+          "none"
+        ]
+      ],
+      "totalVotes": 133771,
+      "winner": [
+        "Tom Latham",
+        132730,
+        "republican"
+      ],
+      "totalRepVotes": 132730,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Nussle",
+          104613,
+          "republican"
+        ],
+        [
+          "Rob Tully",
+          83405,
+          "democrat"
+        ],
+        [
+          "Blank Vote/Scattering",
+          36,
+          "none"
+        ],
+        [
+          "Peter Lamoureux",
+          1520,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 189574,
+      "winner": [
+        "Jim Nussle",
+        104613,
+        "republican"
+      ],
+      "totalRepVotes": 104613,
+      "totalDemVotes": 83405
+    },
+    "4": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          119,
+          "none"
+        ],
+        [
+          "Jon Dvorak",
+          67550,
+          "democrat"
+        ],
+        [
+          "Greg Ganske",
+          129942,
+          "republican"
+        ],
+        [
+          "Steven Yellin",
+          1785,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 199396,
+      "winner": [
+        "Greg Ganske",
+        129942,
+        "republican"
+      ],
+      "totalRepVotes": 129942,
+      "totalDemVotes": 67550
+    }
+  },
+  "2013": {
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          572,
+          "none"
+        ],
+        [
+          "Leonard L. Boswell",
+          168632,
+          "democrat"
+        ],
+        [
+          "Tom Latham",
+          202000,
+          "republican"
+        ],
+        [
+          "David Rosenfeld",
+          6286,
+          "socialist workers"
+        ],
+        [
+          "Scott G. Batcher",
+          9352,
+          "nominated by petition"
+        ]
+      ],
+      "totalVotes": 386842,
+      "winner": [
+        "Tom Latham",
+        202000,
+        "republican"
+      ],
+      "totalRepVotes": 202000,
+      "totalDemVotes": 168632
+    },
+    "4": {
+      "candidates": [
+        [
+          "Steve King",
+          200063,
+          "republican"
+        ],
+        [
+          "Martin James Monroe",
+          8124,
+          "nominated by petition"
+        ],
+        [
+          "Christie Vilsack",
+          169470,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          226,
+          "none"
+        ]
+      ],
+      "totalVotes": 377883,
+      "winner": [
+        "Steve King",
+        200063,
+        "republican"
+      ],
+      "totalRepVotes": 200063,
+      "totalDemVotes": 169470
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          323,
+          "none"
+        ],
+        [
+          "Alan Aversa",
+          7112,
+          "nominated by petition"
+        ],
+        [
+          "John Archer",
+          161977,
+          "republican"
+        ],
+        [
+          "David Loebsack",
+          211863,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 381275,
+      "winner": [
+        "David Loebsack",
+        211863,
+        "democrat"
+      ],
+      "totalRepVotes": 161977,
+      "totalDemVotes": 211863
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ben Lange",
+          162465,
+          "republican"
+        ],
+        [
+          "Gregory Hughes",
+          4772,
+          "nominated by petition"
+        ],
+        [
+          "George Todd Krail II",
+          931,
+          "nominated by petition"
+        ],
+        [
+          "<write in>",
+          259,
+          "none"
+        ],
+        [
+          "Bruce L. Braley",
+          222422,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 390849,
+      "winner": [
+        "Bruce L. Braley",
+        222422,
+        "democrat"
+      ],
+      "totalRepVotes": 162465,
+      "totalDemVotes": 222422
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Peter Lamoureaux",
+          772,
+          "natural law"
+        ],
+        [
+          "Donna L. Smith",
+          109731,
+          "democrat"
+        ],
+        [
+          "Albert W. Schoeman",
+          901,
+          "libertarian"
+        ],
+        [
+          "Jim Nussle",
+          127827,
+          "republican"
+        ],
+        [
+          "scatter",
+          68,
+          "none"
+        ]
+      ],
+      "totalVotes": 239299,
+      "winner": [
+        "Jim Nussle",
+        127827,
+        "republican"
+      ],
+      "totalRepVotes": 127827,
+      "totalDemVotes": 109731
+    },
+    "3": {
+      "candidates": [
+        [
+          "Dick Kruse",
+          1261,
+          "libertarian"
+        ],
+        [
+          "scatter",
+          77,
+          "none"
+        ],
+        [
+          "Mike Mahaffey",
+          111895,
+          "republican"
+        ],
+        [
+          "Edward T. Rusk",
+          2534,
+          "working class"
+        ],
+        [
+          "Leonard L. Boswell",
+          115914,
+          "democrat"
+        ],
+        [
+          "Jay B. Marcus",
+          3194,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 234875,
+      "winner": [
+        "Leonard L. Boswell",
+        115914,
+        "democrat"
+      ],
+      "totalRepVotes": 111895,
+      "totalDemVotes": 115914
+    },
+    "5": {
+      "candidates": [
+        [
+          "scatter",
+          80,
+          "none"
+        ],
+        [
+          "MacDonald Smith",
+          75785,
+          "democrat"
+        ],
+        [
+          "Tom Latham",
+          147576,
+          "republican"
+        ],
+        [
+          "Michael C. Dimick",
+          2038,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 225479,
+      "winner": [
+        "Tom Latham",
+        147576,
+        "republican"
+      ],
+      "totalRepVotes": 147576,
+      "totalDemVotes": 75785
+    },
+    "1": {
+      "candidates": [
+        [
+          "scatter",
+          88,
+          "none"
+        ],
+        [
+          "Bob Rush",
+          111595,
+          "democrat"
+        ],
+        [
+          "Michael J. Cuddehe",
+          1394,
+          "natural law"
+        ],
+        [
+          "Thomas W. Isenhour",
+          2277,
+          "nominated by petition"
+        ],
+        [
+          "James A. Leach",
+          129242,
+          "republican"
+        ]
+      ],
+      "totalVotes": 244596,
+      "winner": [
+        "James A. Leach",
+        129242,
+        "republican"
+      ],
+      "totalRepVotes": 129242,
+      "totalDemVotes": 111595
+    },
+    "4": {
+      "candidates": [
+        [
+          "Carl E. Olsen",
+          1149,
+          "libertarian"
+        ],
+        [
+          "scatter",
+          245,
+          "none"
+        ],
+        [
+          "Rogers Badgett",
+          1206,
+          "natural law"
+        ],
+        [
+          "Connie McBurney",
+          119790,
+          "democrat"
+        ],
+        [
+          "Richard McBride",
+          700,
+          "socialist workers"
+        ],
+        [
+          "Greg Ganske",
+          133419,
+          "republican"
+        ]
+      ],
+      "totalVotes": 256509,
+      "winner": [
+        "Greg Ganske",
+        133419,
+        "republican"
+      ],
+      "totalRepVotes": 133419,
+      "totalDemVotes": 119790
+    }
+  },
+  "2011": {
+    "2": {
+      "candidates": [
+        [
+          "Gary Sicard",
+          4356,
+          "libertarian"
+        ],
+        [
+          "David Loebsack",
+          115839,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          198,
+          "none"
+        ],
+        [
+          "Jon Tack",
+          2463,
+          "constitution"
+        ],
+        [
+          "Mariannette Miller-Meeks",
+          104319,
+          "republican"
+        ]
+      ],
+      "totalVotes": 227175,
+      "winner": [
+        "David Loebsack",
+        115839,
+        "democrat"
+      ],
+      "totalRepVotes": 104319,
+      "totalDemVotes": 115839
+    },
+    "4": {
+      "candidates": [
+        [
+          "Dan Lensing",
+          5499,
+          "none"
+        ],
+        [
+          "<write in>",
+          132,
+          "none"
+        ],
+        [
+          "Bill Maske",
+          74300,
+          "democrat"
+        ],
+        [
+          "Tom Latham",
+          152588,
+          "republican"
+        ]
+      ],
+      "totalVotes": 232519,
+      "winner": [
+        "Tom Latham",
+        152588,
+        "republican"
+      ],
+      "totalRepVotes": 152588,
+      "totalDemVotes": 74300
+    },
+    "5": {
+      "candidates": [
+        [
+          "Matthew Campbell",
+          63160,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          94,
+          "none"
+        ],
+        [
+          "Steve King",
+          128363,
+          "republican"
+        ],
+        [
+          "Martin James Monroe",
+          3622,
+          "none"
+        ]
+      ],
+      "totalVotes": 195239,
+      "winner": [
+        "Steve King",
+        128363,
+        "republican"
+      ],
+      "totalRepVotes": 128363,
+      "totalDemVotes": 63160
+    },
+    "1": {
+      "candidates": [
+        [
+          "Bruce L. Braley",
+          104428,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          76,
+          "none"
+        ],
+        [
+          "Benjamin M. Lange",
+          100219,
+          "republican"
+        ],
+        [
+          "Rob J. Petsche",
+          4087,
+          "libertarian"
+        ],
+        [
+          "Jason A. Faulkner",
+          2092,
+          "none"
+        ]
+      ],
+      "totalVotes": 210902,
+      "winner": [
+        "Bruce L. Braley",
+        104428,
+        "democrat"
+      ],
+      "totalRepVotes": 100219,
+      "totalDemVotes": 104428
+    },
+    "3": {
+      "candidates": [
+        [
+          "Rebecca Williamson",
+          6258,
+          "socialist workers"
+        ],
+        [
+          "Leonard L. Boswell",
+          122147,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          426,
+          "none"
+        ],
+        [
+          "Brad Zaun",
+          111925,
+          "republican"
+        ]
+      ],
+      "totalVotes": 240756,
+      "winner": [
+        "Leonard L. Boswell",
+        122147,
+        "democrat"
+      ],
+      "totalRepVotes": 111925,
+      "totalDemVotes": 122147
+    }
+  },
+  "2001": {
+    "3": {
+      "candidates": [
+        [
+          "Joe Seehusen",
+          2263,
+          "libertarian"
+        ],
+        [
+          "Jay Marcus",
+          83810,
+          "republican"
+        ],
+        [
+          "Jim Hennager",
+          851,
+          "earth federation"
+        ],
+        [
+          "scatter",
+          112,
+          "none"
+        ],
+        [
+          "Sue Atkinson",
+          5563,
+          "independence"
+        ],
+        [
+          "Leonard L. Boswell",
+          156327,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 248926,
+      "winner": [
+        "Leonard L. Boswell",
+        156327,
+        "democrat"
+      ],
+      "totalRepVotes": 83810,
+      "totalDemVotes": 156327
+    },
+    "5": {
+      "candidates": [
+        [
+          "Tom Latham",
+          159367,
+          "republican"
+        ],
+        [
+          "Ray Holtorf",
+          1917,
+          "none"
+        ],
+        [
+          "scatter",
+          54,
+          "none"
+        ],
+        [
+          "Mike Palecek",
+          67593,
+          "democrat"
+        ],
+        [
+          "Ben L. Olson",
+          2875,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 231806,
+      "winner": [
+        "Tom Latham",
+        159367,
+        "republican"
+      ],
+      "totalRepVotes": 159367,
+      "totalDemVotes": 67593
+    },
+    "1": {
+      "candidates": [
+        [
+          "James A. Leach",
+          164972,
+          "republican"
+        ],
+        [
+          "Bob Simpson",
+          96283,
+          "democrat"
+        ],
+        [
+          "scatter",
+          171,
+          "none"
+        ],
+        [
+          "Russ Madden",
+          5564,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 266990,
+      "winner": [
+        "James A. Leach",
+        164972,
+        "republican"
+      ],
+      "totalRepVotes": 164972,
+      "totalDemVotes": 96283
+    },
+    "2": {
+      "candidates": [
+        [
+          "Albert W. Schoeman",
+          2288,
+          "libertarian"
+        ],
+        [
+          "Jim Nussle",
+          139906,
+          "republican"
+        ],
+        [
+          "scatter",
+          46,
+          "none"
+        ],
+        [
+          "Donna L. Smith",
+          110327,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 252567,
+      "winner": [
+        "Jim Nussle",
+        139906,
+        "republican"
+      ],
+      "totalRepVotes": 139906,
+      "totalDemVotes": 110327
+    },
+    "4": {
+      "candidates": [
+        [
+          "Greg Ganske",
+          169267,
+          "republican"
+        ],
+        [
+          "Michael L. Huston",
+          101112,
+          "democrat"
+        ],
+        [
+          "Edwin B. Fruit",
+          612,
+          "socialist workers"
+        ],
+        [
+          "scatter",
+          102,
+          "none"
+        ],
+        [
+          "Steve Zimmerman",
+          4552,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 275645,
+      "winner": [
+        "Greg Ganske",
+        169267,
+        "republican"
+      ],
+      "totalRepVotes": 169267,
+      "totalDemVotes": 101112
+    }
+  },
+  "2009": {
+    "3": {
+      "candidates": [
+        [
+          "Kim Schmett",
+          132136,
+          "republican"
+        ],
+        [
+          "Leonard L. Boswell",
+          176904,
+          "democrat"
+        ],
+        [
+          "Frank V. Forrestal",
+          4599,
+          "socialist workers"
+        ]
+      ],
+      "totalVotes": 313639,
+      "winner": [
+        "Leonard L. Boswell",
+        176904,
+        "democrat"
+      ],
+      "totalRepVotes": 132136,
+      "totalDemVotes": 176904
+    },
+    "1": {
+      "candidates": [
+        [
+          "David Hartsuch",
+          102439,
+          "republican"
+        ],
+        [
+          "Bruce L. Braley",
+          186991,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 289430,
+      "winner": [
+        "Bruce L. Braley",
+        186991,
+        "democrat"
+      ],
+      "totalRepVotes": 102439,
+      "totalDemVotes": 186991
+    },
+    "4": {
+      "candidates": [
+        [
+          "Becky Greenwald",
+          120746,
+          "democrat"
+        ],
+        [
+          "Tom Latham",
+          185458,
+          "republican"
+        ]
+      ],
+      "totalVotes": 306204,
+      "winner": [
+        "Tom Latham",
+        185458,
+        "republican"
+      ],
+      "totalRepVotes": 185458,
+      "totalDemVotes": 120746
+    },
+    "5": {
+      "candidates": [
+        [
+          "Steve King",
+          159430,
+          "republican"
+        ],
+        [
+          "Rob Hubler",
+          99601,
+          "democrat"
+        ],
+        [
+          "Victor Vara",
+          7406,
+          "independent"
+        ]
+      ],
+      "totalVotes": 266437,
+      "winner": [
+        "Steve King",
+        159430,
+        "republican"
+      ],
+      "totalRepVotes": 159430,
+      "totalDemVotes": 99601
+    },
+    "2": {
+      "candidates": [
+        [
+          "Mariannette Miller-Meeks",
+          118778,
+          "republican"
+        ],
+        [
+          "Brian White",
+          5437,
+          "no party affiliation"
+        ],
+        [
+          "Wendy Barth",
+          6664,
+          "green"
+        ],
+        [
+          "David Loebsack",
+          175218,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 306097,
+      "winner": [
+        "David Loebsack",
+        175218,
+        "democrat"
+      ],
+      "totalRepVotes": 118778,
+      "totalDemVotes": 175218
+    }
+  },
+  "2017": {
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          547,
+          "none"
+        ],
+        [
+          "Steve King",
+          226719,
+          "republican"
+        ],
+        [
+          "Kim Weaver",
+          142993,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 370259,
+      "winner": [
+        "Steve King",
+        226719,
+        "republican"
+      ],
+      "totalRepVotes": 226719,
+      "totalDemVotes": 142993
+    },
+    "3": {
+      "candidates": [
+        [
+          "Claudia Addy",
+          6348,
+          "nominated by petition"
+        ],
+        [
+          "Bryan Jack Holder",
+          15372,
+          "libertarian"
+        ],
+        [
+          "David Young",
+          208598,
+          "republican"
+        ],
+        [
+          "<write in>",
+          449,
+          "none"
+        ],
+        [
+          "Jim Mowrer",
+          155002,
+          "democrat"
+        ],
+        [
+          "Joe Grandanette",
+          4518,
+          "nominated by petition"
+        ]
+      ],
+      "totalVotes": 390287,
+      "winner": [
+        "David Young",
+        208598,
+        "republican"
+      ],
+      "totalRepVotes": 208598,
+      "totalDemVotes": 155002
+    },
+    "2": {
+      "candidates": [
+        [
+          "Christopher Peters",
+          170933,
+          "republican"
+        ],
+        [
+          "David Loebsack",
+          198571,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          528,
+          "none"
+        ]
+      ],
+      "totalVotes": 370032,
+      "winner": [
+        "David Loebsack",
+        198571,
+        "democrat"
+      ],
+      "totalRepVotes": 170933,
+      "totalDemVotes": 198571
+    },
+    "1": {
+      "candidates": [
+        [
+          "Monica Vernon",
+          177403,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          671,
+          "none"
+        ],
+        [
+          "Rod Blum",
+          206903,
+          "republican"
+        ]
+      ],
+      "totalVotes": 384977,
+      "winner": [
+        "Rod Blum",
+        206903,
+        "republican"
+      ],
+      "totalRepVotes": 206903,
+      "totalDemVotes": 177403
+    }
+  }
+}

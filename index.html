@@ -1,0 +1,681 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+
+  <!-- Font Awesome Icons -->
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+        integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+        crossorigin="" />
+
+  <!-- Leaflet Sidebar CSS -->
+  <link rel="stylesheet" href="css/leaflet-sidebar.css" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/demo_style.css" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <title>Redistricter</title>
+</head>
+
+<body>
+<script src="http://code.jquery.com/jquery.min.js"></script>
+<script src="js/sliders.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+        crossorigin="anonymous"></script>
+<!-- Modal for User Login-->
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="loginModalLabel">User Login</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h3 class="userLoginHeader">Enter Account Information</h3><br>
+        <br>
+        <div class="invalid-input" id="userLoginInvalid"></div>
+        <br>
+        <form>
+          <input type="text" class="form-control" id="userLoginUsername" name="user" placeholder="Username">
+          <br />
+          <input type="password" class="form-control" id="userLoginPassword" name="pass" placeholder="Password">
+          <br />
+          <button type="button" id='userLoginSubmit' class="form-control btn btn-primary">Login</button>
+          <button type="button" id='userCreateButton' class="form-control btn btn-success">Create New Account</button>
+        </form>
+        <div class="modal-footer">
+          <!-- <button type="button" class="btn btn-warning" data-dismiss="modal">Cancel</button> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="popup-info"></div>
+
+<div id="sidebar" class="sidebar collapsed">
+  <!-- Nav tabs -->
+  <div class="sidebar-tabs">
+    <ul role="tablist">
+      <li id="homeButton" class="disabled"><a href="#home" role="tab" data-toggle="tooltip" data-placement="right"
+                                              title="State Details"><i class="fa fa-info-circle"></i></a></li>
+      <li id="functionButton" class="disabled"><a href="#function" role="tab" data-toggle="tooltip" data-placement="right"
+                                                  title="Adjust Weights"><i class="fa fa-balance-scale" aria-hidden="true"></i></a></li>
+      <li id="constitutionButton" class="disabled"><a href="#constitution" role="tab" data-toggle="tooltip" data-placement="right"
+                                                      title="See Redistricting Guidelines"><i class="fa fa-book" aria-hidden="true"></i></a></li>
+    </ul>
+
+    <ul role="tablist">
+      <li id="loginButton"><a href="" role="tab" data-toggle="tooltip" id="userLoginTooltip" title="Log in"><i class="material-icons">
+        account_circle
+      </i></a></li>
+      <li id="accountButton"><a href="#adminManageUser" role="tab" data-toggle="tooltip" data-placement="right"
+                                              title="User Actions"><i class="fa fa-address-book-o"></i></a></li>
+      <li id="searchButton"><a href="#search" role="tab" data-toggle="tooltip" data-placement="right" title="Search Map"><i
+          class="material-icons">
+        search
+      </i></a></li>
+      <li id="zoomButton"><a href="" role="tab" data-toggle="tooltip" title="Reset Map"><i class="fa fa-globe"></i></a></li>
+      <li><a href="#settings" role="tab" data-toggle="tooltip" title="About/F.A.Q."><i class="fa fa-question-circle"></i></a></li>
+    </ul>
+  </div>
+
+
+  <!-- Tab panes -->
+  <div class="sidebar-content">
+    <div class="sidebar-pane" id="home">
+      <h1 class="sidebar-header">
+        State Details
+        <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+      </h1>
+      <h4 class="slider-title underlined">Selected District</h4>
+      <p><span class="sidebar-info-val" id="dem-vote-count-before">??</span> <span class="sidebar-info-desc">Total Democratic Votes</span></p>
+      <p><span class="sidebar-info-val" id="rep-vote-count-before">??</span> <span class="sidebar-info-desc">Total Republican Votes</span></p>
+      <h4 class="slider-title underlined">State Statistics</h4>
+      <h5>Current Districts:</h5>
+      <p class="stat-info"><span class="sidebar-info-val" id="fn-value-before">??</span> <span class="sidebar-info-desc"> Original Score</span></p>
+      <p class="stat-info"><span class="sidebar-info-val" id="dem-dis-count-before">??</span> <span class="sidebar-info-desc">Democratic Districts</span></p>
+      <p class="stat-info"><span class="sidebar-info-val" id="rep-dis-count-before">??</span> <span class="sidebar-info-desc">Republican Districts</span></p>
+      <h5>Redistricted Districts:</h5>
+      <p class="stat-info"><span class="sidebar-info-val" id="fn-value-after">??</span> <span class="sidebar-info-desc"> Current Score</span></p>
+      <p class="stat-info"><span class="sidebar-info-val" id="move-done-count">??</span> <span class="sidebar-info-desc">Moves performed</span></p>
+      <p class="stat-info"><span class="sidebar-info-val" id="move-undone-count">??</span> <span class="sidebar-info-desc">Moves undone</span></p>
+
+
+      <ul class="list-group">
+        <li id="display-party-colors-box" class="list-group-item">
+          Display Party Colors
+          <div class="material-switch pull-right">
+            <input id="show-party-colors-switch" name="someSwitchOption001" type="checkbox" />
+            <label for="show-party-colors-switch" class="label-default"></label>
+          </div>
+        </li>
+        <li class="list-group-item">
+          Display Original Districts
+          <div class="material-switch pull-right">
+            <input id="show-original-districts-switch" name="someSwitchOption001" type="checkbox" />
+            <label for="show-original-districts-switch" class="label-primary"></label>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <div class="sidebar-pane" id="function">
+      <h1 class="sidebar-header">Redistrcting Options<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+      <h4 class='slider-title'>Weights of Parameters:</h4>
+      <div class="slidercontainer">
+        <p>Here you can set the parameters of certain factors that will be considered when
+          the
+          algorithm runs.</p>
+        <p>
+          The higher the value, the more important that aspect of congressional districts will be during the
+          redistricting process. A value of 0
+          will cause that particular metric to be ignored completely.
+        </p>
+        <p></p>
+      </div>
+      <h4 class="slider-title">Choose algorithmic approach</h4>
+      <div class="dropdown">
+        <button code="AWOL" class="btn btn-secondary dropdown-toggle" type="button" id="algo-select" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+          Annealing without look-ahead
+        </button>
+        <div class="dropdown-menu" aria-labelledby="algo-select">
+          <button code="RGBP" id="algo-RGBP" class="algo-select-dropdown-item dropdown-item" type="button">Region growing
+          </button>
+          <!--<button code="RGUG" id="algo-RGUG" class="algo-select-dropdown-item dropdown-item" type="button"> Region growing uniform</button>-->
+          <button code="AWOL" id="algo-AWOL" class="algo-select-dropdown-item dropdown-item" type="button">Annealing without
+            look-ahead
+          </button>
+          <button code="AWLA" id="algo=AWLA" class="algo-select-dropdown-item dropdown-item" type="button">Annealing with look-ahead</button>
+        </div>
+      </div>
+      <p></p>
+      <h4 class="slider-title">Choose election year</h4>
+      <div class="dropdown">
+        <button code="2017" class="btn btn-secondary dropdown-toggle" type="button" id="year-select" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+          2017
+        </button>
+        <div class="dropdown-menu" aria-labelledby="year-select">
+          <button code="2017" id="year-2017" class="year-select-dropdown-item dropdown-item" type="button">2017</button>
+          <button code="2015" id="year-2015" class="year-select-dropdown-item dropdown-item" type="button">2015</button>
+          <button code="2013" id="year-2013" class="year-select-dropdown-item dropdown-item" type="button">2013</button>
+          <button code="2009" id="year-2009" class="year-select-dropdown-item dropdown-item" type="button">2009</button>
+          <button code="2007" id="year-2007" class="year-select-dropdown-item dropdown-item" type="button">2007</button>
+          <button code="2005" id="year-2005" class="year-select-dropdown-item dropdown-item" type="button">2005</button>
+          <button code="2003" id="year-2003" class="year-select-dropdown-item dropdown-item" type="button">2003</button>
+          <button code="2001" id="year-2001" class="year-select-dropdown-item dropdown-item" type="button">2001</button>
+          <button code="1999" id="year-1999" class="year-select-dropdown-item dropdown-item" type="button">1999</button>
+          <button code="1997" id="year-1997" class="year-select-dropdown-item dropdown-item" type="button">1997</button>
+        </div>
+      </div>
+
+      <br />
+      <div id="login-checker">
+      <div id="accordion2">
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <p class="save-choice-title">
+                  Save and Load Weights
+                </p>
+              </button>
+            </h5>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion2">
+            <div class="card-body">
+              <div id="weight-save-area" class="save-choice">
+                <div id="WeightResponse"><span id="weight-message-close"><i class="fa fa-times"></i></span><p id="weight-message"></p></div>
+                <!--<div class="dropdown">-->
+                  <!--<button code="none" class="btn btn-secondary dropdown-toggle" type="button" id="weight-load" data-toggle="dropdown"-->
+                          <!--aria-haspopup="true" aria-expanded="false">-->
+                    <!--&lt;none&gt;-->
+                  <!--</button>-->
+                  <!--<div class="dropdown-menu" aria-labelledby="map-load">-->
+                    <!--&lt;!&ndash;<button code="none" class="map-load-dropdown-item dropdown-item" type="button">&lt;none&gt;</button>&ndash;&gt;-->
+                  <!--</div>-->
+                <!--</div>-->
+                <p></p>
+                <button type="button" class="btn btn-lg btn-info btn-block" id="saveweights-button">Save Weights</button>
+                <button type="button" class="btn btn-lg btn-primary btn-block" id="loadweights-button">Load Weights</button>
+                <!--<button type="button" class="btn btn-lg btn-danger btn-block wide-gap" id="weightDeleteButton">Delete Selected Weights</button>-->
+              </div>
+            </div>
+          </div>
+        </div>
+
+       </div>
+
+     </div>
+      <!-- Slider 1  -->
+      <div id="slider1-container">
+        <h4 class="slider-title">Compactness</h4>
+        <div class="slidecontainer">
+          <input type="range" min="0" max="1" value="0.5" step="0.01" class="slider" id="slider1" />
+          <div class='slider-value' id='slider1-value'>
+            <script>$(document).ready(clickHandlerForSlider("1"));
+            $(document).ready(function () {
+              let slider = $('#slider1-value');
+              let val = $('#slider1').val();
+              slider.html(val);
+              let r = 255 * (1 - val);
+              let g = 255 * (val);
+              let b = 0;
+              slider.css('color', `rgb(${r}, ${g}, 0)`)
+            });</script>
+          </div>
+        </div>
+        <br />
+      </div>
+      <!-- Slider 2 -->
+      <div id="slider2-container">
+        <h4 class="slider-title">Efficiency Gap</h4>
+        <div class="slidecontainer">
+          <input type="range" min="0" max="1" value="0.5" step="0.01" class="slider" id="slider2">
+          <div class='slider-value' id='slider2-value'>
+            <script>$(document).ready(clickHandlerForSlider("2"));
+            $(document).ready(function () {
+              let val = $('#slider2').val();
+              let slider = $('#slider2-value');
+              slider.html(val);
+              let r = 255 * (1 - val);
+              let g = 255 * (val);
+              let b = 0;
+              slider.css('color', `rgb(${r}, ${g}, 0)`)
+            });</script>
+          </div>
+        </div>
+        <br />
+      </div>
+      <!-- Slider 3 -->
+      <!-- <div id="slider3-container">
+        <h4 class="slider-title">Partisan Fairness</h4>
+        <div class="slidecontainer">
+          <input type="range" min="0" max="1" value="0.5" step="0.01" class="slider" id="slider3">
+          <div class='slider-value' id='slider3-value'>
+            <script>
+              $(document).ready(function () {
+                let val = $('#slider3').val();
+                let slider = $('#slider3-value');
+                slider.html(val);
+                let r = 255 * (1 - val);
+                let g = 255 * (val);
+                let b = 0;
+                slider.css('color', `rgb(${r}, ${g}, 0)`)
+              });
+              $(document).ready(clickHandlerForSlider("3"))</script>
+          </div>
+        </div>
+        <br />
+      </div> -->
+      <!-- Slider 3 -->
+      <div id="slider3-container">
+        <h4 class="slider-title">Population Equality</h4>
+        <div class="slidecontainer">
+          <input type="range" min="0" max="1" value="0.5" step="0.01" class="slider" id="slider3">
+          <div class='slider-value' id='slider3-value'>
+            <script>$(document).ready(clickHandlerForSlider("3"));
+            $(document).ready(function () {
+              let val = $('#slider3').val();
+              let slider = $('#slider3-value');
+              slider.html(val);
+              let r = 255 * (1 - val);
+              let g = 255 * (val);
+              let b = 0;
+              slider.css('color', `rgb(${r}, ${g}, 0)`)
+            });</script>
+          </div>
+        </div>
+      </div>
+      <br />
+      <!-- Slider 5 -->
+      <!-- <div id="slider5-container">
+        <h4 class="slider-title">Number of seed districts</h4>
+        <div class="slidecontainer">
+          <input type="text" class="form-control" placeholder="Current: ... " id="nDistricts">
+          <div class='slider-value' id='nDistricts-value'>
+            <script>
+            </script>
+
+          </div>
+        </div>
+      </div> -->
+      <button type="button" class="btn btn-lg btn-warning btn-block" id="randomize-button">Randomize Weights</button>
+      <button type="button" class="btn btn-lg btn-success btn-block" id="function-button">Start Algorithm</button>
+      <button type="button" class="btn btn-lg btn-danger btn-block" hidden id="halt-button">Halt Algorithm</button>
+      <button type="button" class="btn btn-lg btn-primary btn-block" hidden id="restore-districts-button">Restore Districts</button>
+      <p></p>
+    </div>
+
+    <div class="sidebar-pane" id="search">
+      <h1 class="sidebar-header">Search Map for Feature <span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+      <br />
+      <p>
+        Here you can search for a state by name or enter latitude and longitude
+        separated by a comma.
+      </p>
+      <label for="search-field"></label><input placeholder="State Name or Lat, Lng" class="form-control" type="text"
+                                               id="search-field" />
+      <button type="button" class="btn btn-lg btn btn-primary btn-block" id="search-submit-button">Search</button>
+      <p>
+      <div id="search-results">
+
+      </div>
+      </p>
+    </div>
+
+    <div class="sidebar-pane" id="constitution">
+      <h1 class="sidebar-header">State Redistricting Guidelines <span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+
+      <div id="utah-const">
+        <p class="title-header">2011 Redistricting Principles</p>
+        <p>1. Congressional districts must be as nearly equal as practicable with a deviation not greater than +/- .1% </p>
+        <p>2. State legislative districts and state school board districts must have substantial
+          equality of population among the various districts with a deviation not greater than
+          +/- 3.5% </p>
+        <p> 3. Districts will be single member districts </p>
+        <p> 4. Plans will be drawn to create four Congressional Districts, 29 State Senate
+          Districts, 75 State House Districts, and 15 State School Board Districts.
+        </p>
+        <p> 5. In drawing districts, the official population enumeration of the 2010 decennial
+          census will be used.</p>
+        <p> 6. Districts will be contiguous and reasonably compact </p>
+
+        <p>The above redistricting principles were adopted by the Legislative Redistricting Committee at
+          its May 4th meeting in 2011. </p>
+      </div>
+
+      <div id="new-mexico-const">
+      <p class="title-header">Guidelines for the Development of State and Congressional Redistricting Plans</p>
+      <p>WHEREAS, it is incumbent on the New Mexico legislative council to issue redistricting
+        guidelines that articulate principles based on federal and state law and the prior experience of
+        this legislature; and</p>
+      <p>WHEREAS, such guidelines are necessary to assist the appropriate legislative
+        committees involved in redistricting in the development and evaluation of redistricting plans
+        following the 2010 decennial census; and </p>
+      <p>WHEREAS, such guidelines are also intended to help facilitate the completion of the
+        redistricting process before the nominating petitions are first made available in October 2011 for
+        the 2012 primary election;</p>
+      <p>NOW, THEREFORE, IT IS HEREBY RESOLVED that the New Mexico legislative
+        council adopt the following redistricting guidelines with the intent that the appropriate legislative
+        committees involved in redistricting use them to develop and evaluate redistricting plans.</p>
+      <p>1. Congressional districts shall be as equal in population as practicable.</p>
+      <p>2. State districts shall be substantially equal in population; no plans for state office will be
+        considered that include any district with a total population that deviates more than plus
+        or minus five percent from the ideal.</p>
+      <p>3. The legislature shall use 2010 federal decennial census data generated by the United
+        States bureau of the census.</p>
+      <p>4. Since the precinct is the basic building block of a voting district in New Mexico,
+        proposed redistricting plans to be considered by the legislature shall not be comprised
+        of districts that split precincts.</p>
+      <p>5. Plans must comport with the provisions of the Voting Rights Act of 1965, as amended,
+        and federal constitutional standards. Plans that dilute a protected minority's voting
+        strength are unacceptable. Race may be considered in developing redistricting plans
+        but shall not be the predominant consideration. Traditional race-neutral districting
+        principles (as reflected in paragraph seven) must not be subordinated to racial
+        considerations.</p>
+      <p>6. All redistricting plans shall use only single-member districts.</p>
+      <p>7. Districts shall be drawn consistent with traditional districting principles. Districts shall
+        be composed of contiguous precincts, and shall be reasonably compact. To the extent
+        feasible, districts shall be drawn in an attempt to preserve communities of interest and
+        shall take into consideration political and geographic boundaries. In addition, and to
+        the extent feasible, the legislature may seek to preserve the core of existing districts,
+        and may consider the residence of incumbents.</p>
+
+
+      <p>Adopted by the New Mexico legislative council January 17, 2011</p>
+    </div>
+
+    <div id="south-carolina-const">
+      <p class="title-header">2011 Guidelines and Criteria For Congressional and Legislative Redistricting</p>
+      <p>The South Carolina House of Representatives, the House Judiciary
+        Committee, and the House Election Laws Subcommittee have the authority
+        to determine the criteria that the South Carolina House of Representatives
+        will use to create Congressional and legislative districts. Therefore, the
+        Election Laws Subcommittee of the South Carolina House of
+        Representatives adopts as its criteria these guidelines and criteria.</p>
+      <p>I. Constitutional Law</p>
+      <p class="indented-text">Redistricting plans shall comply with the United States Constitution
+        and the opinions of the United States Supreme Court.</p>
+      <p>II. Voting Rights Act.</p>
+      <p class="indented-text">Redistricting plans shall comply with the Voting Rights Act of 1965,
+        as amended. Pursuant to the Voting Rights Act of 1965, and in accordance
+        with the opinions of the Supreme Court, race may be a factor considered in
+        the creation of redistricting plans, but it must not be the predominant factor
+        motivating the legislature's decisions concerning the redistricting plan and must not unconstitutionally predominate over other criteria set forth in
+        these guidelines. The dilution of racial or ethnic minority voting strength is
+        contrary to the laws of the United States and of the State of South Carolina,
+        and also is against the public policy of this state. Accordingly, these criteria
+        are subordinate to the Voting Rights Act of 1965, as amended, and the laws
+        of the United States or of the State of South Carolina. Any proposed
+        redistricting plan that is demonstrated to have the intent or effect of
+        dispersing or concentrating minority population in a manner that prevents
+        minorities from electing their candidates of choice will neither be accepted
+        nor approved.</p>
+      <p>III. State Constitution and Laws.</p>
+      <p class="indented-text">Except as otherwise required by the Constitution and laws of the
+        United States, redistricting plans also shall comply with the South Carolina
+        Constitution and the laws of this state.</p>
+      <p>IV. Equal Population/Deviation</p>
+      <p class="indented-text">a. The population of the Congressional and legislative districts will be
+        determined based solely on the enumeration of the 2010 federal
+        decennial census pursuant to the United States Constitution, Article I,
+        Section 2. </p>
+      <p class="indented-text">b. The number of persons in Congressional districts shall be nearly equal
+        as is practicable. The ideal population for Congressional districts
+        shall be 660,766. In every case, efforts shall be made to achieve strict
+        equality or produce the lowest overall range of deviation possible
+        when taking into consideration geographic limitations.</p>
+      <p class="indented-text">c. The ideal population for a South Carolina House of Representatives
+        district shall be 37,301. In every case, efforts should be made to limit
+        the overall range of deviation from the ideal population to less than
+        five percent, or a relative deviation in excess of plus or minus two and
+        one-half percent for each South Carolina House district.
+        Nevertheless, any overall deviation greater than five percent from
+        equality of population among South Carolina House districts shall be
+        justified when it is the result of geographic limitations, the promotion
+        of a constitutionally permissible state policy, or to otherwise comply
+        with the criteria identified in these guidelines.</p>
+      <p>V. Contiguity</p>
+      <p class="indented-text">Congressional and legislative districts shall be comprised of
+        contiguous territory. Contiguity by water is sufficient. Areas which meet
+        only at the points of adjoining corners shall not be considered contiguous.</p>
+      <p>VI. Compactness</p>
+      <p class="indented-text">Congressional and legislative districts shall be compact in form and
+        shall follow census geography. Bizarre shapes are to be avoided except
+        when required by one or more of the following factors: (a) census
+        geography; (b) efforts to achieve equal population, as is practicable; or (c)
+        efforts to comply with the Voting Rights Act of 1965, as amended.
+        Compactness may require the division of population concentrations when to
+        do otherwise would mean dramatically altering the character of a district or
+        would require tortuous configuration of an adjoining district.</p>
+      <p class="indented-text">Compactness will be judged in part by the configuration of prior
+        plans. Particular reference will be made to prior plans implemented after the
+        2000 census because these configurations more accurately reflect the present
+        realities imposed by the state's most recent ongoing population shifts.
+        Compactness will not be judged based upon any mathematical, statistical, or
+        formula-based calculation or determination.</p>
+      <p>VII. Communities Of Interest</p>
+      <p class="indented-text">Communities of interest shall be considered in the redistricting
+        process. A variety of factors may contribute to a community of interest
+        including, but not limited to the following: (a) economic; (b) social and
+        cultural; (c) historic influences; (d) political beliefs; (e) voting behavior; (f) governmental services; (g) commonality of communications; and (h)
+        geographic location and features. Communities of interest shall be
+        considered and balanced by the Election Laws Subcommittee, the House
+        Judiciary Committee, and the South Carolina House of Representatives.
+        County boundaries, municipality boundaries, and precinct lines (as
+        represented by the Census Bureau's Voting Tabulation District lines) may be
+        considered as evidence of communities of interest to be balanced, but will be
+        given no greater weight, as a matter of state policy, than other identifiable
+        communities of interest.</p>
+      <p class="indented-text">It is possible that competing communities of interest will be identified
+        during the redistricting process. Although it may not be possible to
+        accommodate all communities of interests, the Election Laws
+        Subcommittee, the House Judiciary Committee, and the South Carolina
+        House of Representatives will attempt to accommodate diverse communities
+        of interest to the extent possible. </p>
+      <p>VIII. Incumbency Protection</p>
+      <p class="indented-text">Incumbency protection shall be considered in the reapportionment
+        process. Reasonable efforts shall be made to ensure that incumbent
+        legislators remain in their current districts. Reasonable efforts shall be made
+        to ensure that incumbent legislators are not placed into districts where they will be compelled to run against other incumbent members of the South
+        Carolina House of Representatives.</p>
+      <p>IX. Priority Of Criteria</p>
+      <p class="indented-text">a. In establishing congressional and legislative districts, all criteria
+        identified in these guidelines shall be considered. However, if there is
+        a conflict among the requirements of these guidelines, the Voting
+        Rights Act of 1965 (as amended), equality of population among
+        districts, and the United States Constitution shall be given priority.</p>
+      <p class="indented-text">b. If application of the criteria set forth in these guidelines will cause a
+        violation of applicable constitutional, federal, or state law, and there is
+        no other way to conform to the criteria without a violation of law,
+        deviations from the criteria are permitted. However, any deviation
+        from the criteria shall not be any more than necessary to avoid the
+        violation of law, and the remainder of the redistricting plan shall
+        remain faithful to the criteria.</p>
+      <p>X. Public Input</p>
+      <p class="indented-text">Subcommittee shall make reasonable efforts to be transparent and
+        allow public input into the redistricting process.</p>
+    </div>
+  </div>
+
+
+    <script src="js/users.js"></script>
+  <div class="sidebar-pane" id="adminManageUser">
+
+    <h1 class='sidebar-header'>
+          Account Options
+        </h1>
+    <p>
+
+    </p>
+    <span class="userLoginHeader">
+        Welcome,
+      </span>
+    <span id="usernameDisplay">
+      </span>
+<br/>
+<br/>
+<br/>
+    <div hidden id="adminActions">
+      <p class="title-header">Admin Actions</p>
+      <button type="button" hidden class="btn btn-lg btn-primary btn-block" id="show-other-accounts-button">
+        Show Accounts
+      </button>
+      <div id="accountsList"></div>
+      <div id="UserResponse"><span id="message-close"><i class="fa fa-times"></i></span><p id="user-message"></p></div>
+      <label for="adminUsername"></label><input placeholder="Username to Add/Delete" class="form-control" type="text"
+                                                id="adminUsername" />
+      <button type="button" class="btn btn-lg btn-success btn-block" id="adminAddButton">Add Account</button>
+      <button type="button" class="btn btn-lg btn-danger btn-block" id="adminDeleteButton">Delete Account</button>
+    </div>
+
+    <div id='user-information'>
+      <p class="title-header">User Actions</p>
+
+      <p>
+
+      </p>
+      <div id="accordion">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <div class="save-choice-title">
+                  Save and Load Map
+                </div>
+              </button>
+            </h5>
+          </div>
+
+          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              <div id="map-save-area" class="save-choice">
+                <div class="dropdown">
+                  <button code="none" class="btn btn-secondary dropdown-toggle" type="button" id="map-load" data-toggle="dropdown"
+                          aria-haspopup="true" aria-expanded="false">
+                    &lt;none&gt;
+                  </button>
+                  <div id="map-load-dropdown-list" class="dropdown-menu" aria-labelledby="map-load">
+                    <!--<button code="none" class="map-load-dropdown-item dropdown-item" type="button">&lt;none&gt;</button>-->
+                    <!--<button code="none" class="map-load-dropdown-item dropdown-item" type="button">&lt;second&gt;</button>-->
+                  </div>
+                </div>
+                <p></p>
+                <button type="button" class="btn btn-lg btn-danger btn-block wide-gap" id="mapDeleteButton">Delete Selected Map</button>
+                <button type="button" class="btn btn-lg btn-info btn-block wide-gap" id="mapSaveButton">Save Current Map</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+       </div>
+      <p>
+<br/>      </p>
+
+      </div>
+
+      <input type="submit" class="btn btn-lg btn-warning btn-block wide-gap" id="userLogoutButton" value="Logout"/>
+    </div>
+
+  <div class="sidebar-pane" id="settings">
+    <h1 class="sidebar-header">Settings<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+
+    <h3 class="text-center">About This Tool and F.A.Q.</h3>
+
+    <h5>About </h5>
+    <p>This is the Bengal's Redistrcting Tool. This tool is designed to make clear the current
+      layout of Congressional Districts in the United States and provide data on how the structure of these
+      Districts
+      could be changed to better represent the people in them. This tool allows for input from the user to be
+      provided
+      and based on that runs a Redistrcting algorithm to redraw districts in a way that attempts to maximize
+      consistency with the parameters specified
+    </p>
+    <h5>How do I use this tool?</h5>
+
+    <p>You can begin by clicking a state you wish to work with. After that you will be able to see the
+      current districts and precinct configuration. You can start moving around and looking at the data for the
+      current configuration as it is
+      To begin the Redistricting process go to the tab with the scale on it. This will allow you to adjust the
+      importance of the factors you want considered
+      and will allow you to begin the Redistrcting process </p>
+
+    <h5>How do I save my work?</h5>
+
+    <p>Although it is not <i>required</i> that you sign up for an account, to save your work, you must. Once you
+      are logged in,
+      simply click the "save results" option on the results tab and the result of your algorithm will be saved.
+      To
+      load an old configuration,
+      choose the "load redistrcing results" option on the parameters and biases tab. </p>
+
+    <h5>Where did you get the data for this?</h5>
+
+    <p>All of the data for this application was taken from open sources.
+      Predominately from the <a rel="noopener noreferrer" target="_blank" href="http://www.publicmapping.org/">Public
+        Mapping Project</a> as well as
+      from
+      the websites of some individual states </p>
+    <p>A large portion of data was also received from <a rel="noopener noreferrer" target="_blank"
+                                                         href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2">Harvard</a>
+      and <a rel="noopener noreferrer" target="_blank" href="https://electionlab.mit.edu/">MIT</a></p>
+    <p> Icons and styles were provided by <a rel="noopener noreferrer" target="_blank" href="https://getbootstrap.com/">Bootstrap</a>
+      and <a href="https://material.io/tools/icons">Material Icons</a></p>
+
+  </div>
+</div>
+</div>
+
+<div id="mapid" class="sidebar-map"></div>
+
+<!--<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet-src.js"></script>-->
+
+
+<!-- Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet-src.js"></script>
+
+<!-- Leaflet Sidebar JavaScript -->
+<script src="js/leaflet-sidebar.js"></script>
+
+<!-- Custom Javascript -->
+<script type="text/javascript" src="js/Maps/countryMap.js"></script>
+<script type="text/javascript" src="js/state.js"></script>
+<script type="text/javascript" src="js/abbreviations.js"></script>
+<script type="text/javascript" src="js/map.js"></script>
+<script type="text/javascript" src="js/precinct.js"></script>
+<script type="text/javascript" src="js/sidebar.js"></script>
+<script type="text/javascript" src="js/district.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous">
+</script>
+</body>
+
+</html>

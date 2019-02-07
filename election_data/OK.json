@@ -1,0 +1,1470 @@
+{
+  "2003": {
+    "1": {
+      "candidates": [
+        [
+          "John Sullivan",
+          119566,
+          "republican"
+        ],
+        [
+          "Joe Cristiano",
+          4740,
+          "independent"
+        ],
+        [
+          "Doug Dodd",
+          90649,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 214955,
+      "winner": [
+        "John Sullivan",
+        119566,
+        "republican"
+      ],
+      "totalRepVotes": 119566,
+      "totalDemVotes": 90649
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cole",
+          106452,
+          "republican"
+        ],
+        [
+          "Darryl Roberts",
+          91322,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 197774,
+      "winner": [
+        "Tom Cole",
+        106452,
+        "republican"
+      ],
+      "totalRepVotes": 106452,
+      "totalDemVotes": 91322
+    },
+    "3": {
+      "candidates": [
+        [
+          "Robert T. Murphy",
+          47884,
+          "independent"
+        ],
+        [
+          "Frank D. Lucas",
+          148206,
+          "republican"
+        ]
+      ],
+      "totalVotes": 196090,
+      "winner": [
+        "Frank D. Lucas",
+        148206,
+        "republican"
+      ],
+      "totalRepVotes": 148206,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Lou Barlow",
+          63208,
+          "democrat"
+        ],
+        [
+          "Donna C. Davis",
+          10469,
+          "independent"
+        ],
+        [
+          "Ernest J. Istook Jr.",
+          121374,
+          "republican"
+        ]
+      ],
+      "totalVotes": 195051,
+      "winner": [
+        "Ernest J. Istook Jr.",
+        121374,
+        "republican"
+      ],
+      "totalRepVotes": 121374,
+      "totalDemVotes": 63208
+    },
+    "2": {
+      "candidates": [
+        [
+          "Kent Pharaoh",
+          51234,
+          "republican"
+        ],
+        [
+          "Brad Carson",
+          146748,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 197982,
+      "winner": [
+        "Brad Carson",
+        146748,
+        "democrat"
+      ],
+      "totalRepVotes": 51234,
+      "totalDemVotes": 146748
+    }
+  },
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "Dan Boren",
+          179579,
+          "democrat"
+        ],
+        [
+          "Wayland Smalley",
+          92963,
+          "republican"
+        ]
+      ],
+      "totalVotes": 272542,
+      "winner": [
+        "Dan Boren",
+        179579,
+        "democrat"
+      ],
+      "totalRepVotes": 92963,
+      "totalDemVotes": 179579
+    },
+    "1": {
+      "candidates": [
+        [
+          "John Krymski",
+          7058,
+          "independent"
+        ],
+        [
+          "John Sullivan",
+          187145,
+          "republican"
+        ],
+        [
+          "Doug Dodd",
+          116731,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 310934,
+      "winner": [
+        "John Sullivan",
+        187145,
+        "republican"
+      ],
+      "totalRepVotes": 187145,
+      "totalDemVotes": 116731
+    },
+    "5": {
+      "candidates": [
+        [
+          "Bert Smith",
+          92719,
+          "democrat"
+        ],
+        [
+          "Ernest J. Istook",
+          180430,
+          "republican"
+        ]
+      ],
+      "totalVotes": 273149,
+      "winner": [
+        "Ernest J. Istook",
+        180430,
+        "republican"
+      ],
+      "totalRepVotes": 180430,
+      "totalDemVotes": 92719
+    },
+    "3": {
+      "candidates": [
+        [
+          "Gregory M. Wilson",
+          46621,
+          "independent"
+        ],
+        [
+          "Frank D. Lucas",
+          215510,
+          "republican"
+        ]
+      ],
+      "totalVotes": 262131,
+      "winner": [
+        "Frank D. Lucas",
+        215510,
+        "republican"
+      ],
+      "totalRepVotes": 215510,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Charlene K. Bradshaw",
+          56869,
+          "independent"
+        ],
+        [
+          "Tom Cole",
+          198985,
+          "republican"
+        ]
+      ],
+      "totalVotes": 255854,
+      "winner": [
+        "Tom Cole",
+        198985,
+        "republican"
+      ],
+      "totalRepVotes": 198985,
+      "totalDemVotes": 0
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Rob Wallace",
+          96081,
+          "democrat"
+        ],
+        [
+          "Markwayne Mullin",
+          143701,
+          "republican"
+        ],
+        [
+          "Michael G. Fulks",
+          10830,
+          "independent"
+        ]
+      ],
+      "totalVotes": 250612,
+      "winner": [
+        "Markwayne Mullin",
+        143701,
+        "republican"
+      ],
+      "totalRepVotes": 143701,
+      "totalDemVotes": 96081
+    },
+    "1": {
+      "candidates": [
+        [
+          "John Olson",
+          91421,
+          "democrat"
+        ],
+        [
+          "Jim Bridenstine",
+          181084,
+          "republican"
+        ],
+        [
+          "Craig Allen",
+          12807,
+          "independent"
+        ]
+      ],
+      "totalVotes": 285312,
+      "winner": [
+        "Jim Bridenstine",
+        181084,
+        "republican"
+      ],
+      "totalRepVotes": 181084,
+      "totalDemVotes": 91421
+    },
+    "4": {
+      "candidates": [
+        [
+          "R. J. Harris",
+          11745,
+          "independent"
+        ],
+        [
+          "Donna Marie Bebo",
+          71846,
+          "democrat"
+        ],
+        [
+          "Tom Cole",
+          176740,
+          "republican"
+        ]
+      ],
+      "totalVotes": 260331,
+      "winner": [
+        "Tom Cole",
+        176740,
+        "republican"
+      ],
+      "totalRepVotes": 176740,
+      "totalDemVotes": 71846
+    },
+    "5": {
+      "candidates": [
+        [
+          "Pat Martin",
+          5394,
+          "independent"
+        ],
+        [
+          "James Lankford",
+          153603,
+          "republican"
+        ],
+        [
+          "Tom Guild",
+          97504,
+          "democrat"
+        ],
+        [
+          "Robert T. Murphy",
+          5176,
+          "independent"
+        ]
+      ],
+      "totalVotes": 261677,
+      "winner": [
+        "James Lankford",
+        153603,
+        "republican"
+      ],
+      "totalRepVotes": 153603,
+      "totalDemVotes": 97504
+    },
+    "3": {
+      "candidates": [
+        [
+          "Timothy Ray Murray",
+          53472,
+          "democrat"
+        ],
+        [
+          "William M. Sanders",
+          12787,
+          "independent"
+        ],
+        [
+          "Frank D. Lucas",
+          201744,
+          "republican"
+        ]
+      ],
+      "totalVotes": 268003,
+      "winner": [
+        "Frank D. Lucas",
+        201744,
+        "republican"
+      ],
+      "totalRepVotes": 201744,
+      "totalDemVotes": 53472
+    }
+  },
+  "1997": {
+    "4": {
+      "candidates": [
+        [
+          "Robert T. Murphy",
+          4500,
+          "libertarian"
+        ],
+        [
+          "J. C. Watts Jr.",
+          106923,
+          "republican"
+        ],
+        [
+          "Ed Crocker",
+          73950,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 185373,
+      "winner": [
+        "J. C. Watts Jr.",
+        106923,
+        "republican"
+      ],
+      "totalRepVotes": 106923,
+      "totalDemVotes": 73950
+    },
+    "3": {
+      "candidates": [
+        [
+          "Scott Demaree",
+          6335,
+          "independent"
+        ],
+        [
+          "Wes Watkins",
+          98526,
+          "republican"
+        ],
+        [
+          "Darryl Roberts",
+          86647,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 191508,
+      "winner": [
+        "Wes Watkins",
+        98526,
+        "republican"
+      ],
+      "totalRepVotes": 98526,
+      "totalDemVotes": 86647
+    },
+    "1": {
+      "candidates": [
+        [
+          "Randolph John Amen",
+          57996,
+          "democrat"
+        ],
+        [
+          "Steve Largent",
+          143415,
+          "republican"
+        ],
+        [
+          "Karla Condray",
+          8996,
+          "independent"
+        ]
+      ],
+      "totalVotes": 210407,
+      "winner": [
+        "Steve Largent",
+        143415,
+        "republican"
+      ],
+      "totalRepVotes": 143415,
+      "totalDemVotes": 57996
+    },
+    "2": {
+      "candidates": [
+        [
+          "Glen D. Johnson",
+          90120,
+          "democrat"
+        ],
+        [
+          "Tom A. Coburn",
+          112273,
+          "republican"
+        ]
+      ],
+      "totalVotes": 202393,
+      "winner": [
+        "Tom A. Coburn",
+        112273,
+        "republican"
+      ],
+      "totalRepVotes": 112273,
+      "totalDemVotes": 90120
+    },
+    "6": {
+      "candidates": [
+        [
+          "Paul M. Barby",
+          64173,
+          "democrat"
+        ],
+        [
+          "Frank D. Lucas",
+          113499,
+          "republican"
+        ]
+      ],
+      "totalVotes": 177672,
+      "winner": [
+        "Frank D. Lucas",
+        113499,
+        "republican"
+      ],
+      "totalRepVotes": 113499,
+      "totalDemVotes": 64173
+    },
+    "5": {
+      "candidates": [
+        [
+          "James L. Forsythe",
+          57594,
+          "democrat"
+        ],
+        [
+          "Ernest J. Istook Jr.",
+          148362,
+          "republican"
+        ],
+        [
+          "Ava Kennedy",
+          6835,
+          "independent"
+        ]
+      ],
+      "totalVotes": 212791,
+      "winner": [
+        "Ernest J. Istook Jr.",
+        148362,
+        "republican"
+      ],
+      "totalRepVotes": 148362,
+      "totalDemVotes": 57594
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "Alan Gentges",
+          56724,
+          "democrat"
+        ],
+        [
+          "Bill Wortman",
+          10085,
+          "independent"
+        ],
+        [
+          "John Sullivan",
+          116920,
+          "republican"
+        ]
+      ],
+      "totalVotes": 183729,
+      "winner": [
+        "John Sullivan",
+        116920,
+        "republican"
+      ],
+      "totalRepVotes": 116920,
+      "totalDemVotes": 56724
+    },
+    "3": {
+      "candidates": [
+        [
+          "Frank D. Lucas",
+          128042,
+          "republican"
+        ],
+        [
+          "Sue Barton",
+          61749,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 189791,
+      "winner": [
+        "Frank D. Lucas",
+        128042,
+        "republican"
+      ],
+      "totalRepVotes": 128042,
+      "totalDemVotes": 61749
+    },
+    "5": {
+      "candidates": [
+        [
+          "Matthew Horton Woodson",
+          4196,
+          "independent"
+        ],
+        [
+          "Mary Fallin",
+          108936,
+          "republican"
+        ],
+        [
+          "David Hunter",
+          67293,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 180425,
+      "winner": [
+        "Mary Fallin",
+        108936,
+        "republican"
+      ],
+      "totalRepVotes": 108936,
+      "totalDemVotes": 67293
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cole",
+          118266,
+          "republican"
+        ],
+        [
+          "Hal Spake",
+          64775,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 183041,
+      "winner": [
+        "Tom Cole",
+        118266,
+        "republican"
+      ],
+      "totalRepVotes": 118266,
+      "totalDemVotes": 64775
+    },
+    "2": {
+      "candidates": [
+        [
+          "Dan Boren",
+          122347,
+          "democrat"
+        ],
+        [
+          "Patrick K. Miller",
+          45861,
+          "republican"
+        ]
+      ],
+      "totalVotes": 168208,
+      "winner": [
+        "Dan Boren",
+        122347,
+        "democrat"
+      ],
+      "totalRepVotes": 45861,
+      "totalDemVotes": 122347
+    }
+  },
+  "2001": {
+    "5": {
+      "candidates": [
+        [
+          "Ernest J. Istook, Jr.",
+          134159,
+          "republican"
+        ],
+        [
+          "Robert T. Murphy",
+          2658,
+          "libertarian"
+        ],
+        [
+          "Garland McWatters",
+          53275,
+          "democrat"
+        ],
+        [
+          "Bill Maguire",
+          5930,
+          "independent"
+        ]
+      ],
+      "totalVotes": 196022,
+      "winner": [
+        "Ernest J. Istook, Jr.",
+        134159,
+        "republican"
+      ],
+      "totalRepVotes": 134159,
+      "totalDemVotes": 53275
+    },
+    "4": {
+      "candidates": [
+        [
+          "J. C. Watts, Jr.",
+          114000,
+          "republican"
+        ],
+        [
+          "Susan Ducey",
+          4897,
+          "reform"
+        ],
+        [
+          "Larry Weatherford",
+          54808,
+          "democrat"
+        ],
+        [
+          "Keith B. Johnson",
+          1979,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 175684,
+      "winner": [
+        "J. C. Watts, Jr.",
+        114000,
+        "republican"
+      ],
+      "totalRepVotes": 114000,
+      "totalDemVotes": 54808
+    },
+    "2": {
+      "candidates": [
+        [
+          "Andy Ewing",
+          81672,
+          "republican"
+        ],
+        [
+          "Neil Mavis",
+          6467,
+          "libertarian"
+        ],
+        [
+          "Brad Carson",
+          107273,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 195412,
+      "winner": [
+        "Brad Carson",
+        107273,
+        "democrat"
+      ],
+      "totalRepVotes": 81672,
+      "totalDemVotes": 107273
+    },
+    "3": {
+      "candidates": [
+        [
+          "R. C. Sevier White",
+          6730,
+          "libertarian"
+        ],
+        [
+          "Argus W. Yandell, Jr.",
+          14660,
+          "independent"
+        ],
+        [
+          "Wes Watkins",
+          137826,
+          "republican"
+        ]
+      ],
+      "totalVotes": 159216,
+      "winner": [
+        "Wes Watkins",
+        137826,
+        "republican"
+      ],
+      "totalRepVotes": 137826,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "Frank D. Lucas",
+          95635,
+          "republican"
+        ],
+        [
+          "Randy Beutler",
+          63106,
+          "democrat"
+        ],
+        [
+          "Joseph V. Cristiano",
+          2435,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 161176,
+      "winner": [
+        "Frank D. Lucas",
+        95635,
+        "republican"
+      ],
+      "totalRepVotes": 95635,
+      "totalDemVotes": 63106
+    },
+    "1": {
+      "candidates": [
+        [
+          "Dan Lowe",
+          58493,
+          "democrat"
+        ],
+        [
+          "Steve Largent",
+          138528,
+          "republican"
+        ],
+        [
+          "Michael A. Clem",
+          2984,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 200005,
+      "winner": [
+        "Steve Largent",
+        138528,
+        "republican"
+      ],
+      "totalRepVotes": 138528,
+      "totalDemVotes": 58493
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Walt Roberts",
+          55163,
+          "democrat"
+        ],
+        [
+          "Wes Watkins",
+          89832,
+          "republican"
+        ]
+      ],
+      "totalVotes": 144995,
+      "winner": [
+        "Wes Watkins",
+        89832,
+        "republican"
+      ],
+      "totalRepVotes": 89832,
+      "totalDemVotes": 55163
+    },
+    "1": {
+      "candidates": [
+        [
+          "Steve Largent",
+          91031,
+          "republican"
+        ],
+        [
+          "Howard Plowman",
+          56309,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 147340,
+      "winner": [
+        "Steve Largent",
+        91031,
+        "republican"
+      ],
+      "totalRepVotes": 91031,
+      "totalDemVotes": 56309
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ben Odom",
+          52107,
+          "democrat"
+        ],
+        [
+          "J. C. Watts, Jr.",
+          83272,
+          "republican"
+        ]
+      ],
+      "totalVotes": 135379,
+      "winner": [
+        "J. C. Watts, Jr.",
+        83272,
+        "republican"
+      ],
+      "totalRepVotes": 83272,
+      "totalDemVotes": 52107
+    },
+    "6": {
+      "candidates": [
+        [
+          "Frank D. Lucas",
+          85261,
+          "republican"
+        ],
+        [
+          "Paul M. Barby",
+          43555,
+          "democrat"
+        ],
+        [
+          "Ralph B. Finkle, Jr.",
+          2455,
+          "independent"
+        ]
+      ],
+      "totalVotes": 131271,
+      "winner": [
+        "Frank D. Lucas",
+        85261,
+        "republican"
+      ],
+      "totalRepVotes": 85261,
+      "totalDemVotes": 43555
+    },
+    "5": {
+      "candidates": [
+        [
+          "M. C. Smothermon",
+          48182,
+          "democrat"
+        ],
+        [
+          "Ernest J. Istook, Jr.",
+          103217,
+          "republican"
+        ]
+      ],
+      "totalVotes": 151399,
+      "winner": [
+        "Ernest J. Istook, Jr.",
+        103217,
+        "republican"
+      ],
+      "totalRepVotes": 103217,
+      "totalDemVotes": 48182
+    },
+    "2": {
+      "candidates": [
+        [
+          "Albert Jones",
+          3641,
+          "independent"
+        ],
+        [
+          "Kent Pharaoh",
+          59042,
+          "democrat"
+        ],
+        [
+          "Tom A. Coburn",
+          85581,
+          "republican"
+        ]
+      ],
+      "totalVotes": 148264,
+      "winner": [
+        "Tom A. Coburn",
+        85581,
+        "republican"
+      ],
+      "totalRepVotes": 85581,
+      "totalDemVotes": 59042
+    }
+  },
+  "2011": {
+    "5": {
+      "candidates": [
+        [
+          "Clark Duffe",
+          3067,
+          "independent"
+        ],
+        [
+          "Dave White",
+          2728,
+          "independent"
+        ],
+        [
+          "Billy Coyle",
+          68074,
+          "democrat"
+        ],
+        [
+          "James Lankford",
+          123236,
+          "republican"
+        ]
+      ],
+      "totalVotes": 197105,
+      "winner": [
+        "James Lankford",
+        123236,
+        "republican"
+      ],
+      "totalRepVotes": 123236,
+      "totalDemVotes": 68074
+    },
+    "2": {
+      "candidates": [
+        [
+          "Dan Boren",
+          108203,
+          "democrat"
+        ],
+        [
+          "Charles Thompson",
+          83226,
+          "republican"
+        ]
+      ],
+      "totalVotes": 191429,
+      "winner": [
+        "Dan Boren",
+        108203,
+        "democrat"
+      ],
+      "totalRepVotes": 83226,
+      "totalDemVotes": 108203
+    },
+    "3": {
+      "candidates": [
+        [
+          "Frank D. Lucas",
+          161927,
+          "republican"
+        ],
+        [
+          "Frankie Robbins",
+          45689,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207616,
+      "winner": [
+        "Frank D. Lucas",
+        161927,
+        "republican"
+      ],
+      "totalRepVotes": 161927,
+      "totalDemVotes": 45689
+    },
+    "1": {
+      "candidates": [
+        [
+          "John Sullivan",
+          151173,
+          "republican"
+        ],
+        [
+          "Angelia O'Dell",
+          45656,
+          "independent"
+        ]
+      ],
+      "totalVotes": 196829,
+      "winner": [
+        "John Sullivan",
+        151173,
+        "republican"
+      ],
+      "totalRepVotes": 151173,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cole",
+          1,
+          "republican"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Tom Cole",
+        1,
+        "republican"
+      ],
+      "totalRepVotes": 1,
+      "totalDemVotes": 0
+    }
+  },
+  "2015": {
+    "2": {
+      "candidates": [
+        [
+          "Markwayne Mullin",
+          110925,
+          "republican"
+        ],
+        [
+          "Earl E. Everett",
+          38964,
+          "democrat"
+        ],
+        [
+          "Jon Douthitt",
+          8518,
+          "independent"
+        ]
+      ],
+      "totalVotes": 158407,
+      "winner": [
+        "Markwayne Mullin",
+        110925,
+        "republican"
+      ],
+      "totalRepVotes": 110925,
+      "totalDemVotes": 38964
+    },
+    "5": {
+      "candidates": [
+        [
+          "Steve Russell",
+          95632,
+          "republican"
+        ],
+        [
+          "Robert T. Murphy",
+          2176,
+          "independent"
+        ],
+        [
+          "Tom Boggs",
+          2065,
+          "independent"
+        ],
+        [
+          "Buddy Ray",
+          1470,
+          "independent"
+        ],
+        [
+          "Al McAffrey",
+          57790,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 159133,
+      "winner": [
+        "Steve Russell",
+        95632,
+        "republican"
+      ],
+      "totalRepVotes": 95632,
+      "totalDemVotes": 57790
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cole",
+          117721,
+          "republican"
+        ],
+        [
+          "Dennis B. Johnson",
+          7549,
+          "independent"
+        ],
+        [
+          "Bert Smith",
+          40998,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 166268,
+      "winner": [
+        "Tom Cole",
+        117721,
+        "republican"
+      ],
+      "totalRepVotes": 117721,
+      "totalDemVotes": 40998
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jim Bridenstine",
+          1,
+          "republican"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Jim Bridenstine",
+        1,
+        "republican"
+      ],
+      "totalRepVotes": 1,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Frank D. Lucas",
+          133335,
+          "republican"
+        ],
+        [
+          "Frankie Robbins",
+          36270,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 169605,
+      "winner": [
+        "Frank D. Lucas",
+        133335,
+        "republican"
+      ],
+      "totalRepVotes": 133335,
+      "totalDemVotes": 36270
+    }
+  },
+  "2009": {
+    "3": {
+      "candidates": [
+        [
+          "Frankie Robbins",
+          62297,
+          "democrat"
+        ],
+        [
+          "Frank D. Lucas",
+          184306,
+          "republican"
+        ],
+        [
+          "Forrest Michael",
+          17756,
+          "independent"
+        ]
+      ],
+      "totalVotes": 264359,
+      "winner": [
+        "Frank D. Lucas",
+        184306,
+        "republican"
+      ],
+      "totalRepVotes": 184306,
+      "totalDemVotes": 62297
+    },
+    "2": {
+      "candidates": [
+        [
+          "Raymond J. Wickson",
+          72815,
+          "republican"
+        ],
+        [
+          "Dan Boren",
+          173757,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 246572,
+      "winner": [
+        "Dan Boren",
+        173757,
+        "democrat"
+      ],
+      "totalRepVotes": 72815,
+      "totalDemVotes": 173757
+    },
+    "5": {
+      "candidates": [
+        [
+          "Steven L. Perry",
+          88996,
+          "democrat"
+        ],
+        [
+          "Mary Fallin",
+          171925,
+          "republican"
+        ]
+      ],
+      "totalVotes": 260921,
+      "winner": [
+        "Mary Fallin",
+        171925,
+        "republican"
+      ],
+      "totalRepVotes": 171925,
+      "totalDemVotes": 88996
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cole",
+          180080,
+          "republican"
+        ],
+        [
+          "Blake Cummings",
+          79674,
+          "democrat"
+        ],
+        [
+          "David E. Joyce",
+          13027,
+          "independent"
+        ]
+      ],
+      "totalVotes": 272781,
+      "winner": [
+        "Tom Cole",
+        180080,
+        "republican"
+      ],
+      "totalRepVotes": 180080,
+      "totalDemVotes": 79674
+    },
+    "1": {
+      "candidates": [
+        [
+          "Georgianna W. Oliver",
+          98890,
+          "democrat"
+        ],
+        [
+          "John Sullivan",
+          193404,
+          "republican"
+        ]
+      ],
+      "totalVotes": 292294,
+      "winner": [
+        "John Sullivan",
+        193404,
+        "republican"
+      ],
+      "totalRepVotes": 193404,
+      "totalDemVotes": 98890
+    }
+  },
+  "2017": {
+    "5": {
+      "candidates": [
+        [
+          "Zachary Knight",
+          17113,
+          "libertarian"
+        ],
+        [
+          "Steve Russell",
+          160184,
+          "republican"
+        ],
+        [
+          "Al McAffrey",
+          103273,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 280570,
+      "winner": [
+        "Steve Russell",
+        160184,
+        "republican"
+      ],
+      "totalRepVotes": 160184,
+      "totalDemVotes": 103273
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cole",
+          204143,
+          "republican"
+        ],
+        [
+          "Sevier White",
+          12574,
+          "libertarian"
+        ],
+        [
+          "Christina Owen",
+          76472,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 293189,
+      "winner": [
+        "Tom Cole",
+        204143,
+        "republican"
+      ],
+      "totalRepVotes": 204143,
+      "totalDemVotes": 76472
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joshua Harris-Till",
+          62387,
+          "democrat"
+        ],
+        [
+          "Markwayne Mullin",
+          189839,
+          "republican"
+        ],
+        [
+          "John McCarthy",
+          16644,
+          "independent"
+        ]
+      ],
+      "totalVotes": 268870,
+      "winner": [
+        "Markwayne Mullin",
+        189839,
+        "republican"
+      ],
+      "totalRepVotes": 189839,
+      "totalDemVotes": 62387
+    },
+    "3": {
+      "candidates": [
+        [
+          "Frankie Robbins",
+          63090,
+          "democrat"
+        ],
+        [
+          "Frank D. Lucas",
+          227525,
+          "republican"
+        ]
+      ],
+      "totalVotes": 290615,
+      "winner": [
+        "Frank D. Lucas",
+        227525,
+        "republican"
+      ],
+      "totalRepVotes": 227525,
+      "totalDemVotes": 63090
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jim Bridenstine",
+          1,
+          "republican"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Jim Bridenstine",
+        1,
+        "republican"
+      ],
+      "totalRepVotes": 1,
+      "totalDemVotes": 0
+    }
+  }
+}

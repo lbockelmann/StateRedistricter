@@ -1,0 +1,1117 @@
+{
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Brian Scott Willhite",
+          8562,
+          "libertarian"
+        ],
+        [
+          "Eric A. \"Rick\" Crawford",
+          124139,
+          "republican"
+        ],
+        [
+          "Jackie McPherson",
+          63555,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 196256,
+      "winner": [
+        "Eric A. \"Rick\" Crawford",
+        124139,
+        "republican"
+      ],
+      "totalRepVotes": 124139,
+      "totalDemVotes": 63555
+    },
+    "2": {
+      "candidates": [
+        [
+          "Patrick Henry Hays",
+          103477,
+          "democrat"
+        ],
+        [
+          "Debbie Standiford",
+          10590,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          190,
+          "none"
+        ],
+        [
+          "French Hill",
+          123073,
+          "republican"
+        ]
+      ],
+      "totalVotes": 237330,
+      "winner": [
+        "French Hill",
+        123073,
+        "republican"
+      ],
+      "totalRepVotes": 123073,
+      "totalDemVotes": 103477
+    },
+    "3": {
+      "candidates": [
+        [
+          "Grant Brand",
+          39305,
+          "libertarian"
+        ],
+        [
+          "Steve Womack",
+          151630,
+          "republican"
+        ]
+      ],
+      "totalVotes": 190935,
+      "winner": [
+        "Steve Womack",
+        151630,
+        "republican"
+      ],
+      "totalRepVotes": 151630,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "James Lee Witt",
+          87742,
+          "democrat"
+        ],
+        [
+          "Bruce Westerman",
+          110789,
+          "republican"
+        ],
+        [
+          "Ken Hamilton",
+          7598,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          2,
+          "none"
+        ]
+      ],
+      "totalVotes": 206131,
+      "winner": [
+        "Bruce Westerman",
+        110789,
+        "republican"
+      ],
+      "totalRepVotes": 110789,
+      "totalDemVotes": 87742
+    }
+  },
+  "1997": {
+    "3": {
+      "candidates": [
+        [
+          "Asa Hutchinson",
+          137093,
+          "republican"
+        ],
+        [
+          "Ann Henry",
+          102994,
+          "democrat"
+        ],
+        [
+          "Tony Joe Huffman",
+          5974,
+          "reform"
+        ],
+        [
+          "Dan Ivy",
+          71,
+          "none"
+        ]
+      ],
+      "totalVotes": 246132,
+      "winner": [
+        "Asa Hutchinson",
+        137093,
+        "republican"
+      ],
+      "totalRepVotes": 137093,
+      "totalDemVotes": 102994
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jay Dickey",
+          125956,
+          "republican"
+        ],
+        [
+          "Vincent Tolliver",
+          72391,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 198347,
+      "winner": [
+        "Jay Dickey",
+        125956,
+        "republican"
+      ],
+      "totalRepVotes": 125956,
+      "totalDemVotes": 72391
+    },
+    "1": {
+      "candidates": [
+        [
+          "Marion Berry",
+          105280,
+          "democrat"
+        ],
+        [
+          "Warren Dupwe",
+          88436,
+          "republican"
+        ],
+        [
+          "Keith Carle",
+          5734,
+          "reform"
+        ]
+      ],
+      "totalVotes": 199450,
+      "winner": [
+        "Marion Berry",
+        105280,
+        "democrat"
+      ],
+      "totalRepVotes": 88436,
+      "totalDemVotes": 105280
+    },
+    "2": {
+      "candidates": [
+        [
+          "Bud Cummins",
+          104548,
+          "republican"
+        ],
+        [
+          "Vic Snyder",
+          114841,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 219389,
+      "winner": [
+        "Vic Snyder",
+        114841,
+        "democrat"
+      ],
+      "totalRepVotes": 104548,
+      "totalDemVotes": 114841
+    }
+  },
+  "2005": {
+    "4": {
+      "candidates": [
+        [
+          "Mike Ross",
+          1,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Mike Ross",
+        1,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 1
+    },
+    "2": {
+      "candidates": [
+        [
+          "Vic Snyder",
+          160834,
+          "democrat"
+        ],
+        [
+          "Marvin Parks",
+          115655,
+          "republican"
+        ],
+        [
+          "William Gabriel",
+          4,
+          "none"
+        ]
+      ],
+      "totalVotes": 276493,
+      "winner": [
+        "Vic Snyder",
+        160834,
+        "democrat"
+      ],
+      "totalRepVotes": 115655,
+      "totalDemVotes": 160834
+    },
+    "3": {
+      "candidates": [
+        [
+          "John Boozman",
+          160629,
+          "republican"
+        ],
+        [
+          "Jan Judy",
+          103158,
+          "democrat"
+        ],
+        [
+          "Dale Morfey",
+          7016,
+          "independent"
+        ]
+      ],
+      "totalVotes": 270803,
+      "winner": [
+        "John Boozman",
+        160629,
+        "republican"
+      ],
+      "totalRepVotes": 160629,
+      "totalDemVotes": 103158
+    },
+    "1": {
+      "candidates": [
+        [
+          "Vernon Humphrey",
+          81556,
+          "republican"
+        ],
+        [
+          "Marion Berry",
+          162388,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 243944,
+      "winner": [
+        "Marion Berry",
+        162388,
+        "democrat"
+      ],
+      "totalRepVotes": 81556,
+      "totalDemVotes": 162388
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Tim Griffin",
+          158175,
+          "republican"
+        ],
+        [
+          "Herb Rule",
+          113156,
+          "democrat"
+        ],
+        [
+          "Chris Hayes",
+          6701,
+          "libertarian"
+        ],
+        [
+          "Barbara Ward",
+          8566,
+          "green"
+        ]
+      ],
+      "totalVotes": 286598,
+      "winner": [
+        "Tim Griffin",
+        158175,
+        "republican"
+      ],
+      "totalRepVotes": 158175,
+      "totalDemVotes": 113156
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tom Cotton",
+          154149,
+          "republican"
+        ],
+        [
+          "J. Joshua Drake",
+          4807,
+          "green"
+        ],
+        [
+          "Bobby Tullis",
+          4984,
+          "libertarian"
+        ],
+        [
+          "Gene Jeffress",
+          95013,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 258953,
+      "winner": [
+        "Tom Cotton",
+        154149,
+        "republican"
+      ],
+      "totalRepVotes": 154149,
+      "totalDemVotes": 95013
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jessica Paxton",
+          6427,
+          "libertarian"
+        ],
+        [
+          "Jacob Holloway",
+          5015,
+          "green"
+        ],
+        [
+          "Eric A. \"Rick\" Crawford",
+          138800,
+          "republican"
+        ],
+        [
+          "Scott Ellington",
+          96601,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 246843,
+      "winner": [
+        "Eric A. \"Rick\" Crawford",
+        138800,
+        "republican"
+      ],
+      "totalRepVotes": 138800,
+      "totalDemVotes": 96601
+    },
+    "3": {
+      "candidates": [
+        [
+          "David Pangrac",
+          19875,
+          "libertarian"
+        ],
+        [
+          "Steve Womack",
+          186467,
+          "republican"
+        ],
+        [
+          "Rebekah J. Kennedy",
+          39318,
+          "green"
+        ]
+      ],
+      "totalVotes": 245660,
+      "winner": [
+        "Steve Womack",
+        186467,
+        "republican"
+      ],
+      "totalRepVotes": 186467,
+      "totalDemVotes": 0
+    }
+  },
+  "1999": {
+    "4": {
+      "candidates": [
+        [
+          "Judy Smith",
+          68194,
+          "democrat"
+        ],
+        [
+          "Jay Dickey",
+          92346,
+          "republican"
+        ]
+      ],
+      "totalVotes": 160540,
+      "winner": [
+        "Jay Dickey",
+        92346,
+        "republican"
+      ],
+      "totalRepVotes": 92346,
+      "totalDemVotes": 68194
+    },
+    "2": {
+      "candidates": [
+        [
+          "Vic Snyder",
+          100334,
+          "democrat"
+        ],
+        [
+          "Phil Wyrick",
+          72737,
+          "republican"
+        ]
+      ],
+      "totalVotes": 173071,
+      "winner": [
+        "Vic Snyder",
+        100334,
+        "democrat"
+      ],
+      "totalRepVotes": 72737,
+      "totalDemVotes": 100334
+    },
+    "3": {
+      "candidates": [
+        [
+          "Asa Hutchinson",
+          154780,
+          "republican"
+        ],
+        [
+          "Ralph Forbes",
+          36917,
+          "reform"
+        ]
+      ],
+      "totalVotes": 191697,
+      "winner": [
+        "Asa Hutchinson",
+        154780,
+        "republican"
+      ],
+      "totalRepVotes": 154780,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Marion Berry",
+          1,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Marion Berry",
+        1,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 1
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          303,
+          "none"
+        ],
+        [
+          "J. French Hill",
+          176472,
+          "republican"
+        ],
+        [
+          "Chris Hayes",
+          14342,
+          "libertarian"
+        ],
+        [
+          "Dianne Curry",
+          111347,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 302464,
+      "winner": [
+        "J. French Hill",
+        176472,
+        "republican"
+      ],
+      "totalRepVotes": 176472,
+      "totalDemVotes": 111347
+    },
+    "3": {
+      "candidates": [
+        [
+          "Steve Womack",
+          217192,
+          "republican"
+        ],
+        [
+          "Steve Isaacson",
+          63715,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 280907,
+      "winner": [
+        "Steve Womack",
+        217192,
+        "republican"
+      ],
+      "totalRepVotes": 217192,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Mark West",
+          57181,
+          "libertarian"
+        ],
+        [
+          "Eric A. \"Rick\" Crawford",
+          183866,
+          "republican"
+        ]
+      ],
+      "totalVotes": 241047,
+      "winner": [
+        "Eric A. \"Rick\" Crawford",
+        183866,
+        "republican"
+      ],
+      "totalRepVotes": 183866,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Kerry Hicks",
+          61274,
+          "libertarian"
+        ],
+        [
+          "Bruce Westerman",
+          182885,
+          "republican"
+        ]
+      ],
+      "totalVotes": 244159,
+      "winner": [
+        "Bruce Westerman",
+        182885,
+        "republican"
+      ],
+      "totalRepVotes": 182885,
+      "totalDemVotes": 0
+    }
+  },
+  "2011": {
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          9,
+          "none"
+        ],
+        [
+          "Rick Crawford",
+          93224,
+          "republican"
+        ],
+        [
+          "Chad Causey",
+          78267,
+          "democrat"
+        ],
+        [
+          "Mickey Higgins",
+          196,
+          "none"
+        ],
+        [
+          "Ken Adler",
+          8320,
+          "green"
+        ]
+      ],
+      "totalVotes": 180016,
+      "winner": [
+        "Rick Crawford",
+        93224,
+        "republican"
+      ],
+      "totalRepVotes": 93224,
+      "totalDemVotes": 78267
+    },
+    "2": {
+      "candidates": [
+        [
+          "Lewis Kennedy",
+          3599,
+          "green"
+        ],
+        [
+          "Danial Suits",
+          14,
+          "none"
+        ],
+        [
+          "Joyce Elliott",
+          80687,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          40,
+          "none"
+        ],
+        [
+          "Tim Griffin",
+          122091,
+          "republican"
+        ],
+        [
+          "Lance Levi",
+          4421,
+          "independent"
+        ]
+      ],
+      "totalVotes": 210852,
+      "winner": [
+        "Tim Griffin",
+        122091,
+        "republican"
+      ],
+      "totalRepVotes": 122091,
+      "totalDemVotes": 80687
+    },
+    "4": {
+      "candidates": [
+        [
+          "Josh Drake",
+          4129,
+          "green"
+        ],
+        [
+          "Mike Ross",
+          102479,
+          "democrat"
+        ],
+        [
+          "Beth Anne Rankin",
+          71526,
+          "republican"
+        ]
+      ],
+      "totalVotes": 178134,
+      "winner": [
+        "Mike Ross",
+        102479,
+        "democrat"
+      ],
+      "totalRepVotes": 71526,
+      "totalDemVotes": 102479
+    },
+    "3": {
+      "candidates": [
+        [
+          "Steve Womack",
+          148581,
+          "republican"
+        ],
+        [
+          "David Whitaker",
+          56542,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 205123,
+      "winner": [
+        "Steve Womack",
+        148581,
+        "republican"
+      ],
+      "totalRepVotes": 148581,
+      "totalDemVotes": 56542
+    }
+  },
+  "2009": {
+    "3": {
+      "candidates": [
+        [
+          "Abel Noah Tomlinson",
+          58850,
+          "green"
+        ],
+        [
+          "John Boozman",
+          215196,
+          "republican"
+        ]
+      ],
+      "totalVotes": 274046,
+      "winner": [
+        "John Boozman",
+        215196,
+        "republican"
+      ],
+      "totalRepVotes": 215196,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Vic Snyder",
+          212303,
+          "democrat"
+        ],
+        [
+          "Danial Suits",
+          665,
+          "none"
+        ],
+        [
+          "Deb McFarland",
+          64398,
+          "green"
+        ]
+      ],
+      "totalVotes": 277366,
+      "winner": [
+        "Vic Snyder",
+        212303,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 212303
+    },
+    "4": {
+      "candidates": [
+        [
+          "Mike Ross",
+          203178,
+          "democrat"
+        ],
+        [
+          "Joshua Drake",
+          32603,
+          "green"
+        ]
+      ],
+      "totalVotes": 235781,
+      "winner": [
+        "Mike Ross",
+        203178,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 203178
+    },
+    "1": {
+      "candidates": [
+        [
+          "Marion Berry",
+          1,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Marion Berry",
+        1,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 1
+    }
+  },
+  "2001": {
+    "2": {
+      "candidates": [
+        [
+          "Vic Snyder",
+          126957,
+          "democrat"
+        ],
+        [
+          "Bob Thomas",
+          93692,
+          "republican"
+        ]
+      ],
+      "totalVotes": 220649,
+      "winner": [
+        "Vic Snyder",
+        126957,
+        "democrat"
+      ],
+      "totalRepVotes": 93692,
+      "totalDemVotes": 126957
+    },
+    "3": {
+      "candidates": [
+        [
+          "Asa Hutchinson",
+          1,
+          "republican"
+        ]
+      ],
+      "totalVotes": 1,
+      "winner": [
+        "Asa Hutchinson",
+        1,
+        "republican"
+      ],
+      "totalRepVotes": 1,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          253,
+          "none"
+        ],
+        [
+          "Susan Myshka",
+          79437,
+          "republican"
+        ],
+        [
+          "Marion Berry",
+          120266,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 199956,
+      "winner": [
+        "Marion Berry",
+        120266,
+        "democrat"
+      ],
+      "totalRepVotes": 79437,
+      "totalDemVotes": 120266
+    },
+    "4": {
+      "candidates": [
+        [
+          "Mike Ross",
+          108143,
+          "democrat"
+        ],
+        [
+          "Jay Dickey",
+          104017,
+          "republican"
+        ]
+      ],
+      "totalVotes": 212160,
+      "winner": [
+        "Mike Ross",
+        108143,
+        "democrat"
+      ],
+      "totalRepVotes": 104017,
+      "totalDemVotes": 108143
+    }
+  },
+  "2007": {
+    "3": {
+      "candidates": [
+        [
+          "John Boozman",
+          125039,
+          "republican"
+        ],
+        [
+          "Woodrow Anderson",
+          75885,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 200924,
+      "winner": [
+        "John Boozman",
+        125039,
+        "republican"
+      ],
+      "totalRepVotes": 125039,
+      "totalDemVotes": 75885
+    },
+    "2": {
+      "candidates": [
+        [
+          "Vic Snyder",
+          124871,
+          "democrat"
+        ],
+        [
+          "Andy Mayberry",
+          81432,
+          "republican"
+        ]
+      ],
+      "totalVotes": 206303,
+      "winner": [
+        "Vic Snyder",
+        124871,
+        "democrat"
+      ],
+      "totalRepVotes": 81432,
+      "totalDemVotes": 124871
+    },
+    "1": {
+      "candidates": [
+        [
+          "Marion Berry",
+          127577,
+          "democrat"
+        ],
+        [
+          "Mickey \u00c2\u0091\u00c2\u0091Stubby\u00c2\u0092\u00c2\u0092 Stumbaugh",
+          56611,
+          "republican"
+        ]
+      ],
+      "totalVotes": 184188,
+      "winner": [
+        "Marion Berry",
+        127577,
+        "democrat"
+      ],
+      "totalRepVotes": 56611,
+      "totalDemVotes": 127577
+    },
+    "4": {
+      "candidates": [
+        [
+          "Mike Ross",
+          128236,
+          "democrat"
+        ],
+        [
+          "Joe Ross",
+          43360,
+          "republican"
+        ]
+      ],
+      "totalVotes": 171596,
+      "winner": [
+        "Mike Ross",
+        128236,
+        "democrat"
+      ],
+      "totalRepVotes": 43360,
+      "totalDemVotes": 128236
+    }
+  },
+  "2003": {
+    "3": {
+      "candidates": [
+        [
+          "George N. Lyne",
+          1577,
+          "none"
+        ],
+        [
+          "John Boozman",
+          141478,
+          "republican"
+        ]
+      ],
+      "totalVotes": 143055,
+      "winner": [
+        "John Boozman",
+        141478,
+        "republican"
+      ],
+      "totalRepVotes": 141478,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Tommy Robinson",
+          64357,
+          "republican"
+        ],
+        [
+          "Marion Berry",
+          129701,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 194058,
+      "winner": [
+        "Marion Berry",
+        129701,
+        "democrat"
+      ],
+      "totalRepVotes": 64357,
+      "totalDemVotes": 129701
+    },
+    "2": {
+      "candidates": [
+        [
+          "Ed Garner",
+          10874,
+          "none"
+        ],
+        [
+          "Vic Snyder",
+          142752,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 153626,
+      "winner": [
+        "Vic Snyder",
+        142752,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 142752
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jay Dickey",
+          77904,
+          "republican"
+        ],
+        [
+          "Mike Ross",
+          119633,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 197537,
+      "winner": [
+        "Mike Ross",
+        119633,
+        "democrat"
+      ],
+      "totalRepVotes": 77904,
+      "totalDemVotes": 119633
+    }
+  }
+}

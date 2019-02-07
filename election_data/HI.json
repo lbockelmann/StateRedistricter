@@ -1,0 +1,693 @@
+{
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Mark Takai",
+          93390,
+          "democrat"
+        ],
+        [
+          "Charles Djou",
+          86454,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          2366,
+          "none"
+        ],
+        [
+          "Over Vote",
+          58,
+          "none"
+        ]
+      ],
+      "totalVotes": 182268,
+      "winner": [
+        "Mark Takai",
+        93390,
+        "democrat"
+      ],
+      "totalRepVotes": 86454,
+      "totalDemVotes": 93390
+    },
+    "2": {
+      "candidates": [
+        [
+          "Over Vote",
+          82,
+          "none"
+        ],
+        [
+          "Joe Kent",
+          4693,
+          "libertarian"
+        ],
+        [
+          "Tulsi Gabbard",
+          142010,
+          "democrat"
+        ],
+        [
+          "Blank Vote",
+          7020,
+          "none"
+        ],
+        [
+          "Kawika Crowley",
+          33630,
+          "republican"
+        ]
+      ],
+      "totalVotes": 187435,
+      "winner": [
+        "Tulsi Gabbard",
+        142010,
+        "democrat"
+      ],
+      "totalRepVotes": 33630,
+      "totalDemVotes": 142010
+    }
+  },
+  "1997": {
+    "1": {
+      "candidates": [
+        [
+          "Neil Abercrombie",
+          86732,
+          "democrat"
+        ],
+        [
+          "Orson Swindle",
+          80053,
+          "republican"
+        ],
+        [
+          "Mark Duering",
+          4126,
+          "non partisan"
+        ],
+        [
+          "Nicholas Bedworth",
+          1295,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 172206,
+      "winner": [
+        "Neil Abercrombie",
+        86732,
+        "democrat"
+      ],
+      "totalRepVotes": 80053,
+      "totalDemVotes": 86732
+    },
+    "2": {
+      "candidates": [
+        [
+          "Nolan Crabbe",
+          7723,
+          "non partisan"
+        ],
+        [
+          "Tom Pico Jr.",
+          55729,
+          "republican"
+        ],
+        [
+          "Patsy T. Mink",
+          109178,
+          "democrat"
+        ],
+        [
+          "James N. Keefe",
+          4769,
+          "libertarian"
+        ],
+        [
+          "Amanda (Mandy) Toulon",
+          3564,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 180963,
+      "winner": [
+        "Patsy T. Mink",
+        109178,
+        "democrat"
+      ],
+      "totalRepVotes": 55729,
+      "totalDemVotes": 109178
+    }
+  },
+  "2011": {
+    "2": {
+      "candidates": [
+        [
+          "Andrew Vsevolod Von Sonn",
+          1310,
+          "nonpartisan"
+        ],
+        [
+          "Mazie K. Hirono",
+          132290,
+          "democrat"
+        ],
+        [
+          "Pat Brock",
+          3254,
+          "libertarian"
+        ],
+        [
+          "John W. Willoughby",
+          46404,
+          "republican"
+        ]
+      ],
+      "totalVotes": 183258,
+      "winner": [
+        "Mazie K. Hirono",
+        132290,
+        "democrat"
+      ],
+      "totalRepVotes": 46404,
+      "totalDemVotes": 132290
+    },
+    "1": {
+      "candidates": [
+        [
+          "Colleen Hanabusa",
+          94140,
+          "democrat"
+        ],
+        [
+          "Charles Djou",
+          82723,
+          "republican"
+        ]
+      ],
+      "totalVotes": 176863,
+      "winner": [
+        "Colleen Hanabusa",
+        94140,
+        "democrat"
+      ],
+      "totalRepVotes": 82723,
+      "totalDemVotes": 94140
+    }
+  },
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "Blank Vote",
+          18446,
+          "none"
+        ],
+        [
+          "Neil Abercrombie",
+          154208,
+          "democrat"
+        ],
+        [
+          "Li Zhao",
+          7594,
+          "libertarian"
+        ],
+        [
+          "Steve Tataii",
+          38115,
+          "republican"
+        ],
+        [
+          "Over Vote",
+          71,
+          "none"
+        ]
+      ],
+      "totalVotes": 218434,
+      "winner": [
+        "Neil Abercrombie",
+        154208,
+        "democrat"
+      ],
+      "totalRepVotes": 38115,
+      "totalDemVotes": 154208
+    },
+    "2": {
+      "candidates": [
+        [
+          "Mazie K. Hirono",
+          165748,
+          "democrat"
+        ],
+        [
+          "Roger B. Evans",
+          44425,
+          "republican"
+        ],
+        [
+          "Over Vote",
+          111,
+          "none"
+        ],
+        [
+          "Shaun Stenshol",
+          4042,
+          "independent"
+        ],
+        [
+          "Lloyd J. (Jeff) Mallan",
+          3699,
+          "libertarian"
+        ],
+        [
+          "Blank Vote",
+          19605,
+          "none"
+        ]
+      ],
+      "totalVotes": 237630,
+      "winner": [
+        "Mazie K. Hirono",
+        165748,
+        "democrat"
+      ],
+      "totalRepVotes": 44425,
+      "totalDemVotes": 165748
+    }
+  },
+  "2005": {
+    "1": {
+      "candidates": [
+        [
+          "Elyssa (Erin O'Bryn) Young",
+          6243,
+          "libertarian"
+        ],
+        [
+          "Neil Abercrombie",
+          128567,
+          "democrat"
+        ],
+        [
+          "Dalton Tanonaka",
+          69371,
+          "republican"
+        ]
+      ],
+      "totalVotes": 204181,
+      "winner": [
+        "Neil Abercrombie",
+        128567,
+        "democrat"
+      ],
+      "totalRepVotes": 69371,
+      "totalDemVotes": 128567
+    },
+    "2": {
+      "candidates": [
+        [
+          "Ed Case",
+          133317,
+          "democrat"
+        ],
+        [
+          "Mike Gabbard",
+          79072,
+          "republican"
+        ]
+      ],
+      "totalVotes": 212389,
+      "winner": [
+        "Ed Case",
+        133317,
+        "democrat"
+      ],
+      "totalRepVotes": 79072,
+      "totalDemVotes": 133317
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Tulsi Gabbard",
+          168503,
+          "democrat"
+        ],
+        [
+          "Blank Vote",
+          9952,
+          "none"
+        ],
+        [
+          "Kawika Crowley",
+          40707,
+          "republican"
+        ],
+        [
+          "Over Vote",
+          121,
+          "none"
+        ]
+      ],
+      "totalVotes": 219283,
+      "winner": [
+        "Tulsi Gabbard",
+        168503,
+        "democrat"
+      ],
+      "totalRepVotes": 40707,
+      "totalDemVotes": 168503
+    },
+    "1": {
+      "candidates": [
+        [
+          "Blank Vote",
+          4467,
+          "none"
+        ],
+        [
+          "Charles K. Djou",
+          96824,
+          "republican"
+        ],
+        [
+          "Colleen W. Hanabusa",
+          116505,
+          "democrat"
+        ],
+        [
+          "Over Vote",
+          80,
+          "none"
+        ]
+      ],
+      "totalVotes": 217876,
+      "winner": [
+        "Colleen W. Hanabusa",
+        116505,
+        "democrat"
+      ],
+      "totalRepVotes": 96824,
+      "totalDemVotes": 116505
+    }
+  },
+  "2017": {
+    "1": {
+      "candidates": [
+        [
+          "Calvin \"G\" Griffin",
+          4381,
+          "none"
+        ],
+        [
+          "Blank Vote",
+          11013,
+          "none"
+        ],
+        [
+          "Colleen Wakako Hanabusa",
+          145417,
+          "democrat"
+        ],
+        [
+          "Over Vote",
+          161,
+          "none"
+        ],
+        [
+          "Alan J. K. Yim",
+          6601,
+          "libertarian"
+        ],
+        [
+          "Shirlene D. \"Shirl\" Ostrov",
+          45958,
+          "republican"
+        ]
+      ],
+      "totalVotes": 213531,
+      "winner": [
+        "Colleen Wakako Hanabusa",
+        145417,
+        "democrat"
+      ],
+      "totalRepVotes": 45958,
+      "totalDemVotes": 145417
+    },
+    "2": {
+      "candidates": [
+        [
+          "Angela Aulani Kaaihue",
+          39668,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          13483,
+          "none"
+        ],
+        [
+          "Tulsi Gabbard",
+          170848,
+          "democrat"
+        ],
+        [
+          "Over Vote",
+          134,
+          "none"
+        ]
+      ],
+      "totalVotes": 224133,
+      "winner": [
+        "Tulsi Gabbard",
+        170848,
+        "democrat"
+      ],
+      "totalRepVotes": 39668,
+      "totalDemVotes": 170848
+    }
+  },
+  "1999": {
+    "1": {
+      "candidates": [
+        [
+          "Neil Abercrombie",
+          116693,
+          "democrat"
+        ],
+        [
+          "Nicholas Bedworth",
+          3973,
+          "natural law"
+        ],
+        [
+          "Gene Ward",
+          68905,
+          "republican"
+        ]
+      ],
+      "totalVotes": 189571,
+      "winner": [
+        "Neil Abercrombie",
+        116693,
+        "democrat"
+      ],
+      "totalRepVotes": 68905,
+      "totalDemVotes": 116693
+    },
+    "2": {
+      "candidates": [
+        [
+          "Patsy T. Mink",
+          144254,
+          "democrat"
+        ],
+        [
+          "Noreen Leilehua",
+          13194,
+          "libertarian"
+        ],
+        [
+          "Carol J. Douglass",
+          50423,
+          "republican"
+        ]
+      ],
+      "totalVotes": 207871,
+      "winner": [
+        "Patsy T. Mink",
+        144254,
+        "democrat"
+      ],
+      "totalRepVotes": 50423,
+      "totalDemVotes": 144254
+    }
+  },
+  "2001": {
+    "1": {
+      "candidates": [
+        [
+          "Phil Meyers",
+          44989,
+          "republican"
+        ],
+        [
+          "Neil Abercrombie",
+          108517,
+          "democrat"
+        ],
+        [
+          "Jerry Murphy",
+          3688,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 157194,
+      "winner": [
+        "Neil Abercrombie",
+        108517,
+        "democrat"
+      ],
+      "totalRepVotes": 44989,
+      "totalDemVotes": 108517
+    },
+    "2": {
+      "candidates": [
+        [
+          "Lawrence G. K. Duquesne",
+          4468,
+          "libertarian"
+        ],
+        [
+          "Patsy T. Mink",
+          112856,
+          "democrat"
+        ],
+        [
+          "Russ Francis",
+          65906,
+          "republican"
+        ]
+      ],
+      "totalVotes": 183230,
+      "winner": [
+        "Patsy T. Mink",
+        112856,
+        "democrat"
+      ],
+      "totalRepVotes": 65906,
+      "totalDemVotes": 112856
+    }
+  },
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "Bob McDermott",
+          71661,
+          "republican"
+        ],
+        [
+          "Patsy T. Mink",
+          100671,
+          "democrat"
+        ],
+        [
+          "Jeff Mallan",
+          4719,
+          "libertarian"
+        ],
+        [
+          "Nicholas Bedworth",
+          2200,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 179251,
+      "winner": [
+        "Patsy T. Mink",
+        100671,
+        "democrat"
+      ],
+      "totalRepVotes": 71661,
+      "totalDemVotes": 100671
+    },
+    "1": {
+      "candidates": [
+        [
+          "Neil Abercrombie",
+          131673,
+          "democrat"
+        ],
+        [
+          "Mark Terry",
+          45032,
+          "republican"
+        ],
+        [
+          "James H. Bracken",
+          4028,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 180733,
+      "winner": [
+        "Neil Abercrombie",
+        131673,
+        "democrat"
+      ],
+      "totalRepVotes": 45032,
+      "totalDemVotes": 131673
+    }
+  },
+  "2007": {
+    "2": {
+      "candidates": [
+        [
+          "Mazie K. Hirono",
+          106906,
+          "democrat"
+        ],
+        [
+          "Bob Hogue",
+          68244,
+          "republican"
+        ]
+      ],
+      "totalVotes": 175150,
+      "winner": [
+        "Mazie K. Hirono",
+        106906,
+        "democrat"
+      ],
+      "totalRepVotes": 68244,
+      "totalDemVotes": 106906
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard (Noah) Hough",
+          49890,
+          "republican"
+        ],
+        [
+          "Neil Abercrombie",
+          112904,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 162794,
+      "winner": [
+        "Neil Abercrombie",
+        112904,
+        "democrat"
+      ],
+      "totalRepVotes": 49890,
+      "totalDemVotes": 112904
+    }
+  }
+}

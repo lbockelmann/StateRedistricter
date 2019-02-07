@@ -1,0 +1,1930 @@
+{
+  "2009": {
+    "4": {
+      "candidates": [
+        [
+          "Jim Himes",
+          149345,
+          "democrat"
+        ],
+        [
+          "Michael Anthony Carrano",
+          2049,
+          "libertarian"
+        ],
+        [
+          "Richard Z. Duffee",
+          1388,
+          "green"
+        ],
+        [
+          "Jim Himes",
+          9130,
+          "working families"
+        ],
+        [
+          "Eugene Flanagan",
+          10,
+          "none"
+        ],
+        [
+          "Christopher Shays",
+          146854,
+          "republican"
+        ]
+      ],
+      "totalVotes": 308776,
+      "winner": [
+        "Jim Himes",
+        149345,
+        "democrat"
+      ],
+      "totalRepVotes": 146854,
+      "totalDemVotes": 149345
+    },
+    "5": {
+      "candidates": [
+        [
+          "Walter Gengarelly",
+          10,
+          "none"
+        ],
+        [
+          "Harold H. Burbank II",
+          2324,
+          "green"
+        ],
+        [
+          "Christopher S. Murphy",
+          161178,
+          "democrat"
+        ],
+        [
+          "Thomas L. Winn",
+          3082,
+          "independent"
+        ],
+        [
+          "David J. Cappiello",
+          117914,
+          "republican"
+        ],
+        [
+          "Christopher S. Murphy",
+          18149,
+          "working families"
+        ]
+      ],
+      "totalVotes": 302657,
+      "winner": [
+        "Christopher S. Murphy",
+        161178,
+        "democrat"
+      ],
+      "totalRepVotes": 117914,
+      "totalDemVotes": 161178
+    },
+    "2": {
+      "candidates": [
+        [
+          "Todd Vachon",
+          19,
+          "none"
+        ],
+        [
+          "Joe Courtney",
+          13164,
+          "working families"
+        ],
+        [
+          "G. Scott Deshefy",
+          6300,
+          "green"
+        ],
+        [
+          "Joe Courtney",
+          198984,
+          "democrat"
+        ],
+        [
+          "Sean Sullivan",
+          104574,
+          "republican"
+        ]
+      ],
+      "totalVotes": 323041,
+      "winner": [
+        "Joe Courtney",
+        198984,
+        "democrat"
+      ],
+      "totalRepVotes": 104574,
+      "totalDemVotes": 198984
+    },
+    "1": {
+      "candidates": [
+        [
+          "John B. Larson",
+          194493,
+          "democrat"
+        ],
+        [
+          "Stephen E. D. Fournier",
+          7201,
+          "green"
+        ],
+        [
+          "John B. Larson",
+          17000,
+          "working families"
+        ],
+        [
+          "Matthew Coleman",
+          3,
+          "none"
+        ],
+        [
+          "Joe Visconti",
+          76860,
+          "republican"
+        ]
+      ],
+      "totalVotes": 295557,
+      "winner": [
+        "John B. Larson",
+        194493,
+        "democrat"
+      ],
+      "totalRepVotes": 76860,
+      "totalDemVotes": 194493
+    },
+    "3": {
+      "candidates": [
+        [
+          "Rosa L. DeLauro",
+          204761,
+          "democrat"
+        ],
+        [
+          "Ralph A. Ferrucci",
+          8613,
+          "green"
+        ],
+        [
+          "Rosa L. DeLauro",
+          25411,
+          "working families"
+        ],
+        [
+          "Bo Itshaky",
+          58583,
+          "republican"
+        ]
+      ],
+      "totalVotes": 297368,
+      "winner": [
+        "Rosa L. DeLauro",
+        204761,
+        "democrat"
+      ],
+      "totalRepVotes": 58583,
+      "totalDemVotes": 204761
+    }
+  },
+  "2017": {
+    "1": {
+      "candidates": [
+        [
+          "S. Michael DeRosa",
+          6563,
+          "green"
+        ],
+        [
+          "Mark Stewart",
+          1,
+          "none"
+        ],
+        [
+          "John B. Larson",
+          13665,
+          "working families"
+        ],
+        [
+          "Mathhew M. Corey",
+          105674,
+          "republican"
+        ],
+        [
+          "Charles Jackson",
+          1,
+          "none"
+        ],
+        [
+          "John B. Larson",
+          187021,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 312925,
+      "winner": [
+        "John B. Larson",
+        187021,
+        "democrat"
+      ],
+      "totalRepVotes": 105674,
+      "totalDemVotes": 187021
+    },
+    "2": {
+      "candidates": [
+        [
+          "Daniel Reale",
+          4949,
+          "libertarian"
+        ],
+        [
+          "Joe Courtney",
+          22608,
+          "working families"
+        ],
+        [
+          "Jonathan Pelto",
+          5332,
+          "green"
+        ],
+        [
+          "Elizabeth F. Traceski",
+          9,
+          "none"
+        ],
+        [
+          "Daria Novak",
+          111149,
+          "republican"
+        ],
+        [
+          "Joe Courtney",
+          186210,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 330257,
+      "winner": [
+        "Joe Courtney",
+        186210,
+        "democrat"
+      ],
+      "totalRepVotes": 111149,
+      "totalDemVotes": 186210
+    },
+    "5": {
+      "candidates": [
+        [
+          "Clay Cope",
+          4901,
+          "independent"
+        ],
+        [
+          "Elizabeth H. Etsy",
+          163499,
+          "democrat"
+        ],
+        [
+          "Clay Cope",
+          124900,
+          "republican"
+        ],
+        [
+          "Ann-Marie Adams",
+          1,
+          "none"
+        ],
+        [
+          "Elizabeth H. Etsy",
+          15753,
+          "working families"
+        ],
+        [
+          "John Pistone",
+          28,
+          "none"
+        ]
+      ],
+      "totalVotes": 309082,
+      "winner": [
+        "Elizabeth H. Etsy",
+        163499,
+        "democrat"
+      ],
+      "totalRepVotes": 124900,
+      "totalDemVotes": 163499
+    },
+    "4": {
+      "candidates": [
+        [
+          "John Shaban",
+          5071,
+          "independent"
+        ],
+        [
+          "James A. Himes",
+          187811,
+          "democrat"
+        ],
+        [
+          "John Shaban",
+          120653,
+          "republican"
+        ],
+        [
+          "Carl E. Vassar",
+          5,
+          "none"
+        ]
+      ],
+      "totalVotes": 313540,
+      "winner": [
+        "James A. Himes",
+        187811,
+        "democrat"
+      ],
+      "totalRepVotes": 120653,
+      "totalDemVotes": 187811
+    },
+    "3": {
+      "candidates": [
+        [
+          "Andrew Rule",
+          3,
+          "none"
+        ],
+        [
+          "Christopher Schaefer",
+          18,
+          "none"
+        ],
+        [
+          "Rosa L. DeLauro",
+          21298,
+          "working families"
+        ],
+        [
+          "Rosa L. DeLauro",
+          192274,
+          "democrat"
+        ],
+        [
+          "Angel Cadena",
+          95786,
+          "republican"
+        ]
+      ],
+      "totalVotes": 309379,
+      "winner": [
+        "Rosa L. DeLauro",
+        192274,
+        "democrat"
+      ],
+      "totalRepVotes": 95786,
+      "totalDemVotes": 192274
+    }
+  },
+  "2011": {
+    "5": {
+      "candidates": [
+        [
+          "Sam S. F. Caligiuri",
+          102092,
+          "republican"
+        ],
+        [
+          "Sam S. F. Caligiuri",
+          2310,
+          "independent"
+        ],
+        [
+          "John Pistone",
+          20,
+          "none"
+        ],
+        [
+          "Christopher S. Murphy",
+          118231,
+          "democrat"
+        ],
+        [
+          "Christopher S. Murphy",
+          4648,
+          "working families"
+        ],
+        [
+          "Elmon Smith",
+          2,
+          "none"
+        ]
+      ],
+      "totalVotes": 227303,
+      "winner": [
+        "Christopher S. Murphy",
+        118231,
+        "democrat"
+      ],
+      "totalRepVotes": 102092,
+      "totalDemVotes": 118231
+    },
+    "1": {
+      "candidates": [
+        [
+          "Daniel J. Stepanek",
+          3,
+          "none"
+        ],
+        [
+          "John B. Larson",
+          130538,
+          "democrat"
+        ],
+        [
+          "Cristopher J. Hutchinson",
+          955,
+          "socialist action"
+        ],
+        [
+          "John B. Larson",
+          7902,
+          "working families"
+        ],
+        [
+          "Ann Brickley",
+          84076,
+          "republican"
+        ],
+        [
+          "Kenneth J. Krayeske",
+          2564,
+          "green"
+        ]
+      ],
+      "totalVotes": 226038,
+      "winner": [
+        "John B. Larson",
+        130538,
+        "democrat"
+      ],
+      "totalRepVotes": 84076,
+      "totalDemVotes": 130538
+    },
+    "4": {
+      "candidates": [
+        [
+          "James A. Himes",
+          4605,
+          "working families"
+        ],
+        [
+          "James A. Himes",
+          110746,
+          "democrat"
+        ],
+        [
+          "Eugene Flanagan",
+          10,
+          "none"
+        ],
+        [
+          "Dan Debicella",
+          102030,
+          "republican"
+        ]
+      ],
+      "totalVotes": 217391,
+      "winner": [
+        "James A. Himes",
+        110746,
+        "democrat"
+      ],
+      "totalRepVotes": 102030,
+      "totalDemVotes": 110746
+    },
+    "2": {
+      "candidates": [
+        [
+          "G. Scott Deshefy",
+          3344,
+          "green"
+        ],
+        [
+          "Daniel Reale",
+          27,
+          "none"
+        ],
+        [
+          "Joe Cortney",
+          140888,
+          "democrat"
+        ],
+        [
+          "Janet Peckinpaugh",
+          95671,
+          "republican"
+        ],
+        [
+          "Joe Cortney",
+          6860,
+          "working families"
+        ],
+        [
+          "Muriel P. Mianchi",
+          19,
+          "none"
+        ]
+      ],
+      "totalVotes": 246809,
+      "winner": [
+        "Joe Cortney",
+        140888,
+        "democrat"
+      ],
+      "totalRepVotes": 95671,
+      "totalDemVotes": 140888
+    },
+    "3": {
+      "candidates": [
+        [
+          "Rosa L. DeLauro",
+          9021,
+          "working families"
+        ],
+        [
+          "Rosa L. DeLauro",
+          134544,
+          "democrat"
+        ],
+        [
+          "Charles A. Pillsbury",
+          2984,
+          "green"
+        ],
+        [
+          "Boaz Itshaky",
+          5,
+          "none"
+        ],
+        [
+          "Jerry Labriola, Jr.",
+          74107,
+          "republican"
+        ]
+      ],
+      "totalVotes": 220661,
+      "winner": [
+        "Rosa L. DeLauro",
+        134544,
+        "democrat"
+      ],
+      "totalRepVotes": 74107,
+      "totalDemVotes": 134544
+    }
+  },
+  "1997": {
+    "1": {
+      "candidates": [
+        [
+          "Barbara B. Kennelly",
+          145169,
+          "democrat"
+        ],
+        [
+          "Barbara B. Kennelly",
+          13053,
+          "a connecticut party"
+        ],
+        [
+          "Kent Sleath",
+          53666,
+          "republican"
+        ],
+        [
+          "Daniel A. Wasielewski",
+          1149,
+          "natural law"
+        ],
+        [
+          "John F. Forry III",
+          2099,
+          "concerned citizens"
+        ]
+      ],
+      "totalVotes": 215136,
+      "winner": [
+        "Barbara B. Kennelly",
+        145169,
+        "democrat"
+      ],
+      "totalRepVotes": 53666,
+      "totalDemVotes": 145169
+    },
+    "2": {
+      "candidates": [
+        [
+          "Sam Gjdenson",
+          8631,
+          "a connecticut party"
+        ],
+        [
+          "Edward W. Munster",
+          100332,
+          "republican"
+        ],
+        [
+          "Thomas E. Hall",
+          1263,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          2,
+          "none"
+        ],
+        [
+          "Dianne G. Ondusko",
+          6477,
+          "independence"
+        ],
+        [
+          "Sam Gjdenson",
+          106544,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 223249,
+      "winner": [
+        "Sam Gjdenson",
+        106544,
+        "democrat"
+      ],
+      "totalRepVotes": 100332,
+      "totalDemVotes": 106544
+    },
+    "3": {
+      "candidates": [
+        [
+          "Rosa L. DeLauro",
+          13690,
+          "a connecticut party"
+        ],
+        [
+          "John Coppola",
+          59335,
+          "republican"
+        ],
+        [
+          "Rosa L. DeLauro",
+          137108,
+          "democrat"
+        ],
+        [
+          "Gail J. Dalby",
+          1219,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 211352,
+      "winner": [
+        "Rosa L. DeLauro",
+        137108,
+        "democrat"
+      ],
+      "totalRepVotes": 59335,
+      "totalDemVotes": 137108
+    },
+    "5": {
+      "candidates": [
+        [
+          "James H. Maloney",
+          105359,
+          "democrat"
+        ],
+        [
+          "James H. Maloney",
+          6615,
+          "a connecticut party"
+        ],
+        [
+          "Gary A. Franks",
+          98782,
+          "republican"
+        ],
+        [
+          "Walter F. Thiessen Jr.",
+          1391,
+          "libertarian"
+        ],
+        [
+          "Rosita Rodriguez",
+          2983,
+          "concerned citizens"
+        ]
+      ],
+      "totalVotes": 215130,
+      "winner": [
+        "James H. Maloney",
+        105359,
+        "democrat"
+      ],
+      "totalRepVotes": 98782,
+      "totalDemVotes": 105359
+    },
+    "6": {
+      "candidates": [
+        [
+          "Charlotte Koskoff",
+          7208,
+          "a connecticut party"
+        ],
+        [
+          "Nancy L. Johnson",
+          113020,
+          "republican"
+        ],
+        [
+          "Charlotte Koskoff",
+          104225,
+          "democrat"
+        ],
+        [
+          "Timothy A. Knibbs",
+          3303,
+          "concerned citizens"
+        ]
+      ],
+      "totalVotes": 227756,
+      "winner": [
+        "Nancy L. Johnson",
+        113020,
+        "republican"
+      ],
+      "totalRepVotes": 113020,
+      "totalDemVotes": 104225
+    },
+    "4": {
+      "candidates": [
+        [
+          "Terry M. Nevas",
+          1046,
+          "natural law"
+        ],
+        [
+          "Bill Finch",
+          75902,
+          "democrat"
+        ],
+        [
+          "Christopher Shays",
+          121949,
+          "republican"
+        ],
+        [
+          "Edward H. Tonkin",
+          2815,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 201712,
+      "winner": [
+        "Christopher Shays",
+        121949,
+        "republican"
+      ],
+      "totalRepVotes": 121949,
+      "totalDemVotes": 75902
+    }
+  },
+  "2007": {
+    "4": {
+      "candidates": [
+        [
+          "Christopher Shays",
+          106510,
+          "republican"
+        ],
+        [
+          "Diane Farrell",
+          99450,
+          "democrat"
+        ],
+        [
+          "Philip Z. Maymin",
+          3058,
+          "libertarian"
+        ],
+        [
+          "scattering",
+          1,
+          "green"
+        ]
+      ],
+      "totalVotes": 209019,
+      "winner": [
+        "Christopher Shays",
+        106510,
+        "republican"
+      ],
+      "totalRepVotes": 106510,
+      "totalDemVotes": 99450
+    },
+    "1": {
+      "candidates": [
+        [
+          "Stephen Fournier",
+          43,
+          "none"
+        ],
+        [
+          "Scott MacLean",
+          53010,
+          "republican"
+        ],
+        [
+          "John B. Larson",
+          154539,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207592,
+      "winner": [
+        "John B. Larson",
+        154539,
+        "democrat"
+      ],
+      "totalRepVotes": 53010,
+      "totalDemVotes": 154539
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joe Courtney",
+          121248,
+          "democrat"
+        ],
+        [
+          "Rob Simmons",
+          121165,
+          "republican"
+        ]
+      ],
+      "totalVotes": 242413,
+      "winner": [
+        "Joe Courtney",
+        121248,
+        "democrat"
+      ],
+      "totalRepVotes": 121165,
+      "totalDemVotes": 121248
+    },
+    "5": {
+      "candidates": [
+        [
+          "Chris Murphy",
+          122980,
+          "democrat"
+        ],
+        [
+          "Nancy L. Johnson",
+          94824,
+          "republican"
+        ]
+      ],
+      "totalVotes": 217804,
+      "winner": [
+        "Chris Murphy",
+        122980,
+        "democrat"
+      ],
+      "totalRepVotes": 94824,
+      "totalDemVotes": 122980
+    },
+    "3": {
+      "candidates": [
+        [
+          "Joseph Vollano",
+          44386,
+          "republican"
+        ],
+        [
+          "Daniel A. Sumrall",
+          3089,
+          "green"
+        ],
+        [
+          "Rosa L. DeLauro",
+          150436,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 197911,
+      "winner": [
+        "Rosa L. DeLauro",
+        150436,
+        "democrat"
+      ],
+      "totalRepVotes": 44386,
+      "totalDemVotes": 150436
+    }
+  },
+  "2005": {
+    "5": {
+      "candidates": [
+        [
+          "Fernando Ramirez",
+          3196,
+          "working families"
+        ],
+        [
+          "Wildey J. Moore",
+          2545,
+          "concerned citizens"
+        ],
+        [
+          "Theresa B. Gerratana",
+          107438,
+          "democrat"
+        ],
+        [
+          "Nancy L. Johnson",
+          168268,
+          "republican"
+        ]
+      ],
+      "totalVotes": 281447,
+      "winner": [
+        "Nancy L. Johnson",
+        168268,
+        "republican"
+      ],
+      "totalRepVotes": 168268,
+      "totalDemVotes": 107438
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Sullivan",
+          140536,
+          "democrat"
+        ],
+        [
+          "Rob Simmons",
+          166412,
+          "republican"
+        ],
+        [
+          "David R. Lyon",
+          130,
+          "none"
+        ]
+      ],
+      "totalVotes": 307078,
+      "winner": [
+        "Rob Simmons",
+        166412,
+        "republican"
+      ],
+      "totalRepVotes": 166412,
+      "totalDemVotes": 140536
+    },
+    "4": {
+      "candidates": [
+        [
+          "Diane Farrell",
+          138333,
+          "democrat"
+        ],
+        [
+          "Christopher Shays",
+          152493,
+          "republican"
+        ],
+        [
+          "Carl E. Vassar",
+          4,
+          "none"
+        ]
+      ],
+      "totalVotes": 290830,
+      "winner": [
+        "Christopher Shays",
+        152493,
+        "republican"
+      ],
+      "totalRepVotes": 152493,
+      "totalDemVotes": 138333
+    },
+    "3": {
+      "candidates": [
+        [
+          "Rosa L. DeLauro",
+          200638,
+          "democrat"
+        ],
+        [
+          "Ralph Ferucci",
+          7182,
+          "green"
+        ],
+        [
+          "Richter Elser",
+          69160,
+          "republican"
+        ]
+      ],
+      "totalVotes": 276980,
+      "winner": [
+        "Rosa L. DeLauro",
+        200638,
+        "democrat"
+      ],
+      "totalRepVotes": 69160,
+      "totalDemVotes": 200638
+    },
+    "1": {
+      "candidates": [
+        [
+          "John M. Halstead",
+          73601,
+          "republican"
+        ],
+        [
+          "John B. Larson",
+          198802,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 272403,
+      "winner": [
+        "John B. Larson",
+        198802,
+        "democrat"
+      ],
+      "totalRepVotes": 73601,
+      "totalDemVotes": 198802
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Gail J. Dalby",
+          620,
+          "natural law"
+        ],
+        [
+          "Rosa L. DeLauro",
+          109726,
+          "democrat"
+        ],
+        [
+          "Kristen J. Abbatiello",
+          739,
+          "term limits"
+        ],
+        [
+          "Martin T. Reust",
+          42090,
+          "republican"
+        ],
+        [
+          "David P. Cole",
+          676,
+          "reform"
+        ]
+      ],
+      "totalVotes": 153851,
+      "winner": [
+        "Rosa L. DeLauro",
+        109726,
+        "democrat"
+      ],
+      "totalRepVotes": 42090,
+      "totalDemVotes": 109726
+    },
+    "2": {
+      "candidates": [
+        [
+          "Sam Gejdenson",
+          99567,
+          "democrat"
+        ],
+        [
+          "Paul W. Cook",
+          658,
+          "term limits"
+        ],
+        [
+          "Dianne G. Ondusko",
+          5116,
+          "indepdendence"
+        ],
+        [
+          "Gary M. Koval",
+          57860,
+          "republican"
+        ]
+      ],
+      "totalVotes": 163201,
+      "winner": [
+        "Sam Gejdenson",
+        99567,
+        "democrat"
+      ],
+      "totalRepVotes": 57860,
+      "totalDemVotes": 99567
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jonathan Kantrowitz",
+          40988,
+          "democrat"
+        ],
+        [
+          "Christopher Shays",
+          94767,
+          "republican"
+        ],
+        [
+          "Marshall C. Harrison",
+          1449,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 137204,
+      "winner": [
+        "Christopher Shays",
+        94767,
+        "republican"
+      ],
+      "totalRepVotes": 94767,
+      "totalDemVotes": 40988
+    },
+    "6": {
+      "candidates": [
+        [
+          "Timothy A. Knibbs",
+          3217,
+          "concerned citizens"
+        ],
+        [
+          "Mark J. Polon",
+          733,
+          "term limits"
+        ],
+        [
+          "Charlotte Koskoff",
+          69201,
+          "democrat"
+        ],
+        [
+          "Nancy L. Johnson",
+          101630,
+          "republican"
+        ]
+      ],
+      "totalVotes": 174781,
+      "winner": [
+        "Nancy L. Johnson",
+        101630,
+        "republican"
+      ],
+      "totalRepVotes": 101630,
+      "totalDemVotes": 69201
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jay E. Palmieri IV",
+          915,
+          "term limits"
+        ],
+        [
+          "Kevin O'Connor",
+          69668,
+          "republican"
+        ],
+        [
+          "John B. Larson",
+          97681,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 168264,
+      "winner": [
+        "John B. Larson",
+        97681,
+        "democrat"
+      ],
+      "totalRepVotes": 69668,
+      "totalDemVotes": 97681
+    },
+    "5": {
+      "candidates": [
+        [
+          "Mark Nielsen",
+          76051,
+          "republican"
+        ],
+        [
+          "Robert V. Strasdauskas",
+          2712,
+          "concerned citizens"
+        ],
+        [
+          "James H. Maloney",
+          78394,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 157157,
+      "winner": [
+        "James H. Maloney",
+        78394,
+        "democrat"
+      ],
+      "totalRepVotes": 76051,
+      "totalDemVotes": 78394
+    }
+  },
+  "2001": {
+    "4": {
+      "candidates": [
+        [
+          "Christopher Shays",
+          119155,
+          "republican"
+        ],
+        [
+          "Daniel Gislao",
+          2034,
+          "libertarian"
+        ],
+        [
+          "Stephanie Sanchez",
+          84472,
+          "democrat"
+        ],
+        [
+          "Frank M. Don",
+          1097,
+          "independence"
+        ]
+      ],
+      "totalVotes": 206758,
+      "winner": [
+        "Christopher Shays",
+        119155,
+        "republican"
+      ],
+      "totalRepVotes": 119155,
+      "totalDemVotes": 84472
+    },
+    "5": {
+      "candidates": [
+        [
+          "Joseph A. Zdonczyk",
+          4653,
+          "concerned citizens"
+        ],
+        [
+          "<write in>",
+          7,
+          "none"
+        ],
+        [
+          "Mark Nielsen",
+          98229,
+          "republican"
+        ],
+        [
+          "James H. Maloney",
+          118932,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 221821,
+      "winner": [
+        "James H. Maloney",
+        118932,
+        "democrat"
+      ],
+      "totalRepVotes": 98229,
+      "totalDemVotes": 118932
+    },
+    "1": {
+      "candidates": [
+        [
+          "John B. Larson",
+          151932,
+          "democrat"
+        ],
+        [
+          "Bob Backlund",
+          59331,
+          "republican"
+        ]
+      ],
+      "totalVotes": 211263,
+      "winner": [
+        "John B. Larson",
+        151932,
+        "democrat"
+      ],
+      "totalRepVotes": 59331,
+      "totalDemVotes": 151932
+    },
+    "6": {
+      "candidates": [
+        [
+          "Audrey A. Cole",
+          7303,
+          "green"
+        ],
+        [
+          "Timothy A. Knibbs",
+          3071,
+          "concerned citizens"
+        ],
+        [
+          "Nancy L. Johnson",
+          143698,
+          "republican"
+        ],
+        [
+          "Paul Valenti",
+          75471,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 229543,
+      "winner": [
+        "Nancy L. Johnson",
+        143698,
+        "republican"
+      ],
+      "totalRepVotes": 143698,
+      "totalDemVotes": 75471
+    },
+    "2": {
+      "candidates": [
+        [
+          "Rob Simmons",
+          4141,
+          "independence"
+        ],
+        [
+          "Rob Simmons",
+          110239,
+          "republican"
+        ],
+        [
+          "Sam Gejdenson",
+          111520,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 225900,
+      "winner": [
+        "Sam Gejdenson",
+        111520,
+        "democrat"
+      ],
+      "totalRepVotes": 110239,
+      "totalDemVotes": 111520
+    },
+    "3": {
+      "candidates": [
+        [
+          "Gail Dalby",
+          1258,
+          "natural law"
+        ],
+        [
+          "Rosa L. DeLauro",
+          156910,
+          "democrat"
+        ],
+        [
+          "June M. Gold",
+          60037,
+          "republican"
+        ]
+      ],
+      "totalVotes": 218205,
+      "winner": [
+        "Rosa L. DeLauro",
+        156910,
+        "democrat"
+      ],
+      "totalRepVotes": 60037,
+      "totalDemVotes": 156910
+    }
+  },
+  "2003": {
+    "5": {
+      "candidates": [
+        [
+          "Jim Maloney",
+          90616,
+          "democrat"
+        ],
+        [
+          "Walter J. Gengarelly",
+          1503,
+          "libertarian"
+        ],
+        [
+          "Joseph A. Zdonczyk",
+          3709,
+          "concerned citizens"
+        ],
+        [
+          "Nancy Johnson",
+          113626,
+          "republican"
+        ]
+      ],
+      "totalVotes": 209454,
+      "winner": [
+        "Nancy Johnson",
+        113626,
+        "republican"
+      ],
+      "totalRepVotes": 113626,
+      "totalDemVotes": 90616
+    },
+    "1": {
+      "candidates": [
+        [
+          "Miriam J. Masullo",
+          18,
+          "none"
+        ],
+        [
+          "Max F. Welch",
+          4,
+          "none"
+        ],
+        [
+          "Phil Steele",
+          66968,
+          "republican"
+        ],
+        [
+          "John B. Larson",
+          134698,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 201688,
+      "winner": [
+        "John B. Larson",
+        134698,
+        "democrat"
+      ],
+      "totalRepVotes": 66968,
+      "totalDemVotes": 134698
+    },
+    "4": {
+      "candidates": [
+        [
+          "Stephanie H. Sanchez",
+          62491,
+          "democrat"
+        ],
+        [
+          "Christopher Shays",
+          113197,
+          "republican"
+        ],
+        [
+          "Carl E. Vassar",
+          7,
+          "none"
+        ]
+      ],
+      "totalVotes": 175695,
+      "winner": [
+        "Christopher Shays",
+        113197,
+        "republican"
+      ],
+      "totalRepVotes": 113197,
+      "totalDemVotes": 62491
+    },
+    "2": {
+      "candidates": [
+        [
+          "Rob Simmons",
+          117434,
+          "republican"
+        ],
+        [
+          "Joe Courtney",
+          99674,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 217108,
+      "winner": [
+        "Rob Simmons",
+        117434,
+        "republican"
+      ],
+      "totalRepVotes": 117434,
+      "totalDemVotes": 99674
+    },
+    "3": {
+      "candidates": [
+        [
+          "Richter Elser",
+          54757,
+          "republican"
+        ],
+        [
+          "Charles A. Pillsbury",
+          9050,
+          "green"
+        ],
+        [
+          "Rosa L. DeLauro",
+          121557,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 185364,
+      "winner": [
+        "Rosa L. DeLauro",
+        121557,
+        "democrat"
+      ],
+      "totalRepVotes": 54757,
+      "totalDemVotes": 121557
+    }
+  },
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Matthew M. Corey",
+          78609,
+          "republican"
+        ],
+        [
+          "John B. Larson",
+          8395,
+          "working families"
+        ],
+        [
+          "Jeffrey Russell",
+          3447,
+          "green"
+        ],
+        [
+          "John B. Larson",
+          127430,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 217881,
+      "winner": [
+        "John B. Larson",
+        127430,
+        "democrat"
+      ],
+      "totalRepVotes": 78609,
+      "totalDemVotes": 127430
+    },
+    "2": {
+      "candidates": [
+        [
+          "William C. Clyde",
+          2549,
+          "green"
+        ],
+        [
+          "Lori Hopkins-Cavanagh",
+          80837,
+          "republican"
+        ],
+        [
+          "Joe Courtney",
+          10654,
+          "working families"
+        ],
+        [
+          "Joe Courtney",
+          131294,
+          "democrat"
+        ],
+        [
+          "Daniel Reale",
+          2602,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 227936,
+      "winner": [
+        "Joe Courtney",
+        131294,
+        "democrat"
+      ],
+      "totalRepVotes": 80837,
+      "totalDemVotes": 131294
+    },
+    "5": {
+      "candidates": [
+        [
+          "Elizabeth H. Esty",
+          106256,
+          "democrat"
+        ],
+        [
+          "Mark Greenberg",
+          5363,
+          "independent"
+        ],
+        [
+          "John J. Pistone",
+          1970,
+          "petitioning candidate"
+        ],
+        [
+          "Mark Greenberg",
+          92404,
+          "republican"
+        ],
+        [
+          "Elizabeth H. Esty",
+          7308,
+          "working families"
+        ]
+      ],
+      "totalVotes": 213301,
+      "winner": [
+        "Elizabeth H. Esty",
+        106256,
+        "democrat"
+      ],
+      "totalRepVotes": 92404,
+      "totalDemVotes": 106256
+    },
+    "3": {
+      "candidates": [
+        [
+          "Rosa L. DeLauro",
+          10476,
+          "working families"
+        ],
+        [
+          "Rosa L. DeLauro",
+          130009,
+          "democrat"
+        ],
+        [
+          "James E. Brown",
+          69454,
+          "republican"
+        ]
+      ],
+      "totalVotes": 209939,
+      "winner": [
+        "Rosa L. DeLauro",
+        130009,
+        "democrat"
+      ],
+      "totalRepVotes": 69454,
+      "totalDemVotes": 130009
+    },
+    "4": {
+      "candidates": [
+        [
+          "James A. Himes",
+          101401,
+          "democrat"
+        ],
+        [
+          "Dan Debicella",
+          88209,
+          "republican"
+        ],
+        [
+          "Sophie E. Pastore",
+          2,
+          "none"
+        ],
+        [
+          "Stephen A. Miller",
+          3,
+          "none"
+        ],
+        [
+          "James A. Himes",
+          5472,
+          "working families"
+        ],
+        [
+          "Dan Debicella",
+          3713,
+          "independent"
+        ]
+      ],
+      "totalVotes": 198800,
+      "winner": [
+        "James A. Himes",
+        101401,
+        "democrat"
+      ],
+      "totalRepVotes": 88209,
+      "totalDemVotes": 101401
+    }
+  },
+  "2013": {
+    "3": {
+      "candidates": [
+        [
+          "Stephen \"Steve\" Packard",
+          1,
+          "none"
+        ],
+        [
+          "Rosa L. DeLauro",
+          20410,
+          "working families"
+        ],
+        [
+          "Wayne Winsley",
+          73726,
+          "republican"
+        ],
+        [
+          "Rosa L. DeLauro",
+          197163,
+          "democrat"
+        ],
+        [
+          "Hector W. Concepcion",
+          1,
+          "none"
+        ]
+      ],
+      "totalVotes": 291301,
+      "winner": [
+        "Rosa L. DeLauro",
+        197163,
+        "democrat"
+      ],
+      "totalRepVotes": 73726,
+      "totalDemVotes": 197163
+    },
+    "5": {
+      "candidates": [
+        [
+          "Andrew Roraback",
+          9710,
+          "independent"
+        ],
+        [
+          "John Pistone",
+          12,
+          "none"
+        ],
+        [
+          "Elizabeth Esty",
+          8467,
+          "working families"
+        ],
+        [
+          "Andrew Roraback",
+          128927,
+          "republican"
+        ],
+        [
+          "Russ Jaegar",
+          10,
+          "none"
+        ],
+        [
+          "Elizabeth Esty",
+          137631,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 284757,
+      "winner": [
+        "Elizabeth Esty",
+        137631,
+        "democrat"
+      ],
+      "totalRepVotes": 128927,
+      "totalDemVotes": 137631
+    },
+    "1": {
+      "candidates": [
+        [
+          "John B. Larson",
+          14133,
+          "working families"
+        ],
+        [
+          "Matthew M. Corey",
+          2290,
+          "nominated by petition"
+        ],
+        [
+          "John Henry Decker",
+          82321,
+          "republican"
+        ],
+        [
+          "S. Michael DeRosa",
+          5477,
+          "green"
+        ],
+        [
+          "John B. Larson",
+          192840,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 297061,
+      "winner": [
+        "John B. Larson",
+        192840,
+        "democrat"
+      ],
+      "totalRepVotes": 82321,
+      "totalDemVotes": 192840
+    },
+    "2": {
+      "candidates": [
+        [
+          "Daniel J. Reale",
+          2511,
+          "libertarian"
+        ],
+        [
+          "Colin D. Bennett",
+          3638,
+          "green"
+        ],
+        [
+          "Paul M. Formica",
+          88103,
+          "republican"
+        ],
+        [
+          "Joe Courtney",
+          189444,
+          "democrat"
+        ],
+        [
+          "Joe Courtney",
+          15264,
+          "working families"
+        ]
+      ],
+      "totalVotes": 298960,
+      "winner": [
+        "Joe Courtney",
+        189444,
+        "democrat"
+      ],
+      "totalRepVotes": 88103,
+      "totalDemVotes": 189444
+    },
+    "4": {
+      "candidates": [
+        [
+          "James A. Himes",
+          8609,
+          "working families"
+        ],
+        [
+          "James A. Himes",
+          167320,
+          "democrat"
+        ],
+        [
+          "Steve Obsitnik",
+          117503,
+          "republican"
+        ]
+      ],
+      "totalVotes": 293432,
+      "winner": [
+        "James A. Himes",
+        167320,
+        "democrat"
+      ],
+      "totalRepVotes": 117503,
+      "totalDemVotes": 167320
+    }
+  }
+}

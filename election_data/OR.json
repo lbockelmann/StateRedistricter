@@ -1,0 +1,1959 @@
+{
+  "2017": {
+    "4": {
+      "candidates": [
+        [
+          "Gil Guthrie",
+          6527,
+          "libertarian"
+        ],
+        [
+          "Art Robinson",
+          157743,
+          "republican"
+        ],
+        [
+          "Other",
+          476,
+          "none"
+        ],
+        [
+          "Mike Beilstein",
+          12194,
+          "pacific green"
+        ],
+        [
+          "Peter A. DeFazio",
+          220628,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 397568,
+      "winner": [
+        "Peter A. DeFazio",
+        220628,
+        "democrat"
+      ],
+      "totalRepVotes": 157743,
+      "totalDemVotes": 220628
+    },
+    "5": {
+      "candidates": [
+        [
+          "Kurt Schrader",
+          199505,
+          "democrat"
+        ],
+        [
+          "Marvin Sandnes",
+          12542,
+          "pacific green"
+        ],
+        [
+          "Other",
+          618,
+          "none"
+        ],
+        [
+          "Colm Willis",
+          160443,
+          "republican"
+        ]
+      ],
+      "totalVotes": 373108,
+      "winner": [
+        "Kurt Schrader",
+        199505,
+        "democrat"
+      ],
+      "totalRepVotes": 160443,
+      "totalDemVotes": 199505
+    },
+    "1": {
+      "candidates": [
+        [
+          "Suzanne Bonamici",
+          225391,
+          "democrat"
+        ],
+        [
+          "Kyle Sheahan",
+          12257,
+          "libertarian"
+        ],
+        [
+          "Other",
+          691,
+          "none"
+        ],
+        [
+          "Brian J. Heinrich",
+          139756,
+          "republican"
+        ]
+      ],
+      "totalVotes": 378095,
+      "winner": [
+        "Suzanne Bonamici",
+        225391,
+        "democrat"
+      ],
+      "totalRepVotes": 139756,
+      "totalDemVotes": 225391
+    },
+    "2": {
+      "candidates": [
+        [
+          "Greg Walden",
+          272952,
+          "republican"
+        ],
+        [
+          "Other",
+          1147,
+          "none"
+        ],
+        [
+          "James \"Jim\" Crary",
+          106640,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 380739,
+      "winner": [
+        "Greg Walden",
+        272952,
+        "republican"
+      ],
+      "totalRepVotes": 272952,
+      "totalDemVotes": 106640
+    },
+    "3": {
+      "candidates": [
+        [
+          "David Delk",
+          27978,
+          "progressive"
+        ],
+        [
+          "Earl Blumenauer",
+          274687,
+          "democrat"
+        ],
+        [
+          "Other",
+          1536,
+          "none"
+        ],
+        [
+          "David W. Walker",
+          78154,
+          "independent"
+        ]
+      ],
+      "totalVotes": 382355,
+      "winner": [
+        "Earl Blumenauer",
+        274687,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 274687
+    }
+  },
+  "2011": {
+    "3": {
+      "candidates": [
+        [
+          "Jeff Lawrence",
+          8380,
+          "independent"
+        ],
+        [
+          "Other",
+          407,
+          "none"
+        ],
+        [
+          "Michael Meo",
+          6197,
+          "pacific green"
+        ],
+        [
+          "Earl Blumenauer",
+          193104,
+          "democrat"
+        ],
+        [
+          "Delia Lopez",
+          67714,
+          "republican"
+        ]
+      ],
+      "totalVotes": 275802,
+      "winner": [
+        "Earl Blumenauer",
+        193104,
+        "democrat"
+      ],
+      "totalRepVotes": 67714,
+      "totalDemVotes": 193104
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joyce B. Segers",
+          72173,
+          "democrat"
+        ],
+        [
+          "Other",
+          619,
+          "none"
+        ],
+        [
+          "Greg Walden",
+          206245,
+          "republican"
+        ]
+      ],
+      "totalVotes": 279037,
+      "winner": [
+        "Greg Walden",
+        206245,
+        "republican"
+      ],
+      "totalRepVotes": 206245,
+      "totalDemVotes": 72173
+    },
+    "5": {
+      "candidates": [
+        [
+          "Kurt Schrader",
+          145319,
+          "democrat"
+        ],
+        [
+          "Chris Lugo",
+          7557,
+          "pacific green"
+        ],
+        [
+          "Scott Bruun",
+          130313,
+          "republican"
+        ],
+        [
+          "Other",
+          367,
+          "none"
+        ]
+      ],
+      "totalVotes": 283556,
+      "winner": [
+        "Kurt Schrader",
+        145319,
+        "democrat"
+      ],
+      "totalRepVotes": 130313,
+      "totalDemVotes": 145319
+    },
+    "1": {
+      "candidates": [
+        [
+          "H. Joe Tabor",
+          2492,
+          "libertarian"
+        ],
+        [
+          "Chris Henry",
+          2955,
+          "pacific green"
+        ],
+        [
+          "David Wu",
+          160357,
+          "democrat"
+        ],
+        [
+          "Rob Cornilles",
+          122858,
+          "republican"
+        ],
+        [
+          "Other",
+          392,
+          "none"
+        ],
+        [
+          "Don LaMunyon",
+          3855,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 292909,
+      "winner": [
+        "David Wu",
+        160357,
+        "democrat"
+      ],
+      "totalRepVotes": 122858,
+      "totalDemVotes": 160357
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          544,
+          "none"
+        ],
+        [
+          "Peter A. DeFazio",
+          162416,
+          "democrat"
+        ],
+        [
+          "Mike Beilstein",
+          5215,
+          "pacific green"
+        ],
+        [
+          "Art Robinson",
+          129877,
+          "republican"
+        ]
+      ],
+      "totalVotes": 298052,
+      "winner": [
+        "Peter A. DeFazio",
+        162416,
+        "democrat"
+      ],
+      "totalRepVotes": 129877,
+      "totalDemVotes": 162416
+    }
+  },
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Jason Yates",
+          96245,
+          "republican"
+        ],
+        [
+          "Suzanne Bonamici",
+          160038,
+          "democrat"
+        ],
+        [
+          "Other",
+          594,
+          "none"
+        ],
+        [
+          "James Foster",
+          11213,
+          "libertarian"
+        ],
+        [
+          "Steven C. Reynolds",
+          11163,
+          "green"
+        ]
+      ],
+      "totalVotes": 279253,
+      "winner": [
+        "Suzanne Bonamici",
+        160038,
+        "democrat"
+      ],
+      "totalRepVotes": 96245,
+      "totalDemVotes": 160038
+    },
+    "3": {
+      "candidates": [
+        [
+          "Earl Blumenauer",
+          211748,
+          "democrat"
+        ],
+        [
+          "Michael Meo",
+          12106,
+          "green"
+        ],
+        [
+          "David Walker",
+          4009,
+          "nonaffiliated"
+        ],
+        [
+          "James Buchal",
+          57424,
+          "republican"
+        ],
+        [
+          "Jeffrey J. Langan",
+          6381,
+          "libertarian"
+        ],
+        [
+          "Other",
+          1089,
+          "none"
+        ]
+      ],
+      "totalVotes": 292757,
+      "winner": [
+        "Earl Blumenauer",
+        211748,
+        "democrat"
+      ],
+      "totalRepVotes": 57424,
+      "totalDemVotes": 211748
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          482,
+          "none"
+        ],
+        [
+          "Art Robinson",
+          116534,
+          "republican"
+        ],
+        [
+          "David L. Chester",
+          4676,
+          "libertarian"
+        ],
+        [
+          "Peter A. DeFazio",
+          181624,
+          "democrat"
+        ],
+        [
+          "Mike Beilstein",
+          6863,
+          "green"
+        ]
+      ],
+      "totalVotes": 310179,
+      "winner": [
+        "Peter A. DeFazio",
+        181624,
+        "democrat"
+      ],
+      "totalRepVotes": 116534,
+      "totalDemVotes": 181624
+    },
+    "5": {
+      "candidates": [
+        [
+          "Tootie Smith",
+          110332,
+          "republican"
+        ],
+        [
+          "Kurt Schrader",
+          150944,
+          "democrat"
+        ],
+        [
+          "Marvin Sannes",
+          7674,
+          "independent"
+        ],
+        [
+          "Other",
+          732,
+          "none"
+        ],
+        [
+          "Daniel K. Souza",
+          5198,
+          "libertarian"
+        ],
+        [
+          "Raymond Baldwin",
+          6208,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 281088,
+      "winner": [
+        "Kurt Schrader",
+        150944,
+        "democrat"
+      ],
+      "totalRepVotes": 110332,
+      "totalDemVotes": 150944
+    },
+    "2": {
+      "candidates": [
+        [
+          "Other",
+          775,
+          "none"
+        ],
+        [
+          "Greg Walden",
+          202374,
+          "republican"
+        ],
+        [
+          "Aelea Christofferson",
+          73785,
+          "democrat"
+        ],
+        [
+          "Sharon L. Durbin",
+          10491,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 287425,
+      "winner": [
+        "Greg Walden",
+        202374,
+        "republican"
+      ],
+      "totalRepVotes": 202374,
+      "totalDemVotes": 73785
+    }
+  },
+  "1997": {
+    "1": {
+      "candidates": [
+        [
+          "Richard Johnson",
+          6310,
+          "libertarian"
+        ],
+        [
+          "Elizabeth Furse",
+          144588,
+          "democrat"
+        ],
+        [
+          "David Princ",
+          1146,
+          "socialist"
+        ],
+        [
+          "Bill Witt",
+          126146,
+          "republican"
+        ],
+        [
+          "Other",
+          414,
+          "none"
+        ]
+      ],
+      "totalVotes": 278604,
+      "winner": [
+        "Elizabeth Furse",
+        144588,
+        "democrat"
+      ],
+      "totalRepVotes": 126146,
+      "totalDemVotes": 144588
+    },
+    "3": {
+      "candidates": [
+        [
+          "Bruce Alexander Knight",
+          4474,
+          "libertarian"
+        ],
+        [
+          "Earl Blumenauer",
+          165922,
+          "democrat"
+        ],
+        [
+          "Joe Keating",
+          9274,
+          "green"
+        ],
+        [
+          "Other",
+          531,
+          "none"
+        ],
+        [
+          "Scott Bruun",
+          65259,
+          "republican"
+        ],
+        [
+          "Victoria P. Guillebeau",
+          2449,
+          "socialist"
+        ]
+      ],
+      "totalVotes": 247909,
+      "winner": [
+        "Earl Blumenauer",
+        165922,
+        "democrat"
+      ],
+      "totalRepVotes": 65259,
+      "totalDemVotes": 165922
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter A. DeFazio",
+          177270,
+          "democrat"
+        ],
+        [
+          "John D. Newkirk",
+          76649,
+          "republican"
+        ],
+        [
+          "William (Bill) Bonville",
+          3960,
+          "reform"
+        ],
+        [
+          "David G. Duemler",
+          1373,
+          "socialist"
+        ],
+        [
+          "Allan Opus",
+          1311,
+          "green"
+        ],
+        [
+          "Tonie Nathan",
+          4919,
+          "libertarian"
+        ],
+        [
+          "Other",
+          4374,
+          "none"
+        ]
+      ],
+      "totalVotes": 269856,
+      "winner": [
+        "Peter A. DeFazio",
+        177270,
+        "democrat"
+      ],
+      "totalRepVotes": 76649,
+      "totalDemVotes": 177270
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jim Bunn",
+          125409,
+          "republican"
+        ],
+        [
+          "Other",
+          391,
+          "none"
+        ],
+        [
+          "Darlene Hooley",
+          139521,
+          "democrat"
+        ],
+        [
+          "Trey Smith",
+          2124,
+          "socialist"
+        ],
+        [
+          "Lawrence Kinght Duquesne",
+          5191,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 272636,
+      "winner": [
+        "Darlene Hooley",
+        139521,
+        "democrat"
+      ],
+      "totalRepVotes": 125409,
+      "totalDemVotes": 139521
+    },
+    "2": {
+      "candidates": [
+        [
+          "Robert F. Smith",
+          164062,
+          "republican"
+        ],
+        [
+          "Other",
+          218,
+          "none"
+        ],
+        [
+          "Frank Wise",
+          4581,
+          "libertarian"
+        ],
+        [
+          "Mike Dugan",
+          97195,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 266056,
+      "winner": [
+        "Robert F. Smith",
+        164062,
+        "republican"
+      ],
+      "totalRepVotes": 164062,
+      "totalDemVotes": 97195
+    }
+  },
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "H. Joe Tabor",
+          10992,
+          "libertarian"
+        ],
+        [
+          "Chris Henry",
+          7128,
+          "green"
+        ],
+        [
+          "Other",
+          4110,
+          "none"
+        ],
+        [
+          "Scott Semrau",
+          14172,
+          "constitution"
+        ],
+        [
+          "Joel Haugen",
+          58279,
+          "independent"
+        ],
+        [
+          "David Wu",
+          237567,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 332248,
+      "winner": [
+        "David Wu",
+        237567,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 237567
+    },
+    "2": {
+      "candidates": [
+        [
+          "Richard D. Hake",
+          5817,
+          "constitution"
+        ],
+        [
+          "Other",
+          685,
+          "none"
+        ],
+        [
+          "Greg Walden",
+          236560,
+          "republican"
+        ],
+        [
+          "Tristin Mock",
+          9668,
+          "green"
+        ],
+        [
+          "Noah Lemas",
+          87649,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 340379,
+      "winner": [
+        "Greg Walden",
+        236560,
+        "republican"
+      ],
+      "totalRepVotes": 236560,
+      "totalDemVotes": 87649
+    },
+    "5": {
+      "candidates": [
+        [
+          "Other",
+          1326,
+          "none"
+        ],
+        [
+          "Douglas Patterson",
+          6558,
+          "constitution"
+        ],
+        [
+          "Kurt Schrader",
+          181577,
+          "democrat"
+        ],
+        [
+          "Mike Erickson",
+          128297,
+          "republican"
+        ],
+        [
+          "Alex Polikoff",
+          5272,
+          "green"
+        ],
+        [
+          "Sean Bates",
+          6830,
+          "independent"
+        ],
+        [
+          "Steve Milligan",
+          4814,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 334674,
+      "winner": [
+        "Kurt Schrader",
+        181577,
+        "democrat"
+      ],
+      "totalRepVotes": 128297,
+      "totalDemVotes": 181577
+    },
+    "3": {
+      "candidates": [
+        [
+          "Earl Blumenauer",
+          254235,
+          "democrat"
+        ],
+        [
+          "Michael Meo",
+          15063,
+          "green"
+        ],
+        [
+          "Other",
+          701,
+          "none"
+        ],
+        [
+          "Delia Lopez",
+          71063,
+          "republican"
+        ]
+      ],
+      "totalVotes": 341062,
+      "winner": [
+        "Earl Blumenauer",
+        254235,
+        "democrat"
+      ],
+      "totalRepVotes": 71063,
+      "totalDemVotes": 254235
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter A. DeFazio",
+          275143,
+          "democrat"
+        ],
+        [
+          "Jaynee Germond",
+          43133,
+          "constitution"
+        ],
+        [
+          "Mike Beilstein",
+          13162,
+          "green"
+        ],
+        [
+          "Other",
+          2708,
+          "none"
+        ]
+      ],
+      "totalVotes": 334146,
+      "winner": [
+        "Peter A. DeFazio",
+        275143,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 275143
+    }
+  },
+  "2001": {
+    "5": {
+      "candidates": [
+        [
+          "Darlene Hooley",
+          156315,
+          "democrat"
+        ],
+        [
+          "no name",
+          402,
+          "other"
+        ],
+        [
+          "Brian J. Boquist",
+          118631,
+          "republican"
+        ]
+      ],
+      "totalVotes": 275348,
+      "winner": [
+        "Darlene Hooley",
+        156315,
+        "democrat"
+      ],
+      "totalRepVotes": 118631,
+      "totalDemVotes": 156315
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter A. DeFazio",
+          197998,
+          "democrat"
+        ],
+        [
+          "David Duemler",
+          3696,
+          "socialist"
+        ],
+        [
+          "John Lindsey",
+          88950,
+          "republican"
+        ],
+        [
+          "no name",
+          421,
+          "other"
+        ]
+      ],
+      "totalVotes": 291065,
+      "winner": [
+        "Peter A. DeFazio",
+        197998,
+        "democrat"
+      ],
+      "totalRepVotes": 88950,
+      "totalDemVotes": 197998
+    },
+    "3": {
+      "candidates": [
+        [
+          "Walter F. (Walt) Brown",
+          4703,
+          "socialist"
+        ],
+        [
+          "no name",
+          576,
+          "other"
+        ],
+        [
+          "Jeffery L. Pollock",
+          64128,
+          "republican"
+        ],
+        [
+          "Earl Blumenauer",
+          181049,
+          "democrat"
+        ],
+        [
+          "Tre Arrow",
+          15763,
+          "pacific green"
+        ],
+        [
+          "Bruce Alexander Knight",
+          4942,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 271161,
+      "winner": [
+        "Earl Blumenauer",
+        181049,
+        "democrat"
+      ],
+      "totalRepVotes": 64128,
+      "totalDemVotes": 181049
+    },
+    "2": {
+      "candidates": [
+        [
+          "no name",
+          720,
+          "other"
+        ],
+        [
+          "Walter Ponsford",
+          78101,
+          "democrat"
+        ],
+        [
+          "Greg Walden",
+          220086,
+          "republican"
+        ]
+      ],
+      "totalVotes": 298907,
+      "winner": [
+        "Greg Walden",
+        220086,
+        "republican"
+      ],
+      "totalRepVotes": 220086,
+      "totalDemVotes": 78101
+    },
+    "1": {
+      "candidates": [
+        [
+          "Beth A. King",
+          10858,
+          "libertarian"
+        ],
+        [
+          "David Wu",
+          176902,
+          "democrat"
+        ],
+        [
+          "no name",
+          458,
+          "other"
+        ],
+        [
+          "Charles Starr",
+          115303,
+          "republican"
+        ]
+      ],
+      "totalVotes": 303521,
+      "winner": [
+        "David Wu",
+        176902,
+        "democrat"
+      ],
+      "totalRepVotes": 115303,
+      "totalDemVotes": 176902
+    }
+  },
+  "2007": {
+    "2": {
+      "candidates": [
+        [
+          "Other",
+          513,
+          "none"
+        ],
+        [
+          "Greg Walden",
+          181529,
+          "republican"
+        ],
+        [
+          "Jack Alan Brown, Jr.",
+          7193,
+          "constitution"
+        ],
+        [
+          "Carol Voisin",
+          82484,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 271719,
+      "winner": [
+        "Greg Walden",
+        181529,
+        "republican"
+      ],
+      "totalRepVotes": 181529,
+      "totalDemVotes": 82484
+    },
+    "1": {
+      "candidates": [
+        [
+          "Drake Davis",
+          4497,
+          "libertarian"
+        ],
+        [
+          "Dean Wolf",
+          4370,
+          "constitution"
+        ],
+        [
+          "Derrick Kitts",
+          90904,
+          "republican"
+        ],
+        [
+          "David Wu",
+          169409,
+          "democrat"
+        ],
+        [
+          "Other",
+          447,
+          "none"
+        ]
+      ],
+      "totalVotes": 269627,
+      "winner": [
+        "David Wu",
+        169409,
+        "democrat"
+      ],
+      "totalRepVotes": 90904,
+      "totalDemVotes": 169409
+    },
+    "3": {
+      "candidates": [
+        [
+          "David Brownlow",
+          7003,
+          "constitution"
+        ],
+        [
+          "Earl Blumenauer",
+          186380,
+          "democrat"
+        ],
+        [
+          "Bruce Broussard",
+          59529,
+          "republican"
+        ],
+        [
+          "Other",
+          698,
+          "none"
+        ]
+      ],
+      "totalVotes": 253610,
+      "winner": [
+        "Earl Blumenauer",
+        186380,
+        "democrat"
+      ],
+      "totalRepVotes": 59529,
+      "totalDemVotes": 186380
+    },
+    "5": {
+      "candidates": [
+        [
+          "Darlene Hooley",
+          146973,
+          "democrat"
+        ],
+        [
+          "Mike Erickson",
+          116424,
+          "republican"
+        ],
+        [
+          "Douglas Patterson",
+          4160,
+          "constitution"
+        ],
+        [
+          "Paul Aranas",
+          4194,
+          "pacific green"
+        ],
+        [
+          "Other",
+          483,
+          "none"
+        ]
+      ],
+      "totalVotes": 272234,
+      "winner": [
+        "Darlene Hooley",
+        146973,
+        "democrat"
+      ],
+      "totalRepVotes": 116424,
+      "totalDemVotes": 146973
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter A. DeFazio",
+          180607,
+          "democrat"
+        ],
+        [
+          "Other",
+          532,
+          "none"
+        ],
+        [
+          "Jim Feldkamp",
+          109105,
+          "republican"
+        ]
+      ],
+      "totalVotes": 290244,
+      "winner": [
+        "Peter A. DeFazio",
+        180607,
+        "democrat"
+      ],
+      "totalRepVotes": 109105,
+      "totalDemVotes": 180607
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Earl Blumenauer",
+          153889,
+          "democrat"
+        ],
+        [
+          "Bruce Alexander Knight",
+          16930,
+          "libertarian"
+        ],
+        [
+          "Other",
+          2333,
+          "none"
+        ],
+        [
+          "Walter F. (Walt) Brown",
+          10199,
+          "socialist"
+        ]
+      ],
+      "totalVotes": 183351,
+      "winner": [
+        "Earl Blumenauer",
+        153889,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 153889
+    },
+    "1": {
+      "candidates": [
+        [
+          "Michael De Paulo",
+          4218,
+          "libertarian"
+        ],
+        [
+          "Other",
+          234,
+          "none"
+        ],
+        [
+          "David Wu",
+          119993,
+          "democrat"
+        ],
+        [
+          "Molly Bordonaro",
+          112827,
+          "republican"
+        ],
+        [
+          "John F. Hryciuk",
+          2224,
+          "socialist"
+        ]
+      ],
+      "totalVotes": 239496,
+      "winner": [
+        "David Wu",
+        119993,
+        "democrat"
+      ],
+      "totalRepVotes": 112827,
+      "totalDemVotes": 119993
+    },
+    "5": {
+      "candidates": [
+        [
+          "Other",
+          248,
+          "none"
+        ],
+        [
+          "Jim Burns",
+          2284,
+          "natural law"
+        ],
+        [
+          "Darlene Hooley",
+          124916,
+          "democrat"
+        ],
+        [
+          "Michael Donnelly",
+          3637,
+          "pacific"
+        ],
+        [
+          "Blaine Thallheimer",
+          2979,
+          "libertarian"
+        ],
+        [
+          "Marylin Shannon",
+          92215,
+          "republican"
+        ],
+        [
+          "Ed Dover",
+          1378,
+          "socialist"
+        ]
+      ],
+      "totalVotes": 227657,
+      "winner": [
+        "Darlene Hooley",
+        124916,
+        "democrat"
+      ],
+      "totalRepVotes": 92215,
+      "totalDemVotes": 124916
+    },
+    "2": {
+      "candidates": [
+        [
+          "Kevin M. Campbell",
+          74924,
+          "democrat"
+        ],
+        [
+          "Rohn (Grandpa) Webb",
+          2773,
+          "socialist"
+        ],
+        [
+          "Greg Walden",
+          132316,
+          "republican"
+        ],
+        [
+          "Lindsey Bradshaw",
+          4729,
+          "libertarian"
+        ],
+        [
+          "Other",
+          474,
+          "none"
+        ]
+      ],
+      "totalVotes": 215216,
+      "winner": [
+        "Greg Walden",
+        132316,
+        "republican"
+      ],
+      "totalRepVotes": 132316,
+      "totalDemVotes": 74924
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          276,
+          "none"
+        ],
+        [
+          "Steve J. Webb",
+          64143,
+          "republican"
+        ],
+        [
+          "Peter A. DeFazio",
+          157524,
+          "democrat"
+        ],
+        [
+          "Karl G. Sorg",
+          2694,
+          "socialist"
+        ]
+      ],
+      "totalVotes": 224637,
+      "winner": [
+        "Peter A. DeFazio",
+        157524,
+        "democrat"
+      ],
+      "totalRepVotes": 64143,
+      "totalDemVotes": 157524
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Joyce B. Segers",
+          96741,
+          "democrat"
+        ],
+        [
+          "Other",
+          446,
+          "none"
+        ],
+        [
+          "Joe Tabor",
+          7025,
+          "libertarian"
+        ],
+        [
+          "Greg Walden",
+          228043,
+          "republican"
+        ]
+      ],
+      "totalVotes": 332255,
+      "winner": [
+        "Greg Walden",
+        228043,
+        "republican"
+      ],
+      "totalRepVotes": 228043,
+      "totalDemVotes": 96741
+    },
+    "5": {
+      "candidates": [
+        [
+          "Christina Jean Lugo",
+          7516,
+          "pacific green"
+        ],
+        [
+          "Other",
+          402,
+          "none"
+        ],
+        [
+          "Raymond Baldwin",
+          3600,
+          "constitution"
+        ],
+        [
+          "Kurt Schrader",
+          177229,
+          "democrat"
+        ],
+        [
+          "Fred Thompson",
+          139223,
+          "republican"
+        ]
+      ],
+      "totalVotes": 327970,
+      "winner": [
+        "Kurt Schrader",
+        177229,
+        "democrat"
+      ],
+      "totalRepVotes": 139223,
+      "totalDemVotes": 177229
+    },
+    "3": {
+      "candidates": [
+        [
+          "Ronald Green",
+          70325,
+          "republican"
+        ],
+        [
+          "Michael Cline",
+          6640,
+          "libertarian"
+        ],
+        [
+          "Earl Blumenauer",
+          264979,
+          "democrat"
+        ],
+        [
+          "Other",
+          772,
+          "none"
+        ],
+        [
+          "Woodrow Broadnax",
+          13159,
+          "pacific green"
+        ]
+      ],
+      "totalVotes": 355875,
+      "winner": [
+        "Earl Blumenauer",
+        264979,
+        "democrat"
+      ],
+      "totalRepVotes": 70325,
+      "totalDemVotes": 264979
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter A. DeFazio",
+          212866,
+          "democrat"
+        ],
+        [
+          "Art Robinson",
+          140549,
+          "republican"
+        ],
+        [
+          "Other",
+          468,
+          "none"
+        ],
+        [
+          "Chuck Huntting",
+          6205,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 360088,
+      "winner": [
+        "Peter A. DeFazio",
+        212866,
+        "democrat"
+      ],
+      "totalRepVotes": 140549,
+      "totalDemVotes": 212866
+    },
+    "1": {
+      "candidates": [
+        [
+          "Bob Ekstrom",
+          8918,
+          "constitution"
+        ],
+        [
+          "Delinda Morgan",
+          109699,
+          "republican"
+        ],
+        [
+          "Suzanne Bonamici",
+          197845,
+          "democrat"
+        ],
+        [
+          "Other",
+          509,
+          "none"
+        ],
+        [
+          "Steven Reynolds",
+          15009,
+          "progressive"
+        ]
+      ],
+      "totalVotes": 331980,
+      "winner": [
+        "Suzanne Bonamici",
+        197845,
+        "democrat"
+      ],
+      "totalRepVotes": 109699,
+      "totalDemVotes": 197845
+    }
+  },
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "Mike Wood",
+          5681,
+          "libertarian"
+        ],
+        [
+          "Peter Buckley",
+          64991,
+          "democrat"
+        ],
+        [
+          "Other",
+          317,
+          "none"
+        ],
+        [
+          "Greg Walden",
+          181295,
+          "republican"
+        ]
+      ],
+      "totalVotes": 252284,
+      "winner": [
+        "Greg Walden",
+        181295,
+        "republican"
+      ],
+      "totalRepVotes": 181295,
+      "totalDemVotes": 64991
+    },
+    "5": {
+      "candidates": [
+        [
+          "Darlene Hooley",
+          137713,
+          "democrat"
+        ],
+        [
+          "Other",
+          383,
+          "none"
+        ],
+        [
+          "Brian J. Boquist",
+          113441,
+          "republican"
+        ]
+      ],
+      "totalVotes": 251537,
+      "winner": [
+        "Darlene Hooley",
+        137713,
+        "democrat"
+      ],
+      "totalRepVotes": 113441,
+      "totalDemVotes": 137713
+    },
+    "3": {
+      "candidates": [
+        [
+          "Other",
+          518,
+          "none"
+        ],
+        [
+          "David Brownlow",
+          3495,
+          "constitution"
+        ],
+        [
+          "Sarah Seale",
+          62821,
+          "republican"
+        ],
+        [
+          "Earl Blumenauer",
+          156851,
+          "democrat"
+        ],
+        [
+          "Kevin Jones",
+          4704,
+          "libertarian"
+        ],
+        [
+          "Walter F. (Walt) Brown",
+          6588,
+          "socialist"
+        ]
+      ],
+      "totalVotes": 234977,
+      "winner": [
+        "Earl Blumenauer",
+        156851,
+        "democrat"
+      ],
+      "totalRepVotes": 62821,
+      "totalDemVotes": 156851
+    },
+    "4": {
+      "candidates": [
+        [
+          "Other",
+          206,
+          "none"
+        ],
+        [
+          "Liz VanLeeuwen",
+          90523,
+          "republican"
+        ],
+        [
+          "Peter A. DeFazio",
+          168150,
+          "democrat"
+        ],
+        [
+          "Chris Bigelow",
+          4602,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 263481,
+      "winner": [
+        "Peter A. DeFazio",
+        168150,
+        "democrat"
+      ],
+      "totalRepVotes": 90523,
+      "totalDemVotes": 168150
+    },
+    "1": {
+      "candidates": [
+        [
+          "David Wu",
+          149215,
+          "democrat"
+        ],
+        [
+          "Beth A. King",
+          7639,
+          "libertarian"
+        ],
+        [
+          "Other",
+          265,
+          "none"
+        ],
+        [
+          "Jim Greenfield",
+          80917,
+          "republican"
+        ]
+      ],
+      "totalVotes": 238036,
+      "winner": [
+        "David Wu",
+        149215,
+        "democrat"
+      ],
+      "totalRepVotes": 80917,
+      "totalDemVotes": 149215
+    }
+  },
+  "2005": {
+    "1": {
+      "candidates": [
+        [
+          "Dean Wolf",
+          13882,
+          "constitution"
+        ],
+        [
+          "David Wu",
+          203771,
+          "democrat"
+        ],
+        [
+          "Goli Ameri",
+          135164,
+          "republican"
+        ],
+        [
+          "Other",
+          1521,
+          "none"
+        ]
+      ],
+      "totalVotes": 354338,
+      "winner": [
+        "David Wu",
+        203771,
+        "democrat"
+      ],
+      "totalRepVotes": 135164,
+      "totalDemVotes": 203771
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jerry Defoe",
+          6463,
+          "libertarian"
+        ],
+        [
+          "Other",
+          374,
+          "none"
+        ],
+        [
+          "Jim Zupancic",
+          154993,
+          "republican"
+        ],
+        [
+          "Joseph H. Bitz",
+          2971,
+          "constitution"
+        ],
+        [
+          "Darlene Hooley",
+          184833,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 349634,
+      "winner": [
+        "Darlene Hooley",
+        184833,
+        "democrat"
+      ],
+      "totalRepVotes": 154993,
+      "totalDemVotes": 184833
+    },
+    "4": {
+      "candidates": [
+        [
+          "Peter A. DeFazio",
+          228611,
+          "democrat"
+        ],
+        [
+          "Jim Feldkamp",
+          140882,
+          "republican"
+        ],
+        [
+          "Michael Paul Marsh",
+          1799,
+          "constitution"
+        ],
+        [
+          "Jacob Boone",
+          3190,
+          "libertarian"
+        ],
+        [
+          "Other",
+          427,
+          "none"
+        ]
+      ],
+      "totalVotes": 374909,
+      "winner": [
+        "Peter A. DeFazio",
+        228611,
+        "democrat"
+      ],
+      "totalRepVotes": 140882,
+      "totalDemVotes": 228611
+    },
+    "2": {
+      "candidates": [
+        [
+          "Other",
+          638,
+          "none"
+        ],
+        [
+          "Jim Lindsay",
+          4792,
+          "libertarian"
+        ],
+        [
+          "Greg Walden",
+          248461,
+          "republican"
+        ],
+        [
+          "Jack Alan Brown, Jr.",
+          4060,
+          "constitution"
+        ],
+        [
+          "Jogn C. McColgan",
+          88914,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 346865,
+      "winner": [
+        "Greg Walden",
+        248461,
+        "republican"
+      ],
+      "totalRepVotes": 248461,
+      "totalDemVotes": 88914
+    },
+    "3": {
+      "candidates": [
+        [
+          "Other",
+          1159,
+          "none"
+        ],
+        [
+          "Walter F. (Walt) Brown",
+          10678,
+          "socialist"
+        ],
+        [
+          "Tami Mars",
+          82045,
+          "republican"
+        ],
+        [
+          "Earl Blumenauer",
+          245559,
+          "democrat"
+        ],
+        [
+          "Dale Winegarden",
+          7119,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 346560,
+      "winner": [
+        "Earl Blumenauer",
+        245559,
+        "democrat"
+      ],
+      "totalRepVotes": 82045,
+      "totalDemVotes": 245559
+    }
+  }
+}

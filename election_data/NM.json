@@ -1,0 +1,835 @@
+{
+  "1997": {
+    "1": {
+      "candidates": [
+        [
+          "John A. Uhrich",
+          7694,
+          "green"
+        ],
+        [
+          "Steven Schiff",
+          109290,
+          "republican"
+        ],
+        [
+          "Betty Turrietta-Koury",
+          4459,
+          "independent"
+        ],
+        [
+          "John Wertheim",
+          71635,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 193078,
+      "winner": [
+        "Steven Schiff",
+        109290,
+        "republican"
+      ],
+      "totalRepVotes": 109290,
+      "totalDemVotes": 71635
+    },
+    "2": {
+      "candidates": [
+        [
+          "E. Shirley Baca",
+          74915,
+          "democrat"
+        ],
+        [
+          "Joe Skeen",
+          95091,
+          "republican"
+        ]
+      ],
+      "totalVotes": 170006,
+      "winner": [
+        "Joe Skeen",
+        95091,
+        "republican"
+      ],
+      "totalRepVotes": 95091,
+      "totalDemVotes": 74915
+    },
+    "3": {
+      "candidates": [
+        [
+          "Bill Redmond",
+          56580,
+          "republican"
+        ],
+        [
+          "Bill Richardson",
+          124594,
+          "democrat"
+        ],
+        [
+          "Ed D. Nagel",
+          4097,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 185271,
+      "winner": [
+        "Bill Richardson",
+        124594,
+        "democrat"
+      ],
+      "totalRepVotes": 56580,
+      "totalDemVotes": 124594
+    }
+  },
+  "2015": {
+    "3": {
+      "candidates": [
+        [
+          "Thomas F. Hook",
+          52,
+          "none"
+        ],
+        [
+          "Jefferson L. Byrd",
+          70775,
+          "republican"
+        ],
+        [
+          "Ben Ray Luj\u00c2\u0087n",
+          113249,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 184076,
+      "winner": [
+        "Ben Ray Luj\u00c2\u0087n",
+        113249,
+        "democrat"
+      ],
+      "totalRepVotes": 70775,
+      "totalDemVotes": 113249
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jack A. McGrann",
+          69,
+          "none"
+        ],
+        [
+          "Steven Pearce",
+          95209,
+          "republican"
+        ],
+        [
+          "Roxanne \"Rocky\" Lara",
+          52499,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 147777,
+      "winner": [
+        "Steven Pearce",
+        95209,
+        "republican"
+      ],
+      "totalRepVotes": 95209,
+      "totalDemVotes": 52499
+    },
+    "1": {
+      "candidates": [
+        [
+          "Michael H. Frese",
+          74558,
+          "republican"
+        ],
+        [
+          "Michelle Lujan Grisham",
+          105474,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 180032,
+      "winner": [
+        "Michelle Lujan Grisham",
+        105474,
+        "democrat"
+      ],
+      "totalRepVotes": 74558,
+      "totalDemVotes": 105474
+    }
+  },
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "Martin T. Heinrich",
+          166271,
+          "democrat"
+        ],
+        [
+          "Darren White",
+          132485,
+          "republican"
+        ]
+      ],
+      "totalVotes": 298756,
+      "winner": [
+        "Martin T. Heinrich",
+        166271,
+        "democrat"
+      ],
+      "totalRepVotes": 132485,
+      "totalDemVotes": 166271
+    },
+    "3": {
+      "candidates": [
+        [
+          "Carol Miller",
+          36348,
+          "independent"
+        ],
+        [
+          "Ben R. Lujan",
+          161292,
+          "democrat"
+        ],
+        [
+          "Daniel K. East",
+          86618,
+          "republican"
+        ]
+      ],
+      "totalVotes": 284258,
+      "winner": [
+        "Ben R. Lujan",
+        161292,
+        "democrat"
+      ],
+      "totalRepVotes": 86618,
+      "totalDemVotes": 161292
+    },
+    "2": {
+      "candidates": [
+        [
+          "Edward R. Tinsley",
+          101980,
+          "republican"
+        ],
+        [
+          "Harry Teague",
+          129572,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 231552,
+      "winner": [
+        "Harry Teague",
+        129572,
+        "democrat"
+      ],
+      "totalRepVotes": 101980,
+      "totalDemVotes": 129572
+    }
+  },
+  "2007": {
+    "2": {
+      "candidates": [
+        [
+          "Stevan Pearce",
+          92620,
+          "republican"
+        ],
+        [
+          "C. Dean Burk",
+          135,
+          "democrat"
+        ],
+        [
+          "Albert D. Kissling",
+          63119,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 155874,
+      "winner": [
+        "Stevan Pearce",
+        92620,
+        "republican"
+      ],
+      "totalRepVotes": 92620,
+      "totalDemVotes": 63254
+    },
+    "1": {
+      "candidates": [
+        [
+          "Patricia A. Madrid",
+          105125,
+          "democrat"
+        ],
+        [
+          "Heather Wilson",
+          105986,
+          "republican"
+        ]
+      ],
+      "totalVotes": 211111,
+      "winner": [
+        "Heather Wilson",
+        105986,
+        "republican"
+      ],
+      "totalRepVotes": 105986,
+      "totalDemVotes": 105125
+    },
+    "3": {
+      "candidates": [
+        [
+          "Tom Udall",
+          144880,
+          "democrat"
+        ],
+        [
+          "Ronald M. Dolin",
+          49219,
+          "republican"
+        ]
+      ],
+      "totalVotes": 194099,
+      "winner": [
+        "Tom Udall",
+        144880,
+        "democrat"
+      ],
+      "totalRepVotes": 49219,
+      "totalDemVotes": 144880
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Jack A. McGrann",
+          173,
+          "independent"
+        ],
+        [
+          "Evelyn Madrid Erhard",
+          92162,
+          "democrat"
+        ],
+        [
+          "Steven Pearce",
+          133180,
+          "republican"
+        ]
+      ],
+      "totalVotes": 225515,
+      "winner": [
+        "Steven Pearce",
+        133180,
+        "republican"
+      ],
+      "totalRepVotes": 133180,
+      "totalDemVotes": 92162
+    },
+    "1": {
+      "candidates": [
+        [
+          "Janice E. Arnold-Jones",
+          112473,
+          "republican"
+        ],
+        [
+          "Michelle Lujan Grisham",
+          162924,
+          "democrat"
+        ],
+        [
+          "Jeanne Pahls",
+          459,
+          "green"
+        ]
+      ],
+      "totalVotes": 275856,
+      "winner": [
+        "Michelle Lujan Grisham",
+        162924,
+        "democrat"
+      ],
+      "totalRepVotes": 112473,
+      "totalDemVotes": 162924
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jefferson L. Byrd",
+          97616,
+          "republican"
+        ],
+        [
+          "Ben Bay Luj\u00c3\u008an",
+          167103,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 264719,
+      "winner": [
+        "Ben Bay Luj\u00c3\u008an",
+        167103,
+        "democrat"
+      ],
+      "totalRepVotes": 97616,
+      "totalDemVotes": 167103
+    }
+  },
+  "2005": {
+    "1": {
+      "candidates": [
+        [
+          "Orlin G. Cole",
+          194,
+          "republican"
+        ],
+        [
+          "Heather Wilson",
+          147372,
+          "republican"
+        ],
+        [
+          "Richard M. Romero",
+          123339,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 270905,
+      "winner": [
+        "Heather Wilson",
+        147372,
+        "republican"
+      ],
+      "totalRepVotes": 147566,
+      "totalDemVotes": 123339
+    },
+    "3": {
+      "candidates": [
+        [
+          "Tom Udall",
+          175269,
+          "democrat"
+        ],
+        [
+          "Gregory M. Tucker",
+          79935,
+          "republican"
+        ]
+      ],
+      "totalVotes": 255204,
+      "winner": [
+        "Tom Udall",
+        175269,
+        "democrat"
+      ],
+      "totalRepVotes": 79935,
+      "totalDemVotes": 175269
+    },
+    "2": {
+      "candidates": [
+        [
+          "Gary K. King",
+          86292,
+          "democrat"
+        ],
+        [
+          "Stevan Pearce",
+          130498,
+          "republican"
+        ]
+      ],
+      "totalVotes": 216790,
+      "winner": [
+        "Stevan Pearce",
+        130498,
+        "republican"
+      ],
+      "totalRepVotes": 130498,
+      "totalDemVotes": 86292
+    }
+  },
+  "2011": {
+    "2": {
+      "candidates": [
+        [
+          "Harry Teague",
+          75708,
+          "democrat"
+        ],
+        [
+          "Steve Pearce",
+          94053,
+          "republican"
+        ]
+      ],
+      "totalVotes": 169761,
+      "winner": [
+        "Steve Pearce",
+        94053,
+        "republican"
+      ],
+      "totalRepVotes": 94053,
+      "totalDemVotes": 75708
+    },
+    "1": {
+      "candidates": [
+        [
+          "Martin Heinrich",
+          112010,
+          "democrat"
+        ],
+        [
+          "Jonathan L. Barela",
+          104215,
+          "republican"
+        ]
+      ],
+      "totalVotes": 216225,
+      "winner": [
+        "Martin Heinrich",
+        112010,
+        "democrat"
+      ],
+      "totalRepVotes": 104215,
+      "totalDemVotes": 112010
+    },
+    "3": {
+      "candidates": [
+        [
+          "Thomas E. Mullins",
+          90617,
+          "republican"
+        ],
+        [
+          "Ben Ray Lujan",
+          120048,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 210665,
+      "winner": [
+        "Ben Ray Lujan",
+        120048,
+        "democrat"
+      ],
+      "totalRepVotes": 90617,
+      "totalDemVotes": 120048
+    }
+  },
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "John Arthur Smith",
+          61916,
+          "democrat"
+        ],
+        [
+          "George L. Dewey",
+          43,
+          "green"
+        ],
+        [
+          "Padraig M. Lynch",
+          39,
+          "republican"
+        ],
+        [
+          "Steve Pearce",
+          79631,
+          "republican"
+        ]
+      ],
+      "totalVotes": 141629,
+      "winner": [
+        "Steve Pearce",
+        79631,
+        "republican"
+      ],
+      "totalRepVotes": 79670,
+      "totalDemVotes": 61916
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard M. Romero",
+          77234,
+          "democrat"
+        ],
+        [
+          "Heather Wilson",
+          95711,
+          "republican"
+        ]
+      ],
+      "totalVotes": 172945,
+      "winner": [
+        "Heather Wilson",
+        95711,
+        "republican"
+      ],
+      "totalRepVotes": 95711,
+      "totalDemVotes": 77234
+    },
+    "3": {
+      "candidates": [
+        [
+          "Tom Udall",
+          122921,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 122921,
+      "winner": [
+        "Tom Udall",
+        122921,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 122921
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Carol Miller",
+          6103,
+          "green"
+        ],
+        [
+          "<write in>",
+          32,
+          "none"
+        ],
+        [
+          "Tom Udall",
+          91248,
+          "democrat"
+        ],
+        [
+          "Bill Redmond",
+          74266,
+          "republican"
+        ]
+      ],
+      "totalVotes": 171649,
+      "winner": [
+        "Tom Udall",
+        91248,
+        "democrat"
+      ],
+      "totalRepVotes": 74266,
+      "totalDemVotes": 91248
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joe Skeen",
+          85077,
+          "republican"
+        ],
+        [
+          "E. Shirley Baca",
+          61796,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 146873,
+      "winner": [
+        "Joe Skeen",
+        85077,
+        "republican"
+      ],
+      "totalRepVotes": 85077,
+      "totalDemVotes": 61796
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          78,
+          "none"
+        ],
+        [
+          "Phillip J. Maloof",
+          75040,
+          "democrat"
+        ],
+        [
+          "Heather Wilson",
+          86784,
+          "republican"
+        ],
+        [
+          "Robert L. Anderson",
+          17266,
+          "green"
+        ]
+      ],
+      "totalVotes": 179168,
+      "winner": [
+        "Heather Wilson",
+        86784,
+        "republican"
+      ],
+      "totalRepVotes": 86784,
+      "totalDemVotes": 75040
+    }
+  },
+  "2001": {
+    "1": {
+      "candidates": [
+        [
+          "Heather Wilson",
+          107296,
+          "republican"
+        ],
+        [
+          "Daniel Kerlinsky",
+          13656,
+          "green"
+        ],
+        [
+          "John J. Kelly",
+          92187,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 213139,
+      "winner": [
+        "Heather Wilson",
+        107296,
+        "republican"
+      ],
+      "totalRepVotes": 107296,
+      "totalDemVotes": 92187
+    },
+    "2": {
+      "candidates": [
+        [
+          "Michael A. Montoya",
+          72614,
+          "democrat"
+        ],
+        [
+          "Joe Skeen",
+          100742,
+          "republican"
+        ]
+      ],
+      "totalVotes": 173356,
+      "winner": [
+        "Joe Skeen",
+        100742,
+        "republican"
+      ],
+      "totalRepVotes": 100742,
+      "totalDemVotes": 72614
+    },
+    "3": {
+      "candidates": [
+        [
+          "Tom Udall",
+          135040,
+          "democrat"
+        ],
+        [
+          "Lisa L. Lutz",
+          65979,
+          "republican"
+        ]
+      ],
+      "totalVotes": 201019,
+      "winner": [
+        "Tom Udall",
+        135040,
+        "democrat"
+      ],
+      "totalRepVotes": 65979,
+      "totalDemVotes": 135040
+    }
+  },
+  "2017": {
+    "3": {
+      "candidates": [
+        [
+          "Michael H. Romero",
+          102730,
+          "republican"
+        ],
+        [
+          "Ben Ray Luj_n",
+          170612,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 273342,
+      "winner": [
+        "Ben Ray Luj_n",
+        170612,
+        "democrat"
+      ],
+      "totalRepVotes": 102730,
+      "totalDemVotes": 170612
+    },
+    "2": {
+      "candidates": [
+        [
+          "Merrie Lee Soules",
+          85232,
+          "democrat"
+        ],
+        [
+          "Jack A. McGrann",
+          70,
+          "none"
+        ],
+        [
+          "Stevan Pearce",
+          143515,
+          "republican"
+        ]
+      ],
+      "totalVotes": 228817,
+      "winner": [
+        "Stevan Pearce",
+        143515,
+        "republican"
+      ],
+      "totalRepVotes": 143515,
+      "totalDemVotes": 85232
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard Gregory Priem",
+          96879,
+          "republican"
+        ],
+        [
+          "Michelle Lujan Grisham",
+          181088,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 277967,
+      "winner": [
+        "Michelle Lujan Grisham",
+        181088,
+        "democrat"
+      ],
+      "totalRepVotes": 96879,
+      "totalDemVotes": 181088
+    }
+  }
+}

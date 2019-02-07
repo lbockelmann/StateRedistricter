@@ -1,0 +1,718 @@
+{
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          135,
+          "nonpartisan"
+        ],
+        [
+          "Arthur Chuck Barton III",
+          43139,
+          "republican"
+        ],
+        [
+          "Dorman J. Hayes, Jr.",
+          3303,
+          "socialist"
+        ],
+        [
+          "Edward M. Morabito",
+          6196,
+          "independent"
+        ],
+        [
+          "James R. Langevin",
+          154392,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207165,
+      "winner": [
+        "James R. Langevin",
+        154392,
+        "democrat"
+      ],
+      "totalRepVotes": 43139,
+      "totalDemVotes": 154392
+    },
+    "1": {
+      "candidates": [
+        [
+          "David W. Rogers",
+          69819,
+          "republican"
+        ],
+        [
+          "<write in>",
+          268,
+          "nonpartisan"
+        ],
+        [
+          "Patrick J. Kennedy",
+          124923,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 195010,
+      "winner": [
+        "Patrick J. Kennedy",
+        124923,
+        "democrat"
+      ],
+      "totalRepVotes": 69819,
+      "totalDemVotes": 124923
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Jack D. Potter",
+          1695,
+          "independent"
+        ],
+        [
+          "Robert A. Weygand",
+          118827,
+          "democrat"
+        ],
+        [
+          "Thomas J. Ricci",
+          3139,
+          "independent"
+        ],
+        [
+          "Gail Alison Casman",
+          2199,
+          "independent"
+        ],
+        [
+          "Richard E. Wild",
+          58458,
+          "republican"
+        ]
+      ],
+      "totalVotes": 184318,
+      "winner": [
+        "Robert A. Weygand",
+        118827,
+        "democrat"
+      ],
+      "totalRepVotes": 58458,
+      "totalDemVotes": 118827
+    },
+    "1": {
+      "candidates": [
+        [
+          "Patrick J. Kennedy",
+          121781,
+          "democrat"
+        ],
+        [
+          "Giovanni D. Cicione",
+          49199,
+          "republican"
+        ],
+        [
+          "Graham R. Schwass",
+          1408,
+          "independent"
+        ],
+        [
+          "Michael J. Rollins",
+          1737,
+          "independent"
+        ],
+        [
+          "Gregory Raposa",
+          1300,
+          "independent"
+        ]
+      ],
+      "totalVotes": 175425,
+      "winner": [
+        "Patrick J. Kennedy",
+        121781,
+        "democrat"
+      ],
+      "totalRepVotes": 49199,
+      "totalDemVotes": 121781
+    }
+  },
+  "2011": {
+    "2": {
+      "candidates": [
+        [
+          "Mark S. Zaccaria",
+          55409,
+          "republican"
+        ],
+        [
+          "John O. Matson",
+          14584,
+          "independent"
+        ],
+        [
+          "James R. Langevin",
+          104442,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          235,
+          "none"
+        ]
+      ],
+      "totalVotes": 174670,
+      "winner": [
+        "James R. Langevin",
+        104442,
+        "democrat"
+      ],
+      "totalRepVotes": 55409,
+      "totalDemVotes": 104442
+    },
+    "1": {
+      "candidates": [
+        [
+          "David N. Cicilline",
+          81269,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          245,
+          "none"
+        ],
+        [
+          "Gregory Raposa",
+          1334,
+          "independent"
+        ],
+        [
+          "John J. Loughlin II",
+          71542,
+          "republican"
+        ],
+        [
+          "Kenneth A. Capalbo",
+          6424,
+          "independent"
+        ]
+      ],
+      "totalVotes": 160814,
+      "winner": [
+        "David N. Cicilline",
+        81269,
+        "democrat"
+      ],
+      "totalRepVotes": 71542,
+      "totalDemVotes": 81269
+    }
+  },
+  "2001": {
+    "1": {
+      "candidates": [
+        [
+          "Patrick J. Kennedy",
+          123442,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          287,
+          "none"
+        ],
+        [
+          "Stephen Cabral",
+          61522,
+          "republican"
+        ]
+      ],
+      "totalVotes": 185251,
+      "winner": [
+        "Patrick J. Kennedy",
+        123442,
+        "democrat"
+      ],
+      "totalRepVotes": 61522,
+      "totalDemVotes": 123442
+    },
+    "2": {
+      "candidates": [
+        [
+          "James R. Langevin",
+          123805,
+          "democrat"
+        ],
+        [
+          "Robert G. Tingle",
+          27932,
+          "republican"
+        ],
+        [
+          "Dorman J. Hayes, Jr.",
+          4536,
+          "green"
+        ],
+        [
+          "Rodney D. Driver",
+          42625,
+          "conscience for congress"
+        ],
+        [
+          "<write in>",
+          123,
+          "none"
+        ]
+      ],
+      "totalVotes": 199021,
+      "winner": [
+        "James R. Langevin",
+        123805,
+        "democrat"
+      ],
+      "totalRepVotes": 27932,
+      "totalDemVotes": 123805
+    }
+  },
+  "2003": {
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          159,
+          "none"
+        ],
+        [
+          "Frank Carter",
+          4318,
+          "independent"
+        ],
+        [
+          "David W. Rogers",
+          59370,
+          "republican"
+        ],
+        [
+          "Patrick J. Kennedy",
+          95286,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 159133,
+      "winner": [
+        "Patrick J. Kennedy",
+        95286,
+        "democrat"
+      ],
+      "totalRepVotes": 59370,
+      "totalDemVotes": 95286
+    },
+    "2": {
+      "candidates": [
+        [
+          "James R. Langevin",
+          129390,
+          "democrat"
+        ],
+        [
+          "John O. Matson",
+          37767,
+          "republican"
+        ],
+        [
+          "<write in>",
+          126,
+          "none"
+        ],
+        [
+          "Dorman J. Hayes Jr.",
+          2327,
+          "independent home protection"
+        ]
+      ],
+      "totalVotes": 169610,
+      "winner": [
+        "James R. Langevin",
+        129390,
+        "democrat"
+      ],
+      "totalRepVotes": 37767,
+      "totalDemVotes": 129390
+    }
+  },
+  "2007": {
+    "2": {
+      "candidates": [
+        [
+          "Rod Driver",
+          52729,
+          "independent"
+        ],
+        [
+          "James R. Langevin",
+          140315,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 193044,
+      "winner": [
+        "James R. Langevin",
+        140315,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 140315
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jonathan P. Scott",
+          41836,
+          "republican"
+        ],
+        [
+          "Patrick J. Kennedy",
+          124634,
+          "democrat"
+        ],
+        [
+          "Kenneth A. Capalbo",
+          13634,
+          "independent"
+        ]
+      ],
+      "totalVotes": 180104,
+      "winner": [
+        "Patrick J. Kennedy",
+        124634,
+        "democrat"
+      ],
+      "totalRepVotes": 41836,
+      "totalDemVotes": 124634
+    }
+  },
+  "2013": {
+    "1": {
+      "candidates": [
+        [
+          "Brendan P. Doherty",
+          83737,
+          "republican"
+        ],
+        [
+          "<write in>",
+          262,
+          "none"
+        ],
+        [
+          "David S. Vogel",
+          12504,
+          "independent"
+        ],
+        [
+          "David N. Cicilline",
+          108612,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 205115,
+      "winner": [
+        "David N. Cicilline",
+        108612,
+        "democrat"
+      ],
+      "totalRepVotes": 83737,
+      "totalDemVotes": 108612
+    },
+    "2": {
+      "candidates": [
+        [
+          "Michael G. Riley",
+          78189,
+          "republican"
+        ],
+        [
+          "<write in>",
+          192,
+          "none"
+        ],
+        [
+          "James R. Langevin",
+          124067,
+          "democrat"
+        ],
+        [
+          "Abel G. Collins",
+          20212,
+          "independent"
+        ]
+      ],
+      "totalVotes": 222660,
+      "winner": [
+        "James R. Langevin",
+        124067,
+        "democrat"
+      ],
+      "totalRepVotes": 78189,
+      "totalDemVotes": 124067
+    }
+  },
+  "1999": {
+    "2": {
+      "candidates": [
+        [
+          "Timothy L. Miller",
+          4877,
+          "reform"
+        ],
+        [
+          "<write in>",
+          89,
+          "none"
+        ],
+        [
+          "John O. Matson",
+          38170,
+          "republican"
+        ],
+        [
+          "Robert A. Weygand",
+          110917,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 154053,
+      "winner": [
+        "Robert A. Weygand",
+        110917,
+        "democrat"
+      ],
+      "totalRepVotes": 38170,
+      "totalDemVotes": 110917
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          48,
+          "none"
+        ],
+        [
+          "Ronald G. Santa",
+          38460,
+          "republican"
+        ],
+        [
+          "James C. Sheehan",
+          6202,
+          "reform"
+        ],
+        [
+          "Patrick J. Kennedy",
+          92788,
+          "democrat"
+        ],
+        [
+          "Charles Picerno",
+          1397,
+          "independent"
+        ]
+      ],
+      "totalVotes": 138895,
+      "winner": [
+        "Patrick J. Kennedy",
+        92788,
+        "democrat"
+      ],
+      "totalRepVotes": 38460,
+      "totalDemVotes": 92788
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          544,
+          "none"
+        ],
+        [
+          "Jeffrey C. Johnson",
+          16253,
+          "independent"
+        ],
+        [
+          "Rhue R. Reis",
+          70301,
+          "republican"
+        ],
+        [
+          "Salvatore G. Caiozzo",
+          8942,
+          "independent"
+        ],
+        [
+          "James R. Langevin",
+          133108,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 229148,
+      "winner": [
+        "James R. Langevin",
+        133108,
+        "democrat"
+      ],
+      "totalRepVotes": 70301,
+      "totalDemVotes": 133108
+    },
+    "1": {
+      "candidates": [
+        [
+          "David N. Cicilline",
+          130534,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          814,
+          "none"
+        ],
+        [
+          "Harold Russell Taub",
+          71023,
+          "republican"
+        ]
+      ],
+      "totalVotes": 202371,
+      "winner": [
+        "David N. Cicilline",
+        130534,
+        "democrat"
+      ],
+      "totalRepVotes": 71023,
+      "totalDemVotes": 130534
+    }
+  },
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "Kenneth A. Capalbo",
+          15108,
+          "independent"
+        ],
+        [
+          "Jonathan P. Scott",
+          51340,
+          "republican"
+        ],
+        [
+          "Patrick J. Kennedy",
+          145254,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          296,
+          "none"
+        ]
+      ],
+      "totalVotes": 211998,
+      "winner": [
+        "Patrick J. Kennedy",
+        145254,
+        "democrat"
+      ],
+      "totalRepVotes": 51340,
+      "totalDemVotes": 145254
+    },
+    "2": {
+      "candidates": [
+        [
+          "James R. Langevin",
+          158416,
+          "democrat"
+        ],
+        [
+          "Mark S. Zaccaria",
+          67433,
+          "republican"
+        ],
+        [
+          "<write in>",
+          385,
+          "none"
+        ]
+      ],
+      "totalVotes": 226234,
+      "winner": [
+        "James R. Langevin",
+        158416,
+        "democrat"
+      ],
+      "totalRepVotes": 67433,
+      "totalDemVotes": 158416
+    }
+  },
+  "2015": {
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          344,
+          "none"
+        ],
+        [
+          "Rhue R. Reis",
+          63844,
+          "republican"
+        ],
+        [
+          "James R. Langevin",
+          105716,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 169904,
+      "winner": [
+        "James R. Langevin",
+        105716,
+        "democrat"
+      ],
+      "totalRepVotes": 63844,
+      "totalDemVotes": 105716
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          416,
+          "none"
+        ],
+        [
+          "Comick Brendan Lynch",
+          58877,
+          "republican"
+        ],
+        [
+          "David N. Cicilline",
+          87060,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 146353,
+      "winner": [
+        "David N. Cicilline",
+        87060,
+        "democrat"
+      ],
+      "totalRepVotes": 58877,
+      "totalDemVotes": 87060
+    }
+  }
+}

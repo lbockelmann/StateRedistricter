@@ -1,0 +1,1626 @@
+{
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "Heather A. Ryan",
+          98674,
+          "democrat"
+        ],
+        [
+          "Charles K. Hatchett",
+          5,
+          "none"
+        ],
+        [
+          "Ed Whitfield",
+          178107,
+          "republican"
+        ]
+      ],
+      "totalVotes": 276786,
+      "winner": [
+        "Ed Whitfield",
+        178107,
+        "republican"
+      ],
+      "totalRepVotes": 178107,
+      "totalDemVotes": 98674
+    },
+    "4": {
+      "candidates": [
+        [
+          "Geoff Davis",
+          190210,
+          "republican"
+        ],
+        [
+          "Michael Kelley",
+          111549,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 301759,
+      "winner": [
+        "Geoff Davis",
+        190210,
+        "republican"
+      ],
+      "totalRepVotes": 190210,
+      "totalDemVotes": 111549
+    },
+    "3": {
+      "candidates": [
+        [
+          "Anne M. Northup",
+          139527,
+          "republican"
+        ],
+        [
+          "John A. Yarmuth",
+          203843,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 343370,
+      "winner": [
+        "John A. Yarmuth",
+        203843,
+        "democrat"
+      ],
+      "totalRepVotes": 139527,
+      "totalDemVotes": 203843
+    },
+    "2": {
+      "candidates": [
+        [
+          "David E. Boswell",
+          143379,
+          "democrat"
+        ],
+        [
+          "S. Brett Guthrie",
+          158936,
+          "republican"
+        ]
+      ],
+      "totalVotes": 302315,
+      "winner": [
+        "S. Brett Guthrie",
+        158936,
+        "republican"
+      ],
+      "totalRepVotes": 158936,
+      "totalDemVotes": 143379
+    },
+    "6": {
+      "candidates": [
+        [
+          "Jon Larson",
+          111378,
+          "republican"
+        ],
+        [
+          "Ben Chandler",
+          203764,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 315142,
+      "winner": [
+        "Ben Chandler",
+        203764,
+        "democrat"
+      ],
+      "totalRepVotes": 111378,
+      "totalDemVotes": 203764
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jim Holbert",
+          33444,
+          "independent"
+        ],
+        [
+          "Harold Rogers",
+          177024,
+          "republican"
+        ]
+      ],
+      "totalVotes": 210468,
+      "winner": [
+        "Harold Rogers",
+        177024,
+        "republican"
+      ],
+      "totalRepVotes": 177024,
+      "totalDemVotes": 0
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "Brett Guthrie",
+          251825,
+          "republican"
+        ]
+      ],
+      "totalVotes": 251825,
+      "winner": [
+        "Brett Guthrie",
+        251825,
+        "republican"
+      ],
+      "totalRepVotes": 251825,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Calvin Sidle",
+          94065,
+          "democrat"
+        ],
+        [
+          "Thomas Massie",
+          233922,
+          "republican"
+        ]
+      ],
+      "totalVotes": 327987,
+      "winner": [
+        "Thomas Massie",
+        233922,
+        "republican"
+      ],
+      "totalRepVotes": 233922,
+      "totalDemVotes": 94065
+    },
+    "1": {
+      "candidates": [
+        [
+          "Samuel L. Gaskins",
+          81710,
+          "democrat"
+        ],
+        [
+          "Terry McIntosh",
+          332,
+          "none"
+        ],
+        [
+          "James R. Comer",
+          216959,
+          "republican"
+        ]
+      ],
+      "totalVotes": 299001,
+      "winner": [
+        "James R. Comer",
+        216959,
+        "republican"
+      ],
+      "totalRepVotes": 216959,
+      "totalDemVotes": 81710
+    },
+    "5": {
+      "candidates": [
+        [
+          "Harold Rogers",
+          221242,
+          "republican"
+        ]
+      ],
+      "totalVotes": 221242,
+      "winner": [
+        "Harold Rogers",
+        221242,
+        "republican"
+      ],
+      "totalRepVotes": 221242,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "Nancy Jo Kemper",
+          128728,
+          "democrat"
+        ],
+        [
+          "Andy Barr",
+          202099,
+          "republican"
+        ]
+      ],
+      "totalVotes": 330827,
+      "winner": [
+        "Andy Barr",
+        202099,
+        "republican"
+      ],
+      "totalRepVotes": 202099,
+      "totalDemVotes": 128728
+    },
+    "3": {
+      "candidates": [
+        [
+          "John A. Yarmuth",
+          212401,
+          "democrat"
+        ],
+        [
+          "Harold Bratcher",
+          122093,
+          "republican"
+        ]
+      ],
+      "totalVotes": 334494,
+      "winner": [
+        "John A. Yarmuth",
+        212401,
+        "democrat"
+      ],
+      "totalRepVotes": 122093,
+      "totalDemVotes": 212401
+    }
+  },
+  "1997": {
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          11,
+          "none"
+        ],
+        [
+          "Harold Rogers",
+          117842,
+          "republican"
+        ]
+      ],
+      "totalVotes": 117853,
+      "winner": [
+        "Harold Rogers",
+        117842,
+        "republican"
+      ],
+      "totalRepVotes": 117842,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Joe Wright",
+          90483,
+          "democrat"
+        ],
+        [
+          "Ron Lewis",
+          125433,
+          "republican"
+        ]
+      ],
+      "totalVotes": 215916,
+      "winner": [
+        "Ron Lewis",
+        125433,
+        "republican"
+      ],
+      "totalRepVotes": 125433,
+      "totalDemVotes": 90483
+    },
+    "4": {
+      "candidates": [
+        [
+          "Denny Bowman",
+          68939,
+          "democrat"
+        ],
+        [
+          "Jim Bunning",
+          149135,
+          "republican"
+        ]
+      ],
+      "totalVotes": 218074,
+      "winner": [
+        "Jim Bunning",
+        149135,
+        "republican"
+      ],
+      "totalRepVotes": 149135,
+      "totalDemVotes": 68939
+    },
+    "3": {
+      "candidates": [
+        [
+          "Mike Ward",
+          125326,
+          "democrat"
+        ],
+        [
+          "Anne M. Northup",
+          126625,
+          "republican"
+        ]
+      ],
+      "totalVotes": 251951,
+      "winner": [
+        "Anne M. Northup",
+        126625,
+        "republican"
+      ],
+      "totalRepVotes": 126625,
+      "totalDemVotes": 125326
+    },
+    "1": {
+      "candidates": [
+        [
+          "Dennis L. Null",
+          96684,
+          "democrat"
+        ],
+        [
+          "Ed Whitfield",
+          111473,
+          "republican"
+        ]
+      ],
+      "totalVotes": 208157,
+      "winner": [
+        "Ed Whitfield",
+        111473,
+        "republican"
+      ],
+      "totalRepVotes": 111473,
+      "totalDemVotes": 96684
+    },
+    "6": {
+      "candidates": [
+        [
+          "Scotty Baesler",
+          125999,
+          "democrat"
+        ],
+        [
+          "Ernest Fletcher",
+          100231,
+          "republican"
+        ]
+      ],
+      "totalVotes": 226230,
+      "winner": [
+        "Scotty Baesler",
+        125999,
+        "democrat"
+      ],
+      "totalRepVotes": 100231,
+      "totalDemVotes": 125999
+    }
+  },
+  "2013": {
+    "6": {
+      "candidates": [
+        [
+          "Randolph S. Vance",
+          8340,
+          "none"
+        ],
+        [
+          "Ben Chandler",
+          141438,
+          "democrat"
+        ],
+        [
+          "Garland ??Andy?? Barr",
+          153222,
+          "republican"
+        ]
+      ],
+      "totalVotes": 303000,
+      "winner": [
+        "Garland ??Andy?? Barr",
+        153222,
+        "republican"
+      ],
+      "totalRepVotes": 153222,
+      "totalDemVotes": 141438
+    },
+    "2": {
+      "candidates": [
+        [
+          "Brett Guthrie",
+          181508,
+          "republican"
+        ],
+        [
+          "Andrew R. Beacham",
+          6304,
+          "independent"
+        ],
+        [
+          "David Lynn Williams",
+          89541,
+          "democrat"
+        ],
+        [
+          "Craig R. Astor",
+          4914,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 282267,
+      "winner": [
+        "Brett Guthrie",
+        181508,
+        "republican"
+      ],
+      "totalRepVotes": 181508,
+      "totalDemVotes": 89541
+    },
+    "3": {
+      "candidates": [
+        [
+          "Robert L. DeVore, Jr.",
+          4819,
+          "independent"
+        ],
+        [
+          "John A. Yarmuth",
+          206385,
+          "democrat"
+        ],
+        [
+          "Brooks Wicker",
+          111452,
+          "republican"
+        ]
+      ],
+      "totalVotes": 322656,
+      "winner": [
+        "John A. Yarmuth",
+        206385,
+        "democrat"
+      ],
+      "totalRepVotes": 111452,
+      "totalDemVotes": 206385
+    },
+    "5": {
+      "candidates": [
+        [
+          "Harold Rogers",
+          195408,
+          "republican"
+        ],
+        [
+          "Kenneth S. Stepp",
+          55447,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 250855,
+      "winner": [
+        "Harold Rogers",
+        195408,
+        "republican"
+      ],
+      "totalRepVotes": 195408,
+      "totalDemVotes": 55447
+    },
+    "1": {
+      "candidates": [
+        [
+          "Charles Kendall Hatchett",
+          87199,
+          "democrat"
+        ],
+        [
+          "Ed Whitfield",
+          199956,
+          "republican"
+        ]
+      ],
+      "totalVotes": 287155,
+      "winner": [
+        "Ed Whitfield",
+        199956,
+        "republican"
+      ],
+      "totalRepVotes": 199956,
+      "totalDemVotes": 87199
+    },
+    "4": {
+      "candidates": [
+        [
+          "William R. ??Bill?? Adkins",
+          104734,
+          "democrat"
+        ],
+        [
+          "David Lewis",
+          8674,
+          "independent"
+        ],
+        [
+          "Thomas Massie",
+          186036,
+          "republican"
+        ]
+      ],
+      "totalVotes": 299444,
+      "winner": [
+        "Thomas Massie",
+        186036,
+        "republican"
+      ],
+      "totalRepVotes": 186036,
+      "totalDemVotes": 104734
+    }
+  },
+  "2005": {
+    "3": {
+      "candidates": [
+        [
+          "Anne M. Northup",
+          197736,
+          "republican"
+        ],
+        [
+          "Tony Miller",
+          124040,
+          "democrat"
+        ],
+        [
+          "George C. Dick",
+          6363,
+          "libertarian"
+        ],
+        [
+          "Corley Everett",
+          15,
+          "none"
+        ]
+      ],
+      "totalVotes": 328154,
+      "winner": [
+        "Anne M. Northup",
+        197736,
+        "republican"
+      ],
+      "totalRepVotes": 197736,
+      "totalDemVotes": 124040
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ed Whitfield",
+          175972,
+          "republican"
+        ],
+        [
+          "Tom Barlow",
+          186,
+          "none"
+        ],
+        [
+          "Billy R. Cartwright",
+          85229,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 261387,
+      "winner": [
+        "Ed Whitfield",
+        175972,
+        "republican"
+      ],
+      "totalRepVotes": 175972,
+      "totalDemVotes": 85229
+    },
+    "6": {
+      "candidates": [
+        [
+          "Ben Chandler",
+          175355,
+          "democrat"
+        ],
+        [
+          "Tom Buford",
+          119716,
+          "republican"
+        ],
+        [
+          "Mark Gailey",
+          1758,
+          "libertarian"
+        ],
+        [
+          "Stacy Abner",
+          2388,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 299217,
+      "winner": [
+        "Ben Chandler",
+        175355,
+        "democrat"
+      ],
+      "totalRepVotes": 119716,
+      "totalDemVotes": 175355
+    },
+    "2": {
+      "candidates": [
+        [
+          "Ron Lewis",
+          185394,
+          "republican"
+        ],
+        [
+          "Adam Smith",
+          87585,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 272979,
+      "winner": [
+        "Ron Lewis",
+        185394,
+        "republican"
+      ],
+      "totalRepVotes": 185394,
+      "totalDemVotes": 87585
+    },
+    "4": {
+      "candidates": [
+        [
+          "Geoff Davis",
+          160982,
+          "republican"
+        ],
+        [
+          "Nick Clooney",
+          129876,
+          "democrat"
+        ],
+        [
+          "Michael E. Slider",
+          5069,
+          "independent"
+        ]
+      ],
+      "totalVotes": 295927,
+      "winner": [
+        "Geoff Davis",
+        160982,
+        "republican"
+      ],
+      "totalRepVotes": 160982,
+      "totalDemVotes": 129876
+    },
+    "5": {
+      "candidates": [
+        [
+          "Harold Rogers",
+          177579,
+          "republican"
+        ]
+      ],
+      "totalVotes": 177579,
+      "winner": [
+        "Harold Rogers",
+        177579,
+        "republican"
+      ],
+      "totalRepVotes": 177579,
+      "totalDemVotes": 0
+    }
+  },
+  "2015": {
+    "4": {
+      "candidates": [
+        [
+          "Peter Newberry",
+          71694,
+          "democrat"
+        ],
+        [
+          "Thomas Massie",
+          150464,
+          "republican"
+        ]
+      ],
+      "totalVotes": 222158,
+      "winner": [
+        "Thomas Massie",
+        150464,
+        "republican"
+      ],
+      "totalRepVotes": 150464,
+      "totalDemVotes": 71694
+    },
+    "2": {
+      "candidates": [
+        [
+          "Brett Guthrie",
+          156936,
+          "republican"
+        ],
+        [
+          "Ron Leach",
+          69898,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 226834,
+      "winner": [
+        "Brett Guthrie",
+        156936,
+        "republican"
+      ],
+      "totalRepVotes": 156936,
+      "totalDemVotes": 69898
+    },
+    "5": {
+      "candidates": [
+        [
+          "Kennth S. Stepp",
+          47617,
+          "democrat"
+        ],
+        [
+          "Harold Rogers",
+          171350,
+          "republican"
+        ]
+      ],
+      "totalVotes": 218967,
+      "winner": [
+        "Harold Rogers",
+        171350,
+        "republican"
+      ],
+      "totalRepVotes": 171350,
+      "totalDemVotes": 47617
+    },
+    "1": {
+      "candidates": [
+        [
+          "Charles Kendall Hatchett",
+          63596,
+          "democrat"
+        ],
+        [
+          "Ed Whitfield",
+          173022,
+          "republican"
+        ]
+      ],
+      "totalVotes": 236618,
+      "winner": [
+        "Ed Whitfield",
+        173022,
+        "republican"
+      ],
+      "totalRepVotes": 173022,
+      "totalDemVotes": 63596
+    },
+    "3": {
+      "candidates": [
+        [
+          "Michael Macfarlane",
+          87981,
+          "republican"
+        ],
+        [
+          "Gregory Peter Puccetti",
+          2318,
+          "independent"
+        ],
+        [
+          "John A. Yarmuth",
+          157056,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 247355,
+      "winner": [
+        "John A. Yarmuth",
+        157056,
+        "democrat"
+      ],
+      "totalRepVotes": 87981,
+      "totalDemVotes": 157056
+    },
+    "6": {
+      "candidates": [
+        [
+          "Andy Barr",
+          147404,
+          "republican"
+        ],
+        [
+          "Elizabeth Jensen",
+          98290,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 245694,
+      "winner": [
+        "Andy Barr",
+        147404,
+        "republican"
+      ],
+      "totalRepVotes": 147404,
+      "totalDemVotes": 98290
+    }
+  },
+  "2001": {
+    "3": {
+      "candidates": [
+        [
+          "Anne M. Northup",
+          142106,
+          "republican"
+        ],
+        [
+          "Donna Walker Mancini",
+          7804,
+          "libertarian"
+        ],
+        [
+          "Eleanor Jordan",
+          118875,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 268785,
+      "winner": [
+        "Anne M. Northup",
+        142106,
+        "republican"
+      ],
+      "totalRepVotes": 142106,
+      "totalDemVotes": 118875
+    },
+    "2": {
+      "candidates": [
+        [
+          "Michael A. Kirkman",
+          2125,
+          "libertarian"
+        ],
+        [
+          "Ron Lewis",
+          160800,
+          "republican"
+        ],
+        [
+          "Brian Pedigo",
+          74537,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 237462,
+      "winner": [
+        "Ron Lewis",
+        160800,
+        "republican"
+      ],
+      "totalRepVotes": 160800,
+      "totalDemVotes": 74537
+    },
+    "5": {
+      "candidates": [
+        [
+          "Sidney Jane Bailey",
+          52495,
+          "democrat"
+        ],
+        [
+          "Harold Rogers",
+          145980,
+          "republican"
+        ]
+      ],
+      "totalVotes": 198475,
+      "winner": [
+        "Harold Rogers",
+        145980,
+        "republican"
+      ],
+      "totalRepVotes": 145980,
+      "totalDemVotes": 52495
+    },
+    "6": {
+      "candidates": [
+        [
+          "Scotty Baesler",
+          94167,
+          "democrat"
+        ],
+        [
+          "Ernie Fletcher",
+          142971,
+          "republican"
+        ],
+        [
+          "Joseph Novak",
+          1229,
+          "libertarian"
+        ],
+        [
+          "Gatewood Galbraith",
+          32436,
+          "reform"
+        ]
+      ],
+      "totalVotes": 270803,
+      "winner": [
+        "Ernie Fletcher",
+        142971,
+        "republican"
+      ],
+      "totalRepVotes": 142971,
+      "totalDemVotes": 94167
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ken Lucas",
+          125872,
+          "democrat"
+        ],
+        [
+          "Alan Handleman",
+          1486,
+          "libertarian"
+        ],
+        [
+          "Ken Sain",
+          3662,
+          "green"
+        ],
+        [
+          "Don Bell",
+          100943,
+          "republican"
+        ]
+      ],
+      "totalVotes": 231963,
+      "winner": [
+        "Ken Lucas",
+        125872,
+        "democrat"
+      ],
+      "totalRepVotes": 100943,
+      "totalDemVotes": 125872
+    },
+    "1": {
+      "candidates": [
+        [
+          "Brian S. Roy",
+          95806,
+          "democrat"
+        ],
+        [
+          "Ed Whitfield",
+          132115,
+          "republican"
+        ]
+      ],
+      "totalVotes": 227921,
+      "winner": [
+        "Ed Whitfield",
+        132115,
+        "republican"
+      ],
+      "totalRepVotes": 132115,
+      "totalDemVotes": 95806
+    }
+  },
+  "2011": {
+    "5": {
+      "candidates": [
+        [
+          "Harold Rogers",
+          151019,
+          "republican"
+        ],
+        [
+          "James E. \"Jim\" Holbert",
+          44034,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 195053,
+      "winner": [
+        "Harold Rogers",
+        151019,
+        "republican"
+      ],
+      "totalRepVotes": 151019,
+      "totalDemVotes": 44034
+    },
+    "2": {
+      "candidates": [
+        [
+          "Brett Guthrie",
+          155906,
+          "republican"
+        ],
+        [
+          "Ed Marksberry",
+          73749,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 229655,
+      "winner": [
+        "Brett Guthrie",
+        155906,
+        "republican"
+      ],
+      "totalRepVotes": 155906,
+      "totalDemVotes": 73749
+    },
+    "4": {
+      "candidates": [
+        [
+          "Geoff Davis",
+          151813,
+          "republican"
+        ],
+        [
+          "John Waltz",
+          66694,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 218507,
+      "winner": [
+        "Geoff Davis",
+        151813,
+        "republican"
+      ],
+      "totalRepVotes": 151813,
+      "totalDemVotes": 66694
+    },
+    "3": {
+      "candidates": [
+        [
+          "John A. Yarmuth",
+          139940,
+          "democrat"
+        ],
+        [
+          "Michael D. Hansen",
+          1334,
+          "independent"
+        ],
+        [
+          "Todd Lally",
+          112627,
+          "republican"
+        ],
+        [
+          "Edward A. Martin",
+          2029,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 255930,
+      "winner": [
+        "John A. Yarmuth",
+        139940,
+        "democrat"
+      ],
+      "totalRepVotes": 112627,
+      "totalDemVotes": 139940
+    },
+    "6": {
+      "candidates": [
+        [
+          "Garland \"Andy\" Barr",
+          119164,
+          "republican"
+        ],
+        [
+          "Ben Chandler",
+          119812,
+          "democrat"
+        ],
+        [
+          "Randolp S. Vance",
+          22,
+          "none"
+        ],
+        [
+          "C. Wes Collins",
+          225,
+          "none"
+        ]
+      ],
+      "totalVotes": 239223,
+      "winner": [
+        "Ben Chandler",
+        119812,
+        "democrat"
+      ],
+      "totalRepVotes": 119164,
+      "totalDemVotes": 119812
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ed Whitfield",
+          153840,
+          "republican"
+        ],
+        [
+          "Charles Kendall Hatchett",
+          62090,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 215930,
+      "winner": [
+        "Ed Whitfield",
+        153840,
+        "republican"
+      ],
+      "totalRepVotes": 153840,
+      "totalDemVotes": 62090
+    }
+  },
+  "2007": {
+    "3": {
+      "candidates": [
+        [
+          "Anne M. Northup",
+          116568,
+          "republican"
+        ],
+        [
+          "W. Ed Parker",
+          774,
+          "constitution"
+        ],
+        [
+          "Donna Walker Mancini",
+          2134,
+          "libertarian"
+        ],
+        [
+          "John Yarmuth",
+          122489,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 241965,
+      "winner": [
+        "John Yarmuth",
+        122489,
+        "democrat"
+      ],
+      "totalRepVotes": 116568,
+      "totalDemVotes": 122489
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ken Lucas",
+          88822,
+          "democrat"
+        ],
+        [
+          "Geoff Davis",
+          105845,
+          "republican"
+        ],
+        [
+          "Brian Houillion",
+          10100,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 204767,
+      "winner": [
+        "Geoff Davis",
+        105845,
+        "republican"
+      ],
+      "totalRepVotes": 105845,
+      "totalDemVotes": 88822
+    },
+    "5": {
+      "candidates": [
+        [
+          "Harold Rogers",
+          147201,
+          "republican"
+        ],
+        [
+          "Kenneth Stepp",
+          52367,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 199568,
+      "winner": [
+        "Harold Rogers",
+        147201,
+        "republican"
+      ],
+      "totalRepVotes": 147201,
+      "totalDemVotes": 52367
+    },
+    "2": {
+      "candidates": [
+        [
+          "Mike Weaver",
+          95415,
+          "democrat"
+        ],
+        [
+          "Ron Lewis",
+          118548,
+          "republican"
+        ]
+      ],
+      "totalVotes": 213963,
+      "winner": [
+        "Ron Lewis",
+        118548,
+        "republican"
+      ],
+      "totalRepVotes": 118548,
+      "totalDemVotes": 95415
+    },
+    "6": {
+      "candidates": [
+        [
+          "Ben Chandler",
+          158765,
+          "democrat"
+        ],
+        [
+          "Paul Ard",
+          27015,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 185780,
+      "winner": [
+        "Ben Chandler",
+        158765,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 158765
+    },
+    "1": {
+      "candidates": [
+        [
+          "Tom Barlow",
+          83865,
+          "democrat"
+        ],
+        [
+          "Ed Whitfield",
+          123618,
+          "republican"
+        ]
+      ],
+      "totalVotes": 207483,
+      "winner": [
+        "Ed Whitfield",
+        123618,
+        "republican"
+      ],
+      "totalRepVotes": 123618,
+      "totalDemVotes": 83865
+    }
+  },
+  "2003": {
+    "5": {
+      "candidates": [
+        [
+          "Harold \"Hal\" Rogers",
+          137986,
+          "republican"
+        ],
+        [
+          "Sidney Jane Bailey",
+          38254,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 176240,
+      "winner": [
+        "Harold \"Hal\" Rogers",
+        137986,
+        "republican"
+      ],
+      "totalRepVotes": 137986,
+      "totalDemVotes": 38254
+    },
+    "3": {
+      "candidates": [
+        [
+          "Anne M. Northup",
+          118228,
+          "republican"
+        ],
+        [
+          "Jack Conway",
+          110846,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 229074,
+      "winner": [
+        "Anne M. Northup",
+        118228,
+        "republican"
+      ],
+      "totalRepVotes": 118228,
+      "totalDemVotes": 110846
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ed Whitfield",
+          117600,
+          "republican"
+        ],
+        [
+          "Klint Alexander",
+          62617,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 180217,
+      "winner": [
+        "Ed Whitfield",
+        117600,
+        "republican"
+      ],
+      "totalRepVotes": 117600,
+      "totalDemVotes": 62617
+    },
+    "2": {
+      "candidates": [
+        [
+          "Robert Guy Dyer",
+          2084,
+          "libertarian"
+        ],
+        [
+          "David L. Williams",
+          51431,
+          "democrat"
+        ],
+        [
+          "Ron Lewis",
+          122773,
+          "republican"
+        ]
+      ],
+      "totalVotes": 176288,
+      "winner": [
+        "Ron Lewis",
+        122773,
+        "republican"
+      ],
+      "totalRepVotes": 122773,
+      "totalDemVotes": 51431
+    },
+    "6": {
+      "candidates": [
+        [
+          "Mark Gailey",
+          3313,
+          "libertarian"
+        ],
+        [
+          "Ernie Fletcher",
+          115622,
+          "republican"
+        ],
+        [
+          "Gatewood Galbraith",
+          41753,
+          "independent"
+        ]
+      ],
+      "totalVotes": 160688,
+      "winner": [
+        "Ernie Fletcher",
+        115622,
+        "republican"
+      ],
+      "totalRepVotes": 115622,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Geoff Davis",
+          81651,
+          "republican"
+        ],
+        [
+          "Ken Lucas",
+          87776,
+          "democrat"
+        ],
+        [
+          "John Grote",
+          2308,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 171735,
+      "winner": [
+        "Ken Lucas",
+        87776,
+        "democrat"
+      ],
+      "totalRepVotes": 81651,
+      "totalDemVotes": 87776
+    }
+  },
+  "1999": {
+    "5": {
+      "candidates": [
+        [
+          "Sidney Jane Bailey-Bamer",
+          39585,
+          "democrat"
+        ],
+        [
+          "Harold Rogers",
+          142215,
+          "republican"
+        ]
+      ],
+      "totalVotes": 181800,
+      "winner": [
+        "Harold Rogers",
+        142215,
+        "republican"
+      ],
+      "totalRepVotes": 142215,
+      "totalDemVotes": 39585
+    },
+    "6": {
+      "candidates": [
+        [
+          "Ernesto Scorsone",
+          90033,
+          "democrat"
+        ],
+        [
+          "Wasley S. Krogdahl",
+          1839,
+          "taxpayers"
+        ],
+        [
+          "Ernie Fletcher",
+          104046,
+          "republican"
+        ]
+      ],
+      "totalVotes": 195918,
+      "winner": [
+        "Ernie Fletcher",
+        104046,
+        "republican"
+      ],
+      "totalRepVotes": 104046,
+      "totalDemVotes": 90033
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ken Lucas",
+          93485,
+          "democrat"
+        ],
+        [
+          "Gex \"Jay\" Williams",
+          81547,
+          "republican"
+        ]
+      ],
+      "totalVotes": 175032,
+      "winner": [
+        "Ken Lucas",
+        93485,
+        "democrat"
+      ],
+      "totalRepVotes": 81547,
+      "totalDemVotes": 93485
+    },
+    "2": {
+      "candidates": [
+        [
+          "Ron Lewis",
+          113285,
+          "republican"
+        ],
+        [
+          "Jim Ketchel",
+          1833,
+          "reform"
+        ],
+        [
+          "Bob Evans",
+          62848,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 177966,
+      "winner": [
+        "Ron Lewis",
+        113285,
+        "republican"
+      ],
+      "totalRepVotes": 113285,
+      "totalDemVotes": 62848
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ed Whitfield",
+          95308,
+          "republican"
+        ],
+        [
+          "Tom Barlow",
+          77402,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 172710,
+      "winner": [
+        "Ed Whitfield",
+        95308,
+        "republican"
+      ],
+      "totalRepVotes": 95308,
+      "totalDemVotes": 77402
+    },
+    "3": {
+      "candidates": [
+        [
+          "Chris Gorman",
+          92865,
+          "democrat"
+        ],
+        [
+          "Anne M. Northup",
+          100690,
+          "republican"
+        ],
+        [
+          "Patricia Jo Metten",
+          1881,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 195436,
+      "winner": [
+        "Anne M. Northup",
+        100690,
+        "republican"
+      ],
+      "totalRepVotes": 100690,
+      "totalDemVotes": 92865
+    }
+  }
+}

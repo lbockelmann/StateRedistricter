@@ -1,0 +1,2108 @@
+{
+  "1997": {
+    "1": {
+      "candidates": [
+        [
+          "Bob Burns",
+          3311,
+          "libertarian"
+        ],
+        [
+          "Don Womack",
+          69470,
+          "democrat"
+        ],
+        [
+          "Sonny Callahan",
+          132206,
+          "republican"
+        ],
+        [
+          "<write in>",
+          430,
+          "none"
+        ]
+      ],
+      "totalVotes": 205417,
+      "winner": [
+        "Sonny Callahan",
+        132206,
+        "republican"
+      ],
+      "totalRepVotes": 132206,
+      "totalDemVotes": 69470
+    },
+    "3": {
+      "candidates": [
+        [
+          "Ralph \"R.E.\" Stokes",
+          1983,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          51,
+          "none"
+        ],
+        [
+          "T. D. (Ted) Little",
+          92325,
+          "democrat"
+        ],
+        [
+          "Bob Riley",
+          98353,
+          "republican"
+        ],
+        [
+          "Lucy Lawrence",
+          2335,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 195047,
+      "winner": [
+        "Bob Riley",
+        98353,
+        "republican"
+      ],
+      "totalRepVotes": 98353,
+      "totalDemVotes": 92325
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          80,
+          "none"
+        ],
+        [
+          "T. Franklin Harris",
+          2293,
+          "libertarian"
+        ],
+        [
+          "Mary Lynn Bates",
+          69592,
+          "democrat"
+        ],
+        [
+          "Diane Susan Vogel",
+          2113,
+          "natural law"
+        ],
+        [
+          "Spencer Bachus",
+          180781,
+          "republican"
+        ]
+      ],
+      "totalVotes": 254859,
+      "winner": [
+        "Spencer Bachus",
+        180781,
+        "republican"
+      ],
+      "totalRepVotes": 180781,
+      "totalDemVotes": 69592
+    },
+    "7": {
+      "candidates": [
+        [
+          "Earl F. Hilliard",
+          136651,
+          "democrat"
+        ],
+        [
+          "Joe Powell",
+          52142,
+          "republican"
+        ],
+        [
+          "<write in>",
+          163,
+          "none"
+        ],
+        [
+          "Ken Hager",
+          3157,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 192113,
+      "winner": [
+        "Earl F. Hilliard",
+        136651,
+        "democrat"
+      ],
+      "totalRepVotes": 52142,
+      "totalDemVotes": 136651
+    },
+    "5": {
+      "candidates": [
+        [
+          "Wayne Parker",
+          86727,
+          "republican"
+        ],
+        [
+          "Craig Goodrich",
+          1856,
+          "libertarian"
+        ],
+        [
+          "Robert E (Bud) Cramer Jr.",
+          114442,
+          "democrat"
+        ],
+        [
+          "Shirley J. Madison",
+          2484,
+          "natural law"
+        ],
+        [
+          "<write in>",
+          38,
+          "none"
+        ]
+      ],
+      "totalVotes": 205547,
+      "winner": [
+        "Robert E (Bud) Cramer Jr.",
+        114442,
+        "democrat"
+      ],
+      "totalRepVotes": 86727,
+      "totalDemVotes": 114442
+    },
+    "2": {
+      "candidates": [
+        [
+          "Michael Probst",
+          2653,
+          "libertarian"
+        ],
+        [
+          "Terry Everett",
+          132563,
+          "republican"
+        ],
+        [
+          "<write in>",
+          260,
+          "none"
+        ],
+        [
+          "Bob Gaines",
+          74317,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 209793,
+      "winner": [
+        "Terry Everett",
+        132563,
+        "republican"
+      ],
+      "totalRepVotes": 132563,
+      "totalDemVotes": 74317
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          208,
+          "none"
+        ],
+        [
+          "Robert B. Aderholt",
+          102741,
+          "republican"
+        ],
+        [
+          "Robert T. (Bob) Wilson Jr.",
+          99250,
+          "democrat"
+        ],
+        [
+          "Alan Barksdale",
+          3718,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 205917,
+      "winner": [
+        "Robert B. Aderholt",
+        102741,
+        "republican"
+      ],
+      "totalRepVotes": 102741,
+      "totalDemVotes": 99250
+    }
+  },
+  "2013": {
+    "7": {
+      "candidates": [
+        [
+          "Don Chamberlain",
+          73835,
+          "republican"
+        ],
+        [
+          "Terri A. Sewell",
+          232520,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          203,
+          "none"
+        ]
+      ],
+      "totalVotes": 306558,
+      "winner": [
+        "Terri A. Sewell",
+        232520,
+        "democrat"
+      ],
+      "totalRepVotes": 73835,
+      "totalDemVotes": 232520
+    },
+    "3": {
+      "candidates": [
+        [
+          "Mike Rogers",
+          175306,
+          "republican"
+        ],
+        [
+          "John Andrew Harris",
+          98141,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          483,
+          "none"
+        ]
+      ],
+      "totalVotes": 273930,
+      "winner": [
+        "Mike Rogers",
+        175306,
+        "republican"
+      ],
+      "totalRepVotes": 175306,
+      "totalDemVotes": 98141
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          4302,
+          "none"
+        ],
+        [
+          "Jo Bonner",
+          196374,
+          "republican"
+        ]
+      ],
+      "totalVotes": 200676,
+      "winner": [
+        "Jo Bonner",
+        196374,
+        "republican"
+      ],
+      "totalRepVotes": 196374,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Daniel H. Boman",
+          69706,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          341,
+          "none"
+        ],
+        [
+          "Robert B. Aderholt",
+          199071,
+          "republican"
+        ]
+      ],
+      "totalVotes": 269118,
+      "winner": [
+        "Robert B. Aderholt",
+        199071,
+        "republican"
+      ],
+      "totalRepVotes": 199071,
+      "totalDemVotes": 69706
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          336,
+          "none"
+        ],
+        [
+          "Charlie L. Holley",
+          101772,
+          "democrat"
+        ],
+        [
+          "Mo Brooks",
+          189185,
+          "republican"
+        ]
+      ],
+      "totalVotes": 291293,
+      "winner": [
+        "Mo Brooks",
+        189185,
+        "republican"
+      ],
+      "totalRepVotes": 189185,
+      "totalDemVotes": 101772
+    },
+    "2": {
+      "candidates": [
+        [
+          "Therese Ford",
+          103092,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          270,
+          "none"
+        ],
+        [
+          "Martha Roby",
+          180591,
+          "republican"
+        ]
+      ],
+      "totalVotes": 283953,
+      "winner": [
+        "Martha Roby",
+        180591,
+        "republican"
+      ],
+      "totalRepVotes": 180591,
+      "totalDemVotes": 103092
+    },
+    "6": {
+      "candidates": [
+        [
+          "Penny H. Bailey",
+          88267,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          573,
+          "none"
+        ],
+        [
+          "Spencer Bachus",
+          219262,
+          "republican"
+        ]
+      ],
+      "totalVotes": 308102,
+      "winner": [
+        "Spencer Bachus",
+        219262,
+        "republican"
+      ],
+      "totalRepVotes": 219262,
+      "totalDemVotes": 88267
+    }
+  },
+  "2003": {
+    "7": {
+      "candidates": [
+        [
+          "Lauren Orth McCay",
+          12100,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          474,
+          "none"
+        ],
+        [
+          "Artur Davis",
+          153735,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 166309,
+      "winner": [
+        "Artur Davis",
+        153735,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 153735
+    },
+    "3": {
+      "candidates": [
+        [
+          "George Crispin",
+          2565,
+          "libertarian"
+        ],
+        [
+          "Mike Rogers",
+          91169,
+          "republican"
+        ],
+        [
+          "Joe Turnham",
+          87351,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          138,
+          "none"
+        ]
+      ],
+      "totalVotes": 181223,
+      "winner": [
+        "Mike Rogers",
+        91169,
+        "republican"
+      ],
+      "totalRepVotes": 91169,
+      "totalDemVotes": 87351
+    },
+    "2": {
+      "candidates": [
+        [
+          "Floyd Shackelford",
+          2948,
+          "libertarian"
+        ],
+        [
+          "Charles Woods",
+          55495,
+          "democrat"
+        ],
+        [
+          "Terry Everett",
+          129233,
+          "republican"
+        ],
+        [
+          "<write in>",
+          289,
+          "none"
+        ]
+      ],
+      "totalVotes": 187965,
+      "winner": [
+        "Terry Everett",
+        129233,
+        "republican"
+      ],
+      "totalRepVotes": 129233,
+      "totalDemVotes": 55495
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          144,
+          "none"
+        ],
+        [
+          "Robert E. (Bud) Cramer Jr.",
+          143029,
+          "democrat"
+        ],
+        [
+          "Alan F. Barksdale",
+          3772,
+          "libertarian"
+        ],
+        [
+          "Stephen P. Engel",
+          48226,
+          "republican"
+        ]
+      ],
+      "totalVotes": 195171,
+      "winner": [
+        "Robert E. (Bud) Cramer Jr.",
+        143029,
+        "democrat"
+      ],
+      "totalRepVotes": 48226,
+      "totalDemVotes": 143029
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          121,
+          "none"
+        ],
+        [
+          "Dick Coffee",
+          2957,
+          "libertarian"
+        ],
+        [
+          "Judy McCain Belk",
+          67507,
+          "democrat"
+        ],
+        [
+          "Jo Bonner",
+          108102,
+          "republican"
+        ]
+      ],
+      "totalVotes": 178687,
+      "winner": [
+        "Jo Bonner",
+        108102,
+        "republican"
+      ],
+      "totalRepVotes": 108102,
+      "totalDemVotes": 67507
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          536,
+          "none"
+        ],
+        [
+          "Spencer Bachus",
+          178171,
+          "republican"
+        ],
+        [
+          "J. Holden McAllister",
+          19639,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 198346,
+      "winner": [
+        "Spencer Bachus",
+        178171,
+        "republican"
+      ],
+      "totalRepVotes": 178171,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Tony Hughes McLendon",
+          20858,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          538,
+          "none"
+        ],
+        [
+          "Robert B. Aderholt",
+          139705,
+          "republican"
+        ]
+      ],
+      "totalVotes": 161101,
+      "winner": [
+        "Robert B. Aderholt",
+        139705,
+        "republican"
+      ],
+      "totalRepVotes": 139705,
+      "totalDemVotes": 0
+    }
+  },
+  "1999": {
+    "6": {
+      "candidates": [
+        [
+          "Spencer Bachus",
+          154761,
+          "republican"
+        ],
+        [
+          "<write in>",
+          164,
+          "none"
+        ],
+        [
+          "Donna Wesson Smalley",
+          60657,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 215582,
+      "winner": [
+        "Spencer Bachus",
+        154761,
+        "republican"
+      ],
+      "totalRepVotes": 154761,
+      "totalDemVotes": 60657
+    },
+    "3": {
+      "candidates": [
+        [
+          "Bob Riley",
+          101731,
+          "republican"
+        ],
+        [
+          "<write in>",
+          129,
+          "none"
+        ],
+        [
+          "Joe Turnham",
+          73357,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 175217,
+      "winner": [
+        "Bob Riley",
+        101731,
+        "republican"
+      ],
+      "totalRepVotes": 101731,
+      "totalDemVotes": 73357
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          105,
+          "none"
+        ],
+        [
+          "Terry Everett",
+          131428,
+          "republican"
+        ],
+        [
+          "Joe Fondren",
+          58136,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 189669,
+      "winner": [
+        "Terry Everett",
+        131428,
+        "republican"
+      ],
+      "totalRepVotes": 131428,
+      "totalDemVotes": 58136
+    },
+    "5": {
+      "candidates": [
+        [
+          "Gil Aust",
+          58536,
+          "republican"
+        ],
+        [
+          "Robert E. (Bud) Cramer, Jr.",
+          134819,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          135,
+          "none"
+        ]
+      ],
+      "totalVotes": 193490,
+      "winner": [
+        "Robert E. (Bud) Cramer, Jr.",
+        134819,
+        "democrat"
+      ],
+      "totalRepVotes": 58536,
+      "totalDemVotes": 134819
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          692,
+          "none"
+        ],
+        [
+          "Sonny Callahan",
+          112872,
+          "republican"
+        ]
+      ],
+      "totalVotes": 113564,
+      "winner": [
+        "Sonny Callahan",
+        112872,
+        "republican"
+      ],
+      "totalRepVotes": 112872,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          2750,
+          "none"
+        ],
+        [
+          "Earl F. Hilliard",
+          136431,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 139181,
+      "winner": [
+        "Earl F. Hilliard",
+        136431,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 136431
+    },
+    "4": {
+      "candidates": [
+        [
+          "Don Bevill",
+          82065,
+          "democrat"
+        ],
+        [
+          "Robert B. Aderholt",
+          106297,
+          "republican"
+        ],
+        [
+          "<write in>",
+          114,
+          "none"
+        ]
+      ],
+      "totalVotes": 188476,
+      "winner": [
+        "Robert B. Aderholt",
+        106297,
+        "republican"
+      ],
+      "totalRepVotes": 106297,
+      "totalDemVotes": 82065
+    }
+  },
+  "2005": {
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          315,
+          "none"
+        ],
+        [
+          "Robert E. (Bud) Cramer, Jr.",
+          200999,
+          "democrat"
+        ],
+        [
+          "Gerald (Gerry) Wallace",
+          74145,
+          "republican"
+        ]
+      ],
+      "totalVotes": 275459,
+      "winner": [
+        "Robert E. (Bud) Cramer, Jr.",
+        200999,
+        "democrat"
+      ],
+      "totalRepVotes": 74145,
+      "totalDemVotes": 200999
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          159,
+          "none"
+        ],
+        [
+          "Judy Belk",
+          93938,
+          "democrat"
+        ],
+        [
+          "Jo Bonner",
+          161067,
+          "republican"
+        ]
+      ],
+      "totalVotes": 255164,
+      "winner": [
+        "Jo Bonner",
+        161067,
+        "republican"
+      ],
+      "totalRepVotes": 161067,
+      "totalDemVotes": 93938
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          336,
+          "none"
+        ],
+        [
+          "Robert B. Aderholt",
+          191110,
+          "republican"
+        ],
+        [
+          "Carl Cole",
+          64278,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 255724,
+      "winner": [
+        "Robert B. Aderholt",
+        191110,
+        "republican"
+      ],
+      "totalRepVotes": 191110,
+      "totalDemVotes": 64278
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          299,
+          "none"
+        ],
+        [
+          "Terry Everett",
+          177086,
+          "republican"
+        ],
+        [
+          "Charles D. (Chuck) James",
+          70562,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 247947,
+      "winner": [
+        "Terry Everett",
+        177086,
+        "republican"
+      ],
+      "totalRepVotes": 177086,
+      "totalDemVotes": 70562
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          3224,
+          "none"
+        ],
+        [
+          "Spencer Bachus",
+          264819,
+          "republican"
+        ]
+      ],
+      "totalVotes": 268043,
+      "winner": [
+        "Spencer Bachus",
+        264819,
+        "republican"
+      ],
+      "totalRepVotes": 264819,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Steve F. Cameron",
+          61019,
+          "republican"
+        ],
+        [
+          "<write in>",
+          211,
+          "none"
+        ],
+        [
+          "Artur Davis",
+          183408,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 244638,
+      "winner": [
+        "Artur Davis",
+        183408,
+        "democrat"
+      ],
+      "totalRepVotes": 61019,
+      "totalDemVotes": 183408
+    },
+    "3": {
+      "candidates": [
+        [
+          "Bill Fuller",
+          95240,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          133,
+          "none"
+        ],
+        [
+          "Mike Rogers",
+          150411,
+          "republican"
+        ]
+      ],
+      "totalVotes": 245784,
+      "winner": [
+        "Mike Rogers",
+        150411,
+        "republican"
+      ],
+      "totalRepVotes": 150411,
+      "totalDemVotes": 95240
+    }
+  },
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Bradley Byrne",
+          103758,
+          "republican"
+        ],
+        [
+          "<write in>",
+          198,
+          "none"
+        ],
+        [
+          "Burton R. LeFlore",
+          48278,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 152234,
+      "winner": [
+        "Bradley Byrne",
+        103758,
+        "republican"
+      ],
+      "totalRepVotes": 103758,
+      "totalDemVotes": 48278
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          2212,
+          "none"
+        ],
+        [
+          "Terri A. Sewell",
+          133687,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 135899,
+      "winner": [
+        "Terri A. Sewell",
+        133687,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 133687
+    },
+    "4": {
+      "candidates": [
+        [
+          "Robert B. Aderholt",
+          132831,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1921,
+          "none"
+        ]
+      ],
+      "totalVotes": 134752,
+      "winner": [
+        "Robert B. Aderholt",
+        132831,
+        "republican"
+      ],
+      "totalRepVotes": 132831,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          246,
+          "none"
+        ],
+        [
+          "Jesse T. Smith",
+          52816,
+          "democrat"
+        ],
+        [
+          "Mike Rogers",
+          103558,
+          "republican"
+        ]
+      ],
+      "totalVotes": 156620,
+      "winner": [
+        "Mike Rogers",
+        103558,
+        "republican"
+      ],
+      "totalRepVotes": 103558,
+      "totalDemVotes": 52816
+    },
+    "5": {
+      "candidates": [
+        [
+          "Mark Bray",
+          39005,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          631,
+          "none"
+        ],
+        [
+          "Mo Brooks",
+          115338,
+          "republican"
+        ]
+      ],
+      "totalVotes": 154974,
+      "winner": [
+        "Mo Brooks",
+        115338,
+        "republican"
+      ],
+      "totalRepVotes": 115338,
+      "totalDemVotes": 39005
+    },
+    "2": {
+      "candidates": [
+        [
+          "Martha Roby",
+          113103,
+          "republican"
+        ],
+        [
+          "Erick Wright",
+          54692,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          157,
+          "none"
+        ]
+      ],
+      "totalVotes": 167952,
+      "winner": [
+        "Martha Roby",
+        113103,
+        "republican"
+      ],
+      "totalRepVotes": 113103,
+      "totalDemVotes": 54692
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          213,
+          "none"
+        ],
+        [
+          "Mark Lester",
+          42291,
+          "democrat"
+        ],
+        [
+          "Gary Palmer",
+          135945,
+          "republican"
+        ]
+      ],
+      "totalVotes": 178449,
+      "winner": [
+        "Gary Palmer",
+        135945,
+        "republican"
+      ],
+      "totalRepVotes": 135945,
+      "totalDemVotes": 42291
+    }
+  },
+  "2017": {
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          3519,
+          "none"
+        ],
+        [
+          "Robert B. Aderholt",
+          235925,
+          "republican"
+        ]
+      ],
+      "totalVotes": 239444,
+      "winner": [
+        "Robert B. Aderholt",
+        235925,
+        "republican"
+      ],
+      "totalRepVotes": 235925,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          391,
+          "none"
+        ],
+        [
+          "Mike Rogers",
+          192164,
+          "republican"
+        ],
+        [
+          "Jesse Smith",
+          94549,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 287104,
+      "winner": [
+        "Mike Rogers",
+        192164,
+        "republican"
+      ],
+      "totalRepVotes": 192164,
+      "totalDemVotes": 94549
+    },
+    "2": {
+      "candidates": [
+        [
+          "Nathan Mathis",
+          112089,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          29609,
+          "none"
+        ],
+        [
+          "Martha Roby",
+          134886,
+          "republican"
+        ]
+      ],
+      "totalVotes": 276584,
+      "winner": [
+        "Martha Roby",
+        134886,
+        "republican"
+      ],
+      "totalRepVotes": 134886,
+      "totalDemVotes": 112089
+    },
+    "6": {
+      "candidates": [
+        [
+          "David J. Putnam",
+          83709,
+          "democrat"
+        ],
+        [
+          "Gary J. Palmer",
+          245313,
+          "republican"
+        ],
+        [
+          "<write in>",
+          284,
+          "none"
+        ]
+      ],
+      "totalVotes": 329306,
+      "winner": [
+        "Gary J. Palmer",
+        245313,
+        "republican"
+      ],
+      "totalRepVotes": 245313,
+      "totalDemVotes": 83709
+    },
+    "5": {
+      "candidates": [
+        [
+          "Mo Brooks",
+          205647,
+          "republican"
+        ],
+        [
+          "Will Boyd, Jr.",
+          102234,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          445,
+          "none"
+        ]
+      ],
+      "totalVotes": 308326,
+      "winner": [
+        "Mo Brooks",
+        205647,
+        "republican"
+      ],
+      "totalRepVotes": 205647,
+      "totalDemVotes": 102234
+    },
+    "1": {
+      "candidates": [
+        [
+          "Bradley Byrne",
+          208083,
+          "republican"
+        ],
+        [
+          "<write in>",
+          7810,
+          "none"
+        ]
+      ],
+      "totalVotes": 215893,
+      "winner": [
+        "Bradley Byrne",
+        208083,
+        "republican"
+      ],
+      "totalRepVotes": 208083,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Terri A. Sewell",
+          229330,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          3698,
+          "none"
+        ]
+      ],
+      "totalVotes": 233028,
+      "winner": [
+        "Terri A. Sewell",
+        229330,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 229330
+    }
+  },
+  "2007": {
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          2540,
+          "none"
+        ],
+        [
+          "Robert E. (Bud) Cramer, Jr.",
+          143015,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 145555,
+      "winner": [
+        "Robert E. (Bud) Cramer, Jr.",
+        143015,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 143015
+    },
+    "3": {
+      "candidates": [
+        [
+          "Mike Rogers",
+          98257,
+          "republican"
+        ],
+        [
+          "Mark Edwin Layfield",
+          3414,
+          "independent"
+        ],
+        [
+          "Greg A. Pierce",
+          63559,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          71,
+          "none"
+        ]
+      ],
+      "totalVotes": 165301,
+      "winner": [
+        "Mike Rogers",
+        98257,
+        "republican"
+      ],
+      "totalRepVotes": 98257,
+      "totalDemVotes": 63559
+    },
+    "4": {
+      "candidates": [
+        [
+          "Robert B. Aderholt",
+          128484,
+          "republican"
+        ],
+        [
+          "<write in>",
+          206,
+          "none"
+        ],
+        [
+          "Barbara Bobo",
+          54382,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 183072,
+      "winner": [
+        "Robert B. Aderholt",
+        128484,
+        "republican"
+      ],
+      "totalRepVotes": 128484,
+      "totalDemVotes": 54382
+    },
+    "7": {
+      "candidates": [
+        [
+          "Artur Davis",
+          133870,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          1294,
+          "none"
+        ]
+      ],
+      "totalVotes": 135164,
+      "winner": [
+        "Artur Davis",
+        133870,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 133870
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          127,
+          "none"
+        ],
+        [
+          "Jo Bonner",
+          112944,
+          "republican"
+        ],
+        [
+          "Vivian Sheffield Beckerle",
+          52770,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 165841,
+      "winner": [
+        "Jo Bonner",
+        112944,
+        "republican"
+      ],
+      "totalRepVotes": 112944,
+      "totalDemVotes": 52770
+    },
+    "2": {
+      "candidates": [
+        [
+          "<write in>",
+          167,
+          "none"
+        ],
+        [
+          "Charles (Chuck) Dean James",
+          54450,
+          "democrat"
+        ],
+        [
+          "Terry Everett",
+          124302,
+          "republican"
+        ]
+      ],
+      "totalVotes": 178919,
+      "winner": [
+        "Terry Everett",
+        124302,
+        "republican"
+      ],
+      "totalRepVotes": 124302,
+      "totalDemVotes": 54450
+    },
+    "6": {
+      "candidates": [
+        [
+          "Spencer Bachus",
+          163514,
+          "republican"
+        ],
+        [
+          "<write in>",
+          2786,
+          "none"
+        ]
+      ],
+      "totalVotes": 166300,
+      "winner": [
+        "Spencer Bachus",
+        163514,
+        "republican"
+      ],
+      "totalRepVotes": 163514,
+      "totalDemVotes": 0
+    }
+  },
+  "2011": {
+    "4": {
+      "candidates": [
+        [
+          "Robert B. Aderholt",
+          167714,
+          "republican"
+        ],
+        [
+          "<write in>",
+          2007,
+          "none"
+        ]
+      ],
+      "totalVotes": 169721,
+      "winner": [
+        "Robert B. Aderholt",
+        167714,
+        "republican"
+      ],
+      "totalRepVotes": 167714,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "<write in>",
+          189,
+          "none"
+        ],
+        [
+          "Steve Raby",
+          95192,
+          "democrat"
+        ],
+        [
+          "Mo Brooks",
+          131109,
+          "republican"
+        ]
+      ],
+      "totalVotes": 226490,
+      "winner": [
+        "Mo Brooks",
+        131109,
+        "republican"
+      ],
+      "totalRepVotes": 131109,
+      "totalDemVotes": 95192
+    },
+    "2": {
+      "candidates": [
+        [
+          "Bobby Bright",
+          106865,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          518,
+          "none"
+        ],
+        [
+          "Martha Roby",
+          111645,
+          "republican"
+        ]
+      ],
+      "totalVotes": 219028,
+      "winner": [
+        "Martha Roby",
+        111645,
+        "republican"
+      ],
+      "totalRepVotes": 111645,
+      "totalDemVotes": 106865
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jo Bonner",
+          129063,
+          "republican"
+        ],
+        [
+          "David Walter",
+          26357,
+          "constitution"
+        ],
+        [
+          "<write in>",
+          861,
+          "none"
+        ]
+      ],
+      "totalVotes": 156281,
+      "winner": [
+        "Jo Bonner",
+        129063,
+        "republican"
+      ],
+      "totalRepVotes": 129063,
+      "totalDemVotes": 0
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          4076,
+          "none"
+        ],
+        [
+          "Spencer Bachus",
+          205288,
+          "republican"
+        ]
+      ],
+      "totalVotes": 209364,
+      "winner": [
+        "Spencer Bachus",
+        205288,
+        "republican"
+      ],
+      "totalRepVotes": 205288,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          138,
+          "none"
+        ],
+        [
+          "Terri A. Sewell",
+          136696,
+          "democrat"
+        ],
+        [
+          "Don Chamberlain",
+          51890,
+          "republican"
+        ]
+      ],
+      "totalVotes": 188724,
+      "winner": [
+        "Terri A. Sewell",
+        136696,
+        "democrat"
+      ],
+      "totalRepVotes": 51890,
+      "totalDemVotes": 136696
+    },
+    "3": {
+      "candidates": [
+        [
+          "Mike Rogers",
+          117736,
+          "republican"
+        ],
+        [
+          "Steve Segrest",
+          80204,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          199,
+          "none"
+        ]
+      ],
+      "totalVotes": 198139,
+      "winner": [
+        "Mike Rogers",
+        117736,
+        "republican"
+      ],
+      "totalRepVotes": 117736,
+      "totalDemVotes": 80204
+    }
+  },
+  "2009": {
+    "5": {
+      "candidates": [
+        [
+          "Wayne Parker",
+          147314,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1644,
+          "none"
+        ],
+        [
+          "Parker Griffith",
+          158324,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 307282,
+      "winner": [
+        "Parker Griffith",
+        158324,
+        "democrat"
+      ],
+      "totalRepVotes": 147314,
+      "totalDemVotes": 158324
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jay Love",
+          142578,
+          "republican"
+        ],
+        [
+          "<write in>",
+          448,
+          "none"
+        ],
+        [
+          "Bobby Bright",
+          144368,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 287394,
+      "winner": [
+        "Bobby Bright",
+        144368,
+        "democrat"
+      ],
+      "totalRepVotes": 142578,
+      "totalDemVotes": 144368
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jo Bonner",
+          210660,
+          "republican"
+        ],
+        [
+          "<write in>",
+          3707,
+          "none"
+        ]
+      ],
+      "totalVotes": 214367,
+      "winner": [
+        "Jo Bonner",
+        210660,
+        "republican"
+      ],
+      "totalRepVotes": 210660,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Artur Davis",
+          228518,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          3183,
+          "none"
+        ]
+      ],
+      "totalVotes": 231701,
+      "winner": [
+        "Artur Davis",
+        228518,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 228518
+    },
+    "4": {
+      "candidates": [
+        [
+          "<write in>",
+          349,
+          "none"
+        ],
+        [
+          "Robert B. Aderholt",
+          196741,
+          "republican"
+        ],
+        [
+          "Nicholas B. Sparks",
+          66077,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 263167,
+      "winner": [
+        "Robert B. Aderholt",
+        196741,
+        "republican"
+      ],
+      "totalRepVotes": 196741,
+      "totalDemVotes": 66077
+    },
+    "3": {
+      "candidates": [
+        [
+          "<write in>",
+          332,
+          "none"
+        ],
+        [
+          "Joshua Segall",
+          121080,
+          "democrat"
+        ],
+        [
+          "Mike Rogers",
+          142708,
+          "republican"
+        ]
+      ],
+      "totalVotes": 264120,
+      "winner": [
+        "Mike Rogers",
+        142708,
+        "republican"
+      ],
+      "totalRepVotes": 142708,
+      "totalDemVotes": 121080
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          6335,
+          "none"
+        ],
+        [
+          "Spencer Bachus",
+          280902,
+          "republican"
+        ]
+      ],
+      "totalVotes": 287237,
+      "winner": [
+        "Spencer Bachus",
+        280902,
+        "republican"
+      ],
+      "totalRepVotes": 280902,
+      "totalDemVotes": 0
+    }
+  },
+  "2001": {
+    "5": {
+      "candidates": [
+        [
+          "Robert E. (Bud) Cramer, Jr.",
+          186059,
+          "democrat"
+        ],
+        [
+          "Alan Barksdale",
+          22110,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          1345,
+          "none"
+        ]
+      ],
+      "totalVotes": 209514,
+      "winner": [
+        "Robert E. (Bud) Cramer, Jr.",
+        186059,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 186059
+    },
+    "3": {
+      "candidates": [
+        [
+          "Bob Riley",
+          147317,
+          "republican"
+        ],
+        [
+          "John Sophocleus",
+          21119,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          1083,
+          "none"
+        ]
+      ],
+      "totalVotes": 169519,
+      "winner": [
+        "Bob Riley",
+        147317,
+        "republican"
+      ],
+      "totalRepVotes": 147317,
+      "totalDemVotes": 0
+    },
+    "7": {
+      "candidates": [
+        [
+          "Ed Martin",
+          46134,
+          "republican"
+        ],
+        [
+          "<write in>",
+          427,
+          "none"
+        ],
+        [
+          "Earl F. Hilliard",
+          148243,
+          "democrat"
+        ],
+        [
+          "Ken Hager",
+          3829,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 198633,
+      "winner": [
+        "Earl F. Hilliard",
+        148243,
+        "democrat"
+      ],
+      "totalRepVotes": 46134,
+      "totalDemVotes": 148243
+    },
+    "4": {
+      "candidates": [
+        [
+          "Marsha Folsom",
+          86400,
+          "democrat"
+        ],
+        [
+          "Robert B. Aderholt",
+          140009,
+          "republican"
+        ],
+        [
+          "Craig Goodrich",
+          3519,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          1178,
+          "none"
+        ]
+      ],
+      "totalVotes": 231106,
+      "winner": [
+        "Robert B. Aderholt",
+        140009,
+        "republican"
+      ],
+      "totalRepVotes": 140009,
+      "totalDemVotes": 86400
+    },
+    "1": {
+      "candidates": [
+        [
+          "Sonny Callahan",
+          151188,
+          "republican"
+        ],
+        [
+          "Dick Coffee",
+          14031,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          450,
+          "none"
+        ]
+      ],
+      "totalVotes": 165669,
+      "winner": [
+        "Sonny Callahan",
+        151188,
+        "republican"
+      ],
+      "totalRepVotes": 151188,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Terry Everett",
+          151830,
+          "republican"
+        ],
+        [
+          "<write in>",
+          1737,
+          "none"
+        ],
+        [
+          "Wallace B. McGahan",
+          4111,
+          "libertarian"
+        ],
+        [
+          "Charles Woods",
+          64958,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 222636,
+      "winner": [
+        "Terry Everett",
+        151830,
+        "republican"
+      ],
+      "totalRepVotes": 151830,
+      "totalDemVotes": 64958
+    },
+    "6": {
+      "candidates": [
+        [
+          "<write in>",
+          977,
+          "none"
+        ],
+        [
+          "Spencer Bachus",
+          212751,
+          "republican"
+        ],
+        [
+          "Terry Reagin",
+          28189,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 241917,
+      "winner": [
+        "Spencer Bachus",
+        212751,
+        "republican"
+      ],
+      "totalRepVotes": 212751,
+      "totalDemVotes": 0
+    }
+  }
+}

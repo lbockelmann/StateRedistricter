@@ -1,0 +1,855 @@
+{
+  "2001": {
+    "2": {
+      "candidates": [
+        [
+          "Shelley Kiel",
+          70268,
+          "democrat"
+        ],
+        [
+          "John J. Graziano",
+          6856,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          245,
+          "none"
+        ],
+        [
+          "Lee Terry",
+          148911,
+          "republican"
+        ]
+      ],
+      "totalVotes": 226280,
+      "winner": [
+        "Lee Terry",
+        148911,
+        "republican"
+      ],
+      "totalRepVotes": 148911,
+      "totalDemVotes": 70268
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jerry Hickman",
+          4909,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          123,
+          "none"
+        ],
+        [
+          "Tom Osborne",
+          182117,
+          "republican"
+        ],
+        [
+          "Roland E. Reynolds",
+          34944,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 222093,
+      "winner": [
+        "Tom Osborne",
+        182117,
+        "republican"
+      ],
+      "totalRepVotes": 182117,
+      "totalDemVotes": 34944
+    },
+    "1": {
+      "candidates": [
+        [
+          "David Oenbring",
+          6147,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          207,
+          "none"
+        ],
+        [
+          "Alan Jacobsen",
+          72859,
+          "democrat"
+        ],
+        [
+          "Doug Bereuter",
+          155485,
+          "republican"
+        ]
+      ],
+      "totalVotes": 234698,
+      "winner": [
+        "Doug Bereuter",
+        155485,
+        "republican"
+      ],
+      "totalRepVotes": 155485,
+      "totalDemVotes": 72859
+    }
+  },
+  "2003": {
+    "3": {
+      "candidates": [
+        [
+          "Jerry Hickman",
+          12017,
+          "libertarian"
+        ],
+        [
+          "Tom Osborne",
+          163939,
+          "republican"
+        ]
+      ],
+      "totalVotes": 175956,
+      "winner": [
+        "Tom Osborne",
+        163939,
+        "republican"
+      ],
+      "totalRepVotes": 163939,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Robert Eckerson",
+          22831,
+          "libertarian"
+        ],
+        [
+          "Doug Bereuter",
+          133013,
+          "republican"
+        ]
+      ],
+      "totalVotes": 155844,
+      "winner": [
+        "Doug Bereuter",
+        133013,
+        "republican"
+      ],
+      "totalRepVotes": 133013,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Dave Stock",
+          2018,
+          "libertarian"
+        ],
+        [
+          "Jim Simon",
+          46843,
+          "democrat"
+        ],
+        [
+          "Lee Terry",
+          89917,
+          "republican"
+        ],
+        [
+          "Doug Paterson",
+          3236,
+          "green"
+        ]
+      ],
+      "totalVotes": 142014,
+      "winner": [
+        "Lee Terry",
+        89917,
+        "republican"
+      ],
+      "totalRepVotes": 89917,
+      "totalDemVotes": 46843
+    }
+  },
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "Jeff Fortenberry",
+          123219,
+          "republican"
+        ],
+        [
+          "Dennis P. Crawford",
+          55838,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 179057,
+      "winner": [
+        "Jeff Fortenberry",
+        123219,
+        "republican"
+      ],
+      "totalRepVotes": 123219,
+      "totalDemVotes": 55838
+    },
+    "3": {
+      "candidates": [
+        [
+          "Adrian Smith",
+          139440,
+          "republican"
+        ],
+        [
+          "Mark Sullivan",
+          45524,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 184964,
+      "winner": [
+        "Adrian Smith",
+        139440,
+        "republican"
+      ],
+      "totalRepVotes": 139440,
+      "totalDemVotes": 45524
+    },
+    "2": {
+      "candidates": [
+        [
+          "Brad Ashford",
+          83872,
+          "democrat"
+        ],
+        [
+          "scatter",
+          459,
+          "none"
+        ],
+        [
+          "Steven Laird",
+          9021,
+          "libertarian"
+        ],
+        [
+          "Lee Terry",
+          78157,
+          "republican"
+        ]
+      ],
+      "totalVotes": 171509,
+      "winner": [
+        "Brad Ashford",
+        83872,
+        "democrat"
+      ],
+      "totalRepVotes": 78157,
+      "totalDemVotes": 83872
+    }
+  },
+  "2007": {
+    "3": {
+      "candidates": [
+        [
+          "Adrian Smith",
+          113687,
+          "republican"
+        ],
+        [
+          "Scott Kleeb",
+          93046,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 206733,
+      "winner": [
+        "Adrian Smith",
+        113687,
+        "republican"
+      ],
+      "totalRepVotes": 113687,
+      "totalDemVotes": 93046
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jeff Fortenberry",
+          121015,
+          "republican"
+        ],
+        [
+          "Maxine B. Moul",
+          86360,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 207375,
+      "winner": [
+        "Jeff Fortenberry",
+        121015,
+        "republican"
+      ],
+      "totalRepVotes": 121015,
+      "totalDemVotes": 86360
+    },
+    "2": {
+      "candidates": [
+        [
+          "Lee Terry",
+          99475,
+          "republican"
+        ],
+        [
+          "Jim Esch",
+          82504,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 181979,
+      "winner": [
+        "Lee Terry",
+        99475,
+        "republican"
+      ],
+      "totalRepVotes": 99475,
+      "totalDemVotes": 82504
+    }
+  },
+  "1999": {
+    "3": {
+      "candidates": [
+        [
+          "Jerry Hickman",
+          27278,
+          "libertarian"
+        ],
+        [
+          "<write in>",
+          555,
+          "none"
+        ],
+        [
+          "Bill Barrett",
+          149896,
+          "republican"
+        ]
+      ],
+      "totalVotes": 177729,
+      "winner": [
+        "Bill Barrett",
+        149896,
+        "republican"
+      ],
+      "totalRepVotes": 149896,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Doug Bereuter",
+          136058,
+          "republican"
+        ],
+        [
+          "<write in>",
+          343,
+          "none"
+        ],
+        [
+          "Don Eret",
+          48826,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 185227,
+      "winner": [
+        "Doug Bereuter",
+        136058,
+        "republican"
+      ],
+      "totalRepVotes": 136058,
+      "totalDemVotes": 48826
+    },
+    "2": {
+      "candidates": [
+        [
+          "Lee Terry",
+          106782,
+          "republican"
+        ],
+        [
+          "Michael Scott",
+          55722,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          499,
+          "none"
+        ]
+      ],
+      "totalVotes": 163003,
+      "winner": [
+        "Lee Terry",
+        106782,
+        "republican"
+      ],
+      "totalRepVotes": 106782,
+      "totalDemVotes": 55722
+    }
+  },
+  "2011": {
+    "3": {
+      "candidates": [
+        [
+          "Rebekah Davis",
+          29932,
+          "democrat"
+        ],
+        [
+          "Dan Hill",
+          20036,
+          "none"
+        ],
+        [
+          "Adrian Smith",
+          117275,
+          "republican"
+        ]
+      ],
+      "totalVotes": 167243,
+      "winner": [
+        "Adrian Smith",
+        117275,
+        "republican"
+      ],
+      "totalRepVotes": 117275,
+      "totalDemVotes": 29932
+    },
+    "1": {
+      "candidates": [
+        [
+          "Ivy Harper",
+          47106,
+          "democrat"
+        ],
+        [
+          "Jeff Fortenberry",
+          116871,
+          "republican"
+        ]
+      ],
+      "totalVotes": 163977,
+      "winner": [
+        "Jeff Fortenberry",
+        116871,
+        "republican"
+      ],
+      "totalRepVotes": 116871,
+      "totalDemVotes": 47106
+    },
+    "2": {
+      "candidates": [
+        [
+          "Tom White",
+          60486,
+          "democrat"
+        ],
+        [
+          "Lee Terry",
+          93840,
+          "republican"
+        ]
+      ],
+      "totalVotes": 154326,
+      "winner": [
+        "Lee Terry",
+        93840,
+        "republican"
+      ],
+      "totalRepVotes": 93840,
+      "totalDemVotes": 60486
+    }
+  },
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "Lee Terry",
+          152608,
+          "republican"
+        ],
+        [
+          "Nancy Thompson",
+          90292,
+          "democrat"
+        ],
+        [
+          "Dante Salvatierra",
+          2208,
+          "green"
+        ],
+        [
+          "Jack Graziano",
+          4656,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 249764,
+      "winner": [
+        "Lee Terry",
+        152608,
+        "republican"
+      ],
+      "totalRepVotes": 152608,
+      "totalDemVotes": 90292
+    },
+    "3": {
+      "candidates": [
+        [
+          "Donna J. Anderson",
+          26434,
+          "democrat"
+        ],
+        [
+          "Roy Guisinger",
+          1555,
+          "green"
+        ],
+        [
+          "Tom Osborne",
+          218751,
+          "republican"
+        ],
+        [
+          "Joseph A. Rosberg",
+          3396,
+          "nebraska party"
+        ]
+      ],
+      "totalVotes": 250136,
+      "winner": [
+        "Tom Osborne",
+        218751,
+        "republican"
+      ],
+      "totalRepVotes": 218751,
+      "totalDemVotes": 26434
+    },
+    "1": {
+      "candidates": [
+        [
+          "Steve Larrick",
+          7345,
+          "green"
+        ],
+        [
+          "Matt Connealy",
+          113971,
+          "democrat"
+        ],
+        [
+          "Jeff Fortenberry",
+          143756,
+          "republican"
+        ]
+      ],
+      "totalVotes": 265072,
+      "winner": [
+        "Jeff Fortenberry",
+        143756,
+        "republican"
+      ],
+      "totalRepVotes": 143756,
+      "totalDemVotes": 113971
+    }
+  },
+  "1997": {
+    "1": {
+      "candidates": [
+        [
+          "Doug Bereuter",
+          157108,
+          "republican"
+        ],
+        [
+          "Patrick J. Combs",
+          67152,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 224260,
+      "winner": [
+        "Doug Bereuter",
+        157108,
+        "republican"
+      ],
+      "totalRepVotes": 157108,
+      "totalDemVotes": 67152
+    },
+    "2": {
+      "candidates": [
+        [
+          "Patricia A. Dunn",
+          4369,
+          "natural law"
+        ],
+        [
+          "James Martin Davis",
+          88447,
+          "democrat"
+        ],
+        [
+          "Phillip E. Torrison",
+          1921,
+          "libertarian"
+        ],
+        [
+          "Jon Christensen",
+          125201,
+          "republican"
+        ]
+      ],
+      "totalVotes": 219938,
+      "winner": [
+        "Jon Christensen",
+        125201,
+        "republican"
+      ],
+      "totalRepVotes": 125201,
+      "totalDemVotes": 88447
+    },
+    "3": {
+      "candidates": [
+        [
+          "John Webster",
+          48833,
+          "democrat"
+        ],
+        [
+          "Bill Barrett",
+          167758,
+          "republican"
+        ]
+      ],
+      "totalVotes": 216591,
+      "winner": [
+        "Bill Barrett",
+        167758,
+        "republican"
+      ],
+      "totalRepVotes": 167758,
+      "totalDemVotes": 48833
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "Don Bacon",
+          141066,
+          "republican"
+        ],
+        [
+          "Steven Laird",
+          9640,
+          "libertarian"
+        ],
+        [
+          "Brad Ashford",
+          137602,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 288308,
+      "winner": [
+        "Don Bacon",
+        141066,
+        "republican"
+      ],
+      "totalRepVotes": 141066,
+      "totalDemVotes": 137602
+    },
+    "3": {
+      "candidates": [
+        [
+          "Adrian Smith",
+          226720,
+          "republican"
+        ]
+      ],
+      "totalVotes": 226720,
+      "winner": [
+        "Adrian Smith",
+        226720,
+        "republican"
+      ],
+      "totalRepVotes": 226720,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Daniel M. Wik",
+          83467,
+          "democrat"
+        ],
+        [
+          "Jeff Fortenberry",
+          189771,
+          "republican"
+        ]
+      ],
+      "totalVotes": 273238,
+      "winner": [
+        "Jeff Fortenberry",
+        189771,
+        "republican"
+      ],
+      "totalRepVotes": 189771,
+      "totalDemVotes": 83467
+    }
+  },
+  "2009": {
+    "3": {
+      "candidates": [
+        [
+          "Adrian Smith",
+          183117,
+          "republican"
+        ],
+        [
+          "Jay C. Stoddard",
+          55087,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 238204,
+      "winner": [
+        "Adrian Smith",
+        183117,
+        "republican"
+      ],
+      "totalRepVotes": 183117,
+      "totalDemVotes": 55087
+    },
+    "1": {
+      "candidates": [
+        [
+          "Max Yashirin",
+          77897,
+          "democrat"
+        ],
+        [
+          "Jeff Fortenberry",
+          184923,
+          "republican"
+        ]
+      ],
+      "totalVotes": 262820,
+      "winner": [
+        "Jeff Fortenberry",
+        184923,
+        "republican"
+      ],
+      "totalRepVotes": 184923,
+      "totalDemVotes": 77897
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Esch",
+          131901,
+          "democrat"
+        ],
+        [
+          "Lee Terry",
+          142473,
+          "republican"
+        ]
+      ],
+      "totalVotes": 274374,
+      "winner": [
+        "Lee Terry",
+        142473,
+        "republican"
+      ],
+      "totalRepVotes": 142473,
+      "totalDemVotes": 131901
+    }
+  },
+  "2013": {
+    "3": {
+      "candidates": [
+        [
+          "Mark Sullivan",
+          65266,
+          "democrat"
+        ],
+        [
+          "Adrian Smith",
+          187423,
+          "republican"
+        ]
+      ],
+      "totalVotes": 252689,
+      "winner": [
+        "Adrian Smith",
+        187423,
+        "republican"
+      ],
+      "totalRepVotes": 187423,
+      "totalDemVotes": 65266
+    },
+    "2": {
+      "candidates": [
+        [
+          "Lee Terry",
+          133964,
+          "republican"
+        ],
+        [
+          "John W. Ewing, Jr.",
+          129767,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 263731,
+      "winner": [
+        "Lee Terry",
+        133964,
+        "republican"
+      ],
+      "totalRepVotes": 133964,
+      "totalDemVotes": 129767
+    },
+    "1": {
+      "candidates": [
+        [
+          "Korey L. Reiman",
+          81206,
+          "democrat"
+        ],
+        [
+          "Jeff Fortenberry",
+          174889,
+          "republican"
+        ]
+      ],
+      "totalVotes": 256095,
+      "winner": [
+        "Jeff Fortenberry",
+        174889,
+        "republican"
+      ],
+      "totalRepVotes": 174889,
+      "totalDemVotes": 81206
+    }
+  }
+}

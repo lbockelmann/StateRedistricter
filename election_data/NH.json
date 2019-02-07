@@ -1,0 +1,688 @@
+{
+  "2017": {
+    "1": {
+      "candidates": [
+        [
+          "scatter",
+          194,
+          "none"
+        ],
+        [
+          "Shawn P. O'Connor",
+          34735,
+          "independent"
+        ],
+        [
+          "Carol Shea-Porter",
+          162080,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          55,
+          "none"
+        ],
+        [
+          "Brendan Kelly",
+          6074,
+          "independent"
+        ],
+        [
+          "John Potucek",
+          163,
+          "none"
+        ],
+        [
+          "Robert Lombardo",
+          5507,
+          "libertarian"
+        ],
+        [
+          "Frank C. Guinta",
+          157176,
+          "republican"
+        ]
+      ],
+      "totalVotes": 365984,
+      "winner": [
+        "Carol Shea-Porter",
+        162080,
+        "democrat"
+      ],
+      "totalRepVotes": 157176,
+      "totalDemVotes": 162080
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Lawrence",
+          158825,
+          "republican"
+        ],
+        [
+          "John J. Babiarz",
+          17076,
+          "independent"
+        ],
+        [
+          "scatter",
+          237,
+          "none"
+        ],
+        [
+          "Ann M. Kuster",
+          174371,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 350509,
+      "winner": [
+        "Ann M. Kuster",
+        174371,
+        "democrat"
+      ],
+      "totalRepVotes": 158825,
+      "totalDemVotes": 174371
+    }
+  },
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "Paul W. Hodes",
+          125280,
+          "democrat"
+        ],
+        [
+          "Richard B. Kahn",
+          11311,
+          "libertarian"
+        ],
+        [
+          "Blank Vote/Scattering",
+          415,
+          "none"
+        ],
+        [
+          "Charles F. Bass",
+          191188,
+          "republican"
+        ]
+      ],
+      "totalVotes": 328194,
+      "winner": [
+        "Charles F. Bass",
+        191188,
+        "republican"
+      ],
+      "totalRepVotes": 191188,
+      "totalDemVotes": 125280
+    },
+    "1": {
+      "candidates": [
+        [
+          "Blank Vote/Scattering",
+          310,
+          "none"
+        ],
+        [
+          "Jeb Bradley",
+          204836,
+          "republican"
+        ],
+        [
+          "Justin Nadeau",
+          118226,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 323372,
+      "winner": [
+        "Jeb Bradley",
+        204836,
+        "republican"
+      ],
+      "totalRepVotes": 204836,
+      "totalDemVotes": 118226
+    }
+  },
+  "2015": {
+    "1": {
+      "candidates": [
+        [
+          "scatter",
+          459,
+          "none"
+        ],
+        [
+          "Frank C. Guinta",
+          125508,
+          "republican"
+        ],
+        [
+          "Carol Shea-Porter",
+          116769,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 242736,
+      "winner": [
+        "Frank C. Guinta",
+        125508,
+        "republican"
+      ],
+      "totalRepVotes": 125508,
+      "totalDemVotes": 116769
+    },
+    "2": {
+      "candidates": [
+        [
+          "Ann M. Kuster",
+          130700,
+          "democrat"
+        ],
+        [
+          "scatter",
+          613,
+          "none"
+        ],
+        [
+          "Marilinda Garcia",
+          106871,
+          "republican"
+        ]
+      ],
+      "totalVotes": 238184,
+      "winner": [
+        "Ann M. Kuster",
+        130700,
+        "democrat"
+      ],
+      "totalRepVotes": 106871,
+      "totalDemVotes": 130700
+    }
+  },
+  "2003": {
+    "2": {
+      "candidates": [
+        [
+          "scatter",
+          122,
+          "none"
+        ],
+        [
+          "Katrina Swett",
+          90479,
+          "democrat"
+        ],
+        [
+          "Rosalie T. Babiarz",
+          5051,
+          "libertarian"
+        ],
+        [
+          "Charles Bass",
+          125804,
+          "republican"
+        ]
+      ],
+      "totalVotes": 221456,
+      "winner": [
+        "Charles Bass",
+        125804,
+        "republican"
+      ],
+      "totalRepVotes": 125804,
+      "totalDemVotes": 90479
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jeb Bradley",
+          128993,
+          "republican"
+        ],
+        [
+          "Martha Fuller",
+          85426,
+          "democrat"
+        ],
+        [
+          "scatter",
+          181,
+          "none"
+        ],
+        [
+          "Dan Belforti",
+          7387,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 221987,
+      "winner": [
+        "Jeb Bradley",
+        128993,
+        "republican"
+      ],
+      "totalRepVotes": 128993,
+      "totalDemVotes": 85426
+    }
+  },
+  "1999": {
+    "2": {
+      "candidates": [
+        [
+          "Charles F. Bass",
+          85740,
+          "republican"
+        ],
+        [
+          "Paula Werme",
+          3338,
+          "libertarian"
+        ],
+        [
+          "Mary Rauh",
+          72217,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 161295,
+      "winner": [
+        "Charles F. Bass",
+        85740,
+        "republican"
+      ],
+      "totalRepVotes": 85740,
+      "totalDemVotes": 72217
+    },
+    "1": {
+      "candidates": [
+        [
+          "John E. Sununu",
+          104430,
+          "republican"
+        ],
+        [
+          "Peter Flood",
+          51783,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 156213,
+      "winner": [
+        "John E. Sununu",
+        104430,
+        "republican"
+      ],
+      "totalRepVotes": 104430,
+      "totalDemVotes": 51783
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Roy Kendel",
+          3726,
+          "independent american"
+        ],
+        [
+          "Carole Lamirande",
+          10753,
+          "independent"
+        ],
+        [
+          "Charles F. Bass",
+          122957,
+          "republican"
+        ],
+        [
+          "Deborah Arnie Arnesen",
+          105824,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 243260,
+      "winner": [
+        "Charles F. Bass",
+        122957,
+        "republican"
+      ],
+      "totalRepVotes": 122957,
+      "totalDemVotes": 105824
+    },
+    "1": {
+      "candidates": [
+        [
+          "Joe Keefe",
+          115462,
+          "democrat"
+        ],
+        [
+          "Gary A. Flanders",
+          8176,
+          "libertarian"
+        ],
+        [
+          "John E. Sununu",
+          123939,
+          "republican"
+        ]
+      ],
+      "totalVotes": 247577,
+      "winner": [
+        "John E. Sununu",
+        123939,
+        "republican"
+      ],
+      "totalRepVotes": 123939,
+      "totalDemVotes": 115462
+    }
+  },
+  "2009": {
+    "1": {
+      "candidates": [
+        [
+          "Jeb Bradley",
+          156338,
+          "republican"
+        ],
+        [
+          "Carol Shea-Porter",
+          176435,
+          "democrat"
+        ],
+        [
+          "Robert Kingsbury",
+          8100,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 340873,
+      "winner": [
+        "Carol Shea-Porter",
+        176435,
+        "democrat"
+      ],
+      "totalRepVotes": 156338,
+      "totalDemVotes": 176435
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jennifer Horn",
+          138222,
+          "republican"
+        ],
+        [
+          "Chester L. Lapointe II",
+          7121,
+          "libertarian"
+        ],
+        [
+          "Paul W. Hodes",
+          188332,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 333675,
+      "winner": [
+        "Paul W. Hodes",
+        188332,
+        "democrat"
+      ],
+      "totalRepVotes": 138222,
+      "totalDemVotes": 188332
+    }
+  },
+  "2011": {
+    "1": {
+      "candidates": [
+        [
+          "Philip Hodson",
+          7966,
+          "libertarian"
+        ],
+        [
+          "Frank C. Guinta",
+          121655,
+          "republican"
+        ],
+        [
+          "Carol Shea-Porter",
+          95503,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 225124,
+      "winner": [
+        "Frank C. Guinta",
+        121655,
+        "republican"
+      ],
+      "totalRepVotes": 121655,
+      "totalDemVotes": 95503
+    },
+    "2": {
+      "candidates": [
+        [
+          "Tim vanBlommesteyn",
+          6197,
+          "independent"
+        ],
+        [
+          "Howard L. Wilson",
+          4796,
+          "libertarian"
+        ],
+        [
+          "Ann McLane Kuster",
+          105060,
+          "democrat"
+        ],
+        [
+          "Charles Bass",
+          108610,
+          "republican"
+        ]
+      ],
+      "totalVotes": 224663,
+      "winner": [
+        "Charles Bass",
+        108610,
+        "republican"
+      ],
+      "totalRepVotes": 108610,
+      "totalDemVotes": 105060
+    }
+  },
+  "2001": {
+    "1": {
+      "candidates": [
+        [
+          "Martha Fuller Clark",
+          128387,
+          "democrat"
+        ],
+        [
+          "Dan Belforti",
+          5713,
+          "libertarian"
+        ],
+        [
+          "John E. Sununu",
+          150609,
+          "republican"
+        ]
+      ],
+      "totalVotes": 284709,
+      "winner": [
+        "John E. Sununu",
+        150609,
+        "republican"
+      ],
+      "totalRepVotes": 150609,
+      "totalDemVotes": 128387
+    },
+    "2": {
+      "candidates": [
+        [
+          "Barney Brannen",
+          110367,
+          "democrat"
+        ],
+        [
+          "Brian Christeson",
+          6188,
+          "libertarian"
+        ],
+        [
+          "Roy Kendel",
+          2204,
+          "constitution"
+        ],
+        [
+          "Charles F. Bass",
+          152581,
+          "republican"
+        ]
+      ],
+      "totalVotes": 271340,
+      "winner": [
+        "Charles F. Bass",
+        152581,
+        "republican"
+      ],
+      "totalRepVotes": 152581,
+      "totalDemVotes": 110367
+    }
+  },
+  "2007": {
+    "1": {
+      "candidates": [
+        [
+          "Carol Shea-Porter",
+          100691,
+          "democrat"
+        ],
+        [
+          "Jeb Bradley",
+          95527,
+          "republican"
+        ],
+        [
+          "scatter",
+          159,
+          "none"
+        ]
+      ],
+      "totalVotes": 196377,
+      "winner": [
+        "Carol Shea-Porter",
+        100691,
+        "democrat"
+      ],
+      "totalRepVotes": 95527,
+      "totalDemVotes": 100691
+    },
+    "2": {
+      "candidates": [
+        [
+          "scatter",
+          156,
+          "none"
+        ],
+        [
+          "Charles F. Bass",
+          94088,
+          "republican"
+        ],
+        [
+          "Paul W. Hodes",
+          108743,
+          "democrat"
+        ],
+        [
+          "\"Ken\" Blevens",
+          3305,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 206292,
+      "winner": [
+        "Paul W. Hodes",
+        108743,
+        "democrat"
+      ],
+      "totalRepVotes": 94088,
+      "totalDemVotes": 108743
+    }
+  },
+  "2013": {
+    "1": {
+      "candidates": [
+        [
+          "Carol Shea-Porter",
+          171650,
+          "democrat"
+        ],
+        [
+          "Frank C. Guinta",
+          158659,
+          "republican"
+        ],
+        [
+          "scatter",
+          192,
+          "none"
+        ],
+        [
+          "Brendan Kelly",
+          14521,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 345022,
+      "winner": [
+        "Carol Shea-Porter",
+        171650,
+        "democrat"
+      ],
+      "totalRepVotes": 158659,
+      "totalDemVotes": 171650
+    },
+    "2": {
+      "candidates": [
+        [
+          "scatter",
+          206,
+          "none"
+        ],
+        [
+          "Ann McLane Kuster",
+          169275,
+          "democrat"
+        ],
+        [
+          "Charles F. Bass",
+          152977,
+          "republican"
+        ],
+        [
+          "Hardy Macia",
+          14936,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 337394,
+      "winner": [
+        "Ann McLane Kuster",
+        169275,
+        "democrat"
+      ],
+      "totalRepVotes": 152977,
+      "totalDemVotes": 169275
+    }
+  }
+}

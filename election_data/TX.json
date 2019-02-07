@@ -1,0 +1,9745 @@
+{
+  "2003": {
+    "30": {
+      "candidates": [
+        [
+          "Eddie Bernice Johnson",
+          88980,
+          "democrat"
+        ],
+        [
+          "Ron Bush",
+          28981,
+          "republican"
+        ],
+        [
+          "Lance Flores",
+          1856,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 119817,
+      "winner": [
+        "Eddie Bernice Johnson",
+        88980,
+        "democrat"
+      ],
+      "totalRepVotes": 28981,
+      "totalDemVotes": 88980
+    },
+    "23": {
+      "candidates": [
+        [
+          "Jeffrey C. Blunt",
+          1106,
+          "libertarian"
+        ],
+        [
+          "Henry Cuellar",
+          71067,
+          "democrat"
+        ],
+        [
+          "Ed Scharf",
+          806,
+          "green"
+        ],
+        [
+          "Henry Bonilla",
+          77573,
+          "republican"
+        ]
+      ],
+      "totalVotes": 150552,
+      "winner": [
+        "Henry Bonilla",
+        77573,
+        "republican"
+      ],
+      "totalRepVotes": 77573,
+      "totalDemVotes": 71067
+    },
+    "4": {
+      "candidates": [
+        [
+          "John Graves",
+          67939,
+          "republican"
+        ],
+        [
+          "Barbara Robinson",
+          3042,
+          "libertarian"
+        ],
+        [
+          "Ralph M. Hall",
+          97304,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 168285,
+      "winner": [
+        "Ralph M. Hall",
+        97304,
+        "democrat"
+      ],
+      "totalRepVotes": 67939,
+      "totalDemVotes": 97304
+    },
+    "17": {
+      "candidates": [
+        [
+          "Rob Beckham",
+          77622,
+          "republican"
+        ],
+        [
+          "Fred Jones",
+          2046,
+          "libertarian"
+        ],
+        [
+          "Charles W. Stenholm",
+          84136,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 163804,
+      "winner": [
+        "Charles W. Stenholm",
+        84136,
+        "democrat"
+      ],
+      "totalRepVotes": 77622,
+      "totalDemVotes": 84136
+    },
+    "24": {
+      "candidates": [
+        [
+          "Mike Rivera Ortega",
+          38332,
+          "republican"
+        ],
+        [
+          "Martin Frost",
+          73002,
+          "democrat"
+        ],
+        [
+          "Ken Ashby",
+          1560,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 112894,
+      "winner": [
+        "Martin Frost",
+        73002,
+        "democrat"
+      ],
+      "totalRepVotes": 38332,
+      "totalDemVotes": 73002
+    },
+    "26": {
+      "candidates": [
+        [
+          "Paul William LeBon",
+          37485,
+          "democrat"
+        ],
+        [
+          "Gary R. Page",
+          1631,
+          "green"
+        ],
+        [
+          "Michael C. Burgess",
+          123195,
+          "republican"
+        ],
+        [
+          "David Wallace Croft",
+          2367,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 164678,
+      "winner": [
+        "Michael C. Burgess",
+        123195,
+        "republican"
+      ],
+      "totalRepVotes": 123195,
+      "totalDemVotes": 37485
+    },
+    "25": {
+      "candidates": [
+        [
+          "George Reiter",
+          1399,
+          "green"
+        ],
+        [
+          "Chris Bell",
+          63590,
+          "democrat"
+        ],
+        [
+          "Tom Reiser",
+          50041,
+          "republican"
+        ],
+        [
+          "Guy McLendon",
+          1096,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 116126,
+      "winner": [
+        "Chris Bell",
+        63590,
+        "democrat"
+      ],
+      "totalRepVotes": 50041,
+      "totalDemVotes": 63590
+    },
+    "28": {
+      "candidates": [
+        [
+          "Gabriel Perales Jr.",
+          26973,
+          "republican"
+        ],
+        [
+          "William A. \"Bill\" Stallknecht",
+          2054,
+          "libertarian"
+        ],
+        [
+          "Ciro D. Rodriguez",
+          71393,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 100420,
+      "winner": [
+        "Ciro D. Rodriguez",
+        71393,
+        "democrat"
+      ],
+      "totalRepVotes": 26973,
+      "totalDemVotes": 71393
+    },
+    "31": {
+      "candidates": [
+        [
+          "Clark Simmons",
+          2037,
+          "libertarian"
+        ],
+        [
+          "R. C. Crawford",
+          1716,
+          "independent"
+        ],
+        [
+          "John S. Petersen",
+          1992,
+          "green"
+        ],
+        [
+          "John R. Carter",
+          111556,
+          "republican"
+        ],
+        [
+          "David Bagley",
+          44183,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 161484,
+      "winner": [
+        "John R. Carter",
+        111556,
+        "republican"
+      ],
+      "totalRepVotes": 111556,
+      "totalDemVotes": 44183
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kevin Brady",
+          140575,
+          "republican"
+        ],
+        [
+          "Gil Guillory",
+          10351,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 150926,
+      "winner": [
+        "Kevin Brady",
+        140575,
+        "republican"
+      ],
+      "totalRepVotes": 140575,
+      "totalDemVotes": 0
+    },
+    "18": {
+      "candidates": [
+        [
+          "Phillip J. Abbott",
+          27980,
+          "republican"
+        ],
+        [
+          "Sheila Jackson-Lee",
+          99161,
+          "democrat"
+        ],
+        [
+          "Brent Sullivan",
+          1785,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 128926,
+      "winner": [
+        "Sheila Jackson-Lee",
+        99161,
+        "democrat"
+      ],
+      "totalRepVotes": 27980,
+      "totalDemVotes": 99161
+    },
+    "3": {
+      "candidates": [
+        [
+          "John Davis",
+          2656,
+          "libertarian"
+        ],
+        [
+          "Manny Molera",
+          37503,
+          "democrat"
+        ],
+        [
+          "Sam Johnson",
+          113974,
+          "republican"
+        ]
+      ],
+      "totalVotes": 154133,
+      "winner": [
+        "Sam Johnson",
+        113974,
+        "republican"
+      ],
+      "totalRepVotes": 113974,
+      "totalDemVotes": 37503
+    },
+    "21": {
+      "candidates": [
+        [
+          "Lamar S. Smith",
+          161836,
+          "republican"
+        ],
+        [
+          "D. G. Roberts",
+          4051,
+          "libertarian"
+        ],
+        [
+          "John Courage",
+          56206,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 222093,
+      "winner": [
+        "Lamar S. Smith",
+        161836,
+        "republican"
+      ],
+      "totalRepVotes": 161836,
+      "totalDemVotes": 56206
+    },
+    "14": {
+      "candidates": [
+        [
+          "Corby Windham",
+          48224,
+          "democrat"
+        ],
+        [
+          "Ron Paul",
+          102905,
+          "republican"
+        ]
+      ],
+      "totalVotes": 151129,
+      "winner": [
+        "Ron Paul",
+        102905,
+        "republican"
+      ],
+      "totalRepVotes": 102905,
+      "totalDemVotes": 48224
+    },
+    "5": {
+      "candidates": [
+        [
+          "Thomas J. Kemper",
+          856,
+          "green"
+        ],
+        [
+          "Jeb Hensarling",
+          81439,
+          "republican"
+        ],
+        [
+          "Dan Michalski",
+          1283,
+          "libertarian"
+        ],
+        [
+          "Ron Chapman",
+          56330,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 139908,
+      "winner": [
+        "Jeb Hensarling",
+        81439,
+        "republican"
+      ],
+      "totalRepVotes": 81439,
+      "totalDemVotes": 56330
+    },
+    "29": {
+      "candidates": [
+        [
+          "Gene Green",
+          55760,
+          "democrat"
+        ],
+        [
+          "Paul Hansen",
+          2833,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 58593,
+      "winner": [
+        "Gene Green",
+        55760,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 55760
+    },
+    "27": {
+      "candidates": [
+        [
+          "Pat Ahumada",
+          41004,
+          "republican"
+        ],
+        [
+          "Solomon P. Ortiz",
+          68559,
+          "democrat"
+        ],
+        [
+          "Christopher J. Claytor",
+          2646,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 112209,
+      "winner": [
+        "Solomon P. Ortiz",
+        68559,
+        "democrat"
+      ],
+      "totalRepVotes": 41004,
+      "totalDemVotes": 68559
+    },
+    "7": {
+      "candidates": [
+        [
+          "Drew Parks",
+          11674,
+          "libertarian"
+        ],
+        [
+          "John R. Skone-Palmer",
+          58,
+          "none"
+        ],
+        [
+          "John Abney Culberson",
+          96795,
+          "republican"
+        ]
+      ],
+      "totalVotes": 108527,
+      "winner": [
+        "John Abney Culberson",
+        96795,
+        "republican"
+      ],
+      "totalRepVotes": 96795,
+      "totalDemVotes": 0
+    },
+    "12": {
+      "candidates": [
+        [
+          "Edward A. Hanson",
+          10723,
+          "libertarian"
+        ],
+        [
+          "Kay Granger",
+          121208,
+          "republican"
+        ]
+      ],
+      "totalVotes": 131931,
+      "winner": [
+        "Kay Granger",
+        121208,
+        "republican"
+      ],
+      "totalRepVotes": 121208,
+      "totalDemVotes": 0
+    },
+    "19": {
+      "candidates": [
+        [
+          "Larry Combest",
+          117092,
+          "republican"
+        ],
+        [
+          "Larry Johnson",
+          10684,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 127776,
+      "winner": [
+        "Larry Combest",
+        117092,
+        "republican"
+      ],
+      "totalRepVotes": 117092,
+      "totalDemVotes": 0
+    },
+    "22": {
+      "candidates": [
+        [
+          "Joel West",
+          1257,
+          "green"
+        ],
+        [
+          "Tom DeLay",
+          100499,
+          "republican"
+        ],
+        [
+          "Tim Riley",
+          55716,
+          "democrat"
+        ],
+        [
+          "Gerald W. \"Jerry\" LaFleur",
+          1612,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 159084,
+      "winner": [
+        "Tom DeLay",
+        100499,
+        "republican"
+      ],
+      "totalRepVotes": 100499,
+      "totalDemVotes": 55716
+    },
+    "6": {
+      "candidates": [
+        [
+          "Felix Alvarado",
+          45404,
+          "democrat"
+        ],
+        [
+          "Frank Brady",
+          1992,
+          "libertarian"
+        ],
+        [
+          "B. J. Armstrong",
+          1245,
+          "green"
+        ],
+        [
+          "Joe Barton",
+          115396,
+          "republican"
+        ]
+      ],
+      "totalVotes": 164037,
+      "winner": [
+        "Joe Barton",
+        115396,
+        "republican"
+      ],
+      "totalRepVotes": 115396,
+      "totalDemVotes": 45404
+    },
+    "32": {
+      "candidates": [
+        [
+          "Carla Hubbell",
+          1208,
+          "green"
+        ],
+        [
+          "Pauline K. Dixon",
+          44886,
+          "democrat"
+        ],
+        [
+          "Steve Martin",
+          1582,
+          "libertarian"
+        ],
+        [
+          "Pete Sessions",
+          100226,
+          "republican"
+        ]
+      ],
+      "totalVotes": 147902,
+      "winner": [
+        "Pete Sessions",
+        100226,
+        "republican"
+      ],
+      "totalRepVotes": 100226,
+      "totalDemVotes": 44886
+    },
+    "1": {
+      "candidates": [
+        [
+          "John Lawrence",
+          66654,
+          "republican"
+        ],
+        [
+          "Max Sandlin",
+          86384,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 153038,
+      "winner": [
+        "Max Sandlin",
+        86384,
+        "democrat"
+      ],
+      "totalRepVotes": 66654,
+      "totalDemVotes": 86384
+    },
+    "13": {
+      "candidates": [
+        [
+          "Zane Reese",
+          31218,
+          "democrat"
+        ],
+        [
+          "Mac Thornberry",
+          119401,
+          "republican"
+        ]
+      ],
+      "totalVotes": 150619,
+      "winner": [
+        "Mac Thornberry",
+        119401,
+        "republican"
+      ],
+      "totalRepVotes": 119401,
+      "totalDemVotes": 31218
+    },
+    "2": {
+      "candidates": [
+        [
+          "Peter Beach",
+          1353,
+          "libertarian"
+        ],
+        [
+          "Jim Turner",
+          85492,
+          "democrat"
+        ],
+        [
+          "Van Brookshire",
+          53656,
+          "republican"
+        ]
+      ],
+      "totalVotes": 140501,
+      "winner": [
+        "Jim Turner",
+        85492,
+        "democrat"
+      ],
+      "totalRepVotes": 53656,
+      "totalDemVotes": 85492
+    },
+    "16": {
+      "candidates": [
+        [
+          "Silvestre Reyes",
+          72383,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 72383,
+      "winner": [
+        "Silvestre Reyes",
+        72383,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 72383
+    },
+    "10": {
+      "candidates": [
+        [
+          "Lloyd Doggett",
+          114428,
+          "democrat"
+        ],
+        [
+          "Michele Messina",
+          21196,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 135624,
+      "winner": [
+        "Lloyd Doggett",
+        114428,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 114428
+    },
+    "9": {
+      "candidates": [
+        [
+          "Nick Lampson",
+          86710,
+          "democrat"
+        ],
+        [
+          "Paul Williams",
+          59635,
+          "republican"
+        ],
+        [
+          "Dean L. Tucker",
+          1613,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 147958,
+      "winner": [
+        "Nick Lampson",
+        86710,
+        "democrat"
+      ],
+      "totalRepVotes": 59635,
+      "totalDemVotes": 86710
+    },
+    "11": {
+      "candidates": [
+        [
+          "Ramsey Farley",
+          68236,
+          "republican"
+        ],
+        [
+          "Andrew Paul Farris",
+          1943,
+          "libertarian"
+        ],
+        [
+          "Chet Edwards",
+          74678,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 144857,
+      "winner": [
+        "Chet Edwards",
+        74678,
+        "democrat"
+      ],
+      "totalRepVotes": 68236,
+      "totalDemVotes": 74678
+    },
+    "15": {
+      "candidates": [
+        [
+          "Rub\u00c2\u008en Hinojosa",
+          66311,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 66311,
+      "winner": [
+        "Rub\u00c2\u008en Hinojosa",
+        66311,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 66311
+    },
+    "20": {
+      "candidates": [
+        [
+          "Charles A. Gonzalez",
+          68685,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 68685,
+      "winner": [
+        "Charles A. Gonzalez",
+        68685,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 68685
+    }
+  },
+  "2005": {
+    "22": {
+      "candidates": [
+        [
+          "Tom Morrison",
+          4886,
+          "libertarian"
+        ],
+        [
+          "Tom DeLay",
+          150386,
+          "republican"
+        ],
+        [
+          "Richard R. Morrison",
+          112034,
+          "democrat"
+        ],
+        [
+          "Michael Fjetland",
+          5314,
+          "independent"
+        ]
+      ],
+      "totalVotes": 272620,
+      "winner": [
+        "Tom DeLay",
+        150386,
+        "republican"
+      ],
+      "totalRepVotes": 150386,
+      "totalDemVotes": 112034
+    },
+    "17": {
+      "candidates": [
+        [
+          "Arlene Wohlgemuth",
+          116049,
+          "republican"
+        ],
+        [
+          "Clyde L. Garland",
+          3390,
+          "libertarian"
+        ],
+        [
+          "Chet Edwards",
+          125309,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 244748,
+      "winner": [
+        "Chet Edwards",
+        125309,
+        "democrat"
+      ],
+      "totalRepVotes": 116049,
+      "totalDemVotes": 125309
+    },
+    "9": {
+      "candidates": [
+        [
+          "Stacey Lynn Bourland",
+          1972,
+          "libertarian"
+        ],
+        [
+          "Arlette Molina",
+          42132,
+          "republican"
+        ],
+        [
+          "Al Green",
+          114462,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 158566,
+      "winner": [
+        "Al Green",
+        114462,
+        "democrat"
+      ],
+      "totalRepVotes": 42132,
+      "totalDemVotes": 114462
+    },
+    "2": {
+      "candidates": [
+        [
+          "Sandra Leigh Saulsbury",
+          3931,
+          "libertarian"
+        ],
+        [
+          "Nick Lampson",
+          108156,
+          "democrat"
+        ],
+        [
+          "Ted Poe",
+          139951,
+          "republican"
+        ]
+      ],
+      "totalVotes": 252038,
+      "winner": [
+        "Ted Poe",
+        139951,
+        "republican"
+      ],
+      "totalRepVotes": 139951,
+      "totalDemVotes": 108156
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kevin Brady",
+          179599,
+          "republican"
+        ],
+        [
+          "Paul Hansen",
+          3705,
+          "libertarian"
+        ],
+        [
+          "James \"Jim\" Wright",
+          77324,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 260628,
+      "winner": [
+        "Kevin Brady",
+        179599,
+        "republican"
+      ],
+      "totalRepVotes": 179599,
+      "totalDemVotes": 77324
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ralph M. Hall",
+          182866,
+          "republican"
+        ],
+        [
+          "Kevin D. Anderson",
+          3491,
+          "libertarian"
+        ],
+        [
+          "Jim Nickerson",
+          81585,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 267942,
+      "winner": [
+        "Ralph M. Hall",
+        182866,
+        "republican"
+      ],
+      "totalRepVotes": 182866,
+      "totalDemVotes": 81585
+    },
+    "10": {
+      "candidates": [
+        [
+          "Michael T. McCaul",
+          182113,
+          "republican"
+        ],
+        [
+          "Robert Fritsche",
+          35569,
+          "libertarian"
+        ],
+        [
+          "Lorenzo Sadun",
+          13961,
+          "none"
+        ]
+      ],
+      "totalVotes": 231643,
+      "winner": [
+        "Michael T. McCaul",
+        182113,
+        "republican"
+      ],
+      "totalRepVotes": 182113,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jame Vessels",
+          13287,
+          "libertarian"
+        ],
+        [
+          "Paul Jenkins",
+          16966,
+          "independent"
+        ],
+        [
+          "Sam Johnson",
+          180099,
+          "republican"
+        ]
+      ],
+      "totalVotes": 210352,
+      "winner": [
+        "Sam Johnson",
+        180099,
+        "republican"
+      ],
+      "totalRepVotes": 180099,
+      "totalDemVotes": 0
+    },
+    "26": {
+      "candidates": [
+        [
+          "Michael C. Burgess",
+          180519,
+          "republican"
+        ],
+        [
+          "Lico Reyes",
+          89809,
+          "democrat"
+        ],
+        [
+          "James Gholston",
+          4211,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 274539,
+      "winner": [
+        "Michael C. Burgess",
+        180519,
+        "republican"
+      ],
+      "totalRepVotes": 180519,
+      "totalDemVotes": 89809
+    },
+    "11": {
+      "candidates": [
+        [
+          "Mike Conaway",
+          177291,
+          "republican"
+        ],
+        [
+          "Wayne Raasch",
+          50339,
+          "democrat"
+        ],
+        [
+          "Jeffrey Blunt",
+          3347,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 230977,
+      "winner": [
+        "Mike Conaway",
+        177291,
+        "republican"
+      ],
+      "totalRepVotes": 177291,
+      "totalDemVotes": 50339
+    },
+    "24": {
+      "candidates": [
+        [
+          "James H. Lawrence",
+          4340,
+          "libertarian"
+        ],
+        [
+          "Kenny Marchant",
+          154435,
+          "republican"
+        ],
+        [
+          "Gary R. Page",
+          82599,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 241374,
+      "winner": [
+        "Kenny Marchant",
+        154435,
+        "republican"
+      ],
+      "totalRepVotes": 154435,
+      "totalDemVotes": 82599
+    },
+    "21": {
+      "candidates": [
+        [
+          "Rhett R. Smith",
+          121129,
+          "democrat"
+        ],
+        [
+          "Jason Pratt",
+          10216,
+          "libertarian"
+        ],
+        [
+          "Lamar S. Smith",
+          209774,
+          "republican"
+        ]
+      ],
+      "totalVotes": 341119,
+      "winner": [
+        "Lamar S. Smith",
+        209774,
+        "republican"
+      ],
+      "totalRepVotes": 209774,
+      "totalDemVotes": 121129
+    },
+    "7": {
+      "candidates": [
+        [
+          "John Martinez",
+          91126,
+          "democrat"
+        ],
+        [
+          "Drew Parks",
+          3372,
+          "libertarian"
+        ],
+        [
+          "John Abney Culberson",
+          175440,
+          "republican"
+        ],
+        [
+          "Paul Staton",
+          3713,
+          "independent"
+        ]
+      ],
+      "totalVotes": 273651,
+      "winner": [
+        "John Abney Culberson",
+        175440,
+        "republican"
+      ],
+      "totalRepVotes": 175440,
+      "totalDemVotes": 91126
+    },
+    "13": {
+      "candidates": [
+        [
+          "M.J. (Smitty) Smith",
+          15793,
+          "libertarian"
+        ],
+        [
+          "Mac Thornberry",
+          189448,
+          "republican"
+        ]
+      ],
+      "totalVotes": 205241,
+      "winner": [
+        "Mac Thornberry",
+        189448,
+        "republican"
+      ],
+      "totalRepVotes": 189448,
+      "totalDemVotes": 0
+    },
+    "25": {
+      "candidates": [
+        [
+          "James Werner",
+          2656,
+          "libertarian"
+        ],
+        [
+          "Rebecca Armendariz Klein",
+          49252,
+          "republican"
+        ],
+        [
+          "Lloyd Dogett",
+          108309,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 160217,
+      "winner": [
+        "Lloyd Dogett",
+        108309,
+        "democrat"
+      ],
+      "totalRepVotes": 49252,
+      "totalDemVotes": 108309
+    },
+    "19": {
+      "candidates": [
+        [
+          "Randy Neugebauer",
+          136459,
+          "republican"
+        ],
+        [
+          "Richard Peterson",
+          3524,
+          "libertarian"
+        ],
+        [
+          "Charles W. Stenholm",
+          93531,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 233514,
+      "winner": [
+        "Randy Neugebauer",
+        136459,
+        "republican"
+      ],
+      "totalRepVotes": 136459,
+      "totalDemVotes": 93531
+    },
+    "28": {
+      "candidates": [
+        [
+          "Ken Ashby",
+          4305,
+          "libertarian"
+        ],
+        [
+          "James (Jim) F. Hopson",
+          69538,
+          "republican"
+        ],
+        [
+          "Henry Cuellar",
+          106323,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 180166,
+      "winner": [
+        "Henry Cuellar",
+        106323,
+        "democrat"
+      ],
+      "totalRepVotes": 69538,
+      "totalDemVotes": 106323
+    },
+    "23": {
+      "candidates": [
+        [
+          "Nazirite \"Comrade\" Perez",
+          3307,
+          "libertarian"
+        ],
+        [
+          "Joe Sullivan",
+          72480,
+          "democrat"
+        ],
+        [
+          "Henry Bonilla",
+          170716,
+          "republican"
+        ]
+      ],
+      "totalVotes": 246503,
+      "winner": [
+        "Henry Bonilla",
+        170716,
+        "republican"
+      ],
+      "totalRepVotes": 170716,
+      "totalDemVotes": 72480
+    },
+    "20": {
+      "candidates": [
+        [
+          "Roger Scott",
+          54976,
+          "republican"
+        ],
+        [
+          "Jessie Bouley",
+          2377,
+          "libertarian"
+        ],
+        [
+          "Michael Idrogo",
+          1971,
+          "independent"
+        ],
+        [
+          "Charles A. Gonzalez",
+          112480,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 171804,
+      "winner": [
+        "Charles A. Gonzalez",
+        112480,
+        "democrat"
+      ],
+      "totalRepVotes": 54976,
+      "totalDemVotes": 112480
+    },
+    "16": {
+      "candidates": [
+        [
+          "David Brigham",
+          49972,
+          "republican"
+        ],
+        [
+          "Brad Clardy",
+          2224,
+          "libertarian"
+        ],
+        [
+          "Silvestre Reyes",
+          108577,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 160773,
+      "winner": [
+        "Silvestre Reyes",
+        108577,
+        "democrat"
+      ],
+      "totalRepVotes": 49972,
+      "totalDemVotes": 108577
+    },
+    "6": {
+      "candidates": [
+        [
+          "Morris Meyer",
+          83609,
+          "democrat"
+        ],
+        [
+          "Joe Barton",
+          168767,
+          "republican"
+        ],
+        [
+          "Stephen Schrader",
+          3251,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 255627,
+      "winner": [
+        "Joe Barton",
+        168767,
+        "republican"
+      ],
+      "totalRepVotes": 168767,
+      "totalDemVotes": 83609
+    },
+    "15": {
+      "candidates": [
+        [
+          "Michael D. Thamm",
+          67917,
+          "republican"
+        ],
+        [
+          "William R. Cady",
+          2352,
+          "libertarian"
+        ],
+        [
+          "Ruben Hinojosa",
+          96089,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 166358,
+      "winner": [
+        "Ruben Hinojosa",
+        96089,
+        "democrat"
+      ],
+      "totalRepVotes": 67917,
+      "totalDemVotes": 96089
+    },
+    "18": {
+      "candidates": [
+        [
+          "Tom Bazan",
+          9787,
+          "republican"
+        ],
+        [
+          "Sheila Jackson-Lee",
+          136018,
+          "democrat"
+        ],
+        [
+          "Brent Sullivan",
+          7183,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 152988,
+      "winner": [
+        "Sheila Jackson-Lee",
+        136018,
+        "democrat"
+      ],
+      "totalRepVotes": 9787,
+      "totalDemVotes": 136018
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jeb Hensarling",
+          148816,
+          "republican"
+        ],
+        [
+          "Bill Bernstein",
+          75911,
+          "democrat"
+        ],
+        [
+          "John Gonzalez",
+          6118,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 230845,
+      "winner": [
+        "Jeb Hensarling",
+        148816,
+        "republican"
+      ],
+      "totalRepVotes": 148816,
+      "totalDemVotes": 75911
+    },
+    "27": {
+      "candidates": [
+        [
+          "Christopher J. Claytor",
+          3500,
+          "libertarian"
+        ],
+        [
+          "William (Willie) Vaden",
+          61955,
+          "republican"
+        ],
+        [
+          "Solomon P. Ortiz",
+          112081,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 177536,
+      "winner": [
+        "Solomon P. Ortiz",
+        112081,
+        "democrat"
+      ],
+      "totalRepVotes": 61955,
+      "totalDemVotes": 112081
+    },
+    "1": {
+      "candidates": [
+        [
+          "Dean L. Tucker",
+          2158,
+          "libertarian"
+        ],
+        [
+          "Louie Gohmert",
+          157068,
+          "republican"
+        ],
+        [
+          "Max Sandlin",
+          96281,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 255507,
+      "winner": [
+        "Louie Gohmert",
+        157068,
+        "republican"
+      ],
+      "totalRepVotes": 157068,
+      "totalDemVotes": 96281
+    },
+    "12": {
+      "candidates": [
+        [
+          "Kay Granger",
+          173222,
+          "republican"
+        ],
+        [
+          "Felix Alvarado",
+          66316,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 239538,
+      "winner": [
+        "Kay Granger",
+        173222,
+        "republican"
+      ],
+      "totalRepVotes": 173222,
+      "totalDemVotes": 66316
+    },
+    "14": {
+      "candidates": [
+        [
+          "Ron Paul",
+          173668,
+          "republican"
+        ]
+      ],
+      "totalVotes": 173668,
+      "winner": [
+        "Ron Paul",
+        173668,
+        "republican"
+      ],
+      "totalRepVotes": 173668,
+      "totalDemVotes": 0
+    },
+    "29": {
+      "candidates": [
+        [
+          "Clifford Messina",
+          4868,
+          "libertarian"
+        ],
+        [
+          "Gene Green",
+          78256,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 83124,
+      "winner": [
+        "Gene Green",
+        78256,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 78256
+    },
+    "31": {
+      "candidates": [
+        [
+          "John R. Carter",
+          160247,
+          "republican"
+        ],
+        [
+          "Celeste Adams",
+          6888,
+          "libertarian"
+        ],
+        [
+          "Jon Porter",
+          80292,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 247427,
+      "winner": [
+        "John R. Carter",
+        160247,
+        "republican"
+      ],
+      "totalRepVotes": 160247,
+      "totalDemVotes": 80292
+    },
+    "32": {
+      "candidates": [
+        [
+          "Pete Sessions",
+          109859,
+          "republican"
+        ],
+        [
+          "Martin Frost",
+          89030,
+          "democrat"
+        ],
+        [
+          "Michael David Needleman",
+          3347,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 202236,
+      "winner": [
+        "Pete Sessions",
+        109859,
+        "republican"
+      ],
+      "totalRepVotes": 109859,
+      "totalDemVotes": 89030
+    },
+    "30": {
+      "candidates": [
+        [
+          "John Davis",
+          10821,
+          "libertarian"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          144513,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 155334,
+      "winner": [
+        "Eddie Bernice Johnson",
+        144513,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 144513
+    }
+  },
+  "2017": {
+    "22": {
+      "candidates": [
+        [
+          "Mark Gibson",
+          123679,
+          "democrat"
+        ],
+        [
+          "Pete Olson",
+          181864,
+          "republican"
+        ]
+      ],
+      "totalVotes": 305543,
+      "winner": [
+        "Pete Olson",
+        181864,
+        "republican"
+      ],
+      "totalRepVotes": 181864,
+      "totalDemVotes": 123679
+    },
+    "23": {
+      "candidates": [
+        [
+          "Will Hurd",
+          110577,
+          "republican"
+        ],
+        [
+          "Pete P. Gallego",
+          107526,
+          "democrat"
+        ],
+        [
+          "Ruben S. Corvalan",
+          10862,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 228965,
+      "winner": [
+        "Will Hurd",
+        110577,
+        "republican"
+      ],
+      "totalRepVotes": 110577,
+      "totalDemVotes": 107526
+    },
+    "26": {
+      "candidates": [
+        [
+          "Eric Mauck",
+          94507,
+          "democrat"
+        ],
+        [
+          "Mark Boler",
+          12843,
+          "libertarian"
+        ],
+        [
+          "Michael C. Burgess",
+          211730,
+          "republican"
+        ]
+      ],
+      "totalVotes": 319080,
+      "winner": [
+        "Michael C. Burgess",
+        211730,
+        "republican"
+      ],
+      "totalRepVotes": 211730,
+      "totalDemVotes": 94507
+    },
+    "6": {
+      "candidates": [
+        [
+          "Darrel Smith Jr.",
+          7185,
+          "green"
+        ],
+        [
+          "Ruby Faye Woolridge",
+          106667,
+          "democrat"
+        ],
+        [
+          "Joe Barton",
+          159444,
+          "republican"
+        ]
+      ],
+      "totalVotes": 273296,
+      "winner": [
+        "Joe Barton",
+        159444,
+        "republican"
+      ],
+      "totalRepVotes": 159444,
+      "totalDemVotes": 106667
+    },
+    "5": {
+      "candidates": [
+        [
+          "Ken Ashby",
+          37406,
+          "libertarian"
+        ],
+        [
+          "Jeb Hensarling",
+          155469,
+          "republican"
+        ]
+      ],
+      "totalVotes": 192875,
+      "winner": [
+        "Jeb Hensarling",
+        155469,
+        "republican"
+      ],
+      "totalRepVotes": 155469,
+      "totalDemVotes": 0
+    },
+    "14": {
+      "candidates": [
+        [
+          "Michael Cole",
+          99054,
+          "democrat"
+        ],
+        [
+          "Randy K. Weber Sr.",
+          160631,
+          "republican"
+        ]
+      ],
+      "totalVotes": 259685,
+      "winner": [
+        "Randy K. Weber Sr.",
+        160631,
+        "republican"
+      ],
+      "totalRepVotes": 160631,
+      "totalDemVotes": 99054
+    },
+    "33": {
+      "candidates": [
+        [
+          "M. Mark Mitchell",
+          33222,
+          "republican"
+        ],
+        [
+          "Marc A. Veasey",
+          93147,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 126369,
+      "winner": [
+        "Marc A. Veasey",
+        93147,
+        "democrat"
+      ],
+      "totalRepVotes": 33222,
+      "totalDemVotes": 93147
+    },
+    "13": {
+      "candidates": [
+        [
+          "Mac Thornberry",
+          199050,
+          "republican"
+        ],
+        [
+          "H. F. \"Rusty\" Tomlinson",
+          7467,
+          "green"
+        ],
+        [
+          "Calvin DeWeese",
+          14725,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 221242,
+      "winner": [
+        "Mac Thornberry",
+        199050,
+        "republican"
+      ],
+      "totalRepVotes": 199050,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Scott Jameson",
+          10448,
+          "libertarian"
+        ],
+        [
+          "Sam Johnson",
+          193684,
+          "republican"
+        ],
+        [
+          "Paul Blair",
+          2915,
+          "green"
+        ],
+        [
+          "Adam P. Bell",
+          109420,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 316467,
+      "winner": [
+        "Sam Johnson",
+        193684,
+        "republican"
+      ],
+      "totalRepVotes": 193684,
+      "totalDemVotes": 109420
+    },
+    "19": {
+      "candidates": [
+        [
+          "Troy Bonar",
+          17376,
+          "libertarian"
+        ],
+        [
+          "Mark Lawson",
+          9785,
+          "green"
+        ],
+        [
+          "Jodey Arrington",
+          176314,
+          "republican"
+        ]
+      ],
+      "totalVotes": 203475,
+      "winner": [
+        "Jodey Arrington",
+        176314,
+        "republican"
+      ],
+      "totalRepVotes": 176314,
+      "totalDemVotes": 0
+    },
+    "28": {
+      "candidates": [
+        [
+          "Henry Cuellar",
+          122086,
+          "democrat"
+        ],
+        [
+          "Michael D. Cary",
+          4616,
+          "green"
+        ],
+        [
+          "Zeffen Hardin",
+          57740,
+          "republican"
+        ]
+      ],
+      "totalVotes": 184442,
+      "winner": [
+        "Henry Cuellar",
+        122086,
+        "democrat"
+      ],
+      "totalRepVotes": 57740,
+      "totalDemVotes": 122086
+    },
+    "30": {
+      "candidates": [
+        [
+          "Eddie Bernice Johnson",
+          170502,
+          "democrat"
+        ],
+        [
+          "Charles Lingerfelt",
+          41518,
+          "republican"
+        ],
+        [
+          "Thom Prentice",
+          2053,
+          "green"
+        ],
+        [
+          "Jarrett R. Woods",
+          4753,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 218826,
+      "winner": [
+        "Eddie Bernice Johnson",
+        170502,
+        "democrat"
+      ],
+      "totalRepVotes": 41518,
+      "totalDemVotes": 170502
+    },
+    "16": {
+      "candidates": [
+        [
+          "Beto O'Rourke",
+          150228,
+          "democrat"
+        ],
+        [
+          "Mary L. Gourdoux",
+          7510,
+          "green"
+        ],
+        [
+          "Jaime O. Perez",
+          17491,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 175229,
+      "winner": [
+        "Beto O'Rourke",
+        150228,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 150228
+    },
+    "15": {
+      "candidates": [
+        [
+          "Vicente Gonzalez",
+          101712,
+          "democrat"
+        ],
+        [
+          "Vanessa S. Tijerina",
+          5448,
+          "green"
+        ],
+        [
+          "Ross Lynn Leone",
+          3442,
+          "libertarian"
+        ],
+        [
+          "Tim Westley",
+          66877,
+          "republican"
+        ]
+      ],
+      "totalVotes": 177479,
+      "winner": [
+        "Vicente Gonzalez",
+        101712,
+        "democrat"
+      ],
+      "totalRepVotes": 66877,
+      "totalDemVotes": 101712
+    },
+    "21": {
+      "candidates": [
+        [
+          "Tom Wakely",
+          129765,
+          "democrat"
+        ],
+        [
+          "Lamar Smith",
+          202967,
+          "republican"
+        ],
+        [
+          "Mark Loewe",
+          14735,
+          "libertarian"
+        ],
+        [
+          "Antonio \"Tony\" Diaz",
+          8564,
+          "green"
+        ]
+      ],
+      "totalVotes": 356031,
+      "winner": [
+        "Lamar Smith",
+        202967,
+        "republican"
+      ],
+      "totalRepVotes": 202967,
+      "totalDemVotes": 129765
+    },
+    "27": {
+      "candidates": [
+        [
+          "Blake Farenthold",
+          142251,
+          "republican"
+        ],
+        [
+          "Raul \"Roy\" Barrera",
+          88329,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 230580,
+      "winner": [
+        "Blake Farenthold",
+        142251,
+        "republican"
+      ],
+      "totalRepVotes": 142251,
+      "totalDemVotes": 88329
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          66,
+          "none"
+        ],
+        [
+          "Shirley J. McKellar",
+          62847,
+          "democrat"
+        ],
+        [
+          "Phil Gray",
+          5062,
+          "libertarian"
+        ],
+        [
+          "Louie Gohmert",
+          192434,
+          "republican"
+        ]
+      ],
+      "totalVotes": 260409,
+      "winner": [
+        "Louie Gohmert",
+        192434,
+        "republican"
+      ],
+      "totalRepVotes": 192434,
+      "totalDemVotes": 62847
+    },
+    "31": {
+      "candidates": [
+        [
+          "John R. Carter",
+          166060,
+          "republican"
+        ],
+        [
+          "Scott Ballard",
+          14676,
+          "libertarian"
+        ],
+        [
+          "Mike Clark",
+          103852,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 284588,
+      "winner": [
+        "John R. Carter",
+        166060,
+        "republican"
+      ],
+      "totalRepVotes": 166060,
+      "totalDemVotes": 103852
+    },
+    "2": {
+      "candidates": [
+        [
+          "James B. Veasaw",
+          6429,
+          "libertarian"
+        ],
+        [
+          "Pat Bryan",
+          100231,
+          "democrat"
+        ],
+        [
+          "Joshua Darr",
+          2884,
+          "green"
+        ],
+        [
+          "Ted Poe",
+          168692,
+          "republican"
+        ]
+      ],
+      "totalVotes": 278236,
+      "winner": [
+        "Ted Poe",
+        168692,
+        "republican"
+      ],
+      "totalRepVotes": 168692,
+      "totalDemVotes": 100231
+    },
+    "24": {
+      "candidates": [
+        [
+          "Kevin McCormick",
+          3776,
+          "green"
+        ],
+        [
+          "Kenny Marchant",
+          154845,
+          "republican"
+        ],
+        [
+          "Jan McDowell",
+          108389,
+          "democrat"
+        ],
+        [
+          "Mike Kolls",
+          8625,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 275635,
+      "winner": [
+        "Kenny Marchant",
+        154845,
+        "republican"
+      ],
+      "totalRepVotes": 154845,
+      "totalDemVotes": 108389
+    },
+    "4": {
+      "candidates": [
+        [
+          "Cody Wommack",
+          29577,
+          "libertarian"
+        ],
+        [
+          "John Ratcliffe",
+          216643,
+          "republican"
+        ]
+      ],
+      "totalVotes": 246220,
+      "winner": [
+        "John Ratcliffe",
+        216643,
+        "republican"
+      ],
+      "totalRepVotes": 216643,
+      "totalDemVotes": 0
+    },
+    "34": {
+      "candidates": [
+        [
+          "Filemon Vela",
+          104638,
+          "democrat"
+        ],
+        [
+          "Rey Gonzalez Jr.",
+          62323,
+          "republican"
+        ]
+      ],
+      "totalVotes": 166961,
+      "winner": [
+        "Filemon Vela",
+        104638,
+        "democrat"
+      ],
+      "totalRepVotes": 62323,
+      "totalDemVotes": 104638
+    },
+    "29": {
+      "candidates": [
+        [
+          "N. Ruben Perez",
+          3234,
+          "libertarian"
+        ],
+        [
+          "James Partsch-Galvan",
+          1453,
+          "green"
+        ],
+        [
+          "Julio Garza",
+          31646,
+          "republican"
+        ],
+        [
+          "Gene Green",
+          95649,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 131982,
+      "winner": [
+        "Gene Green",
+        95649,
+        "democrat"
+      ],
+      "totalRepVotes": 31646,
+      "totalDemVotes": 95649
+    },
+    "35": {
+      "candidates": [
+        [
+          "Lloyd Doggett",
+          124612,
+          "democrat"
+        ],
+        [
+          "Susan Narvaiz",
+          62384,
+          "republican"
+        ],
+        [
+          "Rhett Rosenquest Smith",
+          6504,
+          "libertarian"
+        ],
+        [
+          "Scott Trimble",
+          4076,
+          "green"
+        ]
+      ],
+      "totalVotes": 197576,
+      "winner": [
+        "Lloyd Doggett",
+        124612,
+        "democrat"
+      ],
+      "totalRepVotes": 62384,
+      "totalDemVotes": 124612
+    },
+    "17": {
+      "candidates": [
+        [
+          "Bill Flores",
+          149417,
+          "republican"
+        ],
+        [
+          "William Matta",
+          86603,
+          "democrat"
+        ],
+        [
+          "Clark Patterson",
+          9708,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 245728,
+      "winner": [
+        "Bill Flores",
+        149417,
+        "republican"
+      ],
+      "totalRepVotes": 149417,
+      "totalDemVotes": 86603
+    },
+    "25": {
+      "candidates": [
+        [
+          "Loren Marc Schneiderman",
+          12135,
+          "libertarian"
+        ],
+        [
+          "Kathi Thomas",
+          117073,
+          "democrat"
+        ],
+        [
+          "Roger Williams",
+          180988,
+          "republican"
+        ]
+      ],
+      "totalVotes": 310196,
+      "winner": [
+        "Roger Williams",
+        180988,
+        "republican"
+      ],
+      "totalRepVotes": 180988,
+      "totalDemVotes": 117073
+    },
+    "12": {
+      "candidates": [
+        [
+          "Kay Granger",
+          196482,
+          "republican"
+        ],
+        [
+          "Bill Bradshaw",
+          76029,
+          "democrat"
+        ],
+        [
+          "Ed Colliver",
+          10604,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 283115,
+      "winner": [
+        "Kay Granger",
+        196482,
+        "republican"
+      ],
+      "totalRepVotes": 196482,
+      "totalDemVotes": 76029
+    },
+    "10": {
+      "candidates": [
+        [
+          "Tawana W. Cadien",
+          120170,
+          "democrat"
+        ],
+        [
+          "Bill Kelsey",
+          13209,
+          "libertarian"
+        ],
+        [
+          "Michael T. McCaul",
+          179221,
+          "republican"
+        ]
+      ],
+      "totalVotes": 312600,
+      "winner": [
+        "Michael T. McCaul",
+        179221,
+        "republican"
+      ],
+      "totalRepVotes": 179221,
+      "totalDemVotes": 120170
+    },
+    "32": {
+      "candidates": [
+        [
+          "Ed Rankin",
+          43490,
+          "libertarian"
+        ],
+        [
+          "Pete Sessions",
+          162868,
+          "republican"
+        ],
+        [
+          "Gary Stuard",
+          22813,
+          "green"
+        ]
+      ],
+      "totalVotes": 229171,
+      "winner": [
+        "Pete Sessions",
+        162868,
+        "republican"
+      ],
+      "totalRepVotes": 162868,
+      "totalDemVotes": 0
+    },
+    "36": {
+      "candidates": [
+        [
+          "Brian Babin",
+          193675,
+          "republican"
+        ],
+        [
+          "Hal J. Ridley Jr.",
+          24890,
+          "green"
+        ]
+      ],
+      "totalVotes": 218565,
+      "winner": [
+        "Brian Babin",
+        193675,
+        "republican"
+      ],
+      "totalRepVotes": 193675,
+      "totalDemVotes": 0
+    },
+    "9": {
+      "candidates": [
+        [
+          "Jeff Martin",
+          36491,
+          "republican"
+        ],
+        [
+          "Al Green",
+          152032,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 188523,
+      "winner": [
+        "Al Green",
+        152032,
+        "democrat"
+      ],
+      "totalRepVotes": 36491,
+      "totalDemVotes": 152032
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kevin Brady",
+          236379,
+          "republican"
+        ]
+      ],
+      "totalVotes": 236379,
+      "winner": [
+        "Kevin Brady",
+        236379,
+        "republican"
+      ],
+      "totalRepVotes": 236379,
+      "totalDemVotes": 0
+    },
+    "11": {
+      "candidates": [
+        [
+          "K. Michael Conaway",
+          201871,
+          "republican"
+        ],
+        [
+          "Nicholas Landholt",
+          23677,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 225548,
+      "winner": [
+        "K. Michael Conaway",
+        201871,
+        "republican"
+      ],
+      "totalRepVotes": 201871,
+      "totalDemVotes": 0
+    },
+    "18": {
+      "candidates": [
+        [
+          "Thomas Kleven",
+          5845,
+          "green"
+        ],
+        [
+          "Lori Bartley",
+          48306,
+          "republican"
+        ],
+        [
+          "Sheila Jackson Lee",
+          150157,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 204308,
+      "winner": [
+        "Sheila Jackson Lee",
+        150157,
+        "democrat"
+      ],
+      "totalRepVotes": 48306,
+      "totalDemVotes": 150157
+    },
+    "7": {
+      "candidates": [
+        [
+          "John Abney Culberson",
+          143542,
+          "republican"
+        ],
+        [
+          "James Cargas",
+          111991,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 255533,
+      "winner": [
+        "John Abney Culberson",
+        143542,
+        "republican"
+      ],
+      "totalRepVotes": 143542,
+      "totalDemVotes": 111991
+    },
+    "20": {
+      "candidates": [
+        [
+          "Jeffrey C. Blunt",
+          29055,
+          "libertarian"
+        ],
+        [
+          "Joaquin Castro",
+          149640,
+          "democrat"
+        ],
+        [
+          "Paul Pipkin",
+          8974,
+          "green"
+        ]
+      ],
+      "totalVotes": 187669,
+      "winner": [
+        "Joaquin Castro",
+        149640,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 149640
+    }
+  },
+  "2009": {
+    "5": {
+      "candidates": [
+        [
+          "Jeb Hensarling",
+          162894,
+          "republican"
+        ],
+        [
+          "Ken Ashby",
+          31967,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 194861,
+      "winner": [
+        "Jeb Hensarling",
+        162894,
+        "republican"
+      ],
+      "totalRepVotes": 162894,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Sam Johnson",
+          170742,
+          "republican"
+        ],
+        [
+          "Tom Daley",
+          108693,
+          "democrat"
+        ],
+        [
+          "Christopher J. Claytor",
+          6348,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 285783,
+      "winner": [
+        "Sam Johnson",
+        170742,
+        "republican"
+      ],
+      "totalRepVotes": 170742,
+      "totalDemVotes": 108693
+    },
+    "26": {
+      "candidates": [
+        [
+          "Michael C. Burgess",
+          195181,
+          "republican"
+        ],
+        [
+          "Stephanie B. Weiss",
+          11028,
+          "libertarian"
+        ],
+        [
+          "Ken Leach",
+          118167,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 324376,
+      "winner": [
+        "Michael C. Burgess",
+        195181,
+        "republican"
+      ],
+      "totalRepVotes": 195181,
+      "totalDemVotes": 118167
+    },
+    "4": {
+      "candidates": [
+        [
+          "Glenn Melancon",
+          88067,
+          "democrat"
+        ],
+        [
+          "Fred Annett",
+          5771,
+          "libertarian"
+        ],
+        [
+          "Ralph M. Hall",
+          206906,
+          "republican"
+        ]
+      ],
+      "totalVotes": 300744,
+      "winner": [
+        "Ralph M. Hall",
+        206906,
+        "republican"
+      ],
+      "totalRepVotes": 206906,
+      "totalDemVotes": 88067
+    },
+    "28": {
+      "candidates": [
+        [
+          "Henry Cuellar",
+          123494,
+          "democrat"
+        ],
+        [
+          "Jim Fish",
+          52524,
+          "republican"
+        ],
+        [
+          "Ross Lynn Leone",
+          3722,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 179740,
+      "winner": [
+        "Henry Cuellar",
+        123494,
+        "democrat"
+      ],
+      "totalRepVotes": 52524,
+      "totalDemVotes": 123494
+    },
+    "32": {
+      "candidates": [
+        [
+          "Pete Sessions",
+          116283,
+          "republican"
+        ],
+        [
+          "Alex Bischoff",
+          4421,
+          "libertarian"
+        ],
+        [
+          "Eric Roberson",
+          82406,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 203110,
+      "winner": [
+        "Pete Sessions",
+        116283,
+        "republican"
+      ],
+      "totalRepVotes": 116283,
+      "totalDemVotes": 82406
+    },
+    "13": {
+      "candidates": [
+        [
+          "Mac Thornberry",
+          180078,
+          "republican"
+        ],
+        [
+          "Roger James Waun",
+          51841,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 231919,
+      "winner": [
+        "Mac Thornberry",
+        180078,
+        "republican"
+      ],
+      "totalRepVotes": 180078,
+      "totalDemVotes": 51841
+    },
+    "18": {
+      "candidates": [
+        [
+          "Mike Taylor",
+          4486,
+          "libertarian"
+        ],
+        [
+          "Sheila Jackson-Lee",
+          148617,
+          "democrat"
+        ],
+        [
+          "John Faulk",
+          39095,
+          "republican"
+        ]
+      ],
+      "totalVotes": 192198,
+      "winner": [
+        "Sheila Jackson-Lee",
+        148617,
+        "democrat"
+      ],
+      "totalRepVotes": 39095,
+      "totalDemVotes": 148617
+    },
+    "25": {
+      "candidates": [
+        [
+          "Jim Stutsman",
+          10848,
+          "libertarian"
+        ],
+        [
+          "George L. Morovich",
+          88693,
+          "republican"
+        ],
+        [
+          "Lloyd Doggett",
+          191755,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 291296,
+      "winner": [
+        "Lloyd Doggett",
+        191755,
+        "democrat"
+      ],
+      "totalRepVotes": 88693,
+      "totalDemVotes": 191755
+    },
+    "20": {
+      "candidates": [
+        [
+          "Michael Idrogo",
+          5172,
+          "libertarian"
+        ],
+        [
+          "Robert Litoff",
+          44585,
+          "republican"
+        ],
+        [
+          "Charles A. Gonzalez",
+          127298,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 177055,
+      "winner": [
+        "Charles A. Gonzalez",
+        127298,
+        "democrat"
+      ],
+      "totalRepVotes": 44585,
+      "totalDemVotes": 127298
+    },
+    "7": {
+      "candidates": [
+        [
+          "John Abney",
+          162635,
+          "republican"
+        ],
+        [
+          "Drew Parks",
+          5057,
+          "libertarian"
+        ],
+        [
+          "Michael Skelly",
+          123242,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 290934,
+      "winner": [
+        "John Abney",
+        162635,
+        "republican"
+      ],
+      "totalRepVotes": 162635,
+      "totalDemVotes": 123242
+    },
+    "11": {
+      "candidates": [
+        [
+          "K. Michael Conaway",
+          189625,
+          "republican"
+        ],
+        [
+          "John R. Strohm",
+          25051,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 214676,
+      "winner": [
+        "K. Michael Conaway",
+        189625,
+        "republican"
+      ],
+      "totalRepVotes": 189625,
+      "totalDemVotes": 0
+    },
+    "31": {
+      "candidates": [
+        [
+          "Brian P. Ruiz",
+          106559,
+          "democrat"
+        ],
+        [
+          "Barry N. Cooper",
+          9182,
+          "libertarian"
+        ],
+        [
+          "John R. Carter",
+          175563,
+          "republican"
+        ]
+      ],
+      "totalVotes": 291304,
+      "winner": [
+        "John R. Carter",
+        175563,
+        "republican"
+      ],
+      "totalRepVotes": 175563,
+      "totalDemVotes": 106559
+    },
+    "9": {
+      "candidates": [
+        [
+          "Brad Walters",
+          9760,
+          "libertarian"
+        ],
+        [
+          "Al Green",
+          143868,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 153628,
+      "winner": [
+        "Al Green",
+        143868,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 143868
+    },
+    "15": {
+      "candidates": [
+        [
+          "Gricha Raether",
+          3827,
+          "libertarian"
+        ],
+        [
+          "Eddie Zamora",
+          52303,
+          "republican"
+        ],
+        [
+          "Rub\u00c2\u008en Hinojosa",
+          107578,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 163708,
+      "winner": [
+        "Rub\u00c2\u008en Hinojosa",
+        107578,
+        "democrat"
+      ],
+      "totalRepVotes": 52303,
+      "totalDemVotes": 107578
+    },
+    "10": {
+      "candidates": [
+        [
+          "Matt Finkel",
+          9871,
+          "libertarian"
+        ],
+        [
+          "Michael T. McCaul",
+          179493,
+          "republican"
+        ],
+        [
+          "Larry Joe Doherty",
+          143719,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 333083,
+      "winner": [
+        "Michael T. McCaul",
+        179493,
+        "republican"
+      ],
+      "totalRepVotes": 179493,
+      "totalDemVotes": 143719
+    },
+    "24": {
+      "candidates": [
+        [
+          "Tom Love",
+          111089,
+          "democrat"
+        ],
+        [
+          "David A. Casey",
+          7972,
+          "libertarian"
+        ],
+        [
+          "Kenny Marchant",
+          151434,
+          "republican"
+        ]
+      ],
+      "totalVotes": 270495,
+      "winner": [
+        "Kenny Marchant",
+        151434,
+        "republican"
+      ],
+      "totalRepVotes": 151434,
+      "totalDemVotes": 111089
+    },
+    "23": {
+      "candidates": [
+        [
+          "Ciro D. Rodriguez",
+          134090,
+          "democrat"
+        ],
+        [
+          "Lyle Larson",
+          100799,
+          "republican"
+        ],
+        [
+          "Lani Connolly",
+          5581,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 240470,
+      "winner": [
+        "Ciro D. Rodriguez",
+        134090,
+        "democrat"
+      ],
+      "totalRepVotes": 100799,
+      "totalDemVotes": 134090
+    },
+    "17": {
+      "candidates": [
+        [
+          "Chet Edwards",
+          134592,
+          "democrat"
+        ],
+        [
+          "Gardner C. Osborne",
+          3849,
+          "libertarian"
+        ],
+        [
+          "Rob Curnock",
+          115581,
+          "republican"
+        ]
+      ],
+      "totalVotes": 254022,
+      "winner": [
+        "Chet Edwards",
+        134592,
+        "democrat"
+      ],
+      "totalRepVotes": 115581,
+      "totalDemVotes": 134592
+    },
+    "21": {
+      "candidates": [
+        [
+          "Lamar Smith",
+          243471,
+          "republican"
+        ],
+        [
+          "James Arthur Stohm",
+          60879,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 304350,
+      "winner": [
+        "Lamar Smith",
+        243471,
+        "republican"
+      ],
+      "totalRepVotes": 243471,
+      "totalDemVotes": 0
+    },
+    "22": {
+      "candidates": [
+        [
+          "John Wieder",
+          6839,
+          "libertarian"
+        ],
+        [
+          "Pete Olson",
+          161996,
+          "republican"
+        ],
+        [
+          "Nick Lampson",
+          140160,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 308995,
+      "winner": [
+        "Pete Olson",
+        161996,
+        "republican"
+      ],
+      "totalRepVotes": 161996,
+      "totalDemVotes": 140160
+    },
+    "6": {
+      "candidates": [
+        [
+          "Joe Barton",
+          174008,
+          "republican"
+        ],
+        [
+          "Ludwig Otto",
+          99919,
+          "democrat"
+        ],
+        [
+          "Max W. Koch III",
+          6655,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 280582,
+      "winner": [
+        "Joe Barton",
+        174008,
+        "republican"
+      ],
+      "totalRepVotes": 174008,
+      "totalDemVotes": 99919
+    },
+    "30": {
+      "candidates": [
+        [
+          "Jarrett Woods",
+          3366,
+          "libertarian"
+        ],
+        [
+          "Fred Wood",
+          32361,
+          "republican"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          168249,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 203976,
+      "winner": [
+        "Eddie Bernice Johnson",
+        168249,
+        "democrat"
+      ],
+      "totalRepVotes": 32361,
+      "totalDemVotes": 168249
+    },
+    "19": {
+      "candidates": [
+        [
+          "Randy Neugebauer",
+          168501,
+          "republican"
+        ],
+        [
+          "Dwight Fullingim",
+          58030,
+          "democrat"
+        ],
+        [
+          "Richard \"Chip\" Peterson",
+          6080,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 232611,
+      "winner": [
+        "Randy Neugebauer",
+        168501,
+        "republican"
+      ],
+      "totalRepVotes": 168501,
+      "totalDemVotes": 58030
+    },
+    "2": {
+      "candidates": [
+        [
+          "Craig Wolfe",
+          21813,
+          "libertarian"
+        ],
+        [
+          "Ted Poe",
+          175101,
+          "republican"
+        ]
+      ],
+      "totalVotes": 196914,
+      "winner": [
+        "Ted Poe",
+        175101,
+        "republican"
+      ],
+      "totalRepVotes": 175101,
+      "totalDemVotes": 0
+    },
+    "14": {
+      "candidates": [
+        [
+          "Ron Paul",
+          191293,
+          "republican"
+        ]
+      ],
+      "totalVotes": 191293,
+      "winner": [
+        "Ron Paul",
+        191293,
+        "republican"
+      ],
+      "totalRepVotes": 191293,
+      "totalDemVotes": 0
+    },
+    "27": {
+      "candidates": [
+        [
+          "Solomon P. Ortiz",
+          104864,
+          "democrat"
+        ],
+        [
+          "Robert E. Powell",
+          6629,
+          "libertarian"
+        ],
+        [
+          "William Willie Vaden",
+          69458,
+          "republican"
+        ]
+      ],
+      "totalVotes": 180951,
+      "winner": [
+        "Solomon P. Ortiz",
+        104864,
+        "democrat"
+      ],
+      "totalRepVotes": 69458,
+      "totalDemVotes": 104864
+    },
+    "1": {
+      "candidates": [
+        [
+          "Louie Gohmert",
+          189012,
+          "republican"
+        ],
+        [
+          "Roger L. Owen",
+          26814,
+          "independent"
+        ]
+      ],
+      "totalVotes": 215826,
+      "winner": [
+        "Louie Gohmert",
+        189012,
+        "republican"
+      ],
+      "totalRepVotes": 189012,
+      "totalDemVotes": 0
+    },
+    "12": {
+      "candidates": [
+        [
+          "Shiloh Sidney Shambaugh",
+          4842,
+          "libertarian"
+        ],
+        [
+          "Tracey Smith",
+          82250,
+          "democrat"
+        ],
+        [
+          "Kay Granger",
+          181662,
+          "republican"
+        ]
+      ],
+      "totalVotes": 268754,
+      "winner": [
+        "Kay Granger",
+        181662,
+        "republican"
+      ],
+      "totalRepVotes": 181662,
+      "totalDemVotes": 82250
+    },
+    "16": {
+      "candidates": [
+        [
+          "Mette A. Baker",
+          12000,
+          "libertarian"
+        ],
+        [
+          "Benjamin Eloy \"Ben\" Mendoza",
+          16348,
+          "independent"
+        ],
+        [
+          "Silvestre Reyes",
+          130375,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 158723,
+      "winner": [
+        "Silvestre Reyes",
+        130375,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 130375
+    },
+    "29": {
+      "candidates": [
+        [
+          "Eric Story",
+          25512,
+          "republican"
+        ],
+        [
+          "Joel Grace",
+          1564,
+          "libertarian"
+        ],
+        [
+          "Gene Green",
+          79718,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 106794,
+      "winner": [
+        "Gene Green",
+        79718,
+        "democrat"
+      ],
+      "totalRepVotes": 25512,
+      "totalDemVotes": 79718
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kent Hargett",
+          70758,
+          "democrat"
+        ],
+        [
+          "Brian Stevens",
+          7565,
+          "libertarian"
+        ],
+        [
+          "Kevin Brady",
+          207128,
+          "republican"
+        ]
+      ],
+      "totalVotes": 285451,
+      "winner": [
+        "Kevin Brady",
+        207128,
+        "republican"
+      ],
+      "totalRepVotes": 207128,
+      "totalDemVotes": 70758
+    }
+  },
+  "2007": {
+    "21": {
+      "candidates": [
+        [
+          "Lamar S. Smith",
+          122486,
+          "republican"
+        ],
+        [
+          "Tommy Calvert",
+          5280,
+          "independent"
+        ],
+        [
+          "James Lyle Peterson",
+          2189,
+          "independent"
+        ],
+        [
+          "James Arthur Strohm",
+          4076,
+          "libertarian"
+        ],
+        [
+          "John Courage",
+          49957,
+          "democrat"
+        ],
+        [
+          "Gene Kelly",
+          18355,
+          "democrat"
+        ],
+        [
+          "Mark J. Rossano",
+          1439,
+          "independent"
+        ]
+      ],
+      "totalVotes": 203782,
+      "winner": [
+        "Lamar S. Smith",
+        122486,
+        "republican"
+      ],
+      "totalRepVotes": 122486,
+      "totalDemVotes": 68312
+    },
+    "22": {
+      "candidates": [
+        [
+          "Bob Smither",
+          9009,
+          "libertarian"
+        ],
+        [
+          "Nick Lampson",
+          76775,
+          "democrat"
+        ],
+        [
+          "Shelley Sekula Gibbs",
+          61938,
+          "none"
+        ],
+        [
+          "Steve Stockman",
+          13600,
+          "republican"
+        ],
+        [
+          "Shelley Sekula Gibbs",
+          76924,
+          "republican"
+        ],
+        [
+          "Don Richardson",
+          7405,
+          "republican"
+        ],
+        [
+          "Giannibicego Hoa Tran",
+          2568,
+          "republican"
+        ],
+        [
+          "Bob Smither",
+          23425,
+          "libertarian"
+        ],
+        [
+          "Joe Reasbeck",
+          89,
+          "none"
+        ],
+        [
+          "Don Richardson",
+          428,
+          "none"
+        ]
+      ],
+      "totalVotes": 148239,
+      "winner": [
+        "Shelley Sekula Gibbs",
+        76924,
+        "republican"
+      ],
+      "totalRepVotes": 100497,
+      "totalDemVotes": 76775
+    },
+    "32": {
+      "candidates": [
+        [
+          "Pete Sessions",
+          71461,
+          "republican"
+        ],
+        [
+          "John B. Hawley",
+          2922,
+          "libertarian"
+        ],
+        [
+          "Will Pryor",
+          52269,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 126652,
+      "winner": [
+        "Pete Sessions",
+        71461,
+        "republican"
+      ],
+      "totalRepVotes": 71461,
+      "totalDemVotes": 52269
+    },
+    "16": {
+      "candidates": [
+        [
+          "Gordon R. Strickland",
+          16572,
+          "libertarian"
+        ],
+        [
+          "Silvestre Reyes",
+          61116,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 77688,
+      "winner": [
+        "Silvestre Reyes",
+        61116,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 61116
+    },
+    "6": {
+      "candidates": [
+        [
+          "Carl Nulsen",
+          3740,
+          "libertarian"
+        ],
+        [
+          "David T. Harris",
+          56369,
+          "democrat"
+        ],
+        [
+          "Joe Barton",
+          91927,
+          "republican"
+        ]
+      ],
+      "totalVotes": 152036,
+      "winner": [
+        "Joe Barton",
+        91927,
+        "republican"
+      ],
+      "totalRepVotes": 91927,
+      "totalDemVotes": 56369
+    },
+    "10": {
+      "candidates": [
+        [
+          "Michael Badnarik",
+          7614,
+          "libertarian"
+        ],
+        [
+          "Ted Ankrum",
+          71415,
+          "democrat"
+        ],
+        [
+          "Michael T. McCaul",
+          97726,
+          "republican"
+        ]
+      ],
+      "totalVotes": 176755,
+      "winner": [
+        "Michael T. McCaul",
+        97726,
+        "republican"
+      ],
+      "totalRepVotes": 97726,
+      "totalDemVotes": 71415
+    },
+    "17": {
+      "candidates": [
+        [
+          "Chet Edwards",
+          92478,
+          "democrat"
+        ],
+        [
+          "Guillermo Acosta",
+          2504,
+          "libertarian"
+        ],
+        [
+          "Van Taylor",
+          64142,
+          "republican"
+        ]
+      ],
+      "totalVotes": 159124,
+      "winner": [
+        "Chet Edwards",
+        92478,
+        "democrat"
+      ],
+      "totalRepVotes": 64142,
+      "totalDemVotes": 92478
+    },
+    "12": {
+      "candidates": [
+        [
+          "Gardner Osborne",
+          2888,
+          "libertarian"
+        ],
+        [
+          "Kay Granger",
+          98371,
+          "republican"
+        ],
+        [
+          "John R. Morris",
+          45676,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 146935,
+      "winner": [
+        "Kay Granger",
+        98371,
+        "republican"
+      ],
+      "totalRepVotes": 98371,
+      "totalDemVotes": 45676
+    },
+    "3": {
+      "candidates": [
+        [
+          "Christopher J. Claytor",
+          3662,
+          "libertarian"
+        ],
+        [
+          "Sam Johnson",
+          88690,
+          "republican"
+        ],
+        [
+          "Dan Dodd",
+          49529,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 141881,
+      "winner": [
+        "Sam Johnson",
+        88690,
+        "republican"
+      ],
+      "totalRepVotes": 88690,
+      "totalDemVotes": 49529
+    },
+    "28": {
+      "candidates": [
+        [
+          "Henry Cuellar",
+          52574,
+          "democrat"
+        ],
+        [
+          "Ron Avery",
+          9383,
+          "conservative"
+        ],
+        [
+          "Frank Enriquez",
+          15798,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 77755,
+      "winner": [
+        "Henry Cuellar",
+        52574,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 68372
+    },
+    "14": {
+      "candidates": [
+        [
+          "Shane Sklar",
+          62429,
+          "democrat"
+        ],
+        [
+          "Ron Paul",
+          94380,
+          "republican"
+        ]
+      ],
+      "totalVotes": 156809,
+      "winner": [
+        "Ron Paul",
+        94380,
+        "republican"
+      ],
+      "totalRepVotes": 94380,
+      "totalDemVotes": 62429
+    },
+    "2": {
+      "candidates": [
+        [
+          "Gary E. Binderim",
+          45080,
+          "democrat"
+        ],
+        [
+          "Ted Poe",
+          90490,
+          "republican"
+        ],
+        [
+          "Justo J. Perez",
+          2295,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 137865,
+      "winner": [
+        "Ted Poe",
+        90490,
+        "republican"
+      ],
+      "totalRepVotes": 90490,
+      "totalDemVotes": 45080
+    },
+    "19": {
+      "candidates": [
+        [
+          "Randy Neugebauer",
+          94785,
+          "republican"
+        ],
+        [
+          "Robert Ricketts",
+          41676,
+          "democrat"
+        ],
+        [
+          "Fred C. Jones",
+          3349,
+          "libertarian"
+        ],
+        [
+          "Mike Sadler",
+          197,
+          "none"
+        ]
+      ],
+      "totalVotes": 140007,
+      "winner": [
+        "Randy Neugebauer",
+        94785,
+        "republican"
+      ],
+      "totalRepVotes": 94785,
+      "totalDemVotes": 41676
+    },
+    "25": {
+      "candidates": [
+        [
+          "Brian Parrett",
+          3596,
+          "independent"
+        ],
+        [
+          "Grant Rostig",
+          42975,
+          "republican"
+        ],
+        [
+          "Barbara Cunningham",
+          6942,
+          "libertarian"
+        ],
+        [
+          "Lloyd Doggett",
+          109911,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 163424,
+      "winner": [
+        "Lloyd Doggett",
+        109911,
+        "democrat"
+      ],
+      "totalRepVotes": 42975,
+      "totalDemVotes": 109911
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kevin Brady",
+          105665,
+          "republican"
+        ],
+        [
+          "James \u00c2\u0091\u00c2\u0091Jim\u00c2\u0092\u00c2\u0092 Wright",
+          51393,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 157058,
+      "winner": [
+        "Kevin Brady",
+        105665,
+        "republican"
+      ],
+      "totalRepVotes": 105665,
+      "totalDemVotes": 51393
+    },
+    "29": {
+      "candidates": [
+        [
+          "Gene Green",
+          37174,
+          "democrat"
+        ],
+        [
+          "Eric Story",
+          12347,
+          "republican"
+        ],
+        [
+          "Clifford Lee Messina",
+          1029,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 50550,
+      "winner": [
+        "Gene Green",
+        37174,
+        "democrat"
+      ],
+      "totalRepVotes": 12347,
+      "totalDemVotes": 37174
+    },
+    "4": {
+      "candidates": [
+        [
+          "Ralph M. Hall",
+          106495,
+          "republican"
+        ],
+        [
+          "Glenn Melancon",
+          55278,
+          "democrat"
+        ],
+        [
+          "Kurt G. Helm",
+          3496,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 165269,
+      "winner": [
+        "Ralph M. Hall",
+        106495,
+        "republican"
+      ],
+      "totalRepVotes": 106495,
+      "totalDemVotes": 55278
+    },
+    "30": {
+      "candidates": [
+        [
+          "Eddie Bernice Johnson",
+          81348,
+          "democrat"
+        ],
+        [
+          "Wilson Aurbach",
+          17850,
+          "republican"
+        ],
+        [
+          "Ken Ashby",
+          2250,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 101448,
+      "winner": [
+        "Eddie Bernice Johnson",
+        81348,
+        "democrat"
+      ],
+      "totalRepVotes": 17850,
+      "totalDemVotes": 81348
+    },
+    "26": {
+      "candidates": [
+        [
+          "Rich Haas",
+          3993,
+          "libertarian"
+        ],
+        [
+          "Tim Barnwell",
+          58271,
+          "democrat"
+        ],
+        [
+          "Michael C. Burgess",
+          94219,
+          "republican"
+        ]
+      ],
+      "totalVotes": 156483,
+      "winner": [
+        "Michael C. Burgess",
+        94219,
+        "republican"
+      ],
+      "totalRepVotes": 94219,
+      "totalDemVotes": 58271
+    },
+    "7": {
+      "candidates": [
+        [
+          "Jim Henley",
+          64514,
+          "democrat"
+        ],
+        [
+          "John Abney Culberson",
+          99318,
+          "republican"
+        ],
+        [
+          "Drew Parks",
+          3953,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 167785,
+      "winner": [
+        "John Abney Culberson",
+        99318,
+        "republican"
+      ],
+      "totalRepVotes": 99318,
+      "totalDemVotes": 64514
+    },
+    "23": {
+      "candidates": [
+        [
+          "August G. \u00c2\u0091\u00c2\u0091Augie\u00c2\u0092\u00c2\u0092 Beltran",
+          2647,
+          "democrat"
+        ],
+        [
+          "Albert Uresti",
+          14552,
+          "democrat"
+        ],
+        [
+          "Adrian DeLeon",
+          2198,
+          "democrat"
+        ],
+        [
+          "Henry Bonilla",
+          60175,
+          "republican"
+        ],
+        [
+          "Craig T. Stephens",
+          3341,
+          "independent"
+        ],
+        [
+          "Lukin Gilliland",
+          13728,
+          "democrat"
+        ],
+        [
+          "Henry Bonilla",
+          32217,
+          "republican"
+        ],
+        [
+          "Rick Bolanos",
+          2564,
+          "democrat"
+        ],
+        [
+          "Ciro D. Rodriguez",
+          38256,
+          "democrat"
+        ],
+        [
+          "Ciro D. Rodriguez",
+          24594,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 123799,
+      "winner": [
+        "Henry Bonilla",
+        60175,
+        "republican"
+      ],
+      "totalRepVotes": 92392,
+      "totalDemVotes": 98539
+    },
+    "27": {
+      "candidates": [
+        [
+          "Wm. \u00c2\u0091\u00c2\u0091Willie\u00c2\u0092\u00c2\u0092 Vaden",
+          42538,
+          "republican"
+        ],
+        [
+          "Robert Powell",
+          4718,
+          "libertarian"
+        ],
+        [
+          "Solomon P. Ortiz",
+          62058,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 109314,
+      "winner": [
+        "Solomon P. Ortiz",
+        62058,
+        "democrat"
+      ],
+      "totalRepVotes": 42538,
+      "totalDemVotes": 62058
+    },
+    "15": {
+      "candidates": [
+        [
+          "Rub\u00c3\u00a9n Hinojosa",
+          43236,
+          "democrat"
+        ],
+        [
+          "Paul B. Haring",
+          16601,
+          "republican"
+        ],
+        [
+          "Eddie Zamora",
+          10150,
+          "republican"
+        ]
+      ],
+      "totalVotes": 69987,
+      "winner": [
+        "Rub\u00c3\u00a9n Hinojosa",
+        43236,
+        "democrat"
+      ],
+      "totalRepVotes": 26751,
+      "totalDemVotes": 43236
+    },
+    "24": {
+      "candidates": [
+        [
+          "Gary R. Page",
+          52075,
+          "democrat"
+        ],
+        [
+          "Mark Frohman",
+          4228,
+          "libertarian"
+        ],
+        [
+          "Kenny Marchant",
+          83835,
+          "republican"
+        ]
+      ],
+      "totalVotes": 140138,
+      "winner": [
+        "Kenny Marchant",
+        83835,
+        "republican"
+      ],
+      "totalRepVotes": 83835,
+      "totalDemVotes": 52075
+    },
+    "9": {
+      "candidates": [
+        [
+          "Al Green",
+          60253,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 60253,
+      "winner": [
+        "Al Green",
+        60253,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 60253
+    },
+    "31": {
+      "candidates": [
+        [
+          "Mary Beth Harrell",
+          60293,
+          "democrat"
+        ],
+        [
+          "John R. Carter",
+          90869,
+          "republican"
+        ],
+        [
+          "Matt McAdoo",
+          4221,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 155383,
+      "winner": [
+        "John R. Carter",
+        90869,
+        "republican"
+      ],
+      "totalRepVotes": 90869,
+      "totalDemVotes": 60293
+    },
+    "18": {
+      "candidates": [
+        [
+          "Sheila Jackson-Lee",
+          65936,
+          "democrat"
+        ],
+        [
+          "Patrick Warren",
+          3667,
+          "libertarian"
+        ],
+        [
+          "Ahmad Hassan",
+          16448,
+          "republican"
+        ]
+      ],
+      "totalVotes": 86051,
+      "winner": [
+        "Sheila Jackson-Lee",
+        65936,
+        "democrat"
+      ],
+      "totalRepVotes": 16448,
+      "totalDemVotes": 65936
+    },
+    "5": {
+      "candidates": [
+        [
+          "Mike Nelson",
+          3791,
+          "libertarian"
+        ],
+        [
+          "Jeb Hensarling",
+          88478,
+          "republican"
+        ],
+        [
+          "Charlie Thompson",
+          50983,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 143252,
+      "winner": [
+        "Jeb Hensarling",
+        88478,
+        "republican"
+      ],
+      "totalRepVotes": 88478,
+      "totalDemVotes": 50983
+    },
+    "13": {
+      "candidates": [
+        [
+          "Roger J. Waun",
+          33460,
+          "democrat"
+        ],
+        [
+          "Jim Thompson",
+          3829,
+          "libertarian"
+        ],
+        [
+          "Mac Thornberry",
+          108107,
+          "republican"
+        ]
+      ],
+      "totalVotes": 145396,
+      "winner": [
+        "Mac Thornberry",
+        108107,
+        "republican"
+      ],
+      "totalRepVotes": 108107,
+      "totalDemVotes": 33460
+    },
+    "1": {
+      "candidates": [
+        [
+          "Donald Perkison",
+          2668,
+          "libertarian"
+        ],
+        [
+          "Louie Gohmert",
+          104099,
+          "republican"
+        ],
+        [
+          "Roger L. Owen",
+          46303,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 153070,
+      "winner": [
+        "Louie Gohmert",
+        104099,
+        "republican"
+      ],
+      "totalRepVotes": 104099,
+      "totalDemVotes": 46303
+    },
+    "20": {
+      "candidates": [
+        [
+          "Michael Idrogo",
+          9897,
+          "libertarian"
+        ],
+        [
+          "Charles A. Gonzalez",
+          68348,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 78245,
+      "winner": [
+        "Charles A. Gonzalez",
+        68348,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 68348
+    },
+    "11": {
+      "candidates": [
+        [
+          "K. Michael Conaway",
+          107268,
+          "republican"
+        ]
+      ],
+      "totalVotes": 107268,
+      "winner": [
+        "K. Michael Conaway",
+        107268,
+        "republican"
+      ],
+      "totalRepVotes": 107268,
+      "totalDemVotes": 0
+    }
+  },
+  "2015": {
+    "32": {
+      "candidates": [
+        [
+          "Ed Rankin",
+          4276,
+          "libertarian"
+        ],
+        [
+          "Frank Perez",
+          55325,
+          "democrat"
+        ],
+        [
+          "Pete Sessions",
+          96495,
+          "republican"
+        ]
+      ],
+      "totalVotes": 156096,
+      "winner": [
+        "Pete Sessions",
+        96495,
+        "republican"
+      ],
+      "totalRepVotes": 96495,
+      "totalDemVotes": 55325
+    },
+    "22": {
+      "candidates": [
+        [
+          "Pete Olson",
+          100861,
+          "republican"
+        ],
+        [
+          "Rob Lapham",
+          2861,
+          "libertarian"
+        ],
+        [
+          "Frank Briscoe",
+          47844,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 151566,
+      "winner": [
+        "Pete Olson",
+        100861,
+        "republican"
+      ],
+      "totalRepVotes": 100861,
+      "totalDemVotes": 47844
+    },
+    "35": {
+      "candidates": [
+        [
+          "Cory W. Bruner",
+          2767,
+          "libertarian"
+        ],
+        [
+          "Lloyd Doggett",
+          60124,
+          "democrat"
+        ],
+        [
+          "Kat Swift",
+          1294,
+          "green"
+        ],
+        [
+          "Susan Narvaiz",
+          32040,
+          "republican"
+        ]
+      ],
+      "totalVotes": 96225,
+      "winner": [
+        "Lloyd Doggett",
+        60124,
+        "democrat"
+      ],
+      "totalRepVotes": 32040,
+      "totalDemVotes": 60124
+    },
+    "10": {
+      "candidates": [
+        [
+          "Michael T. McCaul",
+          109726,
+          "republican"
+        ],
+        [
+          "Bill Kelsey",
+          6491,
+          "libertarian"
+        ],
+        [
+          "Tawana Walter-Cadien",
+          60243,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 176460,
+      "winner": [
+        "Michael T. McCaul",
+        109726,
+        "republican"
+      ],
+      "totalRepVotes": 109726,
+      "totalDemVotes": 60243
+    },
+    "17": {
+      "candidates": [
+        [
+          "Nick Haynes",
+          43049,
+          "democrat"
+        ],
+        [
+          "Bill Flores",
+          85807,
+          "republican"
+        ],
+        [
+          "Shawn Michael Hamilton",
+          4009,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 132865,
+      "winner": [
+        "Bill Flores",
+        85807,
+        "republican"
+      ],
+      "totalRepVotes": 85807,
+      "totalDemVotes": 43049
+    },
+    "18": {
+      "candidates": [
+        [
+          "Vince Duncan",
+          2362,
+          "independent"
+        ],
+        [
+          "Sheila Jackson Lee",
+          76097,
+          "democrat"
+        ],
+        [
+          "Sean Seibert",
+          26249,
+          "republican"
+        ],
+        [
+          "Remington Alessi",
+          1302,
+          "green"
+        ]
+      ],
+      "totalVotes": 106010,
+      "winner": [
+        "Sheila Jackson Lee",
+        76097,
+        "democrat"
+      ],
+      "totalRepVotes": 26249,
+      "totalDemVotes": 76097
+    },
+    "15": {
+      "candidates": [
+        [
+          "Johnny Partain",
+          2460,
+          "libertarian"
+        ],
+        [
+          "Rub\u00c2\u008en Hinojosa",
+          48708,
+          "democrat"
+        ],
+        [
+          "Eddie Zamora",
+          39016,
+          "republican"
+        ]
+      ],
+      "totalVotes": 90184,
+      "winner": [
+        "Rub\u00c2\u008en Hinojosa",
+        48708,
+        "democrat"
+      ],
+      "totalRepVotes": 39016,
+      "totalDemVotes": 48708
+    },
+    "2": {
+      "candidates": [
+        [
+          "James B. Veasaw",
+          2316,
+          "libertarian"
+        ],
+        [
+          "Niko Letsos",
+          44462,
+          "democrat"
+        ],
+        [
+          "Mark Roberts",
+          1312,
+          "green"
+        ],
+        [
+          "Ted Poe",
+          101936,
+          "republican"
+        ]
+      ],
+      "totalVotes": 150026,
+      "winner": [
+        "Ted Poe",
+        101936,
+        "republican"
+      ],
+      "totalRepVotes": 101936,
+      "totalDemVotes": 44462
+    },
+    "19": {
+      "candidates": [
+        [
+          "Donald L. Vance",
+          54,
+          "none"
+        ],
+        [
+          "Randy Neugebauer",
+          90160,
+          "republican"
+        ],
+        [
+          "Neal Marchbanks",
+          21458,
+          "democrat"
+        ],
+        [
+          "Richard \"Chip\" Peterson",
+          5146,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 116818,
+      "winner": [
+        "Randy Neugebauer",
+        90160,
+        "republican"
+      ],
+      "totalRepVotes": 90160,
+      "totalDemVotes": 21458
+    },
+    "28": {
+      "candidates": [
+        [
+          "Michael D. Cary",
+          3475,
+          "green"
+        ],
+        [
+          "William Aikens",
+          10153,
+          "libertarian"
+        ],
+        [
+          "Henry Cuellar",
+          62508,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 76136,
+      "winner": [
+        "Henry Cuellar",
+        62508,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 62508
+    },
+    "25": {
+      "candidates": [
+        [
+          "John Betz",
+          6300,
+          "libertarian"
+        ],
+        [
+          "Roger Williams",
+          107120,
+          "republican"
+        ],
+        [
+          "Marco Montoya",
+          64463,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 177883,
+      "winner": [
+        "Roger Williams",
+        107120,
+        "republican"
+      ],
+      "totalRepVotes": 107120,
+      "totalDemVotes": 64463
+    },
+    "6": {
+      "candidates": [
+        [
+          "Joe Barton",
+          92334,
+          "republican"
+        ],
+        [
+          "Hugh Chauvin",
+          3635,
+          "libertarian"
+        ],
+        [
+          "David E. Cozad",
+          55027,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 150996,
+      "winner": [
+        "Joe Barton",
+        92334,
+        "republican"
+      ],
+      "totalRepVotes": 92334,
+      "totalDemVotes": 55027
+    },
+    "9": {
+      "candidates": [
+        [
+          "Johnny Johnson",
+          7894,
+          "libertarian"
+        ],
+        [
+          "Al Green",
+          78109,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 86003,
+      "winner": [
+        "Al Green",
+        78109,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 78109
+    },
+    "13": {
+      "candidates": [
+        [
+          "Don Cook",
+          924,
+          "green"
+        ],
+        [
+          "Mike Minter",
+          16822,
+          "democrat"
+        ],
+        [
+          "Emily Pivoda",
+          2863,
+          "libertarian"
+        ],
+        [
+          "Mac Thornberry",
+          110842,
+          "republican"
+        ]
+      ],
+      "totalVotes": 131451,
+      "winner": [
+        "Mac Thornberry",
+        110842,
+        "republican"
+      ],
+      "totalRepVotes": 110842,
+      "totalDemVotes": 16822
+    },
+    "14": {
+      "candidates": [
+        [
+          "Randy K. Weber Sr.",
+          90116,
+          "republican"
+        ],
+        [
+          "John Wieder",
+          3037,
+          "libertarian"
+        ],
+        [
+          "Donald G. Brown",
+          52545,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 145698,
+      "winner": [
+        "Randy K. Weber Sr.",
+        90116,
+        "republican"
+      ],
+      "totalRepVotes": 90116,
+      "totalDemVotes": 52545
+    },
+    "36": {
+      "candidates": [
+        [
+          "Brian Babin",
+          101663,
+          "republican"
+        ],
+        [
+          "Rodney Veach",
+          1951,
+          "libertarian"
+        ],
+        [
+          "Hal J. Ridley Jr.",
+          685,
+          "green"
+        ],
+        [
+          "Michael K. Cole",
+          29543,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 133842,
+      "winner": [
+        "Brian Babin",
+        101663,
+        "republican"
+      ],
+      "totalRepVotes": 101663,
+      "totalDemVotes": 29543
+    },
+    "12": {
+      "candidates": [
+        [
+          "Mark Greene",
+          41757,
+          "democrat"
+        ],
+        [
+          "Kay Granger",
+          113186,
+          "republican"
+        ],
+        [
+          "Ed Colliver",
+          3787,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 158730,
+      "winner": [
+        "Kay Granger",
+        113186,
+        "republican"
+      ],
+      "totalRepVotes": 113186,
+      "totalDemVotes": 41757
+    },
+    "30": {
+      "candidates": [
+        [
+          "Eddie Bernice Johnson",
+          93041,
+          "democrat"
+        ],
+        [
+          "Max W. Koch III",
+          7154,
+          "libertarian"
+        ],
+        [
+          "Eric LeMonte Williams",
+          5598,
+          "independent"
+        ]
+      ],
+      "totalVotes": 105793,
+      "winner": [
+        "Eddie Bernice Johnson",
+        93041,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 93041
+    },
+    "33": {
+      "candidates": [
+        [
+          "Jason Reeves",
+          6823,
+          "libertarian"
+        ],
+        [
+          "Marc A. Veasey",
+          43769,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 50592,
+      "winner": [
+        "Marc A. Veasey",
+        43769,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 43769
+    },
+    "31": {
+      "candidates": [
+        [
+          "Louie Minor",
+          45715,
+          "democrat"
+        ],
+        [
+          "John R. Carter",
+          91607,
+          "republican"
+        ],
+        [
+          "Scott J. Ballard",
+          5706,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 143028,
+      "winner": [
+        "John R. Carter",
+        91607,
+        "republican"
+      ],
+      "totalRepVotes": 91607,
+      "totalDemVotes": 45715
+    },
+    "21": {
+      "candidates": [
+        [
+          "Antonio Diaz",
+          27831,
+          "green"
+        ],
+        [
+          "Lamar Smith",
+          135660,
+          "republican"
+        ],
+        [
+          "Ryan Shields",
+          25505,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 188996,
+      "winner": [
+        "Lamar Smith",
+        135660,
+        "republican"
+      ],
+      "totalRepVotes": 135660,
+      "totalDemVotes": 0
+    },
+    "29": {
+      "candidates": [
+        [
+          "James Stanczak",
+          4822,
+          "libertarian"
+        ],
+        [
+          "Gene Green",
+          41321,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 46143,
+      "winner": [
+        "Gene Green",
+        41321,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 41321
+    },
+    "26": {
+      "candidates": [
+        [
+          "Mark Boler",
+          24526,
+          "libertarian"
+        ],
+        [
+          "Michael C. Burgess",
+          116944,
+          "republican"
+        ]
+      ],
+      "totalVotes": 141470,
+      "winner": [
+        "Michael C. Burgess",
+        116944,
+        "republican"
+      ],
+      "totalRepVotes": 116944,
+      "totalDemVotes": 0
+    },
+    "23": {
+      "candidates": [
+        [
+          "Ruben Corvalan",
+          2933,
+          "libertarian"
+        ],
+        [
+          "Will Hurd",
+          57459,
+          "republican"
+        ],
+        [
+          "Pete P. Gallego",
+          55037,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 115429,
+      "winner": [
+        "Will Hurd",
+        57459,
+        "republican"
+      ],
+      "totalRepVotes": 57459,
+      "totalDemVotes": 55037
+    },
+    "27": {
+      "candidates": [
+        [
+          "Blake Farenthold",
+          83342,
+          "republican"
+        ],
+        [
+          "Roxanne Simonson",
+          3553,
+          "libertarian"
+        ],
+        [
+          "Wesley Reed",
+          44152,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 131047,
+      "winner": [
+        "Blake Farenthold",
+        83342,
+        "republican"
+      ],
+      "totalRepVotes": 83342,
+      "totalDemVotes": 44152
+    },
+    "16": {
+      "candidates": [
+        [
+          "Beto O'Rourke",
+          49338,
+          "democrat"
+        ],
+        [
+          "Jaime O. Perez",
+          2443,
+          "libertarian"
+        ],
+        [
+          "Corey Roen",
+          21324,
+          "republican"
+        ]
+      ],
+      "totalVotes": 73105,
+      "winner": [
+        "Beto O'Rourke",
+        49338,
+        "democrat"
+      ],
+      "totalRepVotes": 21324,
+      "totalDemVotes": 49338
+    },
+    "20": {
+      "candidates": [
+        [
+          "Jeffrey C. Blunt",
+          21410,
+          "libertarian"
+        ],
+        [
+          "Joaquin Castro",
+          66554,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 87964,
+      "winner": [
+        "Joaquin Castro",
+        66554,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 66554
+    },
+    "7": {
+      "candidates": [
+        [
+          "James Cargas",
+          49478,
+          "democrat"
+        ],
+        [
+          "Gerald Fowler",
+          3135,
+          "libertarian"
+        ],
+        [
+          "John Abney Culberson",
+          90606,
+          "republican"
+        ]
+      ],
+      "totalVotes": 143219,
+      "winner": [
+        "John Abney Culberson",
+        90606,
+        "republican"
+      ],
+      "totalRepVotes": 90606,
+      "totalDemVotes": 49478
+    },
+    "11": {
+      "candidates": [
+        [
+          "K. Michael Conaway",
+          107939,
+          "republican"
+        ],
+        [
+          "Ryan T. Lange",
+          11635,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 119574,
+      "winner": [
+        "K. Michael Conaway",
+        107939,
+        "republican"
+      ],
+      "totalRepVotes": 107939,
+      "totalDemVotes": 0
+    },
+    "34": {
+      "candidates": [
+        [
+          "Larry S. Smith",
+          30811,
+          "republican"
+        ],
+        [
+          "Filemon Vela",
+          47503,
+          "democrat"
+        ],
+        [
+          "Ryan Rowley",
+          1563,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 79877,
+      "winner": [
+        "Filemon Vela",
+        47503,
+        "democrat"
+      ],
+      "totalRepVotes": 30811,
+      "totalDemVotes": 47503
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kevin Brady",
+          125066,
+          "republican"
+        ],
+        [
+          "Ken Petty",
+          14947,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 140013,
+      "winner": [
+        "Kevin Brady",
+        125066,
+        "republican"
+      ],
+      "totalRepVotes": 125066,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jeb Hensarling",
+          88998,
+          "republican"
+        ],
+        [
+          "Ken Ashby",
+          15264,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 104262,
+      "winner": [
+        "Jeb Hensarling",
+        88998,
+        "republican"
+      ],
+      "totalRepVotes": 88998,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "John Ratcliffe",
+          115085,
+          "republican"
+        ]
+      ],
+      "totalVotes": 115085,
+      "winner": [
+        "John Ratcliffe",
+        115085,
+        "republican"
+      ],
+      "totalRepVotes": 115085,
+      "totalDemVotes": 0
+    },
+    "24": {
+      "candidates": [
+        [
+          "Patrick McGehearty",
+          46548,
+          "democrat"
+        ],
+        [
+          "Mike Kolls",
+          3813,
+          "libertarian"
+        ],
+        [
+          "Kenny Marchant",
+          93712,
+          "republican"
+        ]
+      ],
+      "totalVotes": 144073,
+      "winner": [
+        "Kenny Marchant",
+        93712,
+        "republican"
+      ],
+      "totalRepVotes": 93712,
+      "totalDemVotes": 46548
+    },
+    "1": {
+      "candidates": [
+        [
+          "Louie Gohmert",
+          115084,
+          "republican"
+        ],
+        [
+          "Shirley J. McKellar",
+          33476,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 148560,
+      "winner": [
+        "Louie Gohmert",
+        115084,
+        "republican"
+      ],
+      "totalRepVotes": 115084,
+      "totalDemVotes": 33476
+    },
+    "3": {
+      "candidates": [
+        [
+          "Paul Blair",
+          24876,
+          "green"
+        ],
+        [
+          "Sam Johnson",
+          113404,
+          "republican"
+        ]
+      ],
+      "totalVotes": 138280,
+      "winner": [
+        "Sam Johnson",
+        113404,
+        "republican"
+      ],
+      "totalRepVotes": 113404,
+      "totalDemVotes": 0
+    }
+  },
+  "2001": {
+    "7": {
+      "candidates": [
+        [
+          "John Culberson",
+          183712,
+          "republican"
+        ],
+        [
+          "John R. Skone-Palmer",
+          5,
+          "none"
+        ],
+        [
+          "Drew Parks",
+          4182,
+          "libertarian"
+        ],
+        [
+          "Jeff Sell",
+          60694,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 248593,
+      "winner": [
+        "John Culberson",
+        183712,
+        "republican"
+      ],
+      "totalRepVotes": 183712,
+      "totalDemVotes": 60694
+    },
+    "16": {
+      "candidates": [
+        [
+          "Dan Moser",
+          2080,
+          "libertarian"
+        ],
+        [
+          "Silvestre Reyes",
+          92649,
+          "democrat"
+        ],
+        [
+          "Daniel S. Power",
+          40921,
+          "republican"
+        ]
+      ],
+      "totalVotes": 135650,
+      "winner": [
+        "Silvestre Reyes",
+        92649,
+        "democrat"
+      ],
+      "totalRepVotes": 40921,
+      "totalDemVotes": 92649
+    },
+    "1": {
+      "candidates": [
+        [
+          "Noble Willingham",
+          91912,
+          "republican"
+        ],
+        [
+          "Max Sandlin",
+          118157,
+          "democrat"
+        ],
+        [
+          "Ray Carr",
+          1779,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 211848,
+      "winner": [
+        "Max Sandlin",
+        118157,
+        "democrat"
+      ],
+      "totalRepVotes": 91912,
+      "totalDemVotes": 118157
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Turner",
+          162891,
+          "democrat"
+        ],
+        [
+          "Gary Lyndon Dye",
+          15939,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 178830,
+      "winner": [
+        "Jim Turner",
+        162891,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 162891
+    },
+    "29": {
+      "candidates": [
+        [
+          "Ray Dittmar",
+          1204,
+          "libertarian"
+        ],
+        [
+          "Gene Green",
+          84665,
+          "democrat"
+        ],
+        [
+          "Joe Vu",
+          29606,
+          "republican"
+        ]
+      ],
+      "totalVotes": 115475,
+      "winner": [
+        "Gene Green",
+        84665,
+        "democrat"
+      ],
+      "totalRepVotes": 29606,
+      "totalDemVotes": 84665
+    },
+    "10": {
+      "candidates": [
+        [
+          "Lloyd Doggett",
+          203628,
+          "democrat"
+        ],
+        [
+          "Michael Davis",
+          37203,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 240831,
+      "winner": [
+        "Lloyd Doggett",
+        203628,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 203628
+    },
+    "21": {
+      "candidates": [
+        [
+          "Lamar S. Smith",
+          251049,
+          "republican"
+        ],
+        [
+          "Jim Green",
+          73326,
+          "democrat"
+        ],
+        [
+          "C. W. (Jinx) Steinbrecher",
+          6503,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 330878,
+      "winner": [
+        "Lamar S. Smith",
+        251049,
+        "republican"
+      ],
+      "totalRepVotes": 251049,
+      "totalDemVotes": 73326
+    },
+    "30": {
+      "candidates": [
+        [
+          "Kelly Rush",
+          9798,
+          "libertarian"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          109163,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 118961,
+      "winner": [
+        "Eddie Bernice Johnson",
+        109163,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 109163
+    },
+    "13": {
+      "candidates": [
+        [
+          "Mac Thornberry",
+          117995,
+          "republican"
+        ],
+        [
+          "Curtis Clinesmith",
+          54343,
+          "democrat"
+        ],
+        [
+          "Brad Clardy",
+          2137,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 174475,
+      "winner": [
+        "Mac Thornberry",
+        117995,
+        "republican"
+      ],
+      "totalRepVotes": 117995,
+      "totalDemVotes": 54343
+    },
+    "5": {
+      "candidates": [
+        [
+          "Pete Sessions",
+          100487,
+          "republican"
+        ],
+        [
+          "Ken Ashby",
+          2842,
+          "libertarian"
+        ],
+        [
+          "Regina Montoya Coggins",
+          82629,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 185958,
+      "winner": [
+        "Pete Sessions",
+        100487,
+        "republican"
+      ],
+      "totalRepVotes": 100487,
+      "totalDemVotes": 82629
+    },
+    "17": {
+      "candidates": [
+        [
+          "Debra M. Monde",
+          11180,
+          "libertarian"
+        ],
+        [
+          "Darrell Clements",
+          72535,
+          "republican"
+        ],
+        [
+          "Pete Julia",
+          45,
+          "none"
+        ],
+        [
+          "Charles W. Stenholm",
+          120670,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 204430,
+      "winner": [
+        "Charles W. Stenholm",
+        120670,
+        "democrat"
+      ],
+      "totalRepVotes": 72535,
+      "totalDemVotes": 120670
+    },
+    "24": {
+      "candidates": [
+        [
+          "Robert (Bob) Worthington",
+          2561,
+          "none"
+        ],
+        [
+          "Martin Frost",
+          103152,
+          "democrat"
+        ],
+        [
+          "James \u00c2\u0091\u00c2\u0091Bryndan\u00c2\u0092\u00c2\u0092 Wright",
+          61235,
+          "republican"
+        ]
+      ],
+      "totalVotes": 166948,
+      "winner": [
+        "Martin Frost",
+        103152,
+        "democrat"
+      ],
+      "totalRepVotes": 61235,
+      "totalDemVotes": 103152
+    },
+    "28": {
+      "candidates": [
+        [
+          "Ciro D. Rodriguez",
+          123104,
+          "democrat"
+        ],
+        [
+          "William A. Stallknecht",
+          15156,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 138260,
+      "winner": [
+        "Ciro D. Rodriguez",
+        123104,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 123104
+    },
+    "14": {
+      "candidates": [
+        [
+          "Loy Sneary",
+          92689,
+          "democrat"
+        ],
+        [
+          "Ron Paul",
+          137370,
+          "republican"
+        ]
+      ],
+      "totalVotes": 230059,
+      "winner": [
+        "Ron Paul",
+        137370,
+        "republican"
+      ],
+      "totalRepVotes": 137370,
+      "totalDemVotes": 92689
+    },
+    "18": {
+      "candidates": [
+        [
+          "Bob Levy",
+          38191,
+          "republican"
+        ],
+        [
+          "Sheila Jackson-Lee",
+          131857,
+          "democrat"
+        ],
+        [
+          "Colin Nankervis",
+          2330,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 172378,
+      "winner": [
+        "Sheila Jackson-Lee",
+        131857,
+        "democrat"
+      ],
+      "totalRepVotes": 38191,
+      "totalDemVotes": 131857
+    },
+    "20": {
+      "candidates": [
+        [
+          "Charles A. Gonzalez",
+          107487,
+          "democrat"
+        ],
+        [
+          "Alejandro (Alex) De Pena",
+          15087,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 122574,
+      "winner": [
+        "Charles A. Gonzalez",
+        107487,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 107487
+    },
+    "26": {
+      "candidates": [
+        [
+          "Steve Love",
+          75601,
+          "democrat"
+        ],
+        [
+          "Richard K. Armey",
+          214025,
+          "republican"
+        ],
+        [
+          "Fred E. Badagnani",
+          5646,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 295272,
+      "winner": [
+        "Richard K. Armey",
+        214025,
+        "republican"
+      ],
+      "totalRepVotes": 214025,
+      "totalDemVotes": 75601
+    },
+    "11": {
+      "candidates": [
+        [
+          "Mark A. Swanstrom",
+          1590,
+          "libertarian"
+        ],
+        [
+          "Ramsey Farley",
+          85546,
+          "republican"
+        ],
+        [
+          "Chet Edwards",
+          105782,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 192918,
+      "winner": [
+        "Chet Edwards",
+        105782,
+        "democrat"
+      ],
+      "totalRepVotes": 85546,
+      "totalDemVotes": 105782
+    },
+    "27": {
+      "candidates": [
+        [
+          "William Bunch",
+          4324,
+          "libertarian"
+        ],
+        [
+          "Pat Ahumada",
+          54660,
+          "republican"
+        ],
+        [
+          "Solomon P. Ortiz",
+          102088,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 161072,
+      "winner": [
+        "Solomon P. Ortiz",
+        102088,
+        "democrat"
+      ],
+      "totalRepVotes": 54660,
+      "totalDemVotes": 102088
+    },
+    "22": {
+      "candidates": [
+        [
+          "Tom DeLay",
+          154662,
+          "republican"
+        ],
+        [
+          "Jo Ann Matranga",
+          92645,
+          "democrat"
+        ],
+        [
+          "Kent Probst",
+          3383,
+          "libertarian"
+        ],
+        [
+          "Bob Schneider",
+          5577,
+          "independent"
+        ]
+      ],
+      "totalVotes": 256267,
+      "winner": [
+        "Tom DeLay",
+        154662,
+        "republican"
+      ],
+      "totalRepVotes": 154662,
+      "totalDemVotes": 92645
+    },
+    "8": {
+      "candidates": [
+        [
+          "Gil Guillory",
+          21368,
+          "libertarian"
+        ],
+        [
+          "Kevin Brady",
+          233848,
+          "republican"
+        ]
+      ],
+      "totalVotes": 255216,
+      "winner": [
+        "Kevin Brady",
+        233848,
+        "republican"
+      ],
+      "totalRepVotes": 233848,
+      "totalDemVotes": 0
+    },
+    "12": {
+      "candidates": [
+        [
+          "Ricky L. Clay",
+          2565,
+          "libertarian"
+        ],
+        [
+          "Kay Granger",
+          117739,
+          "republican"
+        ],
+        [
+          "Mark Greene",
+          67612,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 187916,
+      "winner": [
+        "Kay Granger",
+        117739,
+        "republican"
+      ],
+      "totalRepVotes": 117739,
+      "totalDemVotes": 67612
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jon Newton",
+          91574,
+          "republican"
+        ],
+        [
+          "Ralph M. Hall",
+          145887,
+          "democrat"
+        ],
+        [
+          "Joe Turner",
+          4417,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 241878,
+      "winner": [
+        "Ralph M. Hall",
+        145887,
+        "democrat"
+      ],
+      "totalRepVotes": 91574,
+      "totalDemVotes": 145887
+    },
+    "19": {
+      "candidates": [
+        [
+          "Larry Combest",
+          170319,
+          "republican"
+        ],
+        [
+          "John Turnbow",
+          15579,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 185898,
+      "winner": [
+        "Larry Combest",
+        170319,
+        "republican"
+      ],
+      "totalRepVotes": 170319,
+      "totalDemVotes": 0
+    },
+    "9": {
+      "candidates": [
+        [
+          "F. Charles Knipp",
+          2508,
+          "libertarian"
+        ],
+        [
+          "Paul Williams",
+          87165,
+          "republican"
+        ],
+        [
+          "Nick Lampson",
+          130143,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 219816,
+      "winner": [
+        "Nick Lampson",
+        130143,
+        "democrat"
+      ],
+      "totalRepVotes": 87165,
+      "totalDemVotes": 130143
+    },
+    "15": {
+      "candidates": [
+        [
+          "Frank Jones",
+          13167,
+          "libertarian"
+        ],
+        [
+          "Israel Cantu",
+          711,
+          "none"
+        ],
+        [
+          "Rub\u00c3\u00a9n Hinojosa",
+          106570,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 120448,
+      "winner": [
+        "Rub\u00c3\u00a9n Hinojosa",
+        106570,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 106570
+    },
+    "23": {
+      "candidates": [
+        [
+          "Jeffrey C. Blunt",
+          3801,
+          "libertarian"
+        ],
+        [
+          "Henry Bonilla",
+          119679,
+          "republican"
+        ],
+        [
+          "Isidro Garza, Jr.",
+          78274,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 201754,
+      "winner": [
+        "Henry Bonilla",
+        119679,
+        "republican"
+      ],
+      "totalRepVotes": 119679,
+      "totalDemVotes": 78274
+    },
+    "25": {
+      "candidates": [
+        [
+          "Phil Sudan",
+          68010,
+          "republican"
+        ],
+        [
+          "Clifford Lee Messina",
+          2400,
+          "libertarian"
+        ],
+        [
+          "Ken Bentsen",
+          106112,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 176522,
+      "winner": [
+        "Ken Bentsen",
+        106112,
+        "democrat"
+      ],
+      "totalRepVotes": 68010,
+      "totalDemVotes": 106112
+    },
+    "6": {
+      "candidates": [
+        [
+          "Frank Brady",
+          30056,
+          "libertarian"
+        ],
+        [
+          "Joe Barton",
+          222685,
+          "republican"
+        ]
+      ],
+      "totalVotes": 252741,
+      "winner": [
+        "Joe Barton",
+        222685,
+        "republican"
+      ],
+      "totalRepVotes": 222685,
+      "totalDemVotes": 0
+    },
+    "3": {
+      "candidates": [
+        [
+          "Sam Johnson",
+          187486,
+          "republican"
+        ],
+        [
+          "Billy Wayne Zachary",
+          67233,
+          "democrat"
+        ],
+        [
+          "Lance Flores",
+          7178,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 261897,
+      "winner": [
+        "Sam Johnson",
+        187486,
+        "republican"
+      ],
+      "totalRepVotes": 187486,
+      "totalDemVotes": 67233
+    }
+  },
+  "2011": {
+    "25": {
+      "candidates": [
+        [
+          "Donna Campbell",
+          84849,
+          "republican"
+        ],
+        [
+          "Lloyd Doggett",
+          99967,
+          "democrat"
+        ],
+        [
+          "Jim Stutsman",
+          4431,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 189247,
+      "winner": [
+        "Lloyd Doggett",
+        99967,
+        "democrat"
+      ],
+      "totalRepVotes": 84849,
+      "totalDemVotes": 99967
+    },
+    "23": {
+      "candidates": [
+        [
+          "Craig T. Stephens",
+          5432,
+          "independent"
+        ],
+        [
+          "Ed Scharf",
+          1419,
+          "green"
+        ],
+        [
+          "Ciro D. Rodriguez",
+          67348,
+          "democrat"
+        ],
+        [
+          "Martin Nitschke",
+          2482,
+          "libertarian"
+        ],
+        [
+          "Francisco \"Quico\" Canseco",
+          74853,
+          "republican"
+        ]
+      ],
+      "totalVotes": 151534,
+      "winner": [
+        "Francisco \"Quico\" Canseco",
+        74853,
+        "republican"
+      ],
+      "totalRepVotes": 74853,
+      "totalDemVotes": 67348
+    },
+    "3": {
+      "candidates": [
+        [
+          "Harry Pierce",
+          22,
+          "none"
+        ],
+        [
+          "Sam Johnson",
+          101180,
+          "republican"
+        ],
+        [
+          "John Lingenfelder",
+          47848,
+          "democrat"
+        ],
+        [
+          "Christopher J. Claytor",
+          3602,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 152652,
+      "winner": [
+        "Sam Johnson",
+        101180,
+        "republican"
+      ],
+      "totalRepVotes": 101180,
+      "totalDemVotes": 47848
+    },
+    "12": {
+      "candidates": [
+        [
+          "Matthew Solodow",
+          4601,
+          "libertarian"
+        ],
+        [
+          "Kay Granger",
+          109882,
+          "republican"
+        ],
+        [
+          "Tracey Smith",
+          38434,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 152917,
+      "winner": [
+        "Kay Granger",
+        109882,
+        "republican"
+      ],
+      "totalRepVotes": 109882,
+      "totalDemVotes": 38434
+    },
+    "10": {
+      "candidates": [
+        [
+          "Ted Ankrum",
+          74086,
+          "democrat"
+        ],
+        [
+          "Michael T. McCaul",
+          144980,
+          "republican"
+        ],
+        [
+          "Jeremiah \"J. P.\" Perkins",
+          5105,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 224171,
+      "winner": [
+        "Michael T. McCaul",
+        144980,
+        "republican"
+      ],
+      "totalRepVotes": 144980,
+      "totalDemVotes": 74086
+    },
+    "1": {
+      "candidates": [
+        [
+          "Louie Gohmert",
+          129398,
+          "republican"
+        ],
+        [
+          "Charles F. Parkes III",
+          14811,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 144209,
+      "winner": [
+        "Louie Gohmert",
+        129398,
+        "republican"
+      ],
+      "totalRepVotes": 129398,
+      "totalDemVotes": 0
+    },
+    "17": {
+      "candidates": [
+        [
+          "Richard B. Kelly",
+          2808,
+          "libertarian"
+        ],
+        [
+          "Chet Edwards",
+          63138,
+          "democrat"
+        ],
+        [
+          "Bill Flores",
+          106696,
+          "republican"
+        ]
+      ],
+      "totalVotes": 172642,
+      "winner": [
+        "Bill Flores",
+        106696,
+        "republican"
+      ],
+      "totalRepVotes": 106696,
+      "totalDemVotes": 63138
+    },
+    "27": {
+      "candidates": [
+        [
+          "Ed Mishou",
+          5376,
+          "libertarian"
+        ],
+        [
+          "R. Blake Farenthold",
+          50976,
+          "republican"
+        ],
+        [
+          "Solomon P. Ortiz",
+          50179,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 106531,
+      "winner": [
+        "R. Blake Farenthold",
+        50976,
+        "republican"
+      ],
+      "totalRepVotes": 50976,
+      "totalDemVotes": 50179
+    },
+    "26": {
+      "candidates": [
+        [
+          "Mark Boler",
+          4062,
+          "libertarian"
+        ],
+        [
+          "Neil L. Durrance",
+          55385,
+          "democrat"
+        ],
+        [
+          "Michael C. Burgess",
+          120984,
+          "republican"
+        ]
+      ],
+      "totalVotes": 180431,
+      "winner": [
+        "Michael C. Burgess",
+        120984,
+        "republican"
+      ],
+      "totalRepVotes": 120984,
+      "totalDemVotes": 55385
+    },
+    "16": {
+      "candidates": [
+        [
+          "Bill Collins",
+          4319,
+          "libertarian"
+        ],
+        [
+          "Silvestre Reyes",
+          49301,
+          "democrat"
+        ],
+        [
+          "Tim Collins",
+          221,
+          "none"
+        ],
+        [
+          "Tim Besco",
+          31051,
+          "republican"
+        ]
+      ],
+      "totalVotes": 84892,
+      "winner": [
+        "Silvestre Reyes",
+        49301,
+        "democrat"
+      ],
+      "totalRepVotes": 31051,
+      "totalDemVotes": 49301
+    },
+    "9": {
+      "candidates": [
+        [
+          "Michael W. Hope",
+          1459,
+          "libertarian"
+        ],
+        [
+          "Al Green",
+          80107,
+          "democrat"
+        ],
+        [
+          "Steve Mueller",
+          24201,
+          "republican"
+        ]
+      ],
+      "totalVotes": 105767,
+      "winner": [
+        "Al Green",
+        80107,
+        "democrat"
+      ],
+      "totalRepVotes": 24201,
+      "totalDemVotes": 80107
+    },
+    "20": {
+      "candidates": [
+        [
+          "Clayton Trotter",
+          31757,
+          "republican"
+        ],
+        [
+          "Charles A. Gonzalez",
+          58645,
+          "democrat"
+        ],
+        [
+          "Michael \"Commander\" Idrogo",
+          1783,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 92185,
+      "winner": [
+        "Charles A. Gonzalez",
+        58645,
+        "democrat"
+      ],
+      "totalRepVotes": 31757,
+      "totalDemVotes": 58645
+    },
+    "5": {
+      "candidates": [
+        [
+          "Tom Berry",
+          41649,
+          "democrat"
+        ],
+        [
+          "Jeb Hensarling",
+          106742,
+          "republican"
+        ],
+        [
+          "Ken Ashby",
+          2958,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 151349,
+      "winner": [
+        "Jeb Hensarling",
+        106742,
+        "republican"
+      ],
+      "totalRepVotes": 106742,
+      "totalDemVotes": 41649
+    },
+    "22": {
+      "candidates": [
+        [
+          "Pete Olson",
+          140537,
+          "republican"
+        ],
+        [
+          "Kesha Rogers",
+          62082,
+          "democrat"
+        ],
+        [
+          "Steven Susman",
+          5538,
+          "libertarian"
+        ],
+        [
+          "Johnny Williams",
+          66,
+          "none"
+        ]
+      ],
+      "totalVotes": 208223,
+      "winner": [
+        "Pete Olson",
+        140537,
+        "republican"
+      ],
+      "totalRepVotes": 140537,
+      "totalDemVotes": 62082
+    },
+    "7": {
+      "candidates": [
+        [
+          "Lissa Squiers",
+          1019,
+          "none"
+        ],
+        [
+          "John Abney Culberson",
+          143655,
+          "republican"
+        ],
+        [
+          "Bob Townsend",
+          31704,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 176378,
+      "winner": [
+        "John Abney Culberson",
+        143655,
+        "republican"
+      ],
+      "totalRepVotes": 143655,
+      "totalDemVotes": 0
+    },
+    "13": {
+      "candidates": [
+        [
+          "Mac Thornberry",
+          113201,
+          "republican"
+        ],
+        [
+          "Keith Dyer",
+          11192,
+          "independent"
+        ],
+        [
+          "John T. Burwell",
+          5650,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 130043,
+      "winner": [
+        "Mac Thornberry",
+        113201,
+        "republican"
+      ],
+      "totalRepVotes": 113201,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jim D. Prindle",
+          4729,
+          "libertarian"
+        ],
+        [
+          "VaLinda Hathcox",
+          40975,
+          "democrat"
+        ],
+        [
+          "Ralph M. Hall",
+          136338,
+          "republican"
+        ],
+        [
+          "Shane Shepard",
+          4244,
+          "independent"
+        ]
+      ],
+      "totalVotes": 186286,
+      "winner": [
+        "Ralph M. Hall",
+        136338,
+        "republican"
+      ],
+      "totalRepVotes": 136338,
+      "totalDemVotes": 40975
+    },
+    "6": {
+      "candidates": [
+        [
+          "David E. Cozad",
+          50717,
+          "democrat"
+        ],
+        [
+          "Byron Severns",
+          4700,
+          "libertarian"
+        ],
+        [
+          "Joe Barton",
+          107140,
+          "republican"
+        ]
+      ],
+      "totalVotes": 162557,
+      "winner": [
+        "Joe Barton",
+        107140,
+        "republican"
+      ],
+      "totalRepVotes": 107140,
+      "totalDemVotes": 50717
+    },
+    "15": {
+      "candidates": [
+        [
+          "Aaron I. Cohn",
+          2570,
+          "libertarian"
+        ],
+        [
+          "Ruben Hinojosa",
+          53546,
+          "democrat"
+        ],
+        [
+          "Eddie Zamora",
+          39964,
+          "republican"
+        ]
+      ],
+      "totalVotes": 96080,
+      "winner": [
+        "Ruben Hinojosa",
+        53546,
+        "democrat"
+      ],
+      "totalRepVotes": 39964,
+      "totalDemVotes": 53546
+    },
+    "29": {
+      "candidates": [
+        [
+          "Brad Walters",
+          866,
+          "libertarian"
+        ],
+        [
+          "Gene Green",
+          43257,
+          "democrat"
+        ],
+        [
+          "Roy Morales",
+          22825,
+          "republican"
+        ]
+      ],
+      "totalVotes": 66948,
+      "winner": [
+        "Gene Green",
+        43257,
+        "democrat"
+      ],
+      "totalRepVotes": 22825,
+      "totalDemVotes": 43257
+    },
+    "30": {
+      "candidates": [
+        [
+          "J. B. Oswalt",
+          2988,
+          "libertarian"
+        ],
+        [
+          "Stephen E. Broden",
+          24668,
+          "republican"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          86322,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 113978,
+      "winner": [
+        "Eddie Bernice Johnson",
+        86322,
+        "democrat"
+      ],
+      "totalRepVotes": 24668,
+      "totalDemVotes": 86322
+    },
+    "2": {
+      "candidates": [
+        [
+          "David W. Smith",
+          16711,
+          "libertarian"
+        ],
+        [
+          "Ted Poe",
+          130020,
+          "republican"
+        ]
+      ],
+      "totalVotes": 146731,
+      "winner": [
+        "Ted Poe",
+        130020,
+        "republican"
+      ],
+      "totalRepVotes": 130020,
+      "totalDemVotes": 0
+    },
+    "19": {
+      "candidates": [
+        [
+          "Richard \"Chip\" Peterson",
+          4315,
+          "libertarian"
+        ],
+        [
+          "Randy Neugebauer",
+          106059,
+          "republican"
+        ],
+        [
+          "Andy Wilson",
+          25984,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 136358,
+      "winner": [
+        "Randy Neugebauer",
+        106059,
+        "republican"
+      ],
+      "totalRepVotes": 106059,
+      "totalDemVotes": 25984
+    },
+    "11": {
+      "candidates": [
+        [
+          "James A. Powell",
+          4321,
+          "libertarian"
+        ],
+        [
+          "K. Michael Conaway",
+          125581,
+          "republican"
+        ],
+        [
+          "James Quillian",
+          23989,
+          "democrat"
+        ],
+        [
+          "Jim Howe",
+          1449,
+          "green"
+        ]
+      ],
+      "totalVotes": 155340,
+      "winner": [
+        "K. Michael Conaway",
+        125581,
+        "republican"
+      ],
+      "totalRepVotes": 125581,
+      "totalDemVotes": 23989
+    },
+    "14": {
+      "candidates": [
+        [
+          "Robert Pruett",
+          44431,
+          "democrat"
+        ],
+        [
+          "Ron Paul",
+          140623,
+          "republican"
+        ]
+      ],
+      "totalVotes": 185054,
+      "winner": [
+        "Ron Paul",
+        140623,
+        "republican"
+      ],
+      "totalRepVotes": 140623,
+      "totalDemVotes": 44431
+    },
+    "28": {
+      "candidates": [
+        [
+          "Henry Cuellar",
+          62773,
+          "democrat"
+        ],
+        [
+          "Bryan Underwood",
+          46740,
+          "republican"
+        ],
+        [
+          "Stephen Kaat",
+          1889,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 111402,
+      "winner": [
+        "Henry Cuellar",
+        62773,
+        "democrat"
+      ],
+      "totalRepVotes": 46740,
+      "totalDemVotes": 62773
+    },
+    "24": {
+      "candidates": [
+        [
+          "David Sparks",
+          22609,
+          "libertarian"
+        ],
+        [
+          "Kenny Marchant",
+          100078,
+          "republican"
+        ]
+      ],
+      "totalVotes": 122687,
+      "winner": [
+        "Kenny Marchant",
+        100078,
+        "republican"
+      ],
+      "totalRepVotes": 100078,
+      "totalDemVotes": 0
+    },
+    "18": {
+      "candidates": [
+        [
+          "Sheila Jackson Lee",
+          85108,
+          "democrat"
+        ],
+        [
+          "John Faulk",
+          33067,
+          "republican"
+        ],
+        [
+          "Mike Taylor",
+          3118,
+          "libertarian"
+        ],
+        [
+          "Charles B. (Chuck M) Meyer",
+          28,
+          "none"
+        ]
+      ],
+      "totalVotes": 121321,
+      "winner": [
+        "Sheila Jackson Lee",
+        85108,
+        "democrat"
+      ],
+      "totalRepVotes": 33067,
+      "totalDemVotes": 85108
+    },
+    "21": {
+      "candidates": [
+        [
+          "Lainey Melnick",
+          65927,
+          "democrat"
+        ],
+        [
+          "Lamar Smith",
+          162924,
+          "republican"
+        ],
+        [
+          "James Arthur Strohm",
+          7694,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 236545,
+      "winner": [
+        "Lamar Smith",
+        162924,
+        "republican"
+      ],
+      "totalRepVotes": 162924,
+      "totalDemVotes": 65927
+    },
+    "32": {
+      "candidates": [
+        [
+          "John Jay Myers",
+          3178,
+          "libertarian"
+        ],
+        [
+          "Grier Raggio",
+          44258,
+          "democrat"
+        ],
+        [
+          "Pete Sessions",
+          79433,
+          "republican"
+        ]
+      ],
+      "totalVotes": 126869,
+      "winner": [
+        "Pete Sessions",
+        79433,
+        "republican"
+      ],
+      "totalRepVotes": 79433,
+      "totalDemVotes": 44258
+    },
+    "31": {
+      "candidates": [
+        [
+          "Bill Oliver",
+          26735,
+          "libertarian"
+        ],
+        [
+          "John R. Carter",
+          126384,
+          "republican"
+        ]
+      ],
+      "totalVotes": 153119,
+      "winner": [
+        "John R. Carter",
+        126384,
+        "republican"
+      ],
+      "totalRepVotes": 126384,
+      "totalDemVotes": 0
+    },
+    "8": {
+      "candidates": [
+        [
+          "Bruce West",
+          4988,
+          "libertarian"
+        ],
+        [
+          "Kevin Brady",
+          161417,
+          "republican"
+        ],
+        [
+          "Kent Hargett",
+          34694,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 201099,
+      "winner": [
+        "Kevin Brady",
+        161417,
+        "republican"
+      ],
+      "totalRepVotes": 161417,
+      "totalDemVotes": 34694
+    }
+  },
+  "1997": {
+    "30": {
+      "candidates": [
+        [
+          "Lisa Hembry",
+          3501,
+          "independent"
+        ],
+        [
+          "James L. Sweatt",
+          9909,
+          "democrat"
+        ],
+        [
+          "Marvin E. Crenshaw",
+          7765,
+          "democrat"
+        ],
+        [
+          "Stevan A. Hammond",
+          468,
+          "independent"
+        ],
+        [
+          "Ada Grenado",
+          1278,
+          "independent"
+        ],
+        [
+          "Lisa Kitterman",
+          7761,
+          "republican"
+        ],
+        [
+          "<write in>",
+          3,
+          "none"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          61723,
+          "democrat"
+        ],
+        [
+          "John Hendry",
+          20664,
+          "republican"
+        ]
+      ],
+      "totalVotes": 113072,
+      "winner": [
+        "Eddie Bernice Johnson",
+        61723,
+        "democrat"
+      ],
+      "totalRepVotes": 28425,
+      "totalDemVotes": 79397
+    },
+    "18": {
+      "candidates": [
+        [
+          "Jerry Burley",
+          7877,
+          "republican"
+        ],
+        [
+          "Sheila Jackson-Lee",
+          106111,
+          "democrat"
+        ],
+        [
+          "Mike Lamson",
+          4412,
+          "democrat"
+        ],
+        [
+          "Larry White",
+          13956,
+          "republican"
+        ],
+        [
+          "George A. Young",
+          5332,
+          "republican"
+        ]
+      ],
+      "totalVotes": 137688,
+      "winner": [
+        "Sheila Jackson-Lee",
+        106111,
+        "democrat"
+      ],
+      "totalRepVotes": 27165,
+      "totalDemVotes": 110523
+    },
+    "5": {
+      "candidates": [
+        [
+          "John Pouland",
+          70922,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          1,
+          "none"
+        ],
+        [
+          "Pete Sessions",
+          80196,
+          "republican"
+        ]
+      ],
+      "totalVotes": 151119,
+      "winner": [
+        "Pete Sessions",
+        80196,
+        "republican"
+      ],
+      "totalRepVotes": 80196,
+      "totalDemVotes": 70922
+    },
+    "15": {
+      "candidates": [
+        [
+          "Rub\u00c2\u008en Hinojosa",
+          86347,
+          "democrat"
+        ],
+        [
+          "Rob Wofford",
+          1333,
+          "natural law"
+        ],
+        [
+          "Tom Haughey",
+          50914,
+          "republican"
+        ]
+      ],
+      "totalVotes": 138594,
+      "winner": [
+        "Rub\u00c2\u008en Hinojosa",
+        86347,
+        "democrat"
+      ],
+      "totalRepVotes": 50914,
+      "totalDemVotes": 86347
+    },
+    "25": {
+      "candidates": [
+        [
+          "Brent Perry",
+          16737,
+          "republican"
+        ],
+        [
+          "Lloyd W. Oliver",
+          827,
+          "republican"
+        ],
+        [
+          "John Devine",
+          9070,
+          "republican"
+        ],
+        [
+          "Ron (RC) Meinke",
+          997,
+          "republican"
+        ],
+        [
+          "Dotty Quinn Collins",
+          561,
+          "republican"
+        ],
+        [
+          "Beverley Clark",
+          21699,
+          "democrat"
+        ],
+        [
+          "Ken Bentsen",
+          29396,
+          "democrat"
+        ],
+        [
+          "Dolly Madison McKenna",
+          21898,
+          "republican"
+        ],
+        [
+          "Ken G. Mathis",
+          3649,
+          "republican"
+        ],
+        [
+          "Dolly Madison McKenna",
+          21892,
+          "republican"
+        ],
+        [
+          "Jerry Freiwirth",
+          270,
+          "socialist workers"
+        ],
+        [
+          "John M. Sanchez",
+          8984,
+          "republican"
+        ],
+        [
+          "Ken Bentsen",
+          43701,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 128393,
+      "winner": [
+        "Ken Bentsen",
+        43701,
+        "democrat"
+      ],
+      "totalRepVotes": 84615,
+      "totalDemVotes": 94796
+    },
+    "2": {
+      "candidates": [
+        [
+          "David Constant",
+          1240,
+          "libertarian"
+        ],
+        [
+          "Henry McCullough",
+          2390,
+          "independent"
+        ],
+        [
+          "Gary Hardy",
+          595,
+          "natural law"
+        ],
+        [
+          "Brian Babin",
+          89838,
+          "republican"
+        ],
+        [
+          "Jim Turner",
+          102908,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 196971,
+      "winner": [
+        "Jim Turner",
+        102908,
+        "democrat"
+      ],
+      "totalRepVotes": 89838,
+      "totalDemVotes": 102908
+    },
+    "24": {
+      "candidates": [
+        [
+          "Ed Harrison",
+          54551,
+          "republican"
+        ],
+        [
+          "Martin Frost",
+          77847,
+          "democrat"
+        ],
+        [
+          "Dale Mouton",
+          2574,
+          "independent"
+        ],
+        [
+          "Marion Jacob",
+          4656,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          9,
+          "none"
+        ]
+      ],
+      "totalVotes": 139637,
+      "winner": [
+        "Martin Frost",
+        77847,
+        "democrat"
+      ],
+      "totalRepVotes": 54551,
+      "totalDemVotes": 82503
+    },
+    "12": {
+      "candidates": [
+        [
+          "Kay Granger",
+          98349,
+          "republican"
+        ],
+        [
+          "Heather Proffer",
+          1996,
+          "natural law"
+        ],
+        [
+          "Hugh Parmer",
+          69859,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 170204,
+      "winner": [
+        "Kay Granger",
+        98349,
+        "republican"
+      ],
+      "totalRepVotes": 98349,
+      "totalDemVotes": 69859
+    },
+    "11": {
+      "candidates": [
+        [
+          "Chet Edwards",
+          99990,
+          "democrat"
+        ],
+        [
+          "Ken Hardin",
+          1396,
+          "natural law"
+        ],
+        [
+          "Jay Mathis",
+          74549,
+          "republican"
+        ]
+      ],
+      "totalVotes": 175935,
+      "winner": [
+        "Chet Edwards",
+        99990,
+        "democrat"
+      ],
+      "totalRepVotes": 74549,
+      "totalDemVotes": 99990
+    },
+    "1": {
+      "candidates": [
+        [
+          "Max Sandlin",
+          102697,
+          "democrat"
+        ],
+        [
+          "Margaret A. Palms",
+          3368,
+          "natural law"
+        ],
+        [
+          "Ed Merritt",
+          93105,
+          "republican"
+        ]
+      ],
+      "totalVotes": 199170,
+      "winner": [
+        "Max Sandlin",
+        102697,
+        "democrat"
+      ],
+      "totalRepVotes": 93105,
+      "totalDemVotes": 102697
+    },
+    "26": {
+      "candidates": [
+        [
+          "<write in>",
+          11,
+          "none"
+        ],
+        [
+          "Richard K. Armey",
+          163708,
+          "republican"
+        ],
+        [
+          "Jerry Frankel",
+          58623,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 222342,
+      "winner": [
+        "Richard K. Armey",
+        163708,
+        "republican"
+      ],
+      "totalRepVotes": 163708,
+      "totalDemVotes": 58623
+    },
+    "29": {
+      "candidates": [
+        [
+          "Jack W. Klinger",
+          1340,
+          "u.s. taxpayers"
+        ],
+        [
+          "Jack Rodriguez",
+          28381,
+          "republican"
+        ],
+        [
+          "Gene Green",
+          61751,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 91472,
+      "winner": [
+        "Gene Green",
+        61751,
+        "democrat"
+      ],
+      "totalRepVotes": 28381,
+      "totalDemVotes": 61751
+    },
+    "8": {
+      "candidates": [
+        [
+          "Gene Fontenot",
+          75399,
+          "republican"
+        ],
+        [
+          "Robert Musemeche",
+          11689,
+          "democrat"
+        ],
+        [
+          "Cynthia (CJ) Newman",
+          26246,
+          "democrat"
+        ],
+        [
+          "Kevin Brady",
+          30366,
+          "republican"
+        ],
+        [
+          "Kevin Brady",
+          80325,
+          "republican"
+        ],
+        [
+          "Gene Fontenot",
+          21004,
+          "republican"
+        ]
+      ],
+      "totalVotes": 51370,
+      "winner": [
+        "Kevin Brady",
+        80325,
+        "republican"
+      ],
+      "totalRepVotes": 207094,
+      "totalDemVotes": 37935
+    },
+    "7": {
+      "candidates": [
+        [
+          "Al J. K. Siegmund",
+          28187,
+          "democrat"
+        ],
+        [
+          "Bill Archer",
+          152024,
+          "republican"
+        ],
+        [
+          "Gene Hsiao",
+          3896,
+          "independent"
+        ],
+        [
+          "Robert R. (Randy) Sims Jr.",
+          2724,
+          "independent"
+        ]
+      ],
+      "totalVotes": 186831,
+      "winner": [
+        "Bill Archer",
+        152024,
+        "republican"
+      ],
+      "totalRepVotes": 152024,
+      "totalDemVotes": 28187
+    },
+    "10": {
+      "candidates": [
+        [
+          "Teresa Doggett",
+          97204,
+          "republican"
+        ],
+        [
+          "Steve Klayman",
+          1771,
+          "natural law"
+        ],
+        [
+          "Gary Johnson",
+          3950,
+          "libertarian"
+        ],
+        [
+          "Lloyd Doggett",
+          132066,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 234991,
+      "winner": [
+        "Lloyd Doggett",
+        132066,
+        "democrat"
+      ],
+      "totalRepVotes": 97204,
+      "totalDemVotes": 132066
+    },
+    "9": {
+      "candidates": [
+        [
+          "Nick Lampson",
+          59225,
+          "democrat"
+        ],
+        [
+          "Nick Lampson",
+          83782,
+          "democrat"
+        ],
+        [
+          "Geraldine Sam",
+          17887,
+          "democrat"
+        ],
+        [
+          "Steve Stockman",
+          52870,
+          "republican"
+        ],
+        [
+          "Steve Stockman",
+          88171,
+          "republican"
+        ]
+      ],
+      "totalVotes": 189840,
+      "winner": [
+        "Steve Stockman",
+        88171,
+        "republican"
+      ],
+      "totalRepVotes": 141041,
+      "totalDemVotes": 160894
+    },
+    "28": {
+      "candidates": [
+        [
+          "Mark L. Cude",
+          34191,
+          "republican"
+        ],
+        [
+          "Frank Tejeda",
+          110148,
+          "democrat"
+        ],
+        [
+          "Clifford Finley",
+          1796,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 146135,
+      "winner": [
+        "Frank Tejeda",
+        110148,
+        "democrat"
+      ],
+      "totalRepVotes": 34191,
+      "totalDemVotes": 110148
+    },
+    "21": {
+      "candidates": [
+        [
+          "Lamar S. Smith",
+          205830,
+          "republican"
+        ],
+        [
+          "Gordon H. Wharton",
+          60338,
+          "democrat"
+        ],
+        [
+          "Randy Rutenbeck",
+          3139,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 269307,
+      "winner": [
+        "Lamar S. Smith",
+        205830,
+        "republican"
+      ],
+      "totalRepVotes": 205830,
+      "totalDemVotes": 60338
+    },
+    "6": {
+      "candidates": [
+        [
+          "Janet Carroll \"Skeet\" Richardson",
+          26713,
+          "independent"
+        ],
+        [
+          "Joe Barton",
+          160800,
+          "republican"
+        ],
+        [
+          "Doug Williams",
+          6547,
+          "u.s. taxpayers"
+        ],
+        [
+          "Catherine A. Anderson",
+          14456,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 208516,
+      "winner": [
+        "Joe Barton",
+        160800,
+        "republican"
+      ],
+      "totalRepVotes": 160800,
+      "totalDemVotes": 0
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jerry Ray Hall",
+          71065,
+          "republican"
+        ],
+        [
+          "Steve Rothacker",
+          3172,
+          "libertarian"
+        ],
+        [
+          "Ralph M. Hall",
+          132126,
+          "democrat"
+        ],
+        [
+          "Enos M. Denham Jr.",
+          814,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 207177,
+      "winner": [
+        "Ralph M. Hall",
+        132126,
+        "democrat"
+      ],
+      "totalRepVotes": 71065,
+      "totalDemVotes": 132126
+    },
+    "27": {
+      "candidates": [
+        [
+          "Joe Gardner",
+          50964,
+          "republican"
+        ],
+        [
+          "Kevin G. Richardson",
+          2286,
+          "natural law"
+        ],
+        [
+          "Solomon P. Ortiz",
+          97350,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 150600,
+      "winner": [
+        "Solomon P. Ortiz",
+        97350,
+        "democrat"
+      ],
+      "totalRepVotes": 50964,
+      "totalDemVotes": 97350
+    },
+    "3": {
+      "candidates": [
+        [
+          "Sam Johnson",
+          142325,
+          "republican"
+        ],
+        [
+          "Lee Cole",
+          47654,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          2,
+          "none"
+        ],
+        [
+          "John Davis",
+          5045,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 195026,
+      "winner": [
+        "Sam Johnson",
+        142325,
+        "republican"
+      ],
+      "totalRepVotes": 142325,
+      "totalDemVotes": 47654
+    },
+    "14": {
+      "candidates": [
+        [
+          "Charles (Lefty) Morris",
+          93200,
+          "democrat"
+        ],
+        [
+          "Ed Fasanella",
+          2538,
+          "natural law"
+        ],
+        [
+          "Ron Paul",
+          99961,
+          "republican"
+        ]
+      ],
+      "totalVotes": 195699,
+      "winner": [
+        "Ron Paul",
+        99961,
+        "republican"
+      ],
+      "totalRepVotes": 99961,
+      "totalDemVotes": 93200
+    },
+    "20": {
+      "candidates": [
+        [
+          "Lyndon Felps",
+          447,
+          "natural law"
+        ],
+        [
+          "James Walker",
+          47616,
+          "republican"
+        ],
+        [
+          "Alejandro (Alex) De Pena",
+          2156,
+          "libertarian"
+        ],
+        [
+          "Henry B. Gonzalez",
+          88190,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 138409,
+      "winner": [
+        "Henry B. Gonzalez",
+        88190,
+        "democrat"
+      ],
+      "totalRepVotes": 47616,
+      "totalDemVotes": 88190
+    },
+    "23": {
+      "candidates": [
+        [
+          "Charles P. Jones",
+          59596,
+          "democrat"
+        ],
+        [
+          "Linda J. Caswell",
+          2911,
+          "natural law"
+        ],
+        [
+          "Henry Bonilla",
+          101332,
+          "republican"
+        ]
+      ],
+      "totalVotes": 163839,
+      "winner": [
+        "Henry Bonilla",
+        101332,
+        "republican"
+      ],
+      "totalRepVotes": 101332,
+      "totalDemVotes": 59596
+    },
+    "16": {
+      "candidates": [
+        [
+          "Silvestre Reyes",
+          90260,
+          "democrat"
+        ],
+        [
+          "Rick Ledesma",
+          35271,
+          "republican"
+        ],
+        [
+          "Carl Proffer",
+          2253,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 127784,
+      "winner": [
+        "Silvestre Reyes",
+        90260,
+        "democrat"
+      ],
+      "totalRepVotes": 35271,
+      "totalDemVotes": 90260
+    },
+    "22": {
+      "candidates": [
+        [
+          "Scott Douglas Cunningham",
+          59030,
+          "democrat"
+        ],
+        [
+          "Tom DeLay",
+          126056,
+          "republican"
+        ]
+      ],
+      "totalVotes": 185086,
+      "winner": [
+        "Tom DeLay",
+        126056,
+        "republican"
+      ],
+      "totalRepVotes": 126056,
+      "totalDemVotes": 59030
+    },
+    "13": {
+      "candidates": [
+        [
+          "Samuel Brown Silverman",
+          56066,
+          "democrat"
+        ],
+        [
+          "Don Harkey",
+          1463,
+          "natural law"
+        ],
+        [
+          "William M. \"Mac\" Thornberry",
+          116098,
+          "republican"
+        ]
+      ],
+      "totalVotes": 173627,
+      "winner": [
+        "William M. \"Mac\" Thornberry",
+        116098,
+        "republican"
+      ],
+      "totalRepVotes": 116098,
+      "totalDemVotes": 56066
+    },
+    "17": {
+      "candidates": [
+        [
+          "Rudy Izzard",
+          91429,
+          "republican"
+        ],
+        [
+          "Richard Caro",
+          1887,
+          "natural law"
+        ],
+        [
+          "Charles W. Stenholm",
+          99678,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 192994,
+      "winner": [
+        "Charles W. Stenholm",
+        99678,
+        "democrat"
+      ],
+      "totalRepVotes": 91429,
+      "totalDemVotes": 99678
+    },
+    "19": {
+      "candidates": [
+        [
+          "John W. Sawyer",
+          38316,
+          "democrat"
+        ],
+        [
+          "Larry Combest",
+          156910,
+          "republican"
+        ]
+      ],
+      "totalVotes": 195226,
+      "winner": [
+        "Larry Combest",
+        156910,
+        "republican"
+      ],
+      "totalRepVotes": 156910,
+      "totalDemVotes": 38316
+    }
+  },
+  "2013": {
+    "35": {
+      "candidates": [
+        [
+          "Ross Lynn Leone",
+          4082,
+          "libertarian"
+        ],
+        [
+          "Simon Alvarado",
+          37,
+          "none"
+        ],
+        [
+          "Meghan Owen",
+          2540,
+          "green"
+        ],
+        [
+          "Lloyd Doggett",
+          105626,
+          "democrat"
+        ],
+        [
+          "Susan Narvaiz",
+          52894,
+          "republican"
+        ]
+      ],
+      "totalVotes": 165179,
+      "winner": [
+        "Lloyd Doggett",
+        105626,
+        "democrat"
+      ],
+      "totalRepVotes": 52894,
+      "totalDemVotes": 105626
+    },
+    "9": {
+      "candidates": [
+        [
+          "Al Green",
+          144075,
+          "democrat"
+        ],
+        [
+          "Steve Mueller",
+          36139,
+          "republican"
+        ],
+        [
+          "John Wieder",
+          1609,
+          "libertarian"
+        ],
+        [
+          "Vanessa Foster",
+          1743,
+          "green"
+        ]
+      ],
+      "totalVotes": 183566,
+      "winner": [
+        "Al Green",
+        144075,
+        "democrat"
+      ],
+      "totalRepVotes": 36139,
+      "totalDemVotes": 144075
+    },
+    "32": {
+      "candidates": [
+        [
+          "Pete Sessions",
+          146653,
+          "republican"
+        ],
+        [
+          "Katherine Savers McGovern",
+          99288,
+          "democrat"
+        ],
+        [
+          "Seth Hollist",
+          5695,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 251636,
+      "winner": [
+        "Pete Sessions",
+        146653,
+        "republican"
+      ],
+      "totalRepVotes": 146653,
+      "totalDemVotes": 99288
+    },
+    "8": {
+      "candidates": [
+        [
+          "Roy Hall",
+          5958,
+          "libertarian"
+        ],
+        [
+          "Kevin Brady",
+          194043,
+          "republican"
+        ],
+        [
+          "Neil Burns",
+          51051,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 251052,
+      "winner": [
+        "Kevin Brady",
+        194043,
+        "republican"
+      ],
+      "totalRepVotes": 194043,
+      "totalDemVotes": 51051
+    },
+    "25": {
+      "candidates": [
+        [
+          "Roger Williams",
+          154245,
+          "republican"
+        ],
+        [
+          "Elaine M. Henderson",
+          98827,
+          "democrat"
+        ],
+        [
+          "Betsy Dewey",
+          10860,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 263932,
+      "winner": [
+        "Roger Williams",
+        154245,
+        "republican"
+      ],
+      "totalRepVotes": 154245,
+      "totalDemVotes": 98827
+    },
+    "1": {
+      "candidates": [
+        [
+          "Louie Gohmert",
+          178322,
+          "republican"
+        ],
+        [
+          "Clark Patterson",
+          4114,
+          "libertarian"
+        ],
+        [
+          "Shirley J. McKellar",
+          67222,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 249658,
+      "winner": [
+        "Louie Gohmert",
+        178322,
+        "republican"
+      ],
+      "totalRepVotes": 178322,
+      "totalDemVotes": 67222
+    },
+    "22": {
+      "candidates": [
+        [
+          "Don Cook",
+          4054,
+          "green"
+        ],
+        [
+          "Pete Olson",
+          160668,
+          "republican"
+        ],
+        [
+          "Steven Susman",
+          5986,
+          "libertarian"
+        ],
+        [
+          "Kesha Rogers",
+          80203,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 250911,
+      "winner": [
+        "Pete Olson",
+        160668,
+        "republican"
+      ],
+      "totalRepVotes": 160668,
+      "totalDemVotes": 80203
+    },
+    "12": {
+      "candidates": [
+        [
+          "Matthew Solodow",
+          5983,
+          "libertarian"
+        ],
+        [
+          "Dave Robinson",
+          66080,
+          "democrat"
+        ],
+        [
+          "Kay Granger",
+          175649,
+          "republican"
+        ]
+      ],
+      "totalVotes": 247712,
+      "winner": [
+        "Kay Granger",
+        175649,
+        "republican"
+      ],
+      "totalRepVotes": 175649,
+      "totalDemVotes": 66080
+    },
+    "29": {
+      "candidates": [
+        [
+          "James Stanczak",
+          4996,
+          "libertarian"
+        ],
+        [
+          "Maria Selva",
+          4562,
+          "green"
+        ],
+        [
+          "Gene Green",
+          86053,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 95611,
+      "winner": [
+        "Gene Green",
+        86053,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 86053
+    },
+    "21": {
+      "candidates": [
+        [
+          "Lamar Smith",
+          187015,
+          "republican"
+        ],
+        [
+          "Candace E. Duval",
+          109326,
+          "democrat"
+        ],
+        [
+          "John-Henry Liberty",
+          12524,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 308865,
+      "winner": [
+        "Lamar Smith",
+        187015,
+        "republican"
+      ],
+      "totalRepVotes": 187015,
+      "totalDemVotes": 109326
+    },
+    "13": {
+      "candidates": [
+        [
+          "Keith F. Houston",
+          5912,
+          "green"
+        ],
+        [
+          "Mac Thornberry",
+          187775,
+          "republican"
+        ],
+        [
+          "John Robert Deek",
+          12701,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 206388,
+      "winner": [
+        "Mac Thornberry",
+        187775,
+        "republican"
+      ],
+      "totalRepVotes": 187775,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Jeb Hensarling",
+          134091,
+          "republican"
+        ],
+        [
+          "Ken Ashby",
+          4961,
+          "libertarian"
+        ],
+        [
+          "Linda S. Mrosko",
+          69178,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 208230,
+      "winner": [
+        "Jeb Hensarling",
+        134091,
+        "republican"
+      ],
+      "totalRepVotes": 134091,
+      "totalDemVotes": 69178
+    },
+    "4": {
+      "candidates": [
+        [
+          "Thomas Griffing",
+          7262,
+          "libertarian"
+        ],
+        [
+          "Fred Rostek",
+          188,
+          "none"
+        ],
+        [
+          "VaLinda Hathcox",
+          60214,
+          "democrat"
+        ],
+        [
+          "Ralph M. Hall",
+          182679,
+          "republican"
+        ]
+      ],
+      "totalVotes": 250343,
+      "winner": [
+        "Ralph M. Hall",
+        182679,
+        "republican"
+      ],
+      "totalRepVotes": 182679,
+      "totalDemVotes": 60214
+    },
+    "17": {
+      "candidates": [
+        [
+          "Ben Easton",
+          35978,
+          "libertarian"
+        ],
+        [
+          "Bill Flores",
+          143284,
+          "republican"
+        ]
+      ],
+      "totalVotes": 179262,
+      "winner": [
+        "Bill Flores",
+        143284,
+        "republican"
+      ],
+      "totalRepVotes": 143284,
+      "totalDemVotes": 0
+    },
+    "2": {
+      "candidates": [
+        [
+          "Kenneth Duncan",
+          4140,
+          "libertarian"
+        ],
+        [
+          "Ted Poe",
+          159664,
+          "republican"
+        ],
+        [
+          "Jim Dougherty",
+          80512,
+          "democrat"
+        ],
+        [
+          "Mark A. Roberts",
+          2012,
+          "green"
+        ]
+      ],
+      "totalVotes": 246328,
+      "winner": [
+        "Ted Poe",
+        159664,
+        "republican"
+      ],
+      "totalRepVotes": 159664,
+      "totalDemVotes": 80512
+    },
+    "34": {
+      "candidates": [
+        [
+          "Filemon Vela",
+          89606,
+          "democrat"
+        ],
+        [
+          "Steven ??Ziggy?? Shanklin",
+          2724,
+          "libertarian"
+        ],
+        [
+          "Jessica Puente Bradshaw",
+          52448,
+          "republican"
+        ]
+      ],
+      "totalVotes": 144778,
+      "winner": [
+        "Filemon Vela",
+        89606,
+        "democrat"
+      ],
+      "totalRepVotes": 52448,
+      "totalDemVotes": 89606
+    },
+    "15": {
+      "candidates": [
+        [
+          "Ron Finch",
+          3309,
+          "libertarian"
+        ],
+        [
+          "Dale A. Brueggemann",
+          54056,
+          "republican"
+        ],
+        [
+          "Rube?n Hinojosa",
+          89296,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 146661,
+      "winner": [
+        "Rube?n Hinojosa",
+        89296,
+        "democrat"
+      ],
+      "totalRepVotes": 54056,
+      "totalDemVotes": 89296
+    },
+    "6": {
+      "candidates": [
+        [
+          "Hugh Chauvin",
+          4847,
+          "libertarian"
+        ],
+        [
+          "Joe Barton",
+          145019,
+          "republican"
+        ],
+        [
+          "Kenneth Sanders",
+          98053,
+          "democrat"
+        ],
+        [
+          "Brandon Parmer",
+          2017,
+          "green"
+        ]
+      ],
+      "totalVotes": 249936,
+      "winner": [
+        "Joe Barton",
+        145019,
+        "republican"
+      ],
+      "totalRepVotes": 145019,
+      "totalDemVotes": 98053
+    },
+    "28": {
+      "candidates": [
+        [
+          "William R. Hayward",
+          49309,
+          "republican"
+        ],
+        [
+          "Patrick Hisel",
+          2473,
+          "libertarian"
+        ],
+        [
+          "Henry Cuellar",
+          112456,
+          "democrat"
+        ],
+        [
+          "Michael D. Cary",
+          1407,
+          "green"
+        ]
+      ],
+      "totalVotes": 165645,
+      "winner": [
+        "Henry Cuellar",
+        112456,
+        "democrat"
+      ],
+      "totalRepVotes": 49309,
+      "totalDemVotes": 112456
+    },
+    "27": {
+      "candidates": [
+        [
+          "Bret Baldwin",
+          5354,
+          "independent"
+        ],
+        [
+          "Blake Farenthold",
+          120684,
+          "republican"
+        ],
+        [
+          "Corrie Byrd",
+          3218,
+          "libertarian"
+        ],
+        [
+          "Rose Meza Harrison",
+          83395,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 212651,
+      "winner": [
+        "Blake Farenthold",
+        120684,
+        "republican"
+      ],
+      "totalRepVotes": 120684,
+      "totalDemVotes": 83395
+    },
+    "23": {
+      "candidates": [
+        [
+          "Pete P. Gallego",
+          96676,
+          "democrat"
+        ],
+        [
+          "Francisco ??Quico?? Canseco",
+          87547,
+          "republican"
+        ],
+        [
+          "Ed Scharf",
+          2105,
+          "green"
+        ],
+        [
+          "Jeffrey C. Blunt",
+          5841,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 192169,
+      "winner": [
+        "Pete P. Gallego",
+        96676,
+        "democrat"
+      ],
+      "totalRepVotes": 87547,
+      "totalDemVotes": 96676
+    },
+    "30": {
+      "candidates": [
+        [
+          "Ed Rankin",
+          4733,
+          "libertarian"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          171059,
+          "democrat"
+        ],
+        [
+          "Travis Washington, Jr.",
+          41222,
+          "republican"
+        ]
+      ],
+      "totalVotes": 217014,
+      "winner": [
+        "Eddie Bernice Johnson",
+        171059,
+        "democrat"
+      ],
+      "totalRepVotes": 41222,
+      "totalDemVotes": 171059
+    },
+    "18": {
+      "candidates": [
+        [
+          "Sheila Jackson Lee",
+          146223,
+          "democrat"
+        ],
+        [
+          "Christopher Barber",
+          4694,
+          "libertarian"
+        ],
+        [
+          "Sean Seibert",
+          44015,
+          "republican"
+        ]
+      ],
+      "totalVotes": 194932,
+      "winner": [
+        "Sheila Jackson Lee",
+        146223,
+        "democrat"
+      ],
+      "totalRepVotes": 44015,
+      "totalDemVotes": 146223
+    },
+    "10": {
+      "candidates": [
+        [
+          "Michael T. McCaul",
+          159783,
+          "republican"
+        ],
+        [
+          "Richard Priest",
+          8526,
+          "libertarian"
+        ],
+        [
+          "Tawana W. Cadien",
+          95710,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 264019,
+      "winner": [
+        "Michael T. McCaul",
+        159783,
+        "republican"
+      ],
+      "totalRepVotes": 159783,
+      "totalDemVotes": 95710
+    },
+    "14": {
+      "candidates": [
+        [
+          "Nick Lampson",
+          109697,
+          "democrat"
+        ],
+        [
+          "Rhett Rosenquest Smith",
+          1063,
+          "green"
+        ],
+        [
+          "Zach Grady",
+          3619,
+          "libertarian"
+        ],
+        [
+          "Randy Weber",
+          131460,
+          "republican"
+        ]
+      ],
+      "totalVotes": 245839,
+      "winner": [
+        "Randy Weber",
+        131460,
+        "republican"
+      ],
+      "totalRepVotes": 131460,
+      "totalDemVotes": 109697
+    },
+    "31": {
+      "candidates": [
+        [
+          "John R. Carter",
+          145348,
+          "republican"
+        ],
+        [
+          "Ethan Garofolo",
+          8862,
+          "libertarian"
+        ],
+        [
+          "Stephen M. Wyman",
+          82977,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 237187,
+      "winner": [
+        "John R. Carter",
+        145348,
+        "republican"
+      ],
+      "totalRepVotes": 145348,
+      "totalDemVotes": 82977
+    },
+    "26": {
+      "candidates": [
+        [
+          "Mark Boler",
+          7844,
+          "libertarian"
+        ],
+        [
+          "Michael C. Burgess",
+          176642,
+          "republican"
+        ],
+        [
+          "David Sanchez",
+          74237,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 258723,
+      "winner": [
+        "Michael C. Burgess",
+        176642,
+        "republican"
+      ],
+      "totalRepVotes": 176642,
+      "totalDemVotes": 74237
+    },
+    "19": {
+      "candidates": [
+        [
+          "Richard ??Chip?? Peterson",
+          28824,
+          "libertarian"
+        ],
+        [
+          "Randy Neugebauer",
+          163239,
+          "republican"
+        ]
+      ],
+      "totalVotes": 192063,
+      "winner": [
+        "Randy Neugebauer",
+        163239,
+        "republican"
+      ],
+      "totalRepVotes": 163239,
+      "totalDemVotes": 0
+    },
+    "24": {
+      "candidates": [
+        [
+          "John Stathas",
+          7258,
+          "libertarian"
+        ],
+        [
+          "Kenny Marchant",
+          148586,
+          "republican"
+        ],
+        [
+          "Tim Rusk",
+          87645,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 243489,
+      "winner": [
+        "Kenny Marchant",
+        148586,
+        "republican"
+      ],
+      "totalRepVotes": 148586,
+      "totalDemVotes": 87645
+    },
+    "36": {
+      "candidates": [
+        [
+          "Steve Stockman",
+          165405,
+          "republican"
+        ],
+        [
+          "Michael K. Cole",
+          6284,
+          "libertarian"
+        ],
+        [
+          "Max Martin",
+          62143,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 233832,
+      "winner": [
+        "Steve Stockman",
+        165405,
+        "republican"
+      ],
+      "totalRepVotes": 165405,
+      "totalDemVotes": 62143
+    },
+    "16": {
+      "candidates": [
+        [
+          "Barbara Carrasco",
+          51043,
+          "republican"
+        ],
+        [
+          "Beto O?Rourke",
+          101403,
+          "democrat"
+        ],
+        [
+          "Junart Sodoy",
+          2559,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 155005,
+      "winner": [
+        "Beto O?Rourke",
+        101403,
+        "democrat"
+      ],
+      "totalRepVotes": 51043,
+      "totalDemVotes": 101403
+    },
+    "33": {
+      "candidates": [
+        [
+          "Chuck Bradley",
+          30252,
+          "republican"
+        ],
+        [
+          "Ed Lindsay",
+          2009,
+          "green"
+        ],
+        [
+          "Marc Veasey",
+          85114,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 117375,
+      "winner": [
+        "Marc Veasey",
+        85114,
+        "democrat"
+      ],
+      "totalRepVotes": 30252,
+      "totalDemVotes": 85114
+    },
+    "20": {
+      "candidates": [
+        [
+          "David Rosa",
+          62376,
+          "republican"
+        ],
+        [
+          "Antonio Diaz",
+          1626,
+          "green"
+        ],
+        [
+          "A. E. ??Tracy?? Potts",
+          3143,
+          "libertarian"
+        ],
+        [
+          "Joaquin Castro",
+          119032,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 186177,
+      "winner": [
+        "Joaquin Castro",
+        119032,
+        "democrat"
+      ],
+      "totalRepVotes": 62376,
+      "totalDemVotes": 119032
+    },
+    "7": {
+      "candidates": [
+        [
+          "James Cargas",
+          85553,
+          "democrat"
+        ],
+        [
+          "Drew Parks",
+          4669,
+          "libertarian"
+        ],
+        [
+          "Lance Findley",
+          1822,
+          "green"
+        ],
+        [
+          "John Abney Culberson",
+          142793,
+          "republican"
+        ]
+      ],
+      "totalVotes": 234837,
+      "winner": [
+        "John Abney Culberson",
+        142793,
+        "republican"
+      ],
+      "totalRepVotes": 142793,
+      "totalDemVotes": 85553
+    },
+    "3": {
+      "candidates": [
+        [
+          "Sam Johnson",
+          187180,
+          "republican"
+        ]
+      ],
+      "totalVotes": 187180,
+      "winner": [
+        "Sam Johnson",
+        187180,
+        "republican"
+      ],
+      "totalRepVotes": 187180,
+      "totalDemVotes": 0
+    },
+    "11": {
+      "candidates": [
+        [
+          "Jim Riley",
+          41970,
+          "democrat"
+        ],
+        [
+          "Scott J. Ballard",
+          6311,
+          "libertarian"
+        ],
+        [
+          "K. Michael Conaway",
+          177742,
+          "republican"
+        ]
+      ],
+      "totalVotes": 226023,
+      "winner": [
+        "K. Michael Conaway",
+        177742,
+        "republican"
+      ],
+      "totalRepVotes": 177742,
+      "totalDemVotes": 41970
+    }
+  },
+  "1999": {
+    "15": {
+      "candidates": [
+        [
+          "Ruben Hinojosa",
+          47957,
+          "democrat"
+        ],
+        [
+          "Tom Haughey",
+          34221,
+          "republican"
+        ]
+      ],
+      "totalVotes": 82178,
+      "winner": [
+        "Ruben Hinojosa",
+        47957,
+        "democrat"
+      ],
+      "totalRepVotes": 34221,
+      "totalDemVotes": 47957
+    },
+    "29": {
+      "candidates": [
+        [
+          "James P. Chudleigh",
+          1439,
+          "libertarian"
+        ],
+        [
+          "Gene Green",
+          44179,
+          "republican"
+        ],
+        [
+          "Lea Sherman",
+          2013,
+          "independent"
+        ]
+      ],
+      "totalVotes": 47631,
+      "winner": [
+        "Gene Green",
+        44179,
+        "republican"
+      ],
+      "totalRepVotes": 44179,
+      "totalDemVotes": 0
+    },
+    "22": {
+      "candidates": [
+        [
+          "Hill Kemp",
+          45386,
+          "democrat"
+        ],
+        [
+          "Tom DeLay",
+          87840,
+          "republican"
+        ],
+        [
+          "Steve Grupe",
+          1494,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 134720,
+      "winner": [
+        "Tom DeLay",
+        87840,
+        "republican"
+      ],
+      "totalRepVotes": 87840,
+      "totalDemVotes": 45386
+    },
+    "2": {
+      "candidates": [
+        [
+          "Brian Babin",
+          56891,
+          "republican"
+        ],
+        [
+          "Wendell Drye",
+          1142,
+          "libertarian"
+        ],
+        [
+          "Jim Turner",
+          81556,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 139589,
+      "winner": [
+        "Jim Turner",
+        81556,
+        "democrat"
+      ],
+      "totalRepVotes": 56891,
+      "totalDemVotes": 81556
+    },
+    "24": {
+      "candidates": [
+        [
+          "Martin Frost",
+          56321,
+          "democrat"
+        ],
+        [
+          "Shawn Terry",
+          40105,
+          "republican"
+        ],
+        [
+          "David A. Stover",
+          736,
+          "libertarian"
+        ],
+        [
+          "George Arias",
+          830,
+          "independent"
+        ]
+      ],
+      "totalVotes": 97992,
+      "winner": [
+        "Martin Frost",
+        56321,
+        "democrat"
+      ],
+      "totalRepVotes": 40105,
+      "totalDemVotes": 56321
+    },
+    "20": {
+      "candidates": [
+        [
+          "James Walker",
+          28347,
+          "republican"
+        ],
+        [
+          "Charlie Gonzalez",
+          50356,
+          "democrat"
+        ],
+        [
+          "Alejandro (Alex) DePena",
+          1010,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 79713,
+      "winner": [
+        "Charlie Gonzalez",
+        50356,
+        "democrat"
+      ],
+      "totalRepVotes": 28347,
+      "totalDemVotes": 50356
+    },
+    "4": {
+      "candidates": [
+        [
+          "Jim Simon",
+          2137,
+          "libertarian"
+        ],
+        [
+          "Jim Lohmeyer",
+          58954,
+          "republican"
+        ],
+        [
+          "Ralph M. Hall",
+          82989,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 144080,
+      "winner": [
+        "Ralph M. Hall",
+        82989,
+        "democrat"
+      ],
+      "totalRepVotes": 58954,
+      "totalDemVotes": 82989
+    },
+    "10": {
+      "candidates": [
+        [
+          "Lloyd Doggett",
+          116127,
+          "democrat"
+        ],
+        [
+          "Vincent J. May",
+          20155,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 136282,
+      "winner": [
+        "Lloyd Doggett",
+        116127,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 116127
+    },
+    "1": {
+      "candidates": [
+        [
+          "Max Sandlin",
+          80788,
+          "democrat"
+        ],
+        [
+          "Dennis Boerner",
+          55191,
+          "republican"
+        ]
+      ],
+      "totalVotes": 135979,
+      "winner": [
+        "Max Sandlin",
+        80788,
+        "democrat"
+      ],
+      "totalRepVotes": 55191,
+      "totalDemVotes": 80788
+    },
+    "30": {
+      "candidates": [
+        [
+          "Barbara L. Robinson",
+          811,
+          "libertarian"
+        ],
+        [
+          "Carrie Kelleher",
+          21338,
+          "republican"
+        ],
+        [
+          "Eddie Bernice Johnson",
+          57603,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 79752,
+      "winner": [
+        "Eddie Bernice Johnson",
+        57603,
+        "democrat"
+      ],
+      "totalRepVotes": 21338,
+      "totalDemVotes": 57603
+    },
+    "28": {
+      "candidates": [
+        [
+          "Edward Elmer",
+          7504,
+          "libertarian"
+        ],
+        [
+          "Ciro D. Rodriguez",
+          71849,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 79353,
+      "winner": [
+        "Ciro D. Rodriguez",
+        71849,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 71849
+    },
+    "16": {
+      "candidates": [
+        [
+          "Silvestre Reyes",
+          67486,
+          "democrat"
+        ],
+        [
+          "Lorenzo Morales",
+          3952,
+          "independent"
+        ],
+        [
+          "Stu Nance",
+          5329,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 76767,
+      "winner": [
+        "Silvestre Reyes",
+        67486,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 67486
+    },
+    "12": {
+      "candidates": [
+        [
+          "Kay Granger",
+          66740,
+          "republican"
+        ],
+        [
+          "Tom Hall",
+          39084,
+          "democrat"
+        ],
+        [
+          "Paul Barthel",
+          1917,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 107741,
+      "winner": [
+        "Kay Granger",
+        66740,
+        "republican"
+      ],
+      "totalRepVotes": 66740,
+      "totalDemVotes": 39084
+    },
+    "25": {
+      "candidates": [
+        [
+          "Ken Bentsen",
+          58591,
+          "democrat"
+        ],
+        [
+          "John M. Sanchez",
+          41848,
+          "republican"
+        ],
+        [
+          "Eric Atkisson",
+          830,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 101269,
+      "winner": [
+        "Ken Bentsen",
+        58591,
+        "democrat"
+      ],
+      "totalRepVotes": 41848,
+      "totalDemVotes": 58591
+    },
+    "11": {
+      "candidates": [
+        [
+          "Chet Edwards",
+          71142,
+          "democrat"
+        ],
+        [
+          "Vince Hanke",
+          15161,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 86303,
+      "winner": [
+        "Chet Edwards",
+        71142,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 71142
+    },
+    "7": {
+      "candidates": [
+        [
+          "<write in>",
+          47,
+          "none"
+        ],
+        [
+          "Bill Archer",
+          111010,
+          "republican"
+        ],
+        [
+          "Drew Parks",
+          7889,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 118946,
+      "winner": [
+        "Bill Archer",
+        111010,
+        "republican"
+      ],
+      "totalRepVotes": 111010,
+      "totalDemVotes": 7889
+    },
+    "18": {
+      "candidates": [
+        [
+          "James Galvan",
+          9176,
+          "libertarian"
+        ],
+        [
+          "Sheila Jackson-Lee",
+          82091,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 91267,
+      "winner": [
+        "Sheila Jackson-Lee",
+        82091,
+        "democrat"
+      ],
+      "totalRepVotes": 0,
+      "totalDemVotes": 82091
+    },
+    "6": {
+      "candidates": [
+        [
+          "Joe Barton",
+          112957,
+          "republican"
+        ],
+        [
+          "Richard A. Bandlow",
+          1817,
+          "libertarian"
+        ],
+        [
+          "Ben B. Boothe",
+          40112,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 154886,
+      "winner": [
+        "Joe Barton",
+        112957,
+        "republican"
+      ],
+      "totalRepVotes": 112957,
+      "totalDemVotes": 40112
+    },
+    "17": {
+      "candidates": [
+        [
+          "Rudy Izzard",
+          63700,
+          "republican"
+        ],
+        [
+          "Gordon Mobley",
+          1618,
+          "libertarian"
+        ],
+        [
+          "Charles W. Stenholm",
+          75367,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 140685,
+      "winner": [
+        "Charles W. Stenholm",
+        75367,
+        "democrat"
+      ],
+      "totalRepVotes": 63700,
+      "totalDemVotes": 75367
+    },
+    "21": {
+      "candidates": [
+        [
+          "Jeffrey Charles Blunt",
+          15561,
+          "libertarian"
+        ],
+        [
+          "Lamar S. Smith",
+          165047,
+          "republican"
+        ]
+      ],
+      "totalVotes": 180608,
+      "winner": [
+        "Lamar S. Smith",
+        165047,
+        "republican"
+      ],
+      "totalRepVotes": 165047,
+      "totalDemVotes": 0
+    },
+    "19": {
+      "candidates": [
+        [
+          "Larry Combest",
+          108266,
+          "republican"
+        ],
+        [
+          "Sidney Blankenship",
+          21162,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 129428,
+      "winner": [
+        "Larry Combest",
+        108266,
+        "republican"
+      ],
+      "totalRepVotes": 108266,
+      "totalDemVotes": 21162
+    },
+    "14": {
+      "candidates": [
+        [
+          "Loy Sneary",
+          68014,
+          "democrat"
+        ],
+        [
+          "<write in>",
+          390,
+          "none"
+        ],
+        [
+          "Ron Paul",
+          84459,
+          "republican"
+        ]
+      ],
+      "totalVotes": 152863,
+      "winner": [
+        "Ron Paul",
+        84459,
+        "republican"
+      ],
+      "totalRepVotes": 84459,
+      "totalDemVotes": 68014
+    },
+    "13": {
+      "candidates": [
+        [
+          "Georgeanne Baker Payne",
+          1298,
+          "libertarian"
+        ],
+        [
+          "Mark Harmon",
+          37027,
+          "democrat"
+        ],
+        [
+          "William M. \"Mac\" Thornberry",
+          81141,
+          "republican"
+        ]
+      ],
+      "totalVotes": 119466,
+      "winner": [
+        "William M. \"Mac\" Thornberry",
+        81141,
+        "republican"
+      ],
+      "totalRepVotes": 81141,
+      "totalDemVotes": 37027
+    },
+    "8": {
+      "candidates": [
+        [
+          "Kevin Brady",
+          123372,
+          "republican"
+        ],
+        [
+          "Don L. Richards",
+          9576,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 132948,
+      "winner": [
+        "Kevin Brady",
+        123372,
+        "republican"
+      ],
+      "totalRepVotes": 123372,
+      "totalDemVotes": 0
+    },
+    "5": {
+      "candidates": [
+        [
+          "Michael D. Needleman",
+          880,
+          "libertarian"
+        ],
+        [
+          "Victor M. Morales",
+          48073,
+          "democrat"
+        ],
+        [
+          "Pete Sessions",
+          61714,
+          "republican"
+        ]
+      ],
+      "totalVotes": 110667,
+      "winner": [
+        "Pete Sessions",
+        61714,
+        "republican"
+      ],
+      "totalRepVotes": 61714,
+      "totalDemVotes": 48073
+    },
+    "3": {
+      "candidates": [
+        [
+          "Ken Ashby",
+          10288,
+          "libertarian"
+        ],
+        [
+          "Sam Johnson",
+          106690,
+          "republican"
+        ]
+      ],
+      "totalVotes": 116978,
+      "winner": [
+        "Sam Johnson",
+        106690,
+        "republican"
+      ],
+      "totalRepVotes": 106690,
+      "totalDemVotes": 0
+    },
+    "23": {
+      "candidates": [
+        [
+          "Henry Bonilla",
+          73177,
+          "republican"
+        ],
+        [
+          "Charlie Urbina Jones",
+          40281,
+          "democrat"
+        ],
+        [
+          "William A. (Bill) Stallknecht",
+          1262,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 114720,
+      "winner": [
+        "Henry Bonilla",
+        73177,
+        "republican"
+      ],
+      "totalRepVotes": 73177,
+      "totalDemVotes": 40281
+    },
+    "27": {
+      "candidates": [
+        [
+          "Erol A. Stone",
+          34284,
+          "republican"
+        ],
+        [
+          "Mark G. Pretz",
+          1476,
+          "libertarian"
+        ],
+        [
+          "Solomon P. Ortiz",
+          61638,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 97398,
+      "winner": [
+        "Solomon P. Ortiz",
+        61638,
+        "democrat"
+      ],
+      "totalRepVotes": 34284,
+      "totalDemVotes": 61638
+    },
+    "26": {
+      "candidates": [
+        [
+          "Richard K. Armey",
+          120332,
+          "republican"
+        ],
+        [
+          "Joe Turner",
+          16182,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 136514,
+      "winner": [
+        "Richard K. Armey",
+        120332,
+        "republican"
+      ],
+      "totalRepVotes": 120332,
+      "totalDemVotes": 0
+    },
+    "9": {
+      "candidates": [
+        [
+          "Tom Cottar",
+          49107,
+          "republican"
+        ],
+        [
+          "Nick Lampson",
+          86055,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 135162,
+      "winner": [
+        "Nick Lampson",
+        86055,
+        "democrat"
+      ],
+      "totalRepVotes": 49107,
+      "totalDemVotes": 86055
+    }
+  }
+}

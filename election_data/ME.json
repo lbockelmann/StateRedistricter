@@ -1,0 +1,608 @@
+{
+  "2003": {
+    "1": {
+      "candidates": [
+        [
+          "Steven Joyce",
+          97931,
+          "republican"
+        ],
+        [
+          "Thomas H. Allen",
+          172646,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 270577,
+      "winner": [
+        "Thomas H. Allen",
+        172646,
+        "democrat"
+      ],
+      "totalRepVotes": 97931,
+      "totalDemVotes": 172646
+    },
+    "2": {
+      "candidates": [
+        [
+          "Kevin L. Raye",
+          107849,
+          "republican"
+        ],
+        [
+          "Michael H. Michaud",
+          116868,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 224717,
+      "winner": [
+        "Michael H. Michaud",
+        116868,
+        "democrat"
+      ],
+      "totalRepVotes": 107849,
+      "totalDemVotes": 116868
+    }
+  },
+  "2007": {
+    "2": {
+      "candidates": [
+        [
+          "Laurence S. D\u00c2\u0092Amboise",
+          75156,
+          "republican"
+        ],
+        [
+          "Michael H. Michaud",
+          179772,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 254928,
+      "winner": [
+        "Michael H. Michaud",
+        179772,
+        "democrat"
+      ],
+      "totalRepVotes": 75156,
+      "totalDemVotes": 179772
+    },
+    "1": {
+      "candidates": [
+        [
+          "Thomas H. Allen",
+          170949,
+          "democrat"
+        ],
+        [
+          "Darlene J. Curley",
+          88009,
+          "republican"
+        ],
+        [
+          "Dexter J. Kamilewicz",
+          22029,
+          "independent"
+        ]
+      ],
+      "totalVotes": 280987,
+      "winner": [
+        "Thomas H. Allen",
+        170949,
+        "democrat"
+      ],
+      "totalRepVotes": 88009,
+      "totalDemVotes": 170949
+    }
+  },
+  "2013": {
+    "2": {
+      "candidates": [
+        [
+          "Kevin L. Raye",
+          137542,
+          "republican"
+        ],
+        [
+          "Michael H. Michaud",
+          191456,
+          "democrat"
+        ],
+        [
+          "Blank Vote",
+          14910,
+          "none"
+        ]
+      ],
+      "totalVotes": 343908,
+      "winner": [
+        "Michael H. Michaud",
+        191456,
+        "democrat"
+      ],
+      "totalRepVotes": 137542,
+      "totalDemVotes": 191456
+    },
+    "1": {
+      "candidates": [
+        [
+          "Blank Vote",
+          15912,
+          "none"
+        ],
+        [
+          "Jonathan T. E. Courtney",
+          128440,
+          "republican"
+        ],
+        [
+          "Chellie Pingree",
+          236363,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 380715,
+      "winner": [
+        "Chellie Pingree",
+        236363,
+        "democrat"
+      ],
+      "totalRepVotes": 128440,
+      "totalDemVotes": 236363
+    }
+  },
+  "2017": {
+    "2": {
+      "candidates": [
+        [
+          "Blank Vote",
+          12703,
+          "none"
+        ],
+        [
+          "Emily Ann Cain",
+          159081,
+          "democrat"
+        ],
+        [
+          "Bruce Poliquin",
+          192878,
+          "republican"
+        ],
+        [
+          "Jay Parker Dresser",
+          224,
+          "unenrolled"
+        ]
+      ],
+      "totalVotes": 364886,
+      "winner": [
+        "Bruce Poliquin",
+        192878,
+        "republican"
+      ],
+      "totalRepVotes": 192878,
+      "totalDemVotes": 159081
+    },
+    "1": {
+      "candidates": [
+        [
+          "Mark I. Holbrook",
+          164569,
+          "republican"
+        ],
+        [
+          "Blank Vote",
+          14551,
+          "none"
+        ],
+        [
+          "Chellie Pingree",
+          227546,
+          "democrat"
+        ],
+        [
+          "James J. Bouchard",
+          276,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 406942,
+      "winner": [
+        "Chellie Pingree",
+        227546,
+        "democrat"
+      ],
+      "totalRepVotes": 164569,
+      "totalDemVotes": 227546
+    }
+  },
+  "1999": {
+    "1": {
+      "candidates": [
+        [
+          "Eric R. Greiner",
+          9182,
+          "taxpayers"
+        ],
+        [
+          "Thomas H. Allen",
+          134335,
+          "democrat"
+        ],
+        [
+          "Ross J. Connelly",
+          79160,
+          "republican"
+        ]
+      ],
+      "totalVotes": 222677,
+      "winner": [
+        "Thomas H. Allen",
+        134335,
+        "democrat"
+      ],
+      "totalRepVotes": 79160,
+      "totalDemVotes": 134335
+    },
+    "2": {
+      "candidates": [
+        [
+          "John Elias Baldacci",
+          146202,
+          "democrat"
+        ],
+        [
+          "Jonathan Reisman",
+          45674,
+          "republican"
+        ]
+      ],
+      "totalVotes": 191876,
+      "winner": [
+        "John Elias Baldacci",
+        146202,
+        "democrat"
+      ],
+      "totalRepVotes": 45674,
+      "totalDemVotes": 146202
+    }
+  },
+  "2011": {
+    "2": {
+      "candidates": [
+        [
+          "Jason J. Levesque",
+          119669,
+          "republican"
+        ],
+        [
+          "Michael H. Michaud",
+          147042,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 266711,
+      "winner": [
+        "Michael H. Michaud",
+        147042,
+        "democrat"
+      ],
+      "totalRepVotes": 119669,
+      "totalDemVotes": 147042
+    },
+    "1": {
+      "candidates": [
+        [
+          "<write in>",
+          42,
+          "none"
+        ],
+        [
+          "Dean Peter Scontras",
+          128501,
+          "republican"
+        ],
+        [
+          "Chellie Pingree",
+          169114,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 297657,
+      "winner": [
+        "Chellie Pingree",
+        169114,
+        "democrat"
+      ],
+      "totalRepVotes": 128501,
+      "totalDemVotes": 169114
+    }
+  },
+  "2001": {
+    "1": {
+      "candidates": [
+        [
+          "Thomas H. Allen",
+          202823,
+          "democrat"
+        ],
+        [
+          "Jane A. Amero",
+          123915,
+          "republican"
+        ],
+        [
+          "J. Frederic Staples",
+          12356,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 339094,
+      "winner": [
+        "Thomas H. Allen",
+        202823,
+        "democrat"
+      ],
+      "totalRepVotes": 123915,
+      "totalDemVotes": 202823
+    },
+    "2": {
+      "candidates": [
+        [
+          "John E. Baldacci",
+          219783,
+          "democrat"
+        ],
+        [
+          "Richard H. Campbell",
+          79522,
+          "republican"
+        ]
+      ],
+      "totalVotes": 299305,
+      "winner": [
+        "John E. Baldacci",
+        219783,
+        "democrat"
+      ],
+      "totalRepVotes": 79522,
+      "totalDemVotes": 219783
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Other",
+          47,
+          "none"
+        ],
+        [
+          "John Elias Baldacci",
+          205439,
+          "democrat"
+        ],
+        [
+          "Aldric Saucier",
+          9294,
+          "independent"
+        ],
+        [
+          "Paul R. Young",
+          70856,
+          "republican"
+        ]
+      ],
+      "totalVotes": 285636,
+      "winner": [
+        "John Elias Baldacci",
+        205439,
+        "democrat"
+      ],
+      "totalRepVotes": 70856,
+      "totalDemVotes": 205439
+    },
+    "1": {
+      "candidates": [
+        [
+          "Thomas H. Allen",
+          173745,
+          "democrat"
+        ],
+        [
+          "James B. Longley Jr.",
+          140354,
+          "republican"
+        ],
+        [
+          "Other",
+          65,
+          "none"
+        ]
+      ],
+      "totalVotes": 314164,
+      "winner": [
+        "Thomas H. Allen",
+        173745,
+        "democrat"
+      ],
+      "totalRepVotes": 140354,
+      "totalDemVotes": 173745
+    }
+  },
+  "2005": {
+    "2": {
+      "candidates": [
+        [
+          "Michael H. Michaud",
+          199303,
+          "democrat"
+        ],
+        [
+          "Brian N. Hamel",
+          135547,
+          "republican"
+        ],
+        [
+          "Carl Cooley",
+          8586,
+          "socialist equality"
+        ]
+      ],
+      "totalVotes": 343436,
+      "winner": [
+        "Michael H. Michaud",
+        199303,
+        "democrat"
+      ],
+      "totalRepVotes": 135547,
+      "totalDemVotes": 199303
+    },
+    "1": {
+      "candidates": [
+        [
+          "Thomas H. Allen",
+          219077,
+          "democrat"
+        ],
+        [
+          "Charles E. Summers, Jr.",
+          147663,
+          "republican"
+        ]
+      ],
+      "totalVotes": 366740,
+      "winner": [
+        "Thomas H. Allen",
+        219077,
+        "democrat"
+      ],
+      "totalRepVotes": 147663,
+      "totalDemVotes": 219077
+    }
+  },
+  "2009": {
+    "2": {
+      "candidates": [
+        [
+          "Michael H. Michaud",
+          226274,
+          "democrat"
+        ],
+        [
+          "John N. Frary",
+          109268,
+          "republican"
+        ]
+      ],
+      "totalVotes": 335542,
+      "winner": [
+        "Michael H. Michaud",
+        226274,
+        "democrat"
+      ],
+      "totalRepVotes": 109268,
+      "totalDemVotes": 226274
+    },
+    "1": {
+      "candidates": [
+        [
+          "Chellie Pingree",
+          205629,
+          "democrat"
+        ],
+        [
+          "Charles E. Summers",
+          168930,
+          "republican"
+        ]
+      ],
+      "totalVotes": 374559,
+      "winner": [
+        "Chellie Pingree",
+        205629,
+        "democrat"
+      ],
+      "totalRepVotes": 168930,
+      "totalDemVotes": 205629
+    }
+  },
+  "2015": {
+    "2": {
+      "candidates": [
+        [
+          "Blank Vote",
+          11536,
+          "none"
+        ],
+        [
+          "Other",
+          248,
+          "none"
+        ],
+        [
+          "Bruce Poliquin",
+          133320,
+          "republican"
+        ],
+        [
+          "Blaine Richardson",
+          31337,
+          "independent"
+        ],
+        [
+          "Emily Ann Cain",
+          118568,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 295009,
+      "winner": [
+        "Bruce Poliquin",
+        133320,
+        "republican"
+      ],
+      "totalRepVotes": 133320,
+      "totalDemVotes": 118568
+    },
+    "1": {
+      "candidates": [
+        [
+          "Other",
+          63,
+          "none"
+        ],
+        [
+          "Chellie Pingree",
+          186674,
+          "democrat"
+        ],
+        [
+          "Blank Vote",
+          13089,
+          "none"
+        ],
+        [
+          "Richard P. Murphy",
+          27410,
+          "independent"
+        ],
+        [
+          "Isaac J. Misiuk",
+          94751,
+          "republican"
+        ]
+      ],
+      "totalVotes": 321987,
+      "winner": [
+        "Chellie Pingree",
+        186674,
+        "democrat"
+      ],
+      "totalRepVotes": 94751,
+      "totalDemVotes": 186674
+    }
+  }
+}

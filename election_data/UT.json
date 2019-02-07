@@ -1,0 +1,1221 @@
+{
+  "2009": {
+    "2": {
+      "candidates": [
+        [
+          "Bill Dew",
+          120083,
+          "republican"
+        ],
+        [
+          "Jim Matheson",
+          220666,
+          "democrat"
+        ],
+        [
+          "Mathew Arndt",
+          4576,
+          "libertarian"
+        ],
+        [
+          "Dennis Ray Emery",
+          3000,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 348325,
+      "winner": [
+        "Jim Matheson",
+        220666,
+        "democrat"
+      ],
+      "totalRepVotes": 120083,
+      "totalDemVotes": 220666
+    },
+    "3": {
+      "candidates": [
+        [
+          "Bennion L. Spencer",
+          80626,
+          "democrat"
+        ],
+        [
+          "Jim Noorlander",
+          17408,
+          "constitution"
+        ],
+        [
+          "Jason Chaffetz",
+          187035,
+          "republican"
+        ]
+      ],
+      "totalVotes": 285069,
+      "winner": [
+        "Jason Chaffetz",
+        187035,
+        "republican"
+      ],
+      "totalRepVotes": 187035,
+      "totalDemVotes": 80626
+    },
+    "1": {
+      "candidates": [
+        [
+          "Rob Bishop",
+          196799,
+          "republican"
+        ],
+        [
+          "Kirk D. Pearson",
+          7397,
+          "constitution"
+        ],
+        [
+          "Morgan Bowen",
+          92469,
+          "democrat"
+        ],
+        [
+          "Joseph Geddes Buchman",
+          6780,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 303445,
+      "winner": [
+        "Rob Bishop",
+        196799,
+        "republican"
+      ],
+      "totalRepVotes": 196799,
+      "totalDemVotes": 92469
+    }
+  },
+  "1999": {
+    "2": {
+      "candidates": [
+        [
+          "Robert C. Lesh",
+          524,
+          "natural law"
+        ],
+        [
+          "Ken Larsen",
+          3998,
+          "independent"
+        ],
+        [
+          "Arly H. Pedersen",
+          813,
+          "independent american"
+        ],
+        [
+          "Lily Eskelsen",
+          77198,
+          "democrat"
+        ],
+        [
+          "Merrill Cook",
+          93718,
+          "republican"
+        ],
+        [
+          "Brian E. Swim",
+          1390,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 177641,
+      "winner": [
+        "Merrill Cook",
+        93718,
+        "republican"
+      ],
+      "totalRepVotes": 93718,
+      "totalDemVotes": 77198
+    },
+    "3": {
+      "candidates": [
+        [
+          "Kitty K. Burton",
+          9553,
+          "libertarian"
+        ],
+        [
+          "Will Christensen",
+          20720,
+          "independent american"
+        ],
+        [
+          "<write in>",
+          20,
+          "none"
+        ],
+        [
+          "Chris Cannon",
+          100830,
+          "republican"
+        ]
+      ],
+      "totalVotes": 131123,
+      "winner": [
+        "Chris Cannon",
+        100830,
+        "republican"
+      ],
+      "totalRepVotes": 100830,
+      "totalDemVotes": 0
+    },
+    "1": {
+      "candidates": [
+        [
+          "Gerard A. Arthus",
+          3070,
+          "libertarian"
+        ],
+        [
+          "Steve Beierlein",
+          49307,
+          "democrat"
+        ],
+        [
+          "James V. Hansen",
+          109708,
+          "republican"
+        ]
+      ],
+      "totalVotes": 162085,
+      "winner": [
+        "James V. Hansen",
+        109708,
+        "republican"
+      ],
+      "totalRepVotes": 109708,
+      "totalDemVotes": 49307
+    }
+  },
+  "1997": {
+    "2": {
+      "candidates": [
+        [
+          "Arly H. Pedersen",
+          3070,
+          "independent american"
+        ],
+        [
+          "<write in>",
+          24,
+          "none"
+        ],
+        [
+          "Merrill Cook",
+          129963,
+          "republican"
+        ],
+        [
+          "Ross C. Anderson",
+          100283,
+          "democrat"
+        ],
+        [
+          "Catherine Carter",
+          2981,
+          "natural law"
+        ]
+      ],
+      "totalVotes": 236321,
+      "winner": [
+        "Merrill Cook",
+        129963,
+        "republican"
+      ],
+      "totalRepVotes": 129963,
+      "totalDemVotes": 100283
+    },
+    "3": {
+      "candidates": [
+        [
+          "Amy L. Lassen",
+          2341,
+          "libertarian"
+        ],
+        [
+          "Gerald \"Bear\" Slothower",
+          706,
+          "unaffiliated"
+        ],
+        [
+          "Bill Orton",
+          98178,
+          "democrat"
+        ],
+        [
+          "John Phillip Langford",
+          270,
+          "socialist workers"
+        ],
+        [
+          "Chris Cannon",
+          106220,
+          "republican"
+        ]
+      ],
+      "totalVotes": 207715,
+      "winner": [
+        "Chris Cannon",
+        106220,
+        "republican"
+      ],
+      "totalRepVotes": 106220,
+      "totalDemVotes": 98178
+    },
+    "1": {
+      "candidates": [
+        [
+          "Gregory J. Sanders",
+          65866,
+          "democrat"
+        ],
+        [
+          "Randall Tolpinrud",
+          3787,
+          "natural law"
+        ],
+        [
+          "James V. Hansen",
+          150126,
+          "republican"
+        ]
+      ],
+      "totalVotes": 219779,
+      "winner": [
+        "James V. Hansen",
+        150126,
+        "republican"
+      ],
+      "totalRepVotes": 150126,
+      "totalDemVotes": 65866
+    }
+  },
+  "2003": {
+    "1": {
+      "candidates": [
+        [
+          "Rob Bishop",
+          109265,
+          "republican"
+        ],
+        [
+          "Dave Thomas",
+          66104,
+          "democrat"
+        ],
+        [
+          "Susan Howard",
+          1,
+          "none"
+        ],
+        [
+          "Charles Johnston",
+          7,
+          "none"
+        ],
+        [
+          "Cody Judy",
+          8,
+          "none"
+        ],
+        [
+          "Craig Axford",
+          4027,
+          "green"
+        ]
+      ],
+      "totalVotes": 179412,
+      "winner": [
+        "Rob Bishop",
+        109265,
+        "republican"
+      ],
+      "totalRepVotes": 109265,
+      "totalDemVotes": 66104
+    },
+    "3": {
+      "candidates": [
+        [
+          "Nancy Jane Woodside",
+          44533,
+          "democrat"
+        ],
+        [
+          "John William Maurin",
+          1,
+          "none"
+        ],
+        [
+          "Kitty K. Burton",
+          5511,
+          "libertarian"
+        ],
+        [
+          "Chris Cannon",
+          103598,
+          "republican"
+        ]
+      ],
+      "totalVotes": 153643,
+      "winner": [
+        "Chris Cannon",
+        103598,
+        "republican"
+      ],
+      "totalRepVotes": 103598,
+      "totalDemVotes": 44533
+    },
+    "2": {
+      "candidates": [
+        [
+          "John Swallow",
+          109123,
+          "republican"
+        ],
+        [
+          "Patrick Diehl",
+          2589,
+          "green"
+        ],
+        [
+          "Jim Matheson",
+          110764,
+          "democrat"
+        ],
+        [
+          "Ron Copier",
+          1622,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 224098,
+      "winner": [
+        "Jim Matheson",
+        110764,
+        "democrat"
+      ],
+      "totalRepVotes": 109123,
+      "totalDemVotes": 110764
+    }
+  },
+  "2005": {
+    "3": {
+      "candidates": [
+        [
+          "Chris Cannon",
+          173010,
+          "republican"
+        ],
+        [
+          "Jim Dexter",
+          3691,
+          "libertarian"
+        ],
+        [
+          "Ronald Winfield",
+          5089,
+          "constitution"
+        ],
+        [
+          "Beau Babka",
+          88748,
+          "democrat"
+        ],
+        [
+          "Curtis Darrell James",
+          2390,
+          "personal choice"
+        ]
+      ],
+      "totalVotes": 272928,
+      "winner": [
+        "Chris Cannon",
+        173010,
+        "republican"
+      ],
+      "totalRepVotes": 173010,
+      "totalDemVotes": 88748
+    },
+    "1": {
+      "candidates": [
+        [
+          "Richard W. Soderberg",
+          4206,
+          "personal choice"
+        ],
+        [
+          "Rob Bishop",
+          199615,
+          "republican"
+        ],
+        [
+          "Steven Thompson",
+          85630,
+          "democrat"
+        ],
+        [
+          "Charles Johnston",
+          4510,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 293961,
+      "winner": [
+        "Rob Bishop",
+        199615,
+        "republican"
+      ],
+      "totalRepVotes": 199615,
+      "totalDemVotes": 85630
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Matheson",
+          187250,
+          "democrat"
+        ],
+        [
+          "John Swallow",
+          147778,
+          "republican"
+        ],
+        [
+          "Jeremy Paul Petersen",
+          3541,
+          "constitution"
+        ],
+        [
+          "Ronald R. Amos",
+          1210,
+          "personal choice"
+        ],
+        [
+          "Patrick S. Diehl",
+          2189,
+          "green"
+        ]
+      ],
+      "totalVotes": 341968,
+      "winner": [
+        "Jim Matheson",
+        187250,
+        "democrat"
+      ],
+      "totalRepVotes": 147778,
+      "totalDemVotes": 187250
+    }
+  },
+  "2007": {
+    "3": {
+      "candidates": [
+        [
+          "Christian Burridge",
+          53330,
+          "democrat"
+        ],
+        [
+          "Philip Lear Hallman",
+          2080,
+          "libertarian"
+        ],
+        [
+          "Chris Cannon",
+          95455,
+          "republican"
+        ],
+        [
+          "Jim Noorlander",
+          14533,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 165398,
+      "winner": [
+        "Chris Cannon",
+        95455,
+        "republican"
+      ],
+      "totalRepVotes": 95455,
+      "totalDemVotes": 53330
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jim Matheson",
+          133231,
+          "democrat"
+        ],
+        [
+          "LaVar Christensen",
+          84234,
+          "republican"
+        ],
+        [
+          "W. David Perry",
+          3395,
+          "constitution"
+        ],
+        [
+          "Bob Brister",
+          3338,
+          "green"
+        ],
+        [
+          "Austin Sherwood Lett",
+          1620,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 225818,
+      "winner": [
+        "Jim Matheson",
+        133231,
+        "democrat"
+      ],
+      "totalRepVotes": 84234,
+      "totalDemVotes": 133231
+    },
+    "1": {
+      "candidates": [
+        [
+          "Mark Hudson",
+          5539,
+          "constitution"
+        ],
+        [
+          "Lynn Badler",
+          2467,
+          "libertarian"
+        ],
+        [
+          "Rob Bishop",
+          112546,
+          "republican"
+        ],
+        [
+          "Steven Olsen",
+          57922,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 178474,
+      "winner": [
+        "Rob Bishop",
+        112546,
+        "republican"
+      ],
+      "totalRepVotes": 112546,
+      "totalDemVotes": 57922
+    }
+  },
+  "2013": {
+    "4": {
+      "candidates": [
+        [
+          "Jim Matheson",
+          119803,
+          "democrat"
+        ],
+        [
+          "Jim L. Vein",
+          6439,
+          "libertarian"
+        ],
+        [
+          "Mia B. Love",
+          119035,
+          "republican"
+        ]
+      ],
+      "totalVotes": 245277,
+      "winner": [
+        "Jim Matheson",
+        119803,
+        "democrat"
+      ],
+      "totalRepVotes": 119035,
+      "totalDemVotes": 119803
+    },
+    "2": {
+      "candidates": [
+        [
+          "Jay Seegmiller",
+          83176,
+          "democrat"
+        ],
+        [
+          "Chris Stewart",
+          154523,
+          "republican"
+        ],
+        [
+          "Jonathan D. Garrard",
+          5051,
+          "constitution"
+        ],
+        [
+          "Charles E. Kimball",
+          2824,
+          "none"
+        ],
+        [
+          "Joseph Andrade",
+          2971,
+          "none"
+        ]
+      ],
+      "totalVotes": 248545,
+      "winner": [
+        "Chris Stewart",
+        154523,
+        "republican"
+      ],
+      "totalRepVotes": 154523,
+      "totalDemVotes": 83176
+    },
+    "3": {
+      "candidates": [
+        [
+          "Soren D. Simonsen",
+          60719,
+          "democrat"
+        ],
+        [
+          "Jason Chaffetz",
+          198828,
+          "republican"
+        ]
+      ],
+      "totalVotes": 259547,
+      "winner": [
+        "Jason Chaffetz",
+        198828,
+        "republican"
+      ],
+      "totalRepVotes": 198828,
+      "totalDemVotes": 60719
+    },
+    "1": {
+      "candidates": [
+        [
+          "Rob Bishop",
+          175487,
+          "republican"
+        ],
+        [
+          "Donna M. McAleer",
+          60611,
+          "democrat"
+        ],
+        [
+          "Sherry Phipps",
+          9430,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 245528,
+      "winner": [
+        "Rob Bishop",
+        175487,
+        "republican"
+      ],
+      "totalRepVotes": 175487,
+      "totalDemVotes": 60611
+    }
+  },
+  "2015": {
+    "3": {
+      "candidates": [
+        [
+          "David A. Else",
+          280,
+          "none"
+        ],
+        [
+          "Zach Strong",
+          3192,
+          "independent american"
+        ],
+        [
+          "Stephen P. Tryon",
+          2584,
+          "unaffiliated"
+        ],
+        [
+          "Brian Wonnacott",
+          32059,
+          "democrat"
+        ],
+        [
+          "Jason Chaffetz",
+          102952,
+          "republican"
+        ],
+        [
+          "Ben J. Mates",
+          1513,
+          "unaffiliated"
+        ]
+      ],
+      "totalVotes": 142580,
+      "winner": [
+        "Jason Chaffetz",
+        102952,
+        "republican"
+      ],
+      "totalRepVotes": 102952,
+      "totalDemVotes": 32059
+    },
+    "2": {
+      "candidates": [
+        [
+          "Bill Barron",
+          1734,
+          "unaffiliated"
+        ],
+        [
+          "Wayne L. Hill",
+          3328,
+          "independent american"
+        ],
+        [
+          "Shaun McCausland",
+          4509,
+          "constitution"
+        ],
+        [
+          "Warren Rogers",
+          117,
+          "none"
+        ],
+        [
+          "Luz Robles",
+          47585,
+          "democrat"
+        ],
+        [
+          "Chris Stewart",
+          88915,
+          "republican"
+        ]
+      ],
+      "totalVotes": 146188,
+      "winner": [
+        "Chris Stewart",
+        88915,
+        "republican"
+      ],
+      "totalRepVotes": 88915,
+      "totalDemVotes": 47585
+    },
+    "1": {
+      "candidates": [
+        [
+          "Donna McAleer",
+          36422,
+          "democrat"
+        ],
+        [
+          "Craig Bowden",
+          4847,
+          "libertarian"
+        ],
+        [
+          "Dwayne A. Vance",
+          4534,
+          "independent american"
+        ],
+        [
+          "Rob Bishop",
+          84231,
+          "republican"
+        ]
+      ],
+      "totalVotes": 130034,
+      "winner": [
+        "Rob Bishop",
+        84231,
+        "republican"
+      ],
+      "totalRepVotes": 84231,
+      "totalDemVotes": 36422
+    },
+    "4": {
+      "candidates": [
+        [
+          "Mia B. Love",
+          74936,
+          "republican"
+        ],
+        [
+          "Doug Owens",
+          67425,
+          "democrat"
+        ],
+        [
+          "Tim Aalders",
+          2032,
+          "independent american"
+        ],
+        [
+          "Jim L. Vein",
+          1351,
+          "libertarian"
+        ],
+        [
+          "Collin Robert Simonsen",
+          1424,
+          "constitution"
+        ]
+      ],
+      "totalVotes": 147168,
+      "winner": [
+        "Mia B. Love",
+        74936,
+        "republican"
+      ],
+      "totalRepVotes": 74936,
+      "totalDemVotes": 67425
+    }
+  },
+  "2017": {
+    "4": {
+      "candidates": [
+        [
+          "Doug Owens",
+          113413,
+          "democrat"
+        ],
+        [
+          "Collin R. Simonsen",
+          13559,
+          "constitution"
+        ],
+        [
+          "Mia B. Love",
+          147597,
+          "republican"
+        ]
+      ],
+      "totalVotes": 274569,
+      "winner": [
+        "Mia B. Love",
+        147597,
+        "republican"
+      ],
+      "totalRepVotes": 147597,
+      "totalDemVotes": 113413
+    },
+    "2": {
+      "candidates": [
+        [
+          "Paul J. McCollaum Jr.",
+          12517,
+          "constitution"
+        ],
+        [
+          "Chris Stewart",
+          170524,
+          "republican"
+        ],
+        [
+          "Charlene Albarran",
+          93778,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 276819,
+      "winner": [
+        "Chris Stewart",
+        170524,
+        "republican"
+      ],
+      "totalRepVotes": 170524,
+      "totalDemVotes": 93778
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jason Chaffetz",
+          209589,
+          "republican"
+        ],
+        [
+          "Stephen P. Tryon",
+          75716,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 285305,
+      "winner": [
+        "Jason Chaffetz",
+        209589,
+        "republican"
+      ],
+      "totalRepVotes": 209589,
+      "totalDemVotes": 75716
+    },
+    "1": {
+      "candidates": [
+        [
+          "Craig Bowden",
+          16296,
+          "libertarian"
+        ],
+        [
+          "Rob Bishop",
+          182925,
+          "republican"
+        ],
+        [
+          "Chadwick H. Fairbanks III",
+          4850,
+          "unaffiliated"
+        ],
+        [
+          "Peter C. Clemens",
+          73380,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 277451,
+      "winner": [
+        "Rob Bishop",
+        182925,
+        "republican"
+      ],
+      "totalRepVotes": 182925,
+      "totalDemVotes": 73380
+    }
+  },
+  "2001": {
+    "3": {
+      "candidates": [
+        [
+          "Chris Cannon",
+          138943,
+          "republican"
+        ],
+        [
+          "Michael J. Lehman",
+          5436,
+          "independent american"
+        ],
+        [
+          "Donald Dunn",
+          88547,
+          "democrat"
+        ],
+        [
+          "Randall Tolpinrud",
+          852,
+          "natural law"
+        ],
+        [
+          "Kitty K. Burton",
+          3570,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 237348,
+      "winner": [
+        "Chris Cannon",
+        138943,
+        "republican"
+      ],
+      "totalRepVotes": 138943,
+      "totalDemVotes": 88547
+    },
+    "2": {
+      "candidates": [
+        [
+          "Steven Alberts Voris",
+          597,
+          "none"
+        ],
+        [
+          "Derek W. Smith",
+          107114,
+          "republican"
+        ],
+        [
+          "Bruce Bangerter",
+          4704,
+          "independent american"
+        ],
+        [
+          "Peter Pixton",
+          2165,
+          "libertarian"
+        ],
+        [
+          "Jim Matheson",
+          145021,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 259601,
+      "winner": [
+        "Jim Matheson",
+        145021,
+        "democrat"
+      ],
+      "totalRepVotes": 107114,
+      "totalDemVotes": 145021
+    },
+    "1": {
+      "candidates": [
+        [
+          "Matthew D. Frandsen",
+          1703,
+          "natural law"
+        ],
+        [
+          "James V. Hansen",
+          180591,
+          "republican"
+        ],
+        [
+          "Kathleen McConkie Collinwood",
+          71229,
+          "democrat"
+        ],
+        [
+          "Hartley D. Anderson",
+          5131,
+          "independent american"
+        ],
+        [
+          "Dave Starr Seely",
+          3151,
+          "libertarian"
+        ]
+      ],
+      "totalVotes": 261805,
+      "winner": [
+        "James V. Hansen",
+        180591,
+        "republican"
+      ],
+      "totalRepVotes": 180591,
+      "totalDemVotes": 71229
+    }
+  },
+  "2011": {
+    "2": {
+      "candidates": [
+        [
+          "Morgan Philpot",
+          116001,
+          "republican"
+        ],
+        [
+          "Randall Hinton",
+          4578,
+          "constitution"
+        ],
+        [
+          "Wayne L. Hill",
+          1726,
+          "unaffiliated"
+        ],
+        [
+          "Jim Matheson",
+          127151,
+          "democrat"
+        ],
+        [
+          "Dave Glissmeyer",
+          2391,
+          "unaffiliated"
+        ]
+      ],
+      "totalVotes": 251847,
+      "winner": [
+        "Jim Matheson",
+        127151,
+        "democrat"
+      ],
+      "totalRepVotes": 116001,
+      "totalDemVotes": 127151
+    },
+    "3": {
+      "candidates": [
+        [
+          "Jake Shannon",
+          2945,
+          "libertarian"
+        ],
+        [
+          "Douglas Sligting",
+          4596,
+          "constitution"
+        ],
+        [
+          "Joseph L. Puente",
+          1604,
+          "unaffiliated"
+        ],
+        [
+          "Jason Chaffetz",
+          139721,
+          "republican"
+        ],
+        [
+          "Karen Hyer",
+          44320,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 193186,
+      "winner": [
+        "Jason Chaffetz",
+        139721,
+        "republican"
+      ],
+      "totalRepVotes": 139721,
+      "totalDemVotes": 44320
+    },
+    "1": {
+      "candidates": [
+        [
+          "Jared Paul Stratton",
+          4307,
+          "libertarian"
+        ],
+        [
+          "Rob Bishop",
+          135247,
+          "republican"
+        ],
+        [
+          "Kirk D. Pearson",
+          9143,
+          "constitution"
+        ],
+        [
+          "Morgan E. Bowen",
+          46765,
+          "democrat"
+        ]
+      ],
+      "totalVotes": 195462,
+      "winner": [
+        "Rob Bishop",
+        135247,
+        "republican"
+      ],
+      "totalRepVotes": 135247,
+      "totalDemVotes": 46765
+    }
+  }
+}

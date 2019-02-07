@@ -1,0 +1,105 @@
+<?xml version = "1.0"?>
+
+<project name="CSE308" basedir="." default="usage">
+
+    <!-- YOU SHOULD PROBABLY CHANGE THIS PATH TO YOUR TOMCAT HOME -->
+    <!-- ALL THE REST OF THE PATHS SHOULD BE OK IN THEORY -->
+    <property name="tomcat.home" value="/Program Files/Apache Software Foundation/Tomcat 8.5/"/>
+    <!--<property name="tomcat.home" value="/usr/share/tomcat8/"/>-->
+    <!-- CHANGE THIS PATH TO YOUR TOMCAT HOME DIRECTORY -->
+    <property name="root.dir" value="."/>
+    <property name="javadoc.dir" value="docs"/>
+    <property name="web.dir" value="WEB-INF"/>
+    <property name="src.dir" value="${web.dir}/src"/>
+    <property name="build.dir" value="${web.dir}/classes"/>
+    <property name="tomcat.bin" value="${tomcat.home}/bin"/>
+    <property name="name" value="CSE308"/>
+
+    <path id="master-classpath">
+        <fileset dir="lib">
+            <include name="*.jar"/>
+        </fileset>
+
+        <pathelement path="${build.dir}"/>
+    </path>
+
+    <path id="user-classpath">
+        <fileset dir="${web.dir}/lib">
+            <include name="*.jar"/>
+        </fileset>
+
+        <pathelement path="${build.dir}"/>
+    </path>
+
+    <path id="tomcat-classpath">
+        <fileset dir="${tomcat.home}/lib">
+            <include name="*.jar"/>
+        </fileset>
+
+        <pathelement path="${build.dir}"/>
+    </path>
+
+
+    <target name="usage">
+        <echo message=""/>
+        <echo message="${name} build file"/>
+        <echo message="-----------------------------------"/>
+        <echo message=""/>
+        <echo message="Available targets are:"/>
+        <echo message=""/>
+        <echo message="build    --> Compile all classes with dependencies"/>
+        <echo message="clean    --> Empty build folders"/>
+        <echo message="launch   --> [build] then launch catalina"/>
+        <echo message=""/>
+    </target>
+
+    <target name="build" description="Compile main source tree java files">
+        <mkdir dir="${build.dir}"/>
+
+        <javac destdir="${build.dir}" source="1.8" target="1.8" debug="true"
+               deprecation="false" optimize="false" failonerror="true">
+
+            <src path="${src.dir}"/>
+            <classpath>
+                <path refid="master-classpath"/>
+                <path refid="tomcat-classpath"/>
+                <path refid="user-classpath"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <target name="fresh" description="Clean all then build">
+        <antcall target="clean">
+
+        </antcall>
+        <antcall target="build">
+
+        </antcall>
+    </target>
+
+    <target name="clean" description="Clean output directories">
+        <delete>
+            <fileset dir="${build.dir}">
+                <include name="**/*.class"/>
+            </fileset>
+        </delete>
+        <antcall target="cleanLogs">
+
+        </antcall>
+    </target>
+    <target name="cleanLogs" description="Clean output directories">
+        <delete>
+            <fileset dir="${root.dir}">
+                <include name="*.log"/>
+                <include name="*.log.lck"/>
+            </fileset>
+        </delete>
+    </target>
+
+
+    <target name="launch" depends="build" description="Build and start tomcat">
+        <exec executable="${tomcat.bin}/catalina.sh">
+            <arg value="run"/>
+        </exec>
+    </target>
+</project>
